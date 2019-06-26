@@ -2,7 +2,8 @@
 layout: page
 title: Official ACF Eligibility Rules
 permalink: /eligibility-rules/
-redirect-from: /official-acf-eligibility-rules/
+redirect_from:
+  - /official-acf-eligibility-rules
 ---
 
 # Official ACF Eligibility Rules
