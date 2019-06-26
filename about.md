@@ -10,7 +10,7 @@ nav_order: 1
 - [ACF Rules](/rules/)
 
 ## So what’s ACF all about then?
-**Academic Competition Federation** (ACF) is a non-incorporated, non-profit organization dedicated to providing high-quality quiz tournaments. We are entirely student and volunteer run. We pride ourselves on the highest standard of academic question writing and we keep the amount of pop culture (a.k.a. trash) or semi-academic questions to a minimum.
+**Academic Competition Federation** (ACF) is a non-profit organization dedicated to providing high-quality quizbowl tournaments. We are entirely student and volunteer run. We pride ourselves on the highest standard of academic question writing and we keep the amount of pop culture (a.k.a. trash) or semi-academic questions to a minimum.
 
 We offer three tournaments throughout the academic year:
 
