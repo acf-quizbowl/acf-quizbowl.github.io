@@ -2,6 +2,7 @@
 layout: page
 title: Official ACF Gameplay Rules
 permalink: /gameplay-rules/
+redirect-from: /official-acf-gameplay-rules/
 ---
 [Rules in PDF format](/official-gameplay-rules.pdf)
 

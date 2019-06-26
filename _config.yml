@@ -25,6 +25,7 @@ github_username: acf-quizbowl
 
 plugins: 
   - jekyll-swiss
+  - jekyll-redirect-from
 
 remote_theme: broccolini/swiss
 
