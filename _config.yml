@@ -25,6 +25,8 @@ github_username: acf-quizbowl
 
 plugins: 
   - jekyll-swiss
+
+gems:
   - jekyll-redirect-from
 
 whitelist:
