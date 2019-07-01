@@ -322,7 +322,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tr>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Matt Keller</td>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Alumnus, Vanderbilt University</td>
-<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">NA</td>
+<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Regionals 2008 Editor</td>
 </tr>
 <tr>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Eddie Kim</td>
@@ -352,7 +352,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tr>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Wesley Matthews</td>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Alumnus, Indiana University</td>
-<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">NA</td>
+<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Nationals 2008 Editor</td>
 </tr>
 <tr>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Trygve Meade</td>
@@ -377,7 +377,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tr>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Matt Reece</td>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Ph.D., Theoretical Physics, Cornell University<br/>Alumnus, University of Chicago</td>
-<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">NA</td>
+<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Nationals 2010 Editor</td>
 </tr>
 <tr>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Max Schindler</td>
