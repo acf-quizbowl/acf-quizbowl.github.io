@@ -91,7 +91,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </tr>
 <tr>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Auroni Gupta</td>
-<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">MPH, University of Michigan School of Public Health<br/>Alumnus, University of California, San Diego</td>
+<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Ph.D Student, University of Illinois Urbana-Champaign<br/>MPH, University of Michigan School of Public Health<br/>Alumnus, University of California, San Diego</td>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Nationals 2019 Head Editor<br/>ACF Regionals 2018 Head Editor<br/>ACF Nationals 2014 Editor<br/>ACF Regionals 2012 Editor<br/>ACF Fall 2009 Editor</td>
 </tr>
 <tr>
