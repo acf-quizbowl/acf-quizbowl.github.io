@@ -10,10 +10,18 @@ permalink: /formats/
 
 ## Table of Formats
 <table style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;display:table;border-collapse:collapse;margin-left:auto;margin-right:auto;color:#000000;font-size:16px;background-color:#FFFFFF;width:auto;border-top-style:solid;border-top-width:2px;border-top-color:#A8A8A8;">
+<thead>
 <tr>
-<th style="color:#000000;background-color:#FFFFFF;font-size:16px;font-weight:initial;vertical-align:middle;padding:10px;margin:10px;text-align:right;font-variant-numeric:tabular-nums;" rowspan='1' colspan='1'>Field (# of teams)</th>
-<th style="color:#000000;background-color:#FFFFFF;font-size:16px;font-weight:initial;vertical-align:middle;padding:10px;margin:10px;text-align:left;" rowspan='1' colspan='1'>Type</th>
-<th style="color:#000000;background-color:#FFFFFF;font-size:16px;font-weight:initial;vertical-align:middle;padding:10px;margin:10px;text-align:left;" rowspan='1' colspan='1'>Description</th>
+<th colspan='2' style="background-color:#FFFFFF;border-bottom-color:#FFFFFF;color:#000000;font-size:125%;padding-top:4px;padding-bottom:1px;border-bottom-width:0;text-align:center;font-weight:normal;background-color:#023B7F;color:white;font-weight:bolder;">ACF Approved Formats</th>
+</tr>
+<tr>
+<th colspan='2' style="background-color:#FFFFFF;border-bottom-color:#FFFFFF;color:#000000;font-size:85%;padding-top:1px;padding-bottom:4px;border-top-color:#FFFFFF;border-top-width:0;border-bottom-style:solid;border-bottom-width:2px;border-bottom-color:#A8A8A8;text-align:center;font-weight:normal;" ></th>
+</tr>
+</thead>
+<tr>
+<th style="color:#000000;background-color:#FFFFFF;font-size:16px;font-weight:initial;vertical-align:middle;padding:10px;margin:10px;background-color:#d1d3d4;text-align:left;font-weight:bold;">Field (# of teams)</th>
+<th style="color:#000000;background-color:#FFFFFF;font-size:16px;font-weight:initial;vertical-align:middle;padding:10px;margin:10px;background-color:#d1d3d4;text-align:left;font-weight:bold;">Type</th>
+<th style="color:#000000;background-color:#FFFFFF;font-size:16px;font-weight:initial;vertical-align:middle;padding:10px;margin:10px;background-color:#d1d3d4;text-align:left;font-weight:bold;">Description</th>
 </tr>
 <tbody style="border-top-style:solid;border-top-width:2px;border-top-color:#A8A8A8;border-bottom-style:solid;border-bottom-width:2px;border-bottom-color:#A8A8A8;">
 <tr>
