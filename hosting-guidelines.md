@@ -159,7 +159,7 @@ ACF notifies hosts of which schools’ packets used in set</td>
 
 *Currency:* Sites in countries that do not use the United States Dollar must work out an appropriate payment structure with the Mirror Coordinator and Treasurer.
 
-*Payment:* See [Payment from Hosts to ACF](#payment-from-acf-to-hosts).
+*Payment:* See [Payment from Hosts to ACF](#payment-from-hosts-to-acf).
 ### Mirror announcements
 *Announcements:* The editors will endeavor to finalize the host bids ten weeks before the tournament, at which time all hosts should put out their announcements. Hosts must announce their tournament to the [Quizbowl Resource Center Forums](http://www.hsquizbowl.org/forums/viewforum.php?f=8), add their tournament to the [Quizbowl Resource Center Database](http://hsquizbowl.org/db/tournaments/), and contact local teams in a timely fashion. If the host team or region maintains a social media presence, they are also encouraged to advertise their tournament via social media.
 The title of announcement should be in the form of “[Year] ACF [Tournament] at [Site].” The announcement should explicitly state, at a minimum, the date and day of the week of the tournament (which will normally be Saturday, but can be Sunday in some cases); instructions on how to register; and the link to official ACF information on packet submission.
