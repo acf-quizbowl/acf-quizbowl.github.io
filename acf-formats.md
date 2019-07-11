@@ -3,6 +3,12 @@ layout: page
 title: ACF Formats
 permalink: /formats/
 ---
+# Table of Contents
+{: .no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
+## Table of Formats
 <table style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;display:table;border-collapse:collapse;margin-left:auto;margin-right:auto;color:#000000;font-size:16px;background-color:#FFFFFF;width:auto;border-top-style:solid;border-top-width:2px;border-top-color:#A8A8A8;">
 <tr>
 <th style="color:#000000;background-color:#FFFFFF;font-size:16px;font-weight:initial;vertical-align:middle;padding:10px;margin:10px;text-align:right;font-variant-numeric:tabular-nums;" rowspan='1' colspan='1'>Field (# of teams)</th>
@@ -117,3 +123,29 @@ permalink: /formats/
 </tr>
 </tbody>
 </table>
+
+## Determining Win-Loss Records
+ 
+If all teams in a given playoff bracket have played the same pool of preliminary opponents, their preliminary win-loss records carry over to playoffs. This is usually the case when a large preliminary field is broken down into smaller playoff brackets.
+
+If multiple preliminary brackets feed into each playoff bracket, the only games that carry over to playoffs are any preliminary games played against opponents placed in the same playoff bracket. This is usually the case when a very large preliminary field is broken into multiple preliminary brackets, followed by crossover playoff games.
+ 
+## Finals Procedures
+ 
+The procedures below should be used for overall finals. If there are at least four Division II teams (at any tournament) and/or at least four Undergraduate teams (at Regionals and Nationals), these procedures should also be used for those titles.
+ 
+### Two Teams
+ 
+At the end of normal phases of play, if the top team is two or more games ahead of the second-place team, no final is played. The phrases "games ahead" or "games behind" is defined [here](https://en.wikipedia.org/wiki/Games_behind).
+ 
+If the top team is one game ahead of the second-place team, the two teams play a disadvantaged final series of up to two games. If the top team wins the first final game, they are declared the tournament winner. If the second-place team wins the first final game, the teams play a second final game, the winner of which is declared the tournament winner.
+ 
+If the top two teams have the same record, they play a single game to determine the tournament winner.
+ 
+### More than Two Teams
+ 
+If two teams are tied for second place, with records that put them one game behind a team in first place, the tied teams play a single game (a "play-in" game). The winner of the play-in game then plays a disadvantaged final against the top team, in a standard final series of up to two games.
+ 
+If three teams are tied for first place, they are seeded statistically by points per game by common games. (This may include both carried-over preliminary games and playoff games, see temporary link to SQBS guidelines.) The second- and third-seeded teams play a play-in game, the winner of which plays a single-game final against the first-seeded team.
+
+If four teams are tied for first place, they are seeded statistically by points per game by common games. The first- and fourth-seeded teams and the second- and third-seeded teams play a semi-finals game. The winners of those two games play a single-game final.
