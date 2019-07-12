@@ -7,7 +7,7 @@ categories: [blog, interview]
 
 <img src="/blog/images/vishwa-shanmugam.jpg" style="width:350px;"/>
 
-*Vishwa Shanmugam is an rising sophomore at the University of Maryland. A science and literature player, he was part of the UMD team that won the 2019 Division II Intercollegiate Championship Tournament through NAQT. ACF representative Olivia Lamberti spoke to him about his first year in collegiate quizbowl.*
+*Vishwa Shanmugam is an rising sophomore at the University of Maryland. A science and literature player, he was the fourth-highest DII scorer at ACF Nationals 2019, where he was the lead scorer on Maryland B. ACF representative Olivia Lamberti spoke to him about his first year in collegiate quizbowl.*
 
 **OL: Tell me a little bit about your time in high school quizbowl. What was that like?**
 
