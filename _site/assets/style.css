@@ -33,8 +33,8 @@ pre { border-left: 8px solid #ddd; margin: 32px 0; padding-left: 16px; width: 75
 
 code { color: #4279C1; font-size: 16px; padding: 1px 0px; }
 
-.prose a { text-decoration: underline dotted; }
-.prose a:hover { text-decoration: underline; }
+.prose a { color: black; text-decoration: underline; }
+.prose a:hover { text-decoration: none; }
 .prose p, .prose ol, .prose ul { font-size: 20px; margin-bottom: 1em; width: 100%; }
 @media (min-width: 52em) { .prose p, .prose ol, .prose ul { width: 83.3333333333%; } }
 .prose ul, .prose ol { padding-left: 40px; }

@@ -19,10 +19,11 @@ code {
 .prose {
 
   a {
-    text-decoration: underline dotted;
+    color: black;
+    text-decoration: underline;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
   }
 
