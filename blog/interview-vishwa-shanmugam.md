@@ -23,7 +23,7 @@ VS: I’m definitely more willing to read random things. You read whatever you c
 
 **OL: How does textbook study work for you? Any specific recommendations?**
 
-VS: You can’t go wrong with Campbell’s for biology, or anything else at [www.aseemslegit.com](www.aseemslegit.com). A lot of textbook study for me is opening up the table of contents and deciding I want to learn about a topic and flipping to that page. I don’t go cover to cover. It’s often just a roadmap of topics I should look at.
+VS: You can’t go wrong with Campbell’s for biology, or anything else [in Jacob Reed’s [doc](https://docs.google.com/document/d/1T4b8g_qTGsO_8ExU8Z_C4nzjDsw7jXr21lDOn2SBS3g/edit)]. A lot of textbook study for me is opening up the table of contents and deciding I want to learn about a topic and flipping to that page. I don’t go cover to cover. It’s often just a roadmap of topics I should look at.
 
 **OL: Outside of studying, were there differences in the college quizbowl social sphere?**
 
