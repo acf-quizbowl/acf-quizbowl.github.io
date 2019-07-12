@@ -9,7 +9,7 @@
 
       <header class="header-background">
         <div class="clearfix border-bottom-thick header-border py-1 mt-1 mt-lg-0">
-          <img src="{{ site.logo }}" class="img-fluid" height="40" width="40">
+          <img src="{{ site.logo }}" class="img-fluid ml-2" height="40" width="40">
           {% assign pagelist = site.pages | sort: 'nav_order' %}
           <ul class="list-reset right py-1 header-text font-smoothing">
             {% for my_page in pagelist %}

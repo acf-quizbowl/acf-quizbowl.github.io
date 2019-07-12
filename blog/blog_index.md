@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+nav_order: 1.2
 ---
 
 # [Interview: Vishwa Shanmugam](interview-vishwa-shanmugam)
