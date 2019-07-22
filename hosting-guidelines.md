@@ -272,7 +272,7 @@ The rest of the entry fees for ACF Nationals goes to the editors. ACF will provi
 </tr>
 <tbody style="border-top-style:solid;border-top-width:2px;border-top-color:#A8A8A8;border-bottom-style:solid;border-bottom-width:2px;border-bottom-color:#A8A8A8;">
 <tr>
-<td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Fewer than ten meaningful games offered* to each team</td>
+<td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Fewer than ten meaningful games offered<sup style="font-style:italic;font-size:65%;">1</sup> to each team</td>
 <td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">$10 per team affected</td>
 </tr>
 <tr>
@@ -299,6 +299,11 @@ The rest of the entry fees for ACF Nationals goes to the editors. ACF will provi
 <td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Site is run in egregious violation of or ignoring the official ACF rules or hosting guidelines</td>
 <td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">$50 penalty and possible ban from hosting</td>
 </tr>
+<tfoot>
+<tr>
+<td colspan='2' style="font-size:90%;padding:4px;"><sup style="font-style:italic;font-size:65%;"><em>1</em></sup> No penalties will be levied if teams elect to leave early on their own volition, causing schedules to drop below the minimum number of games. Hosts may not, however, encourage teams to leave early.</td>
+</tr>
+</tfoot>
 </tbody>
 </table>
 <!--gt table end-->
