@@ -272,7 +272,7 @@ The rest of the entry fees for ACF Nationals goes to the editors. ACF will provi
 </tr>
 <tbody style="border-top-style:solid;border-top-width:2px;border-top-color:#A8A8A8;border-bottom-style:solid;border-bottom-width:2px;border-bottom-color:#A8A8A8;">
 <tr>
-<td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Fewer than ten meaningful games offered<sup style="font-style:italic;font-size:65%;">1</sup> to each team</td>
+<td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Fewer than ten meaningful games offered<sup style="font-style:italic;font-size:65%;">1</sup> to each team (or fewer than nine for Fall sites)</td>
 <td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">$10 per team affected</td>
 </tr>
 <tr>
