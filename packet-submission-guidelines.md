@@ -134,7 +134,7 @@ In addition to the above question-writing guides, we encourage you to consult ol
 We recommend:
 
 * For ACF Fall-level difficulty – ACF Fall 2012, ACF Fall 2017, and ACF Fall 2018
-* For ACF Regionals-level difficulty – ACF Regionals 2008 and ACF Regionals 2010
+* For ACF Regionals-level difficulty – ACF Regionals 2010 and ACF Regionals 2019
 * For ACF Nationals-level difficulty – ACF Nationals 2017, ACF Nationals 2018, and ACF Nationals 2019
 
 ## How to submit your packet
