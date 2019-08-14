@@ -7,7 +7,7 @@ categories: [blog, interview]
 
 <img src="/blog/images/caroline-mao.jpg" style="width:350px;"/>
 
-*Caroline Mao is an incoming sophomore at Mount Holyoke College. An editor for this year’s ACF Fall, she is a frequent quizbowl writer and staffer. ACF representative Olivia Lamberti spoke with her about becoming an editor and her ideas for community improvement.*
+*Caroline Mao is an rising sophomore at Mount Holyoke College. An editor for this year’s ACF Fall, she is a frequent quizbowl writer and staffer. ACF representative Olivia Lamberti spoke with her about becoming an editor and her ideas for community improvement.*
 
 **OL: You were recently named an editor of the 2019 ACF Fall set. Congratulations! What’s your writing process like?**
 
