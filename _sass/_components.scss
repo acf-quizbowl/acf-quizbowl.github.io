@@ -66,6 +66,7 @@ code {
     margin: 40px 0 40px -16px;
     border-left: $spacer-1 solid $color-border;
     font-style: italic;
+    color: $color-primary-link;
 
     p {
       font-size: 24px;
@@ -77,7 +78,7 @@ code {
       max-width: (11 / 10 * 100%);
 
       p {
-        font-size: 32px;
+        font-size: 28px;
       }
 
     }
