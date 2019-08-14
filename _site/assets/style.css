@@ -46,7 +46,7 @@ code { color: #4279C1; font-size: 16px; padding: 1px 0px; }
 .prose blockquote p { font-size: 24px; }
 @media (min-width: 52em) { .prose blockquote { padding-left: 32px; margin: 64px 0 64px -40px; max-width: 110%; }
   .prose blockquote p { font-size: 28px; } }
-.prose hr { color: #023B7F; border-style: solid; border-width: thin; margin-top: 0.5em; margin-bottom: 0.5em; }
+.prose hr { color: #023B7F; border-style: solid; border-width: thin; margin-top: 2em; margin-bottom: -2em; width: 50%; margin-left: 15%; text-align: center; }
 .prose dt { font-weight: bold; font-style: italic; line-height: 1.25; }
 .prose dd { font-style: italic; margin-bottom: 0.5em; }
 .prose table { border-collapse: collapse; display: block; width: 100%; margin-bottom: 1.5em; overflow: auto; word-break: normal; word-break: keep-all; }

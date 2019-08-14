@@ -89,8 +89,11 @@ code {
     color: $color-body-text;
     border-style: solid;
     border-width: thin;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-top: 2em;
+    margin-bottom: -2em;
+    width: 50%;
+    margin-left: 15%;
+    text-align: center;
   }
 
   dt {
