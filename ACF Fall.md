@@ -21,7 +21,7 @@ The tournament will be edited by Ganon Evans, Justin French, Halle Friedman, Kat
 
 ## Registration
 
-The registration form for ACF Fall will be made available once hosts are selected. We anticipate that most sites will be selected by August 24 (see [Hosting](#hosting)).
+Registration for ACF Fall is now open! To register, please fill out [this form](https://docs.google.com/forms/d/15nBzkX9W4XLt6gOGyaz5ylXAhdZNc35ukKvHJ2tyyGI/viewform?edit_requested=true).
 
 ## Fees
 
