@@ -15,7 +15,7 @@ Any team with at least one person (two people for ACF Fall) on it who played a r
 ## What counts as a “regular, collegiate, academic quizbowl tournament”?
 All ACF tournaments, NAQT Division I or Division II SCT, NAQT ICT, and typical academic invitationals and summer opens count as regular collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as regular collegiate academic tournaments in determining packet requirement.
 
-Trash or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” questions do not.
+Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” questions do not.
 
 This test is applied to individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, then please contact [the ACF eligibility committee](mailto:eligibility@acf-quizbowl.com).
 
@@ -82,10 +82,10 @@ Possible topics for this category include physical features, countries, cities, 
 
 *Do not write both questions on the same kind of political or physical feature, such as rivers, bodies of water, mountains, cities etc. Do not write both questions on the same area of the world.*
 
-**Trash, current events, or your choice 1/1**
+**Pop culture, current events, or your choice 1/1**
 You can write anything you wish here except for topics included in the other broad categories above. You can write questions which mix categories here.
 
-*Do not write more than one trash question from the same general category. e.g. Don’t write two questions on sports.*
+*Do not write more than one pop culture question from the same general category. e.g. Don’t write two questions on sports.*
 
 ## Question-writing philosophy
 **Difficulty Level**
