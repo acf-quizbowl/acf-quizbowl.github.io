@@ -64,21 +64,29 @@ If you are interested in hosting a mirror of ACF Fall, please contact ACF’s Mi
 
 ACF intends to mirror ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
-- Northeast
-- Upper Mid-Atlantic
-- Lower Mid-Atlantic
-- Southeast
-- Florida
-- Great Lakes
-- Midwest
-- North
-- South Central
-- Mountain West
-- Northern California
-- Southern California
-- Northwest
-- Eastern Canada
-- United Kingdom
+- Northeast: [Yale](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23121)
+- Upper Mid-Atlantic: [Maryland]()
+- Lower Mid-Atlantic: [Duke]()
+- Southeast: [Georgia Tech](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23128) (on November 3rd)
+- Florida: [Florida](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23120)
+- Great Lakes: [Ohio State](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23217)
+- Upper Midwest: [Chicago](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23140)
+- Lower Midwest: [Missouri](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23134)
+- North: [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23183)
+- South Central: [Texas-Austin](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23135)
+- Mountain West: [Colorado](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23119)
+- Northern California: [California-Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23156)
+- Southern California: [California-Los Angeles](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23193)
+- Northwest: [Washington](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23164)
+- Eastern Canada: [Carleton University](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23114)
+- United Kingdom:
+
+- High-school-only: [Chicago](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=23165)
+- High-school-only: [California-Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=23167)
+
+We are still working to finalize a site in the United Kingdom.
+
+Fields for each site can be found [here](https://docs.google.com/spreadsheets/d/1OmCbpEMlbRYfVONfCYDywO16uArhfgEazgIx3C0IxyU/edit#gid=1193040653).
 
 ## High school teams and high-school-only mirrors 
 
