@@ -85,7 +85,7 @@ Possible topics for this category include physical features, countries, cities, 
 **Pop culture, current events, or your choice 1/1**
 You can write anything you wish here except for topics included in the other broad categories above. You can write questions which mix categories here.
 
-*Do not write more than one pop culture question from the same general category. e.g. Don’t write two questions on sports.*
+*Do not write more than one pop culture, question from the same general category. e.g. Don’t write two questions on sports.*
 
 ## Question-writing philosophy
 **Difficulty Level**
