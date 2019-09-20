@@ -58,11 +58,9 @@ The submission discounts and penalties – but not the schedule – will likely 
 
 If your team is obligated to submit a half-packet or wishes to do so, email [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com) to request a 12/12 distribution. It's never too early to start writing!
 
-## Hosting
+## Sites
 
-If you are interested in hosting a mirror of ACF Fall, please contact ACF’s Mirror Coordinator, Alex Damisch, at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts will be expected to abide by [ACF’s Hosting Guidelines](/hosting-guidelines), which have been extensively revised for 2019–2020.
-
-ACF intends to mirror ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
+ACF has selected the following host sites for ACF Fall:
 
 - Northeast: [Yale](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23121)
 - Upper Mid-Atlantic: [Maryland]()
