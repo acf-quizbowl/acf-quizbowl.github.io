@@ -35,11 +35,11 @@ For the purposes of selecting ACF tournament sites only, ACF generally considers
 </tr>
 <tr>
 <td style="background-color:#f2f2f2;padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Upper Mid-Atlantic</td>
-<td style="background-color:#f2f2f2;padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">New York, New Jersey, Eastern Pennsylvania, Delaware, Maryland, District of Columbia</td>
+<td style="background-color:#f2f2f2;padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">New York, New Jersey, Eastern Pennsylvania, Delaware</td>
 </tr>
 <tr>
 <td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Lower Mid-Atlantic</td>
-<td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Virginia, North Carolina</td>
+<td style="padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Maryland, District of Columbia, Virginia, North Carolina</td>
 </tr>
 <tr>
 <td style="background-color:#f2f2f2;padding:8px;margin:10px;vertical-align:middle;text-align:left;text-align:left;">Southeast</td>
