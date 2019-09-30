@@ -10,7 +10,9 @@ permalink: /packet-submission-guidelines/
 {:toc}
 
 ## Who needs to submit packets?
-Any team with at least one person (two people for ACF Fall) on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the the academic year two years prior to the current year, that school must submit a packet (e.g. any team with a player [two players for ACF Fall] who played prior to September 1 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.)
+For ACF Fall and ACF Regionals, any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the academic year two years prior to the current year, that school must submit a packet (e.g. any team with two players who played prior to September 1st, 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.)
+
+The packet submission rules for ACF Nationals 2020 will be announced shortly.
 
 ## What counts as a “regular, collegiate, academic quizbowl tournament”?
 All ACF tournaments, NAQT Division I or Division II SCT, NAQT ICT, and typical academic invitationals and summer opens count as regular collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as regular collegiate academic tournaments in determining packet requirement.
@@ -19,10 +21,31 @@ Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments pla
 
 This test is applied to individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, then please contact [the ACF eligibility committee](mailto:eligibility@acf-quizbowl.com).
 
-## Sample Packet
+## Sample packet
 Want to know what a well-formatted packet looks like? Take a look at this sample packet.
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRu0cUcpxcLI0wPlCEcZleGhIwyAUIITB-_Zpqr6TdlL2kNDpASIXxs4FLOs6m6ReTYfjFeeJHK3Svi/pub?embedded=true" width="82%" height="600"></iframe>
+
+## Packet submission checklist
+Victor Prieto of Penn State created [a handy checklist](packet-submission-checklist.pdf) of things to keep in mind when writing a packet to submit to an ACF tournament -- please make sure your submitted packet checks all these boxes!
+
+## How to submit your packet
+
+**Document format**
+
+Please submit your packet as a .doc, .docx, or .rtf file. Submit all questions in 10-point Times New Roman font. Your document should have 1-inch margins on all sides. PDFs, .odt, .html, .txt or any other formats are **not acceptable**.
+
+*If editors cannot open your packet on the first try, they will return your packet to you and have you re-send a fixed version before it is considered submitted for fee purposes.*
+
+**Document Name**
+
+Please follow the following file-naming scheme when submitting packets:
+
+    <Tournament Name> <Year> – <School Name> <Team Name or Letter>
+
+For instance, if UC Irvine’s A team is submitting a packet for 2015 ACF Regionals, it should be named:
+
+    ACF Regionals 2015 – UC Irvine A
 
 ## Distribution
 All Full Packet submissions should have 24 tossups and 24 bonuses according to the distribution outlined below.
@@ -119,15 +142,13 @@ We prohibit specific types of bonuses and levy penalties on teams that submit pa
 
 ## More guidance on writing questions
 
-Please follow the ACF Formatting Guidelines when formatting your packet.
+Please follow ACF formatting guidelines when formatting your packet.
 
 Several ACF editors have provided tips on how to write good questions. Please consult the following guides:
 
 [Jerry Vinokurov’s Guide to Writing Questions](/jerry-guide) is intended for newcomers and has guides on basic principles of good writing.
 [Subash Maddipotti’s Tips on Question Writing](/subash-guide) provide excellent advice on what to avoid when writing questions.
 [Andrew Hart’s Primer on Regular Difficulty](/andrew-hart-regular-difficulty) is an excellent resource for teams writing questions for ACF Regionals (or a “regular difficulty” tournament.)
-
-## Past ACF Events as models
 
 In addition to the above question-writing guides, we encourage you to consult old ACF events as writing models.
 
@@ -136,24 +157,6 @@ We recommend:
 * For ACF Fall-level difficulty – ACF Fall 2012, ACF Fall 2017, and ACF Fall 2018
 * For ACF Regionals-level difficulty – ACF Regionals 2010 and ACF Regionals 2019
 * For ACF Nationals-level difficulty – ACF Nationals 2017, ACF Nationals 2018, and ACF Nationals 2019
-
-## How to submit your packet
-
-**Document format**
-
-Please submit your packet as a .doc, .docx, or .rtf file. Submit all questions in 10-point Times New Roman font. Your document should have 1-inch margins on all sides. PDFs, .odt, .html, .txt or any other formats are **not acceptable**.
-
-*If editors cannot open your packet on the first try, they will return your packet to you and have you re-send a fixed version before it is considered submitted for fee purposes.*
-
-**Document Name**
-
-Please follow the following file-naming scheme when submitting packets:
-
-    <Tournament Name> <Year> – <School Name> <Team Name or Letter>
-
-For instance, if UC Irvine’s A team is submitting a packet for 2015 ACF Regionals, it should be named:
-
-    ACF Regionals 2015 – UC Irvine A
 
 ## Discounts/Penalties
 
