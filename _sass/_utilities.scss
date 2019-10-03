@@ -185,3 +185,9 @@ a.active { color: $color-text-accent; }
     text-decoration: none !important;
   }
 }
+
+.back-to-top {
+  text-decoration: none !important;
+  color: $blue-dark;
+  font-size: 80%;
+}

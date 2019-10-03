@@ -49,11 +49,11 @@ code { color: #4279C1; font-size: 16px; padding: 1px 0px; }
 .prose hr { color: #023B7F; border-style: solid; border-width: thin; margin-top: 2em; margin-bottom: -2em; width: 50%; margin-left: 15%; text-align: center; }
 .prose dt { font-weight: bold; font-style: italic; line-height: 1.25; }
 .prose dd { font-style: italic; margin-bottom: 0.5em; }
-.prose table { border-collapse: collapse; display: block; width: 100%; margin-bottom: 1.5em; overflow: auto; word-break: normal; word-break: keep-all; }
+.prose table { border-collapse: collapse; display: block; width: 100%; margin-bottom: .5em; overflow: auto; word-break: normal; word-break: keep-all; }
 .prose table th { font-weight: bold; text-align: left; }
-.prose table th, .prose table td { padding: 16px 32px 16px 2px; border-top: 1px solid #023B7F; border-bottom: 1px solid #023B7F; }
+.prose table th, .prose table td { border-top: 1px solid #023B7F; border-bottom: 1px solid #023B7F; }
 .prose table tr { background-color: #fff; border-top: 1px solid #023B7F; }
-.prose table tr th { border-top: 2px solid #023B7F; border-bottom: 2px solid #023B7F; }
+.prose table tr th { border-top: 2px solid #023B7F; border-bottom: 2px solid #023B7F; font-size: 200%; }
 
 /* Type utilities */
 .h0 { font-size: 48px; line-height: 1.0125; margin-top: 0.85em; word-wrap: break-word; }
@@ -242,3 +242,5 @@ a.active { color: #7EB7FD; }
 
 .link-primary { font-weight: bold; text-decoration: none !important; }
 .link-primary:hover { color: #7EB7FD; text-decoration: none !important; }
+
+.back-to-top { text-decoration: none !important; color: #023B7F; font-size: 80%; }

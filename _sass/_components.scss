@@ -112,7 +112,7 @@ code {
     border-collapse: collapse;
     display: block;
     width: 100%;
-    margin-bottom: 1.5em;
+    margin-bottom: .5em;
     overflow: auto;
     // For Firefox to horizontally scroll wider tables.
     word-break: normal;
@@ -125,7 +125,6 @@ code {
 
     th,
     td {
-      padding: $spacer-2 $spacer-3 $spacer-2 2px;
       border-top: 1px solid $color-body-text;
       border-bottom: 1px solid $color-body-text;
     }
@@ -138,6 +137,7 @@ code {
     tr th {
       border-top: 2px solid $color-body-text;
       border-bottom: 2px solid $color-body-text;
+      font-size: 200%;
     }
   }
 
