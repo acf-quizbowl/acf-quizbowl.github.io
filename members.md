@@ -110,11 +110,6 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Nationals 2019 Editor<br/>ACF Nationals 2017 Editor<br/>ACF Nationals 2016 co-Head Editor<br/>ACF Nationals 2015 Editor</td>
 </tr>
 <tr>
-<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Gaurav Kandlikar</td>
-<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Ph.D Student, UCLA<br/>Alumnus, University of Minnesota</td>
-<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Fall 2016 Head Editor<br/>ACF Fall 2015 co-Head Editor<br/>ACF Fall 2014 co-Head Editor<br/>ACF Fall 2011 Editor</td>
-</tr>
-<tr>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Ophir Lifshitz</td>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">every.buzz<br/>Maryland</td>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Regionals 2018 Logistics and Advanced Statistics</td>
@@ -326,6 +321,11 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Dennis Jang</td>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Alumnus, Brown University</td>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Winter 2010 Editor<br/>ACF Winter 2009 Editor<br/>ACF Fall 2008 Editor</td>
+</tr>
+<tr>
+<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Gaurav Kandlikar</td>
+<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Ph.D Student, UCLA<br/>Alumnus, University of Minnesota</td>
+<td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Fall 2016 Head Editor<br/>ACF Fall 2015 co-Head Editor<br/>ACF Fall 2014 co-Head Editor<br/>ACF Fall 2011 Editor</td>
 </tr>
 <tr>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Gautam Kandlikar</td>
