@@ -229,7 +229,7 @@ permalink: /hypothetical-acf-distribution-layout/
 </tfoot>
 </table>
 
-# Category Definitions
+# Category Guidelines
 
 ## Literature <a href = '#top' class = 'back-to-top'>&uarr;</a>
 Vary your literature questions across time periods, genre, (novels, poetry, drama, short stories, etc.), and type of answer (authors, individual works, characters, common links, etc.).
