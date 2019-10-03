@@ -65,11 +65,6 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Regionals 2019 Editor<br/>ACF Nationals 2018 Logistics<br/>ACF Nationals 2016 co-Head Editor<br/>ACF Nationals 2015 Editor<br/>ACF Regionals 2013 Editor<br/>ACF Regionals 2011 Head Editor<br/>ACF Winter 2010 Editor<br/>ACF Fall 2008 Editor</td>
 </tr>
 <tr>
-<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Tommy Casalaspi</td>
-<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Ph.D Student, Harvard University<br/>University of Virginia</td>
-<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Nationals 2017 Editor<br/>ACF Regionals 2015 Editor</td>
-</tr>
-<tr>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Alex Damisch</td>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">M.S., DePaul University<br/>Alumna, Lawrence University</td>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Mirror Coordinator, 2019 – 2020<br/>Treasurer, 2018 – 2019<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Logistics</td>
@@ -286,6 +281,11 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Will Butler</td>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">Ph.D. Student, Biology, Georgia Tech<br/>Alumnus, University of Virginia</td>
 <td style="background-color:#f2f2f2;padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Regionals 2012 Editor<br/>ACF Fall 2010 Editor</td>
+</tr>
+<tr>
+<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Tommy Casalaspi</td>
+<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Ph.D Student, Harvard University<br/>University of Virginia</td>
+<td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">ACF Nationals 2017 Editor<br/>ACF Regionals 2015 Editor</td>
 </tr>
 <tr>
 <td style="padding:10px;margin:10px;vertical-align:middle;text-align:left;">Trevor Davis</td>
