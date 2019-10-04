@@ -5,7 +5,7 @@ permalink: /fall/
 nav_order: 2
 ---
 
-**ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the calendar.
+**ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
 
 ACF Fall 2019 will be held on **November 2nd, 2019**.
 
@@ -54,9 +54,9 @@ The submission schedule is as follows (your submission must be sent to <span sty
 
 *Packets submitted later than October 20 will receive an additional penalty of +$10 per day starting on October 21.*
 
-The submission discounts and penalties – but not the schedule – will likely differ for teams attending sites outside of the United States, and will be determined by ACF and the host sites by August 24.
+If your team is obligated to submit a half-packet or wishes to do so, email <span style="white-space: nowrap;">[fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com)</span> to request a 12/12 distribution.
 
-If your team is obligated to submit a half-packet or wishes to do so, email <span style="white-space: nowrap;">[fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com)</span> to request a 12/12 distribution. It's never too early to start writing!
+Please refer to the [ACF Packet Submission Guidelines](/packet-submission-guidelines) when writing and submitting your packet.
 
 ## Sites
 
