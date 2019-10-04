@@ -19,7 +19,7 @@ code {
 .prose {
 
   a {
-    color: black;
+    color: $blue-dark;
     text-decoration: underline;
 
     &:hover {
@@ -86,7 +86,7 @@ code {
   }
 
   hr {
-    color: $color-body-text;
+    color: $color-title;
     border-style: solid;
     border-width: thin;
     margin-top: 2em;
@@ -110,7 +110,6 @@ code {
   // Markdown tables
   table {
     border-collapse: collapse;
-    display: block;
     width: 100%;
     margin-bottom: .5em;
     overflow: auto;
@@ -121,22 +120,23 @@ code {
     th {
       font-weight: bold;
       text-align: left;
+      color: $color-title;
     }
 
     th,
     td {
-      border-top: 1px solid $color-body-text;
-      border-bottom: 1px solid $color-body-text;
+      border-top: 1px solid $color-title;
+      border-bottom: 1px solid $color-title;
     }
 
     tr {
       background-color: #fff;
-      border-top: 1px solid $color-body-text;
+      border-top: 1px solid $color-title;
     }
 
     tr th {
-      border-top: 2px solid $color-body-text;
-      border-bottom: 2px solid $color-body-text;
+      border-top: 2px solid $color-title;
+      border-bottom: 2px solid $color-title;
       font-size: 200%;
     }
   }

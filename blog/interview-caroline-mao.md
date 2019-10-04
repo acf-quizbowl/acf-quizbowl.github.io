@@ -3,6 +3,7 @@ layout: post
 title: "Interview: Caroline Mao"
 permalink: "/blog/interview-caroline-mao"
 categories: [blog, interview]
+post_date: August 14, 2019
 ---
 
 <img src="/blog/images/caroline-mao.jpg" style="width:350px;"/>

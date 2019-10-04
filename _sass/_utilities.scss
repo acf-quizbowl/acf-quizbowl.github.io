@@ -34,7 +34,7 @@ ol ol { list-style-type: upper-alpha; }
 ol ol ol { list-style-type: lower-roman; }
 
 /* Border utilities */
-.border-bottom-thick { border-bottom: 2px solid; border-color: currentColor; }
+.border-bottom-thick { color: $color-title; border-bottom: 2px solid; border-color: currentColor; }
 .border-bottom-thin { border-bottom: 1px solid; border-color: currentColor; }
 .border-top-thick { border-top: 2px solid; border-color: currentColor; }
 .border-top-thin { border-top: 1px solid; border-color: currentColor; }
@@ -190,4 +190,20 @@ a.active { color: $color-text-accent; }
   text-decoration: none !important;
   color: $blue-dark;
   font-size: 80%;
+}
+
+th.name {
+  width: 20%;
+}
+
+th.affiliations {
+  width: 30%;
+}
+
+th.contributions {
+  width: 50%;
+}
+
+th.num-teams {
+  width: 15%;
 }

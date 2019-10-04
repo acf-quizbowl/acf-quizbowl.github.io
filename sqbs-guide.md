@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SQBS Guide
+title: SQBS Guide for ACF Tournaments
 permalink: /sqbs-guide/
 ---
 
