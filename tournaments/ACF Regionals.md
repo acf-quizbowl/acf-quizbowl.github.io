@@ -7,7 +7,7 @@ nav_order: 3
 
 **ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience.
 
-ACF Regionals 2020 will be held on **January 25th, 2020**. 
+ACF Regionals 2020 will be held on **January 25th, 2020**. You can find the HSQB forum announcement [here](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23290).
 
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above

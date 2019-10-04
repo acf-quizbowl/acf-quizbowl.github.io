@@ -7,13 +7,14 @@ redirect_from:
 ---
 
 # Official ACF Eligibility Rules
+
 **Official Player and Team Eligibility Rules**
 
-**Last revised August 27, 2016**
+**Last revised October 4, 2019**
 
-**Effective for 2016-17 competition year forward**
+**Effective for 2019-20 competition year forward**
 
-*(The following is a comprehensive set of rules for establishing eligibility at collegiate tournaments. It is formally binding on all sites of official ACF tournaments held within any given competition year, and may be enforced or modified at the tournament director’s’ discretion at other collegiate tournaments. The Official ACF Gameplay Rules are now a separate document from this one.)*
+*(The following is a comprehensive set of rules for establishing eligibility at collegiate tournaments. It is formally binding on all sites of official ACF tournaments held within any given competition year, and may be enforced or modified at the tournament director’s discretion at other collegiate tournaments. The official [ACF Gameplay Rules](/gameplay-rules) are now a separate document from this one.)*
 
 1. In keeping with the typical schedules defined and set by collegiate institutions, the **competition year** [or **academic year**] begins on August 1 of a given calendar year and continues through July 31 of the immediately successive calendar year. *(For ACF purposes, a single competition year begins on August 1, then contains, in order, ACF Fall, ACF Regionals, and ACF Nationals, between then and the immediately successive July 31.)*
     1. The presence of leap days has no bearing on what constitutes a “year” or a “competition year” according to these rules; for example, July 31, 2015 to July 31, 2020 is considered five years and zero days.
@@ -50,3 +51,9 @@ redirect_from:
     1. For the purposes of determining who is or is not an undergraduate player, any competition years or segments thereof during which that person was unenrolled or on academic leave are counted exactly the same as competition years in which that person had standard or maximal enrollment. *(e.g.: A player who first enrolled in college in 2011-12, completed a standard freshman year, took four years of academic leave in a row, and then re-enrolled as an undergraduate in 2016-17 would NOT be considered an undergraduate player for the 2016-17 competition year.)*
 13. For collegiate tournaments that recognize high-finishing teams and/or individuals of “Division II” status *(such as all ACF tournaments)*, a “Division II” player is any player who first enrolled in a collegiate program in the ongoing competition year or in the competition year immediately prior to the ongoing one *(i.e. is any freshman/first-year or sophomore/second-year)*.
 
+14. ACF reserves the right to ban players from ACF tournaments for **misconduct**. Such bans will render a player ineligible to compete even if they would otherwise be eligible. Player bans may be enacted for a temporary period of time, or may be permanent, depending on the offense (see below).
+    1. ACF defines two types of misconduct that can lead to a ban: **minor misconduct** and **major misconduct**. A player's first instance of minor misconduct will result in a warning from ACF; subsequent instances will result in at least a one-year ban from playing in ACF tournaments. A player's first instance of major misconduct will result in at least a one-year ban from playing in ACF tournaments; subsequent instances will result in a permanent ban from playing in ACF tournaments. These definitions are distinct from the definitions of "minor" and "severe" misconduct in the ACF gameplay rules.
+        1. Examples of minor misconduct include, but are not limited to: plagiarism, disorderly conduct during match play, intimidation of game or tournament officials, verbal harassment.
+        2. Examples of major misconduct include, but are not limited to: cheating or conspiring to cheat at a quizbowl tournament, violent conduct during a tournament, sexual harassment, sexual assault.
+        3. Misconduct does not need to occur at an ACF tournament for ACF to take action on it.
+    2. Once a ban has been issued, ACF will contact the parties necessary to implement the ban, potentially including, but not limited to, the subject of the ban, other quizbowl organizations such as NAQT, tournament hosts, and the broader quizbowl community.

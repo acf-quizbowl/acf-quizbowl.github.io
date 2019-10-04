@@ -245,11 +245,6 @@ The rest of the entry fees for ACF Nationals goes to the editors. ACF will provi
 # Penalties for egregious hosting violations
 <!--gt table start-->
 <table>
-<thead>
-<tr>
-<th>ACF Fee Breakdown</th>
-</tr>
-</thead>
 <tr>
 <th>Violation</th>
 <th>Penalty</th>
@@ -294,7 +289,10 @@ The rest of the entry fees for ACF Nationals goes to the editors. ACF will provi
 
 At the treasurer or head editor’s discretion, first-time violations may result in a warning instead of a monetary penalty.
 Hosts should talk to the head editor of the tournament, or the ACF treasurer, to bring up any potential issues with the above penalties before they arise. The editor/treasurer may exempt hosts from requirements if it benefits the site.
+
 # Safety and misconduct
 ACF’s mission is to provide the best possible experience for players, coaches, and staff. Therefore, issues of safety and misconduct must be dealt with fairly and promptly.
+
 ACF strongly recommends that hosts explicitly designate one or more individuals to whom players, coaches, or staff can confidentially address any concerns about safety and misconduct during the tournament, and make the process for doing so clear at the opening meeting. (The designated person or people could simply be the tournament director(s), though ACF recommends having one male and one female person in the role.)
-Hosts should, of course, be familiar with the official [ACF rules](/gameplay-rules/), but they should pay particular attention to Section I, “Ethics and Conduct.” In particular, note that “the use of malicious or disrespectful language toward another participant in the match, or the use of epithets insulting a participant’s race, gender identity, sexual orientation, nationality, etc.” constitutes misconduct, for which you are empowered to eject players from a match. If you encounter a case of misconduct serious enough that ACF should be made aware of it (if, for example, there are indications of a pattern of behavior that might be repeated at other tournaments), you may wish to let the victim know they can fill out the [Misconduct Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSfndx3DUXgSwpzpweSRLxkErgPlQg4XATE2UaQDJ3EpbpCMPQ/viewform), and/or you can fill it out yourself. Questions or concerns about misconduct can also be addressed to Alex Damisch (alexandra.damisch@gmail.com) or Rob Carson (rob.f.carson@gmail.com).
+
+Hosts should, of course, be familiar with the official [ACF rules](/gameplay-rules/), but they should pay particular attention to Section I, “Ethics and Conduct.” In particular, note that “the use of malicious or disrespectful language toward another participant in the match, or the use of epithets insulting a participant’s race, gender identity, sexual orientation, nationality, etc.” constitutes misconduct, for which you are empowered to eject players from a match. If you encounter a case of misconduct serious enough that ACF should be made aware of it (if, for example, there are indications of a pattern of behavior that might be repeated at other tournaments), you may wish to let the victim know they can fill out the [Misconduct Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSfndx3DUXgSwpzpweSRLxkErgPlQg4XATE2UaQDJ3EpbpCMPQ/viewform), and/or you can fill it out yourself. Questions or concerns about misconduct can also be addressed to Alex Damisch ([alexandra.damisch@gmail.com](mailto:alexandra.damisch@gmail.com)) or Rob Carson ([rob.f.carson@gmail.com](mailto:rob.f.carson@gmail.com)).

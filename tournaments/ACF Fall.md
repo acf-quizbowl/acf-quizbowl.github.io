@@ -7,7 +7,7 @@ nav_order: 2
 
 **ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
 
-ACF Fall 2019 will be held on **November 2nd, 2019**.
+ACF Fall 2019 will be held on **November 2nd, 2019**. You can find the HSQB forum announcement [here](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23034).
 
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
@@ -17,7 +17,6 @@ ACF Fall 2019 will be held on **November 2nd, 2019**.
 Rahul Keyal, of the University of California - Berkeley, will be head editor, with assistance from Rohin Devanathan and various ACF members.
 
 The tournament will be edited by Ganon Evans, Justin French, Halle Friedman, Katherine Lei, Caroline Mao, Ben Miller, Tracy Mirkin, Clark Smith, and Kevin Yu.
-
 
 ## Registration
 
