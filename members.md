@@ -126,8 +126,8 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>ACF Regionals 2019 Editor<br/>ACF Fall 2017 Editor<br/>ACF Fall 2016 Editor</td>
 </tr>
 <tr>
-<td>Sarah Angelo Luongo</td>
-<td>Alumna, Virginia Commonwealth University School of Education<br/>Alumna, University of Virginia</td>
+<td>Sam Luongo</td>
+<td>Alum, Virginia Commonwealth University School of Education<br/>Alum, University of Virginia</td>
 <td>Webmaster, 2018-2019<br/>Meeting Chair, 2017-2018<br/>ACF Nationals 2018 Tournament Director<br/>ACF Regionals 2015 Editor and Logistics Coordinator<br/>ACF Fall 2011 Editor</td>
 </tr>
 <tr>
