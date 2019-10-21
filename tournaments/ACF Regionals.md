@@ -3,6 +3,7 @@ layout: page
 title: ACF Regionals
 permalink: /regionals/
 nav_order: 3
+last_updated: October 21, 2019
 ---
 
 **ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience.
@@ -36,7 +37,7 @@ If your team is obligated to submit a half-packet or wishes to do so, please ema
 
 
 ## Apply to host
-If you are interested in hosting a mirror of ACF Regionals, please contact ACF’s Mirror Coordinator, Alex Damisch, at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com), CC'ing [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Hosts will be expected to abide by [ACF’s Hosting Guidelines](/hosting-guidelines), which have been extensively revised for 2019–2020. Applications to host ACF Regionals will close on October 13, 2019; sites will be announced by October 24, 2019.
+If you are interested in hosting a mirror of ACF Regionals, please contact ACF’s Mirror Coordinator, Alex Damisch, at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com), CC'ing [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Hosts will be expected to abide by [ACF’s Hosting Guidelines](/hosting-guidelines), which have been extensively revised for 2019–2020. Applications to host ACF Regionals will close on November 3, 2019.
 
 ACF intends to mirror ACF Regionals in [the following regions](https://acf-quizbowl.com/hosting-guidelines/#regions-according-to-acf):
 - Northeast

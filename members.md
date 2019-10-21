@@ -3,6 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
+last_updated: October 21, 2019
 ---
 # Officers
 <table>

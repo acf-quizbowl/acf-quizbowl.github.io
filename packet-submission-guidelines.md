@@ -2,6 +2,7 @@
 layout: page
 title: Packet Submission Guidelines
 permalink: /packet-submission-guidelines/
+last_updated: October 21, 2019
 ---
 
 # Table of Contents
@@ -19,7 +20,7 @@ All ACF tournaments, NAQT Division I or Division II SCT, NAQT ICT, and typical a
 
 Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” questions do not.
 
-This test is applied to individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, then please contact [the ACF eligibility committee](mailto:eligibility@acf-quizbowl.com).
+This test is applied to each individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, then please contact [the ACF eligibility committee](mailto:eligibility@acf-quizbowl.com).
 
 ## Sample packet
 Want to know what a well-formatted packet looks like? Take a look at this sample packet.
