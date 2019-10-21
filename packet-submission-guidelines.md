@@ -15,7 +15,8 @@ For ACF Fall and ACF Regionals, any team with at least two people on it who play
 
 The packet submission rules for ACF Nationals 2020 will be announced shortly.
 
-*What counts as a “regular, collegiate, academic quizbowl tournament”?*
+- *What counts as a “regular, collegiate, academic quizbowl tournament”?*
+
 All ACF tournaments, NAQT Division I or Division II SCT, NAQT ICT, and typical academic invitationals and summer opens count as regular collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as regular collegiate academic tournaments in determining packet requirement.
 
 Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” questions do not.
