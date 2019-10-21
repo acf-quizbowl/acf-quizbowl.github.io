@@ -16,7 +16,7 @@ redirect-from: /official-acf-gameplay-rules/
 
 Within these rules, all plain text has the effective force of a rule governing all participants within a quizbowl match or tournament. The initial use of an important rules term, at the point where that term is most clearly defined, is given in **bold** [with alternate rules terms for that same thing bolded within **square brackets**]. In places where examples or clarifying “reminder text” might be useful, but not strictly necessary, to understanding the rules, that reminder text has been presented within parentheses in italics.
 
-These rules were ratified as a full replacement of the hitherto-existing rule set on August 27, 2016. Some portions of these rules were, with permission, based on the official gameplay rules of the Partnership for Academic Competition Excellence (PACE), and on the previous copyrighted rule sets of PACE and ACF.
+These rules were ratified as a full replacement of the hitherto-existing rule set on August 27, 2016. Some portions of these rules were, with permission, based on the [official gameplay rules](http://www.pace-nsc.org/official-pace-ruleset/) of the [Partnership for Academic Competition Excellence](http://www.pace-nsc.org) (PACE), and on the previous copyrighted rule sets of PACE and ACF.
 
 Any tournament may use these rules free of charge without prior permission from ACF. However, tournament directors are expected to announce in advance any adjustments, choices, or modifications they might make to alter these rules at their own events, and to apply any such modifications consistently across all matches in a given tournament, without attributing authorship of any such modifications to ACF.
 
