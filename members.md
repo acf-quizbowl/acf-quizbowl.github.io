@@ -67,7 +67,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </tr>
 <tr>
 <td>Rob Carson</td>
-<td>MCTC</td>
+<td>Alumnus, University of Minnesota</td>
 <td>ACF Regionals 2019 Editor<br/>ACF Nationals 2018 Logistics<br/>ACF Nationals 2016 co-Head Editor<br/>ACF Nationals 2015 Editor<br/>ACF Regionals 2013 Editor<br/>ACF Regionals 2011 Head Editor<br/>ACF Winter 2010 Editor<br/>ACF Fall 2008 Editor</td>
 </tr>
 <tr>
@@ -112,8 +112,8 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </tr>
 <tr>
 <td>Ophir Lifshitz</td>
-<td>every.buzz<br/>Maryland</td>
-<td>ACF Regionals 2018 Logistics and Advanced Statistics</td>
+<td>Alumnus, University of Maryland</td>
+<td>ACF Regionals 2019 Logistics and Advanced Statistics<br/>ACF Regionals 2018 Logistics and Advanced Statistics</td>
 </tr>
 <tr>
 <td>Stephen Liu</td>
@@ -148,7 +148,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Bernadette Spencer</td>
 <td>Minnesota</td>
-<td>ACF Nationals 2019 Travel Logistics<br/>ACF Nationals 2018 Travel Logistics</td>
+<td>ACF Nationals 2019 Travel Logistics<br/>ACF Nationals 2018 Travel Logistics<br/>ACF Nationals 2017 Travel Logistics</td>
 </tr>
 <tr>
 <td>Jerry Vinokurov</td>
