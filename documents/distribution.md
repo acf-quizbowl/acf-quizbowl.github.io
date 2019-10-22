@@ -208,9 +208,9 @@ permalink: /distribution/
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> Submitted packet </td>
-   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>1</sup> </td>
-   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>2</sup> </td>
-   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>3</sup> </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>*</sup> </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>*</sup> </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>*</sup> </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> Final packet </td>
@@ -221,11 +221,7 @@ permalink: /distribution/
 </tbody>
 <tfoot>
 <tr><td style="padding: 0; border: 0;" colspan="100%">
-<sup>1</sup> The Fall distribution adds up to 24/24 in total. To produce final packets of 20/20, the editors will remove 1/1 literature, 1/1 history, 1/1 science, and 1/1 geography/current events/popular culture/other academic.</td></tr>
-<tr><td style="padding: 0; border: 0;" colspan="100%">
-<sup>2</sup> The Regionals distribution adds up to 24/24 in total. To produce final packets of 20/20, the editors will remove 1/1 literature, 1/1 history, 1/1 science, and 1/1 geography/current events/popular culture/other academic.</td></tr>
-<tr><td style="padding: 0; border: 0;" colspan="100%">
-<sup>3</sup> The Nationals distribution adds up to 24/24 in total. To produce final packets of 20/20, the editors will remove 1/1 literature, 1/1 history, 1/1 science, and 1/1 geography/current events/other academic.</td></tr>
+<sup>*</sup> The submitted packet distribution adds up to 24/24 in total. To produce final packets of 20/20, the editors will remove 1/1 literature, 1/1 history, 1/1 science, and 1/1 geography/current events/popular culture/other academic.</td></tr>
 </tfoot>
 </table>
 
