@@ -29,7 +29,7 @@ last_updated: October 21, 2019
 <td><a href='mailto:hosting@acf-quizbowl.com'>hosting@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Andrew Feist</td>
+<td>Cody Voight</td>
 <td>Treasurer</td>
 <td><a href='mailto:treasurer@acf-quizbowl.com'>treasurer@acf-quizbowl.com</a></td>
 </tr>
