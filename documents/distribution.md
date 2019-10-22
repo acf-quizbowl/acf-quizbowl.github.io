@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACF Packet Distribution
-permalink: /hypothetical-acf-distribution-layout/
+permalink: /distribution/
 ---
 <a id = 'top'></a>
 <table class="table table-striped table-hover table-responsive table-condensed" style="margin-left: auto; margin-right: auto;">
@@ -15,7 +15,7 @@ permalink: /hypothetical-acf-distribution-layout/
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#literature-">Literature</a> </td>
+   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#literature-">Literature (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
@@ -51,7 +51,7 @@ permalink: /hypothetical-acf-distribution-layout/
    <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#history">History</a> </td>
+   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#history">History (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
@@ -81,7 +81,7 @@ permalink: /hypothetical-acf-distribution-layout/
    <td style="text-align:center;"> 2/1 or 1/2 </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#science-">Science</a> </td>
+   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#science-">Science (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
@@ -117,7 +117,7 @@ permalink: /hypothetical-acf-distribution-layout/
    <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#fine-arts-">Fine Arts</a> </td>
+   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#fine-arts-">Fine Arts (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/3 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/3 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/3 </td>
@@ -141,7 +141,7 @@ permalink: /hypothetical-acf-distribution-layout/
    <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#religion-and-mythology-">Religion and Mythology</a> </td>
+   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#religion-and-mythology-">Religion and Mythology (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/1 or 1/2 </td>
@@ -159,7 +159,7 @@ permalink: /hypothetical-acf-distribution-layout/
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#social-science-and-philosophy-">Social Science and Philosophy</a> </td>
+   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#social-science-and-philosophy-">Social Science and Philosophy (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
@@ -177,7 +177,7 @@ permalink: /hypothetical-acf-distribution-layout/
    <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#other-">Other</a> </td>
+   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#other-">Other (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/2 or 2/3 </td>
