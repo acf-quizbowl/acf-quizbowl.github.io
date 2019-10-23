@@ -35,6 +35,11 @@ The submission discounts and penalties – but not the schedule – will likely 
 
 If your team is obligated to submit a half-packet or wishes to do so, please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com) to request a 12/12 distribution. Please submit your half-packet to to the same email. The actual email with the attached half-packet should have a subject line reading: "HALF PACKET: <Tournament Name> <Year> – <School Name> <Team Name or Letter>" (for example, "HALF PACKET: ACF Regionals 2020 - Alaska A"). In order to meet a deadline, you must submit your half-packet before 11:59pm Pacific Time on that date. Half-packets should be submitted in Microsoft Word .doc or .docx format. Please do not submit packets as pdfs. **If a team wishes to outsource part of its packet to a player not expected to play on that team (e.g. a student who has graduated), it must first receive approval from the head editor.**
 
+Please refer to the [ACF Packet Submission Guidelines](/packet-submission-guidelines) when writing and submitting your packet.
+
+## Distribution
+
+The submitted packet and final packet distributions for ACF Regionals (and other ACF tournaments) may be found [here](/distribution). This distribution refers to a full packet; teams submitting half-packets will receive their half-packet assignments from the head editor.
 
 ## Apply to host
 If you are interested in hosting a mirror of ACF Regionals, please contact ACF’s Mirror Coordinator, Alex Damisch, at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com), CC'ing [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Hosts will be expected to abide by [ACF’s Hosting Guidelines](/hosting-guidelines), which have been extensively revised for 2019–2020. Applications to host ACF Regionals will close on November 3, 2019.

@@ -57,6 +57,10 @@ If your team is obligated to submit a half-packet or wishes to do so, email <spa
 
 Please refer to the [ACF Packet Submission Guidelines](/packet-submission-guidelines) when writing and submitting your packet.
 
+## Distribution
+
+The submitted packet and final packet distributions for ACF Fall (and other ACF tournaments) may be found [here](/distribution). This distribution refers to a full packet; teams submitting half-packets will receive their half-packet assignments from the head editor.
+
 ## Sites
 
 ACF has selected the following host sites for ACF Fall:

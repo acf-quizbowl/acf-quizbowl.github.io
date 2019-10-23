@@ -48,67 +48,8 @@ For instance, if UC Irvine’s A team is submitting a packet for 2015 ACF Region
     ACF Regionals 2015 – UC Irvine A
 
 ## Distribution
-All Full Packet submissions should have 24 tossups and 24 bonuses according to the distribution outlined below.
 
-The following distribution applies to ACF Regionals and ACF Nationals Submissions. See the [ACF Fall Announcement](/fall) for information about half-packet distributions.
-
-*Note: The X/Y notation used throughout this section refers to X tossups and Y bonuses. Eg. If you see Fine Arts 3/3, it means 3 tossups and 3 bonuses.*
-
-**Literature 5/5**
-
-- American literature: 1/1
-- British literature: 1/1
-- European literature from 500 CE onwards: 1/1
-- World (anything not covered above): 1/0 or 0/1
-- Anything you want, including ancient European literature, more of any category above, or combinations of categories above: 1/2 or 2/1
-
-*Vary questions across time periods. Do not write more than 1 question on very recent (post-1990) literature. Please make sure your questions span a variety of answers such as authors, novels, poems, criticism, essays, etc.*
-
-**History 5/5**
-
-- American history: 1/1
-- European, Canadian, and Australian history: 3/3 (1 should be on classical history, 1 on British history, and 3 on continental Europe from three different post-classical time periods.)
-- World history: 1/1 (from two different areas of the world besides those covered above)
-*You may write up to 4 questions on military history (battles, wars, or people known primarily for their military accomplishments.)*
-
-**Science 5/5**
-- Biology 1/1
-- Chemistry 1/1
-- Physics 1/1
-- Math or computer science: 1 question
-- Astronomy, earth science/geology, or other science not covered above: 1 question
-- Any science: 1/1 (you can write a math question here if you wrote computer science above, or earth science here if you wrote astronomy above, but don’t write a second question on any of the “minor” fields. Questions which straddle the line between disciplines should be used for Any Science. You can also just write more biology, chemistry, or physics here.)
-*You may write up to 1 question on the history of science. Questions on famous experiments which focus on the scientific principles at work are considered science rather than science history.*
-
-**Religion, Mythology and Philosophy 3/3**
-- Religion: 1/1 (different religions)
-- Mythology: 1/1 (different myth systems)
-- Philosophy: 1/1 (different parts of philosophical history)
-*Write least 1 and no more than 2 questions in this category on non-Western topics. You may write about events which straddle the line between history and religion for either history or religion, but don’t write about religious history for both categories.*
-
-**Fine Arts 3/3**
-
-- Painting: 1/1
-- Classical music (excluding opera): 1/1
-- Other Fine Arts: 1/1 (opera, sculpture, architecture, dance, jazz, photography, art film; do NOT write more painting or classical music)
-*Write on a visual category and an auditory art for Other Fine Arts. e.g. pick jazz and photography, or opera and architecture, but not opera and jazz.*
-
-**Social Science 1/1**
-
-Possible topics for this category include economics, psychology, sociology, linguistics, anthropology, political science, social criticism, and law. (Questions on Supreme Court cases go under history; other law questions may go here.)
-
-*Do not write more than 1 question from a particular field of study.*
-
-**Geography 1/1**
-
-Possible topics for this category include physical features, countries, cities, regions, etc. Ethnic groups can be geography; languages are more likely social science.
-
-*Do not write both questions on the same kind of political or physical feature, such as rivers, bodies of water, mountains, cities etc. Do not write both questions on the same area of the world.*
-
-**Pop culture, current events, or your choice 1/1**
-You can write anything you wish here except for topics included in the other broad categories above. You can write questions which mix categories here.
-
-*Do not write more than one pop culture, question from the same general category. e.g. Don’t write two questions on sports.*
+The submitted packet and final packet distributions for ACF tournaments may be found [here](/distribution).
 
 ## Question-writing philosophy
 **Difficulty Level**

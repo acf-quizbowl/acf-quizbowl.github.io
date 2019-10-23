@@ -13,8 +13,9 @@ ACF Nationals 2020 will be held on the weekend of **April 18th, 2020 at Universi
 
 Ryan Westbrook, alumnus of the University of Michigan and Wayne State University, will be head editor.
 
-## Apply to host
-ACF is currently soliciting bids to host ACF Nationals 2020. To bid, please fill out [this form](https://docs.google.com/forms/d/17cCm6UsNtuu0UBkbxzJJCo7mnMy-CfC1DSElk-3SjOM/viewform). For any questions, please contact [the ACF Mirror Coordinator](mailto:hosting@acf-quizbowl.com).
+## Distribution
+
+The submitted packet and final packet distributions for ACF Nationals (and other ACF tournaments) may be found [here](/distribution).
 
 ## Qualifying for ACF Nationals
 [ACF Regionals](/regionals) serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification). As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](/hosting-guidelines/#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
