@@ -52,7 +52,7 @@ last_updated: October 21, 2019
    <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#history">History (total)</a> </td>
+   <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#history-">History (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
