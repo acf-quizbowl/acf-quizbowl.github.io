@@ -241,7 +241,7 @@ This includes ancient European literature, more of any of the geographic regions
 Vary your history questions across time periods and type of history (political, social, military, cultural, etc.). In particular, do not write more than 4 total questions on military history.
 
 ### European History <a href = '#top' class = 'back-to-top'>&uarr;</a>
-One question should be on British history, the other two should be on continental Europe.
+One question should be on British/Canadian/Australian/New Zealand history, the other two should be on continental Europe.
 
 ### World History <a href = '#top' class = 'back-to-top'>&uarr;</a>
 This includes all geographic regions not listed above. Do not write your two questions on history from the same region/continent.
