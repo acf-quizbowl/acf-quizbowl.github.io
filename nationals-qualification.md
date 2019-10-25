@@ -2,6 +2,7 @@
 layout: page
 title: Qualifying for ACF Nationals
 permalink: /nationals-qualification/
+last_updated: October 25, 2019
 ---
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
@@ -29,7 +30,7 @@ This is designed to be reflective of a team's performance in an average game, co
 Teams will then be invited to join the ACF Nationals field in descending order of A-value, until the field fills or the bid acceptance deadline passes (see below).
 
 ## Bid Acceptance
-1. All teams that qualify by one of the above procedures must inform ACF of the acceptance of their bid by February 13, 2019. Note that “bid acceptance” is a completely separate process from actually submitting your optional packet—you may submit a packet before you have been officially offered a spot in the field in order to secure a larger discount, but you will only enter the field once you have accepted your bid. Furthermore, if you submit a packet before registering for the tournament and subsequently do not attend ACF Nationals, whether because you do not qualify or because you choose not to attend, that packet will be treated as a freelance submission; you may not use those questions for another future packet-submission tournament.
+1. All teams that qualify by one of the above procedures must inform ACF of the acceptance of their bid by February 15, 2020. Note that “bid acceptance” is a completely separate process from actually submitting your optional packet—you may submit a packet before you have been officially offered a spot in the field in order to secure a larger discount, but you will only enter the field once you have accepted your bid. Furthermore, if you submit a packet before registering for the tournament and subsequently do not attend ACF Nationals, whether because you do not qualify or because you choose not to attend, that packet will be treated as a freelance submission; you may not use those questions for another future packet-submission tournament.
 
 2. If the field does not fill once the bid acceptance deadline is reached, then all available bids will be awarded in order of descending A-value.
 
