@@ -29,8 +29,8 @@ permalink: /formats/
    <td style="text-align:left;"> 5 teams </td>
    <td style="text-align:left;"> double round robin, followed by top 3/bottom 2 split round robin </td>
    <td style="text-align:left;"> 10 games in 12–13 rounds </td>
-   <td style="text-align:left;"> non-blind packets used on teams’s byes
-note: the bottom 2 teams must play twice to achieve 10 rounds and can be structured as a best-of-3 type series if they are close in record </td>
+   <td style="text-align:left;"> non-blind packets used on teams’s byes <br/>
+<i>note: the bottom 2 teams must play twice to achieve 10 rounds and can be structured as a best-of-3 type series if they are close in record</i> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 6 teams </td>
@@ -78,7 +78,8 @@ note: the bottom 2 teams must play twice to achieve 10 rounds and can be structu
    <td style="text-align:left;"> 12 teams </td>
    <td style="text-align:left;"> round robin </td>
    <td style="text-align:left;"> 11 games in 11 rounds </td>
-   <td style="text-align:left;"> run non-blind packets in different rooms [2 packets per round] (i.e. run Chicago A packet in one room and Michigan A packet in another room to avoid teams hearing their own packet) </td>
+   <td style="text-align:left;"> run non-blind packets in different rooms [2 packets per round] <br/>
+   (i.e. run Chicago A packet in one room and Michigan A packet in another room to avoid teams hearing their own packet) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 12 teams </td>
@@ -126,22 +127,22 @@ note: the bottom 2 teams must play twice to achieve 10 rounds and can be structu
    <td style="text-align:left;"> 17 teams </td>
    <td style="text-align:left;"> split 9/8 for prelim round robin, followed by top 3/middle 3/ bottom 3(2) crossover </td>
    <td style="text-align:left;"> 10–11 games in 12 rounds </td>
-   <td style="text-align:left;"> run non-blind packets in different rooms [2 packets per round] (note that the bottom crossover bracket ends up with 3 teams from the 9 bracket and 2 from the 8 bracket)
-note: the 8 team bracket is run as a straight round robin (7 rounds, no byes) and so finishes 2 rounds earlier than the 9 bracket </td>
+   <td style="text-align:left;"> run non-blind packets in different rooms [2 packets per round] (note that the bottom crossover bracket ends up with 3 teams from the 9 bracket and 2 from the 8 bracket) <br/>
+<i>note: the 8 team bracket is run as a straight round robin (7 rounds, no byes) and so finishes 2 rounds earlier than the 9 bracket </i></td>
   </tr>
   <tr>
    <td style="text-align:left;"> 17 teams </td>
    <td style="text-align:left;"> split 9/8 for prelim round robin/limited single-bye round robin, followed by top 3/middle 3/ bottom 3(2) crossover </td>
    <td style="text-align:left;"> 10–11 games in 12 rounds </td>
-   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims (note that the bottom crossover bracket ends up with 3 teams from the 9 bracket and 2 from the 8 bracket)
-note: the 8 bracket is run as a limited single-bye (8 rounds, 1 paired bye per team) and so finishes 1 round earlier than the 9 bracket </td>
+   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims (note that the bottom crossover bracket ends up with 3 teams from the 9 bracket and 2 from the 8 bracket) <br/>
+<i>note: the 8 bracket is run as a limited single-bye (8 rounds, 1 paired bye per team) and so finishes 1 round earlier than the 9 bracket </i></td>
   </tr>
   <tr>
    <td style="text-align:left;"> 17 teams </td>
    <td style="text-align:left;"> split 9/8 for prelim round robin/double-bye round robin, followed by top 3/middle 3/ bottom 3(2) crossover </td>
    <td style="text-align:left;"> 10–11 games in 12 rounds </td>
-   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims (note that the bottom crossover bracket ends up with 3 teams from the 9 bracket and 2 from the 8 bracket)
-note: the 8 bracket is run as a double-bye (9 rounds, 2 paired byes per team) and so finishes with the 9 bracket </td>
+   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims (note that the bottom crossover bracket ends up with 3 teams from the 9 bracket and 2 from the 8 bracket) <br/>
+<i>note: the 8 bracket is run as a double-bye (9 rounds, 2 paired byes per team) and so finishes with the 9 bracket</i> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 18 teams </td>
@@ -153,7 +154,8 @@ note: the 8 bracket is run as a double-bye (9 rounds, 2 paired byes per team) an
    <td style="text-align:left;"> 19 teams </td>
    <td style="text-align:left;"> split 10/9 for prelim round robin, followed by top 4/middle 3/bottom 3(2) crossover </td>
    <td style="text-align:left;"> 11–13 games in 12–13 rounds </td>
-   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims (note that the bottom crossover bracket ends up with 3 teams from the 10 bracket and 2 from the 9 bracket) </td>
+   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims <br/>
+   <i>note: the bottom crossover bracket ends up with 3 teams from the 10 bracket and 2 from the 9 bracket</i> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 20 teams </td>
@@ -177,8 +179,8 @@ note: the 8 bracket is run as a double-bye (9 rounds, 2 paired byes per team) an
    <td style="text-align:left;"> 21 teams </td>
    <td style="text-align:left;"> split 7/7/7 for prelim round robin, followed by taking the top 2 in each bracket to a crossover, with the remaining 15 teams divided into 5-team brackets for a round robin using PPB tiebreakers </td>
    <td style="text-align:left;"> 10–11 games in 12 rounds </td>
-   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims
-note: this format requires stats to be completed at the end of the prelims. the #1s &amp; #2s by W-L go to a crossover in the 1st bracket. all #3s and (2) #4s [determined by highest PPB] go to the 2nd bracket. the remaining (1) #4, all #5s, and (1) #6 [determined by highest PPB] go to the 3rd bracket. the remaining (2) #6s and all #7s go to the 4th bracket. </td>
+   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims<br/>
+<i>note: this format requires stats to be completed at the end of the prelims. the #1s & #2s by W-L go to a crossover in the 1st bracket. all #3s and (2) #4s [determined by highest PPB] go to the 2nd bracket. the remaining (1) #4, all #5s, and (1) #6 [determined by highest PPB] go to the 3rd bracket. the remaining (2) #6s and all #7s go to the 4th bracket.</i> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 22 teams </td>
@@ -196,7 +198,8 @@ note: this format requires stats to be completed at the end of the prelims. the 
    <td style="text-align:left;"> 23 teams </td>
    <td style="text-align:left;"> split 12/11 for prelim round robin, followed by 2/2/2/2/2/2(1) crossover </td>
    <td style="text-align:left;"> 12–13 games in 13 rounds </td>
-   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims (note that the bottom crossover bracket ends up with 2 teams from the 12 bracket and 1 from the 11 bracket) </td>
+   <td style="text-align:left;"> non-blind packets used on teams’s byes during prelims <br/>
+   <i>note: the bottom crossover bracket ends up with 2 teams from the 12 bracket and 1 from the 11 bracket</i> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 24 teams </td>
