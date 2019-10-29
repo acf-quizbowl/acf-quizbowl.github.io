@@ -2,6 +2,7 @@
 layout: page
 title: Formats for ACF Tournaments
 permalink: /formats/
+last_updated: October 29, 2019
 ---
 # Table of Contents
 {: .no_toc}
