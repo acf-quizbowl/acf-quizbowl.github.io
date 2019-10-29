@@ -55,6 +55,7 @@ a.active { color: $color-text-accent; }
 
 /* Layout utilities */
 .container { max-width: $container-width; }
+.stats-container { max-width: $stats-container-width; }
 
 .col-1 { width: (1 / 12 * 100%); }
 .col-2 { width: (2 / 12 * 100%); }
@@ -186,6 +187,82 @@ a.active { color: $color-text-accent; }
   }
 }
 
+  // Grids
+  .game-box {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+
+.game-winning-team {
+    grid-column-start: 2; 
+    grid-column-end: 4; 
+    grid-row-start: 1; 
+    grid-row-end: 2; 
+  }
+
+ .game-winning-team > * {
+    font-weight: bold;
+    font-size: 24px;
+    color: $blue-dark;
+  }
+
+ .game-losing-team {
+    grid-column-start: 4; 
+    grid-column-end: 6; 
+    grid-row-start: 1; 
+    grid-row-end: 2; 
+  }
+
+ .game-losing-team > * {
+    font-weight: bold;
+    font-size: 24px;
+    color: $blue-dark;
+  }
+
+  .game-winning-players {
+    grid-column-start: 2; 
+    grid-column-end: 4; 
+    grid-row-start: 2; 
+    grid-row-end: 3; 
+  }
+
+ .game-losing-players {
+    grid-column-start: 4; 
+    grid-column-end: 6; 
+    grid-row-start: 2; 
+    grid-row-end: 3; 
+  }
+
+  .game-bonuses {
+    grid-column-start: 2; 
+    grid-column-end: 6; 
+    grid-row-start: 3; 
+    grid-row-end: 4; 
+  }
+   
+  .record-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+
+  .record-table {
+    grid-column-start: 1; 
+    grid-column-end: 2; 
+    grid-row-start: 1; 
+    grid-row-end: 2; 
+  }
+
+  .record-graph {
+    grid-column-start: 2; 
+    grid-column-end: 3; 
+    grid-row-start: 1; 
+    grid-row-end: 2; 
+  }
+
 .back-to-top {
   text-decoration: none !important;
   color: $blue-dark;
@@ -206,4 +283,28 @@ th.contributions {
 
 th.num-teams {
   width: 15%;
+}
+
+th.year {
+  width: 5%;
+}
+
+th.round {
+  width: 15%;
+}
+
+th.player {
+  width: 15%;
+}
+
+th.team {
+  width: 10%;
+}
+
+th.opponent {
+  width: 15%;
+}
+
+th.packet {
+  width: 25%;
 }
