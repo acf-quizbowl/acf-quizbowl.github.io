@@ -50,10 +50,15 @@ code { color: #4279C1; font-size: 16px; padding: 1px 0px; }
 .prose dt { font-weight: bold; font-style: italic; line-height: 1.25; }
 .prose dd { font-style: italic; margin-bottom: 0.5em; }
 .prose table { border-collapse: collapse; width: 100%; margin-bottom: .5em; overflow: auto; word-break: normal; word-break: keep-all; }
-.prose table th { font-weight: bold; text-align: left; color: #023B7F; }
+.prose table th { font-weight: bold; text-align: left; color: #023B7F; padding: 0px 5px; }
 .prose table th, .prose table td { border-top: 1px solid #023B7F; border-bottom: 1px solid #023B7F; }
 .prose table tr { background-color: #fff; border-top: 1px solid #023B7F; }
+.prose table tr td { padding: 0px 5px; }
 .prose table tr th { border-top: 2px solid #023B7F; border-bottom: 2px solid #023B7F; font-size: 200%; }
+.prose .table-striped tr th { border-top: 2px solid #023B7F; border-bottom: 2px solid #023B7F; font-size: 100%; padding: 0px 5px; }
+.prose .table-striped td { padding: 0px 5px; }
+.prose .table-striped tbody tr:nth-child(odd) { background-color: #ececec; }
+.prose .table-stats tr th { border-top: 2px solid #023B7F; border-bottom: 2px solid #023B7F; font-size: 100%; padding: 0px 5px; }
 
 /* Type utilities */
 .h0 { font-size: 48px; line-height: 1.0125; margin-top: 0.85em; word-wrap: break-word; }
@@ -110,6 +115,8 @@ a.active { color: #7EB7FD; }
 
 /* Layout utilities */
 .container { max-width: 64em; }
+
+.stats-container { max-width: 80em; }
 
 .col-1 { width: 8.3333333333%; }
 
@@ -243,7 +250,125 @@ a.active { color: #7EB7FD; }
 .link-primary { font-weight: bold; text-decoration: none !important; }
 .link-primary:hover { color: #7EB7FD; text-decoration: none !important; }
 
+.game-box { display: grid; grid-template-columns: repeat(7, 1fr); grid-gap: 10px; grid-auto-rows: minmax(100px, auto); }
+
+.game-winning-team { grid-column-start: 2; grid-column-end: 4; grid-row-start: 1; grid-row-end: 2; }
+
+.game-winning-team > * { font-weight: bold; font-size: 24px; color: #023B7F; }
+
+.game-losing-team { grid-column-start: 4; grid-column-end: 6; grid-row-start: 1; grid-row-end: 2; }
+
+.game-losing-team > * { font-weight: bold; font-size: 24px; color: #023B7F; }
+
+.game-winning-players { grid-column-start: 2; grid-column-end: 4; grid-row-start: 2; grid-row-end: 3; }
+
+.game-losing-players { grid-column-start: 4; grid-column-end: 6; grid-row-start: 2; grid-row-end: 3; }
+
+.game-bonuses { grid-column-start: 2; grid-column-end: 6; grid-row-start: 3; grid-row-end: 4; }
+
+.record-grid { display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px; grid-auto-rows: minmax(100px, auto); }
+
+.record-table { grid-column-start: 1; grid-column-end: 2; grid-row-start: 1; grid-row-end: 2; }
+
+.record-graph { grid-column-start: 2; grid-column-end: 3; grid-row-start: 1; grid-row-end: 2; }
+
 .back-to-top { text-decoration: none !important; color: #023B7F; font-size: 80%; }
+
+/* Team Career Table */
+th.year-team-career { width: 5%; }
+
+/* Team Game Table */
+th.year-team-game { width: 5%; }
+
+th.round-team-game { width: 15%; }
+
+th.team-team-game { width: 15%; }
+
+th.opponent-team-game { width: 15%; }
+
+th.result-team-game { width: 5%; }
+
+th.score-team-game { width: 10%; }
+
+th.tossups-team-game { width: 5%; }
+
+th.negs-team-game { width: 5%; }
+
+th.ppb-team-game { width: 5%; }
+
+th.packet-team-game { width: 20%; }
+
+/* Team Player Table */
+th.year-team-player { width: 5%; }
+
+th.team-team-player { width: 15%; }
+
+th.player-team-player { width: 50%; }
+
+th.games-team-player { width: 5%; }
+
+th.tossups-team-player { width: 5%; }
+
+th.negs-team-player { width: 5%; }
+
+th.points-team-player { width: 5%; }
+
+th.ppg-team-player { width: 10%; }
+
+/* Player Career Table */
+th.year-player-career { width: 5%; }
+
+th.team-player-career { width: 10%; }
+
+th.finish-player-career { width: 15%; }
+
+th.g-player-career { width: 50%; }
+
+th.pts-player-career { width: 5%; }
+
+th.ppg-player-career { width: 5%; }
+
+/* Player Game Table */
+th.year-player-game { width: 5%; }
+
+th.round-player-game { width: 15%; }
+
+th.player-player-game { width: 15%; }
+
+th.team-player-game { width: 10%; }
+
+th.opponent-player-game { width: 15%; }
+
+th.result-player-game { width: 5%; }
+
+th.packet-player-game { width: 20%; }
+
+/* Game Player Table */
+th.player-team-game-players { width: 75%; }
+
+th.tossups-team-game-players { width: 5%; }
+
+th.negs-team-game-players { width: 5%; }
+
+th.pts-team-game-players { width: 5%; }
+
+/* Standings */
+th.rank-standings { width: 5%; }
+
+th.team-standings { width: 15%; }
+
+/* Record Book */
+th.record-records { width: 5%; }
+
+th.opponent-records { width: 45%; }
+
+th.year-records { width: 5%; }
+
+th.player-records { width: 30%; }
+
+th.g-records { width: 5%; }
+
+th.app-records { width: 5%; }
 
 th.name { width: 20%; }
 
@@ -252,3 +377,13 @@ th.affiliations { width: 30%; }
 th.contributions { width: 50%; }
 
 th.num-teams { width: 15%; }
+
+th.round { width: 15%; }
+
+th.player { width: 15%; }
+
+th.team { width: 10%; }
+
+th.opponent { width: 15%; }
+
+th.packet { width: 25%; }
