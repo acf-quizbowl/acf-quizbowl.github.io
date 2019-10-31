@@ -217,6 +217,1254 @@ last_updated: October 29, 2019
 </tbody>
 </table>
 
+# Round Robin Schedules
+
+The following schedules are designed for quizbowl tournament directors to use for round-robin phases.
+
+## 3 Teams
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 3 </td>
+  </tr>
+</tbody>
+</table>
+
+## 4 Teams
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+  </tr>
+</tbody>
+</table>
+
+## 5 Teams
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 1 </td>
+  </tr>
+</tbody>
+</table>
+
+## 6 Teams, No Byes
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+  </tr>
+</tbody>
+</table>
+
+## 6 Teams, Limited Single Bye
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 3, 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 2, 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 1, 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+</tbody>
+</table>
+
+## 7 Teams
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 1 </td>
+  </tr>
+</tbody>
+</table>
+
+## 8 Teams, No Byes
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+  </tr>
+</tbody>
+</table>
+
+## 8 Teams, Limited Single Bye
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 4, 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 3, 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 1, 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+   <td style="text-align:center;"> 2, 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+</tbody>
+</table>
+
+## 9 Teams
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 7 v 9 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;"> 5 v 9 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+   <td style="text-align:center;"> 3 v 9 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+   <td style="text-align:center;"> 1 v 9 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 8 v 9 </td>
+   <td style="text-align:center;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 6 v 9 </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+   <td style="text-align:center;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 4 v 9 </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 2 v 9 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 1 </td>
+  </tr>
+</tbody>
+</table>
+
+## 10 Teams, No Byes
+{: .no_toc}
+
+*taken from "Designing Schedules for Leagues and Tournaments" by Jeffrey H. Dinitz*
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+   <th style="text-align:center;"> Room 5 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 5 v 9 </td>
+   <td style="text-align:center;"> 4 v 10 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 v 10 </td>
+   <td style="text-align:center;"> 6 v 9 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 8 v 9 </td>
+   <td style="text-align:center;"> 1 v 10 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 2 v 10 </td>
+   <td style="text-align:center;"> 7 v 9 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 9 v 10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 5 v 10 </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+   <td style="text-align:center;"> 1 v 9 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 3 v 9 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 7 v 10 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 8 v 10 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 4 v 9 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 2 v 9 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 6 v 10 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+  </tr>
+</tbody>
+</table>
+
+## 10 Teams, Limited Single Bye
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+   <th style="text-align:center;"> Room 5 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 5 v 9 </td>
+   <td style="text-align:center;"> 4 v 10 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 2, 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 v 10 </td>
+   <td style="text-align:center;"> 6 v 9 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 1, 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 8 v 9 </td>
+   <td style="text-align:center;"> 1 v 10 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 5, 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 2 v 10 </td>
+   <td style="text-align:center;"> 7 v 9 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 6, 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 9, 10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 5 v 10 </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+   <td style="text-align:center;"> 1 v 9 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 3 v 9 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 7 v 10 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 8 v 10 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 4 v 9 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 2 v 9 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 6 v 10 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 9 v 10 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+</tbody>
+</table>
+
+## 11 Teams
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+   <th style="text-align:center;"> Room 5 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1 v 10 </td>
+   <td style="text-align:center;"> 2 v 9 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 9 v 11 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 8 v 10 </td>
+   <td style="text-align:center;"> 7 v 11 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 7 v 9 </td>
+   <td style="text-align:center;"> 6 v 10 </td>
+   <td style="text-align:center;"> 5 v 11 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;"> 5 v 9 </td>
+   <td style="text-align:center;"> 4 v 10 </td>
+   <td style="text-align:center;"> 3 v 11 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+   <td style="text-align:center;"> 3 v 9 </td>
+   <td style="text-align:center;"> 2 v 10 </td>
+   <td style="text-align:center;"> 1 v 11 </td>
+   <td style="text-align:center;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+   <td style="text-align:center;"> 1 v 9 </td>
+   <td style="text-align:center;"> 10 v 11 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 8 v 11 </td>
+   <td style="text-align:center;"> 9 v 10 </td>
+   <td style="text-align:center;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 6 v 11 </td>
+   <td style="text-align:center;"> 7 v 10 </td>
+   <td style="text-align:center;"> 8 v 9 </td>
+   <td style="text-align:center;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 4 v 11 </td>
+   <td style="text-align:center;"> 5 v 10 </td>
+   <td style="text-align:center;"> 6 v 9 </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+   <td style="text-align:center;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 2 v 11 </td>
+   <td style="text-align:center;"> 3 v 10 </td>
+   <td style="text-align:center;"> 4 v 9 </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;"> 1 </td>
+  </tr>
+</tbody>
+</table>
+
+## 12 Teams, No Byes
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+   <th style="text-align:center;"> Room 5 </th>
+   <th style="text-align:center;"> Room 6 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 v 11 </td>
+   <td style="text-align:center;"> 1 v 12 </td>
+   <td style="text-align:center;"> 3 v 10 </td>
+   <td style="text-align:center;"> 4 v 9 </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 5 v 9 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 4 v 10 </td>
+   <td style="text-align:center;"> 3 v 11 </td>
+   <td style="text-align:center;"> 2 v 12 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 5 v 10 </td>
+   <td style="text-align:center;"> 3 v 12 </td>
+   <td style="text-align:center;"> 4 v 11 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 6 v 9 </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 4 v 12 </td>
+   <td style="text-align:center;"> 7 v 9 </td>
+   <td style="text-align:center;"> 6 v 10 </td>
+   <td style="text-align:center;"> 5 v 11 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 8 v 9 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 5 v 12 </td>
+   <td style="text-align:center;"> 6 v 11 </td>
+   <td style="text-align:center;"> 7 v 10 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 8 v 10 </td>
+   <td style="text-align:center;"> 7 v 11 </td>
+   <td style="text-align:center;"> 6 v 12 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 1 v 9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 8 v 11 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 7 v 12 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 9 v 10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 9 v 11 </td>
+   <td style="text-align:center;"> 8 v 12 </td>
+   <td style="text-align:center;"> 1 v 10 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+   <td style="text-align:center;"> 9 v 12 </td>
+   <td style="text-align:center;"> 10 v 11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 10 v 12 </td>
+   <td style="text-align:center;"> 1 v 11 </td>
+   <td style="text-align:center;"> 2 v 9 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+   <td style="text-align:center;"> 3 v 9 </td>
+   <td style="text-align:center;"> 2 v 10 </td>
+   <td style="text-align:center;"> 11 v 12 </td>
+  </tr>
+</tbody>
+</table>
+
+## 12 Teams, Limited Single Bye
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+   <th style="text-align:center;"> Room 5 </th>
+   <th style="text-align:center;"> Room 6 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 v 11 </td>
+   <td style="text-align:center;"> 1 v 12 </td>
+   <td style="text-align:center;"> 3 v 10 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;"> 4, 9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 5 v 9 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 4 v 10 </td>
+   <td style="text-align:center;"> 3 v 11 </td>
+   <td style="text-align:center;"> 2 v 12 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 5 v 10 </td>
+   <td style="text-align:center;"> 3 v 12 </td>
+   <td style="text-align:center;"> 4 v 11 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 6 v 9 </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 4 v 12 </td>
+   <td style="text-align:center;"> 7 v 9 </td>
+   <td style="text-align:center;"> 6 v 10 </td>
+   <td style="text-align:center;"> 5 v 11 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 8 v 9 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 6 v 11 </td>
+   <td style="text-align:center;"> 7 v 10 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 5, 12 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 8 v 10 </td>
+   <td style="text-align:center;"> 7 v 11 </td>
+   <td style="text-align:center;"> 6 v 12 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 1 v 9 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 8 v 11 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 7 v 12 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 9 v 10 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 9 v 11 </td>
+   <td style="text-align:center;"> 8 v 12 </td>
+   <td style="text-align:center;"> 1 v 10 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+   <td style="text-align:center;"> 9 v 12 </td>
+   <td style="text-align:center;"> 10 v 11 </td>
+   <td style="text-align:center;"> 3, 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 10 v 12 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 2 v 9 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 1, 11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+   <td style="text-align:center;"> 3 v 9 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 11 v 12 </td>
+   <td style="text-align:center;"> 2, 10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;"> 1 v 11 </td>
+   <td style="text-align:center;"> 5 v 12 </td>
+   <td style="text-align:center;"> 4 v 9 </td>
+   <td style="text-align:center;"> 2 v 10 </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 6, 8 </td>
+  </tr>
+</tbody>
+</table>
+
+## 13 Teams
+{: .no_toc}
+
+<table class="table table-striped" style="width: auto !important; ">
+ <thead>
+  <tr>
+   <th class = "round-round-robin" style="text-align:center;"> Round </th>
+   <th style="text-align:center;"> Room 1 </th>
+   <th style="text-align:center;"> Room 2 </th>
+   <th style="text-align:center;"> Room 3 </th>
+   <th style="text-align:center;"> Room 4 </th>
+   <th style="text-align:center;"> Room 5 </th>
+   <th style="text-align:center;"> Room 6 </th>
+   <th style="text-align:center;"> BYE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 1 v 12 </td>
+   <td style="text-align:center;"> 2 v 11 </td>
+   <td style="text-align:center;"> 3 v 10 </td>
+   <td style="text-align:center;"> 4 v 9 </td>
+   <td style="text-align:center;"> 5 v 8 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;"> 13 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 11 v 13 </td>
+   <td style="text-align:center;"> 1 v 10 </td>
+   <td style="text-align:center;"> 2 v 9 </td>
+   <td style="text-align:center;"> 3 v 8 </td>
+   <td style="text-align:center;"> 4 v 7 </td>
+   <td style="text-align:center;"> 5 v 6 </td>
+   <td style="text-align:center;"> 12 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 10 v 12 </td>
+   <td style="text-align:center;"> 9 v 13 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 9 v 11 </td>
+   <td style="text-align:center;"> 8 v 12 </td>
+   <td style="text-align:center;"> 7 v 13 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 5 </td>
+   <td style="text-align:center;"> 8 v 10 </td>
+   <td style="text-align:center;"> 7 v 11 </td>
+   <td style="text-align:center;"> 6 v 12 </td>
+   <td style="text-align:center;"> 5 v 13 </td>
+   <td style="text-align:center;"> 1 v 4 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 6 </td>
+   <td style="text-align:center;"> 7 v 9 </td>
+   <td style="text-align:center;"> 6 v 10 </td>
+   <td style="text-align:center;"> 5 v 11 </td>
+   <td style="text-align:center;"> 4 v 12 </td>
+   <td style="text-align:center;"> 3 v 13 </td>
+   <td style="text-align:center;"> 1 v 2 </td>
+   <td style="text-align:center;"> 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 6 v 8 </td>
+   <td style="text-align:center;"> 5 v 9 </td>
+   <td style="text-align:center;"> 4 v 10 </td>
+   <td style="text-align:center;"> 3 v 11 </td>
+   <td style="text-align:center;"> 2 v 12 </td>
+   <td style="text-align:center;"> 1 v 13 </td>
+   <td style="text-align:center;"> 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 8 </td>
+   <td style="text-align:center;"> 5 v 7 </td>
+   <td style="text-align:center;"> 4 v 8 </td>
+   <td style="text-align:center;"> 3 v 9 </td>
+   <td style="text-align:center;"> 2 v 10 </td>
+   <td style="text-align:center;"> 1 v 11 </td>
+   <td style="text-align:center;"> 12 v 13 </td>
+   <td style="text-align:center;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 4 v 6 </td>
+   <td style="text-align:center;"> 3 v 7 </td>
+   <td style="text-align:center;"> 2 v 8 </td>
+   <td style="text-align:center;"> 1 v 9 </td>
+   <td style="text-align:center;"> 10 v 13 </td>
+   <td style="text-align:center;"> 11 v 12 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 10 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 8 v 13 </td>
+   <td style="text-align:center;"> 9 v 12 </td>
+   <td style="text-align:center;"> 10 v 11 </td>
+   <td style="text-align:center;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 11 </td>
+   <td style="text-align:center;"> 2 v 4 </td>
+   <td style="text-align:center;"> 1 v 5 </td>
+   <td style="text-align:center;"> 6 v 13 </td>
+   <td style="text-align:center;"> 7 v 12 </td>
+   <td style="text-align:center;"> 8 v 11 </td>
+   <td style="text-align:center;"> 9 v 10 </td>
+   <td style="text-align:center;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 12 </td>
+   <td style="text-align:center;"> 1 v 3 </td>
+   <td style="text-align:center;"> 4 v 13 </td>
+   <td style="text-align:center;"> 5 v 12 </td>
+   <td style="text-align:center;"> 6 v 11 </td>
+   <td style="text-align:center;"> 7 v 10 </td>
+   <td style="text-align:center;"> 8 v 9 </td>
+   <td style="text-align:center;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 13 </td>
+   <td style="text-align:center;"> 2 v 13 </td>
+   <td style="text-align:center;"> 3 v 12 </td>
+   <td style="text-align:center;"> 4 v 11 </td>
+   <td style="text-align:center;"> 5 v 10 </td>
+   <td style="text-align:center;"> 6 v 9 </td>
+   <td style="text-align:center;"> 7 v 8 </td>
+   <td style="text-align:center;"> 1 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
 # Determining Win-Loss Records
  
 If all teams in a given playoff bracket have played the same pool of preliminary opponents, their preliminary win-loss records carry over to playoffs. This is usually the case when a large preliminary field is broken down into smaller playoff brackets.
@@ -228,6 +1476,7 @@ If multiple preliminary brackets feed into each playoff bracket, the only games 
 The procedures below should be used for overall finals. If there are at least four Division II teams (at any tournament) and/or at least four Undergraduate teams (at Regionals and Nationals), these procedures should also be used for those titles.
  
 ## Two Teams
+{: .no_toc}
  
 At the end of normal phases of play, if the top team is two or more games ahead of the second-place team, no final is played. The phrases "games ahead" or "games behind" is defined [here](https://en.wikipedia.org/wiki/Games_behind).
  
@@ -236,6 +1485,7 @@ If the top team is one game ahead of the second-place team, the two teams play a
 If the top two teams have the same record, they play a single game to determine the tournament winner.
  
 ## More than Two Teams
+{: .no_toc}
  
 If two teams are tied for second place, with records that put them one game behind a team in first place, the tied teams play a single game (a "play-in" game). The winner of the play-in game then plays a disadvantaged final against the top team, in a standard final series of up to two games.
  
