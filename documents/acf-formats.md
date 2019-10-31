@@ -219,8 +219,6 @@ last_updated: October 29, 2019
 
 # Round Robin Schedules
 
-The following schedules are designed for quizbowl tournament directors to use for round-robin phases.
-
 ## 3 Teams
 {: .no_toc}
 
