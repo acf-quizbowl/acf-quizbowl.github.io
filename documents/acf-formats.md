@@ -1471,7 +1471,13 @@ If multiple preliminary brackets feed into each playoff bracket, the only games 
  
 # Finals Procedures
  
-The procedures below should be used for overall finals. If there are at least four Division II teams (at any tournament) and/or at least four Undergraduate teams (at Regionals and Nationals), these procedures should also be used for those titles.
+The procedures below should be used for overall finals. 
+
+## Undergraduate and Division II
+
+If there are at least four Undergraduate teams and/or four Division II teams, but the field is not _entirely_ comprised of those teams (see ACF's [trophy policies](/hosting-guidelines/#trophies), these procedures should also be used for those titles. 
+
+If the field composition merits awarding Undergraduate and/or Division II titles and the tournament format involves rebracketing, and only one Undergraduate and/or Division II team is in the top bracket, they automatically win that title. If an Undergraduate and/or Division II team finishes one game ahead of another Undergraduate and/or Division II team, but the team with the higher placement is involved with finals procedures, they automatically win that title. 
  
 ## Two Teams
 {: .no_toc}
