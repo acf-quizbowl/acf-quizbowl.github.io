@@ -111,7 +111,7 @@ ACF notifies hosts of which schools’ packets used in set</td>
 </tr>
 <tr>
 <td>1 week before tournament</td>
-<td>Deadline for Mirror Coordinator to approve tournament format (ACF Regionals only)</td>
+<td>Deadline for Mirror Coordinator to approve tournament format</td>
 </tr>
 <tr>
 <td>24 hours after tournament</td>
@@ -154,24 +154,29 @@ The title of announcement should be in the form of “[Year] ACF [Tournament] at
 
 ## Tournament format and rules
 ### Tournament format
-All teams must be offered at least 9 meaningful games for Fall, and 10 meaningful games for Regionals. (Exceptions must be approved by the Mirror Coordinator.) ACF recommends offering at least 11 games. More details on suggested formats and tiebreaking procedures can be found on ACF’s [Formats](/formats/) page. Hosts should expect that at least 15 packets will be available for Fall and Regionals.
-For ACF Regionals, tournament formats must be approved by the Mirror Coordinator one week before the tournament.
+All teams must be offered at least 9 meaningful games for Fall, and 10 meaningful games for Regionals. (Exceptions must be approved by the Mirror Coordinator.) ACF recommends offering at least 11 games. More details on suggested formats and tiebreaking procedures can be found on ACF’s [Formats](/formats/) page. Hosts should expect that at least 15 packets will be available for Fall and Regionals. All tournament formats must be approved by the Mirror Coordinator one week before the tournament.
 ### Rules
 Hosts must use the [official ACF rules](/gameplay-rules) for gameplay.
 
 ## Tournament results
 ### Statistics
- Hosts must keep statistics for the entire tournament using SQBS, fully and accurately entering all team, individual, and packet statistics that the program uses (remember to enable “round reports”). Within 24 hours of the conclusion of the tournament, hosts must publicly post all SQBS reports to the Quizbowl Resource Center Database. They must also post a link to the statistics report and a brief summary of the results and top scorer on their announcement thread on the Quizbowl Resource Center Forums. If a tournament uses multiple phases, hosts must post reports for the preliminary phase, the playoff phase, and both phases combined. Host should make every effort to make any corrections to their statistics and re-upload the SQBS report within 24 hours of receiving corrections. Hosts may use a different program during the tournament itself and redo the statistics in SQBS. SQBS is available for free [here](http://ai.stanford.edu/~csewell/sqbs/). A guide on ACF’s best practices for submitting SQBS reports is [here](/sqbs-guide). Failing to keep statistics, post or correct statistics in a timely manner, or follow ACF’s best practices may result in a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
+ Hosts must keep statistics for the entire tournament, fully and accurately entering all team, individual, and packet statistics that the program uses (remember to enable “round reports”). Within 24 hours of the conclusion of the tournament, hosts must publicly post all statistics reports to the [Quizbowl Resource Center Database](https://hsquizbowl.org/db/). They must also post a link to the statistics report and a brief summary of the results and top scorer on their announcement thread on the Quizbowl Resource Center Forums. If a tournament uses multiple phases, hosts must post reports for the preliminary phase, the playoff phase, and both phases combined. Host should make every effort to make any corrections to their statistics and re-upload the statistics report within 24 hours of receiving corrections. Hosts may use any statistics program during the tournament itself, as long as they upload results to the Quizbowl Resource Center Database afterwards. SQBS can be used to keep game statistics, and is available for free [here](http://ai.stanford.edu/~csewell/sqbs/). A guide on ACF’s best practices for submitting SQBS reports is [here](/stats-guide). Failing to keep statistics, post or correct statistics in a timely manner, or follow ACF’s best practices may result in a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
 
 ### Detailed Statistics
-Some tournaments will require hosts to keep detailed statistics. Hosts will be responsible for ensuring that each staffer has been trained on using online scoresheets and best practices before the tournament. The Mirror Coordinator will work with the host site to provide adequate training resources well in advance of the tournament. On the day of the tournament, the host will be responsible for each staffer having a working laptop that can connect to the internet. Keeping detailed statistics is a substitute for conventional scoresheets and packets, but not for compiling SQBS reports and submitting them to the Quizbowl Resource Center Database.
+Some tournaments will require hosts to keep detailed statistics. Hosts will be responsible for ensuring that each staffer has been trained on using online scoresheets and best practices before the tournament. The Mirror Coordinator will work with the host site to provide adequate training resources well in advance of the tournament. On the day of the tournament, the host will be responsible for each staffer having a working laptop that can connect to the internet. Keeping detailed statistics is a substitute for conventional scoresheets and packets, but not for compiling statistical reports and submitting them to the [Quizbowl Resource Center Database](https://hsquizbowl.org/db/).
 
 ### Trophies
 Hosts must provide the appropriate trophies and prizes to teams, as described below. The cost of trophies and prizes, and other tournament expenses, is borne entirely by the hosts and does not affect the calculation of the editors’ share of the entry fees. ACF will provide trophies to hosts at reasonable cost. ACF will pay the trophy provider directly (including shipping to the host site) and the cost will come out of the host site’s share. If a host would like ACF to provide trophies for their site, they should contact the Mirror Coordinator at least two weeks before the tournament. 
-The top two overall teams will receive trophies in all cases. If, two weeks before the tournament, the host reasonably expects fewer than four Division II teams (at any tournament) and/or four Undergraduate teams (at Regionals and Nationals) will play the tournament, when the trophies are ordered, then the host must inform ACF that it will opt out of Undergraduate and/or Division II trophies. If the host opts out of Undergraduate and/or Division II trophies, but it turns out that there are enough teams to award either or both of those titles, the host must make reasonable efforts to award prizes to the winners. If there are four or more teams that are expected to play the tournament, the Undergraduate and/or Division II titles must be awarded; failing to do so will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
+
+The top two overall teams will receive trophies in all cases.  
+
+The top two Undergraduate and Division II teams will receive trophies if the field includes at least four Undergraduate teams and/or four Division II teams, respectively. If, two weeks before the tournament, the host reasonably expects fewer than four Undergraduate and/or four Division II teams will play the tournament, then the host must inform ACF that it will opt out of Undergraduate and/or Division II trophies. The host may also opt out of Undergraduate and/or Division II trophies if they reasonably expect that the _entire_ field will consist of Undergraduate and/or Division II teams. If the host opts out of Undergraduate and/or Division II trophies, but it turns out that the field merited awarding either or both of those titles, the host must make reasonable efforts to award prizes to the winners. 
+
+Failing to properly award titles and trophies according to ACF's [finals procedures](/formats/#finals-procedures), including Undergraduate and/or Division II, will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
 ### Book Prizes
-At a minimum, the members of the top two overall teams, and the top four individual scorers, should receive book prizes. Inexpensive used books are perfectly acceptable. For tournaments with more than ten teams, it is preferred that at least the fifth through eighth overall scorers also received book prizes. If the field composition merits awarding Division II and/or Undergraduate Trophies (see above for trophy information), the top four Division II scorers (at any tournament) and/or four Undergraduate scorers (at Regionals and Nationals) should also receive book prizes. 
-In addition to awarding individual book prizes as specified, hosts of tournaments using detailed statistics may optionally choose to recognize the top scorers in each category (e.g. literature, science, history, fine arts, religion/mythology/philosophy, etc.). Hosts may purchase extra books for this purpose, or may announce the top scorers in each category without awarding extra prizes.
+At a minimum, the members of the top two overall teams, and the top four individual scorers, should receive book prizes. Inexpensive used books are perfectly acceptable. For tournaments with more than ten teams, it is preferred that at least the fifth through eighth overall scorers also receive book prizes. If the field composition merits awarding Undergraduate and/or Division II trophies (see [above](#trophies)), the top four Undergraduate and/or Division II scorers should also receive book prizes. 
+
+In addition to awarding individual book prizes as specified, hosts of tournaments using [detailed statistics](#detailed-statistics) may optionally choose to recognize the top scorers in each category (e.g. literature, science, history, fine arts, religion/mythology/philosophy, etc.). Hosts may purchase extra books for this purpose, or may announce the top scorers in each category without awarding extra prizes.
 ### Qualifying for ACF Nationals
 ACF Regionals serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification/). As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
 ## Miscellaneous
@@ -197,7 +202,7 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 <td>$70</td>
 </tr>
 <tr>
-<td>New quizbowl team discount</td>
+<td>New to quizbowl discount</td>
 <td>–$100</td>
 <td>–$30</td>
 <td>–$70</td>
@@ -226,7 +231,10 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 </table>
 <!--gt table end-->
 
-Hosts do not owe ACF any money for teams receiving the “new quizbowl team discount.” Any money they do pay is the host’s. Normally, such teams will pay around $50. ACF asks for the cooperation of tournament directors in welcoming new teams into quizbowl by taking significantly less money from such teams.
+The travel discount is applied at most once per school. 
+
+The new to quizbowl discount is intended for schools that did not send a team to any regular collegiate academic tournament (exclusively Novice tournaments do not count) before September of the competition year prior to the current one, and have no one on the team(s) claiming this discount who played those tournaments for another school. Hosts do not owe ACF any money for teams receiving the new to quizbowl discount. Any money they do pay is the host’s. Normally, such teams will pay around $50. ACF asks for the cooperation of tournament directors in welcoming new teams into quizbowl by taking significantly less money from such teams.
+
 Host teams (also called “house teams”) do not owe ACF anything and are not required to write packets. However, they have the option of writing a packet for the host team to save money. If the host team (or any combination of the host team and host-provided staff) writes an acceptable packet by the no-penalty deadline, then they will receive a $50 discount from the total amount that they owe to ACF.
 ACF does not expect hosts to lose money by allowing a team into their tournament. In the unlikely event that a strict reading of these guidelines implies that the hosts owe ACF more money for a particular team than that team actually is supposed to pay the hosts, then the amount the hosts owe ACF will be adjusted downwards.
 ## Financial viability
@@ -259,11 +267,11 @@ The rest of the entry fees for ACF Nationals goes to the editors. ACF will provi
 <td>flat $50 penalty</td>
 </tr>
 <tr>
-<td>Host fails to play off or award Undergraduate/Division II titles and trophies, despite having enough teams to award either/both of those titles</td>
+<td>Host fails to play off or award titles and trophies (including Undergraduate and Division II), despite having enough teams to award any of those titles</td>
 <td>$50 for each title not awarded</td>
 </tr>
 <tr>
-<td>Host incorrectly plays off or awards Undergraduate/Division II titles and trophies</td>
+<td>Host incorrectly plays off or awards titles and trophies (including Undergraduate and Division II)</td>
 <td>$50 for each title not awarded</td>
 </tr>
 <tr>

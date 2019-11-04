@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SQBS Guide for ACF Tournaments
-permalink: /sqbs-guide/
+title: Statistics Guide for ACF Tournaments
+permalink: /stats-guide/
 ---
 
 ## Quizbowl Resource Center Database
@@ -14,12 +14,16 @@ permalink: /sqbs-guide/
 - After both player and school names, indicate "(DII)" or "(UG)" as applicable, even if there are not enough Division II and/or Undergraduate schools to award trophies (e.g. “Jane Doe (DII)” or “Michigan State (UG)”)
     - For Division II players, it is not necessary to indicate both DII and UG
 
-## Multi-Phase Tournaments
+## SQBS
+
+SQBS can be used to keep game statistics, and is available for free [here](http://ai.stanford.edu/~csewell/sqbs/).
+
+### Multi-Phase Tournaments
 - If the tournament uses multiple preliminary pools, label them separately as divisions (File → New Tournament → Use Divisions)
 - If tournament uses multiple phases like preliminary rounds and playoff games, statistics should be posted for each phase separately, as well as a combined file for all phases. `Settings → General → Rounds Included In Reports`, then generate separate reports.
 - When breaking ties, it may be necessary to seed teams by points per game, only including games against opponents that both teams played (see ACF’s [Formats](/formats/) guidelines). After saving a safe copy of the tournament results, delete non-common games for the teams involved in the tiebreaker.
     - Deleting a game cannot be undone, so exercise care!
 
-## Miscellaneous
+### Miscellaneous
 Enter the packet names exactly as they appear in the file name (`Settings → Packet Names`)
 Enable round reports (`Settings → General → Include Round Reports`)
