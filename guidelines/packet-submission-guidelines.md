@@ -10,7 +10,7 @@ permalink: /packet-submission-guidelines/
 {:toc}
 
 ## Who needs to submit packets?
-For ACF Fall and ACF Regionals, any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the academic year two years prior to the current year, that school must submit a packet (e.g. any team with two players who played prior to September 1st, 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.)
+For ACF Fall and ACF Regionals, any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the academic year two years prior to the current year, must submit a packet (e.g. any team with two players who played prior to September 1st, 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.) Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.
 
 The packet submission rules for ACF Nationals 2020 will be announced shortly.
 
