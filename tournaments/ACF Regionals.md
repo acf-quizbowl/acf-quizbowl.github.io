@@ -3,7 +3,7 @@ layout: page
 title: ACF Regionals
 permalink: /regionals/
 nav_order: 3
-last_updated: October 24, 2019
+last_updated: November 6, 2019
 ---
 
 **ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience.
@@ -41,26 +41,33 @@ Please refer to the [ACF Packet Submission Guidelines](/packet-submission-guidel
 
 The submitted packet and final packet distributions for ACF Regionals (and other ACF tournaments) may be found [here](/distribution). This distribution refers to a full packet; teams submitting half-packets will receive their half-packet assignments from the head editor.
 
-## Apply to host
-If you are interested in hosting a mirror of ACF Regionals, please contact ACF’s Mirror Coordinator, Alex Damisch, at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com), CC'ing [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Hosts will be expected to abide by [ACF’s Hosting Guidelines](/hosting-guidelines), which have been extensively revised for 2019–2020. Applications to host ACF Regionals will close on November 3, 2019.
+## Sites
+Applications to host ACF Regionals have closed; all sites will be announced by November 17, 2019.
 
-ACF intends to mirror ACF Regionals in [the following regions](https://acf-quizbowl.com/hosting-guidelines/#regions-according-to-acf):
-- Northeast
-- Upper Mid-Atlantic
-- Lower Mid-Atlantic
-- Southeast
-- Florida
-- Great Lakes
-- Midwest
-- North
-- South Central
-- Mountain West
-- California
-- Northwest
-- Eastern Canada
+This iteration of Regionals will be mirrored at the following sites:
+- Northeast: Yale University
+- Upper Mid-Atlantic: [Rutgers University](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23434)
+- Lower Mid-Atlantic: University of North Carolina
+- Southeast: Georgia Tech
+- Florida: University of Florida
+- Great Lakes: Carnegie Mellon University
+- Midwest: University of Illinois - Urbana-Champaign
+- North: [University of Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23435)
+- South Central: Rice University
+- Mountain West: Kansas State University
+- California: University of California - San Diego
+- Northwest: University of British Columbia
+- Eastern Canada: [University of Toronto](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23433)
+- UK: site pending
+
+## Wildcards
+Schools located more than 400 miles away from a Regionals site [can apply](https://acf-quizbowl.com/nationals-qualification/#qualification-methods) for a special "wildcard bid" to ACF Nationals. Applications must be submitted by January 4 at the latest; ACF will adjudicate each such bid (including bids for host teams and teams with a Regionals editor) within one week. If you would like to submit a bid, or would like to receive additional information about submitting a bid, please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 
 ## Registration
-Registration will open once sites have been announced. If you would like to receive your half-packet distribution for packet submission in advance, please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
+
+Fill out the central 2020 ACF Regionals registration form with all relevant information. The form is [here](https://forms.gle/2muU28fo5GxczdPA8). The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1dgEdJcWE_l24k6J6dtU1s2bpxVxDjdT7K4w_Nr2BYLk/edit#gid=845463544). 
+
+**Please register by January 20, 2020 at the latest.**
 
 ## Fees
 Additional details can be found on [the ACF website](https://acf-quizbowl.com/hosting-guidelines/#finances). Fees and discounts for this tournament are structured as follows:
