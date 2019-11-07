@@ -2,6 +2,7 @@
 layout: page
 title: Hosting Guidelines
 permalink: /hosting-guidelines/
+last_updated: November 7, 2019
 ---
 
 # Table of Contents
@@ -43,7 +44,7 @@ For the purposes of selecting ACF tournament sites only, ACF generally considers
 </tr>
 <tr>
 <td>Great Lakes</td>
-<td>Michigan, Ohio, Western Pennsylvania</td>
+<td>Michigan, Ohio, Western Pennsylvania, West Virginia</td>
 </tr>
 <tr>
 <td>Midwest</td>
