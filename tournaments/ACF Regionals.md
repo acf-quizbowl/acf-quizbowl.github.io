@@ -3,7 +3,7 @@ layout: page
 title: ACF Regionals
 permalink: /regionals/
 nav_order: 3
-last_updated: November 6, 2019
+last_updated: November 7, 2019
 ---
 
 **ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience.
@@ -45,12 +45,12 @@ The submitted packet and final packet distributions for ACF Regionals (and other
 Applications to host ACF Regionals have closed; all sites will be announced by November 17, 2019.
 
 This iteration of Regionals will be mirrored at the following sites:
-- Northeast: Yale University
+- Northeast: [Yale University](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23440)
 - Upper Mid-Atlantic: [Rutgers University](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23434)
-- Lower Mid-Atlantic: University of North Carolina
+- Lower Mid-Atlantic: [University of North Carolina](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23437)
 - Southeast: Georgia Tech
 - Florida: University of Florida
-- Great Lakes: Carnegie Mellon University
+- Great Lakes: [Carnegie Mellon University](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23438)
 - Midwest: University of Illinois - Urbana-Champaign
 - North: [University of Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23435)
 - South Central: Rice University
