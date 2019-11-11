@@ -2,6 +2,7 @@
 layout: page
 title: Packet Submission Guidelines
 permalink: /packet-submission-guidelines/
+last_updated: November 11, 2019
 ---
 
 # Table of Contents
