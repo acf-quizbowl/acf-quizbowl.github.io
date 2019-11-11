@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: October 21, 2019
+last_updated: November 11, 2019
 ---
 # Officers
 <table>
@@ -322,7 +322,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tr>
 <td>Matt Jackson</td>
 <td>Alumnus, Yale University</td>
-<td>Lead writer, August 2016 ACF rules revision<br/>ACF Nationals 2015 Assistant Tournament Director</td>
+<td>Lead writer, August 2016 ACF rules revision<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2015 Head Editor<br/>ACF Regionals 2014 Editor</td>
 </tr>
 <tr>
 <td>Dennis Jang</td>
