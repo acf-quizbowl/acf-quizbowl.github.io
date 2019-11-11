@@ -3,7 +3,7 @@ layout: page
 title: ACF Nationals
 permalink: /nationals/
 nav_order: 4
-last_updated: November 6, 2019
+last_updated: November 11, 2019
 ---
 
 **ACF Nationals** is the ACF collegiate national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the best question set of the year.
@@ -23,6 +23,8 @@ The submitted packet and final packet distributions for ACF Nationals (and other
 
 ## Packet Submission
 The editors of ACF Nationals are planning on writing 12 packets this year. Like the past two ACF Nationals, packet submission will be optional for ACF Nationals this year. The editors of ACF Nationals will work with teams interested in submitting to arrange packet submission, looking to get around 15 submissions for 10 total submitted packets. Please fill out [this form](https://forms.gle/TZ8SxgN3ycKFDALt7) if you would like to submit a packet.
+
+Finalized tossups for 2020 ACF Nationals will be capped at 8 lines in 10 point Times New Roman. However, this cap does not apply to submissions; submitting teams are allowed and encouraged to submit longer tossups.
 
 Under this arrangement, packet submission will not be mandatory, but we're counting on teams capable of writing quality packets to work with us to ensure that we have enough submissions to edit the tournament. If we can't be sure that we'll have enough packets to make this work, we'll consider other options.
 
