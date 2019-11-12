@@ -3,7 +3,7 @@ layout: page
 title: ACF Regionals
 permalink: /regionals/
 nav_order: 3
-last_updated: November 7, 2019
+last_updated: November 12, 2019
 ---
 
 **ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience.
@@ -58,7 +58,7 @@ This iteration of Regionals will be mirrored at the following sites:
 - California: University of California - San Diego
 - Northwest: University of British Columbia
 - Eastern Canada: [University of Toronto](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23433)
-- UK: site pending
+- UK: Oxford Brookes University
 
 ## Wildcards
 Schools located more than 400 miles away from a Regionals site [can apply](https://acf-quizbowl.com/nationals-qualification/#qualification-methods) for a special "wildcard bid" to ACF Nationals. Applications must be submitted by January 4 at the latest; ACF will adjudicate each such bid (including bids for host teams and teams with a Regionals editor) within one week. If you would like to submit a bid, or would like to receive additional information about submitting a bid, please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
