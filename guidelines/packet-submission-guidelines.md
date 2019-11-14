@@ -28,7 +28,7 @@ Want to know what a well-formatted packet looks like? Take a look at this sample
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRu0cUcpxcLI0wPlCEcZleGhIwyAUIITB-_Zpqr6TdlL2kNDpASIXxs4FLOs6m6ReTYfjFeeJHK3Svi/pub?embedded=true" width="82%" height="600"></iframe>
 
 ## Packet submission checklist
-Victor Prieto of Penn State created [a handy checklist](packet-submission-checklist.pdf) of things to keep in mind when writing a packet to submit to an ACF tournament -- please make sure your submitted packet checks all these boxes!
+Victor Prieto of Penn State created [a handy checklist](/packet-submission-checklist.pdf) of things to keep in mind when writing a packet to submit to an ACF tournament -- please make sure your submitted packet checks all these boxes!
 
 ## How to submit your packet
 
