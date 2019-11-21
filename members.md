@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: November 11, 2019
+last_updated: November 20, 2019
 ---
 # Officers
 <table>
@@ -84,7 +84,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Andrew Feist</td>
 <td>A.M. and PhD, Duke University<br/>Alumnus, University of Central Missouri</td>
-<td>Treasurer, 2019-2020<br/>ACF Nationals 2019 Stats Director<br/>ACF Nationals 2018 Stats Director</td>
+<td>ACF Nationals 2019 Stats Director<br/>ACF Nationals 2018 Stats Director</td>
 </tr>
 <tr>
 <td>Carsten Gehring</td>
@@ -112,9 +112,14 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>ACF Nationals 2019 Editor<br/>ACF Nationals 2017 Editor<br/>ACF Nationals 2016 co-Head Editor<br/>ACF Nationals 2015 Editor</td>
 </tr>
 <tr>
+<td>Rahul Keyal</td>
+<td>University of Californa, Berkeley</td>
+<td>ACF Fall 2019 Head Editor<br/>ACF Fall 2018 Editor</td>
+</tr>
+<tr>
 <td>Ophir Lifshitz</td>
 <td>Alumnus, University of Maryland</td>
-<td>ACF Regionals 2019 Logistics and Advanced Statistics<br/>ACF Regionals 2018 Logistics and Advanced Statistics</td>
+<td>ACF Fall 2019 Proofreading and Packetizing<br/>ACF Regionals 2019 Logistics and Advanced Statistics<br/>ACF Regionals 2018 Logistics and Advanced Statistics</td>
 </tr>
 <tr>
 <td>Stephen Liu</td>
@@ -167,7 +172,7 @@ ACF Regionals 2007 Editor</td>
 <tr>
 <td>Cody Voight</td>
 <td>Alumnus, Virginia Commonwealth University</td>
-<td>ACF Regionals 2017 Editor<br/>ACF Nationals 2016 Stats Director<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2013 Editor</td>
+<td>Treasurer, 2019-2020<br/>ACF Regionals 2017 Editor<br/>ACF Nationals 2016 Stats Director<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2013 Editor</td>
 </tr>
 <tr>
 <td>Andrew Wang</td>
@@ -197,11 +202,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <th class = 'contributions'>Contributions</th>
 </tr>
 <tbody>
-<tr>
-<td>Rahul Keyal</td>
-<td>University of Californa, Berkeley</td>
-<td>ACF Fall 2018 Editor</td>
-</tr>
 <tr>
 <td>JinAh Kim</td>
 <td>Alumna, University of Pennsylvania</td>
