@@ -3,7 +3,12 @@ layout: page
 title: Blog
 permalink: /blog/
 nav_order: 1.2
+last_updated: November 22, 2019
 ---
+
+# [Interview: Jackie Wu](interview-jackie-wu)
+
+*Jackie Wu is a sophomore at Carnegie Mellon University and president of the CMU quizbowl team. A Pennsylvania native, she is a blog contributor for the Greater Pennsylvania Quizbowl (GPQB) website and served as PACE’s Vice President of Outreach last year. ACF representative Olivia Lamberti spoke with her about her experience with tournament direction and online outreach.*
 
 # [Interview: Susan Ferrari](interview-susan-ferrari)
 
