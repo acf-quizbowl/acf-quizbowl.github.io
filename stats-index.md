@@ -618,7 +618,6 @@ Welcome to the ACF Statistics Database! This database contains team and individu
 <option value="players/jiho-park">Jiho Park (Harvard A)</option>
 <option value="players/jim-baker">Jim Baker (South Florida)</option>
 <option value="players/jimmy-ready">Jimmy Ready (Chicago B, Chicago C)</option>
-<option value="players/jinah-kim">Jinah Kim (Penn A)</option>
 <option value="players/jinah-kim">JinAh Kim (Penn A, Penn B)</option>
 <option value="players/joanna-barnett">Joanna Barnett (Columbia B)</option>
 <option value="players/joe-athens-state">Joe (Athens State A)</option>
