@@ -228,6 +228,11 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>ACF Fall 2019 Editor</td>
 </tr>
 <tr>
+<td>Ben Miller</td>
+<td>University of Chicago</td>
+<td>ACF Fall 2019 Editor</td>
+</tr>
+<tr>
 <td>Tracy Mirkin</td>
 <td>University of Florida</td>
 <td>ACF Fall 2019 Editor</td>
