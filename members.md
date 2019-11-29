@@ -213,9 +213,24 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>ACF Fall 2018 Editor</td>
 </tr>
 <tr>
+<td>Katherine Lei</td>
+<td>Montgomery Blair High School</td>
+<td>ACF Fall 2019 Editor</td>
+</tr>
+<tr>
 <td>Evan Lynch</td>
 <td>Ph.D Student, University of Southampton<br>Alumnus, University of Cambridge</td>
 <td>ACF Fall 2017 Editor</td>
+</tr>
+<tr>
+<td>Caroline Mao</td>
+<td>Mount Holyoke College</td>
+<td>ACF Fall 2019 Editor</td>
+</tr>
+<tr>
+<td>Tracy Mirkin</td>
+<td>University of Florida</td>
+<td>ACF Fall 2019 Editor</td>
 </tr>
 <tr>
 <td>Itamar Naveh-Benjamin</td>

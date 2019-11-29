@@ -35,6 +35,9 @@ Each summer, ACF invites community members who have done work for ACF in the pri
 
 To work with ACF, be on the lookout for an application to edit ACF Fall or ACF Regionals over the prior summer, or contact an [ACF board member](/members#officers) about logistical work.
 
+## Donating to ACF
+Please see [this page](/donate/) for information on donating to ACF.
+
 ## About this site
 
 Site built using Jekyll (theme is [Swiss](https://broccolini.net/swiss/) by [Diana Mounter](https://github.com/broccolini/)) and hosted using GitHub Pages.
