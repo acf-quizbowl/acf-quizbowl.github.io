@@ -60,6 +60,8 @@ code { color: #4279C1; font-size: 16px; padding: 1px 0px; }
 .prose .table-striped tbody tr:nth-child(odd) { background-color: #ececec; }
 .prose .table-stats tr th { border-top: 2px solid #023B7F; border-bottom: 2px solid #023B7F; font-size: 100%; padding: 0px 5px; }
 
+.small-list > ul > li { font-size: 85%; margin: 0px; }
+
 /* Type utilities */
 .h0 { font-size: 48px; line-height: 1.0125; margin-top: 0.85em; word-wrap: break-word; }
 @media (min-width: 52em) { .h0 { font-size: 96px; } }

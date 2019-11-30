@@ -5,6 +5,9 @@ permalink: /members/
 nav_order: 1.2
 last_updated: November 20, 2019
 ---
+
+For information on how to become an ACF member, see the [About page](/about#how-can-i-become-an-acf-member).
+
 # Officers
 <table>
 <tr>
@@ -41,6 +44,17 @@ last_updated: November 20, 2019
 </tbody>
 </table>
 
+### Other Contact Emails
+<div class = 'small-list'>
+<ul>
+<li>ACF Fall Head Editor: Rahul Keyal, <a href='fall@acf-quizbowl.com'>fall@acf-quizbowl.com</a></li>
+<li>ACF Regionals Head Editor: JinAh Kim, <a href='regionals@acf-quizbowl.com'>regionals@acf-quizbowl.com</a></li>
+<li>ACF Nationals Head Editor: Ryan Westbrook, <a href='nationals@acf-quizbowl.com'>nationals@acf-quizbowl.com</a></li>
+<li>ACF Nationals Tournament Director: Ryan Rosenberg, <a href='td@acf-quizbowl.com'>td@acf-quizbowl.com</a></li>
+<li>ACF Nationals Staffing: <a href='staffing@acf-quizbowl.com'>staffing@acf-quizbowl.com</a></li>
+<li>ACF Eligibility Committee: <a href='eligibility@acf-quizbowl.com'>eligibility@acf-quizbowl.com</a></li>
+</ul>
+</div>
 
 # Full Members
 Full members are ACF's editors, officers, and tournament directors. They vote in all ACF elections and on all constitutional amendments.
@@ -54,7 +68,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Matt Bollinger</td>
 <td>Alumnus, University of Virginia</td>
-<td>Communications Officer, 2019-2020<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2017 Head Editor<br/>ACF Fall 2012 Head Editor<br/>ACF Fall 2011 Editor</td>
+<td>Communications Officer, 2019–2020<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2017 Head Editor<br/>ACF Fall 2012 Head Editor<br/>ACF Fall 2011 Editor</td>
 </tr>
 <tr>
 <td>Jordan Brownstein</td>
@@ -64,22 +78,22 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Billy Busse</td>
 <td>Alumnus, University of Illinois, Urbana-Champaign</td>
-<td>President, 2019-2020<br/>Meeting Chair, 2018-2019<br/>ACF Nationals 2016 Editor<br/>ACF Nationals 2015 Editor</td>
+<td>President, 2019–2020<br/>Meeting Chair, 2018–2019<br/>ACF Nationals 2016 Editor<br/>ACF Nationals 2015 Editor</td>
 </tr>
 <tr>
 <td>Rob Carson</td>
 <td>Alumnus, University of Minnesota</td>
-<td>ACF Regionals 2019 Editor<br/>ACF Nationals 2018 Logistics<br/>ACF Nationals 2016 co-Head Editor<br/>ACF Nationals 2015 Editor<br/>ACF Regionals 2013 Editor<br/>ACF Regionals 2011 Head Editor<br/>ACF Winter 2010 Editor<br/>ACF Fall 2008 Editor</td>
+<td>ACF Regionals 2019 Editor<br/>ACF Nationals 2018 Logistics<br/>ACF Nationals 2016 co–Head Editor<br/>ACF Nationals 2015 Editor<br/>ACF Regionals 2013 Editor<br/>ACF Regionals 2011 Head Editor<br/>ACF Winter 2010 Editor<br/>ACF Fall 2008 Editor</td>
 </tr>
 <tr>
 <td>Alex Damisch</td>
 <td>M.S., DePaul University<br/>Alumna, Lawrence University</td>
-<td>Mirror Coordinator, 2019-2020<br/>Treasurer, 2018-2019<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Logistics</td>
+<td>Mirror Coordinator, 2019–2020<br/>Treasurer, 2018–2019<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Logistics</td>
 </tr>
 <tr>
 <td>Stephen Eltinge</td>
 <td>Ph.D Candidate, Yale University<br/>Alumnus, Massachusetts Institute of Technology</td>
-<td>ACF Regionals 2018 Editor<br/>Communications Officer, 2014-2017<br/>ACF Fall 2013 Editor</td>
+<td>ACF Regionals 2018 Editor<br/>Communications Officer, 2014–2017<br/>ACF Fall 2013 Editor</td>
 </tr>
 <tr>
 <td>Andrew Feist</td>
@@ -99,10 +113,10 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Andrew Hart</td>
 <td>J.D., University of Minnesota Law School<br/>Alumnus, University of Minnesota</td>
-<td>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Head Editor<br/>ACF Regionals 2017 Head Editor<br/>Meeting Chair, 2010-2015<br/>ACF Fall 2013 Editor<br/>ACF Winter 2010 Head Editor<br/>ACF Fall 2008 Head Editor<br/>ACF Fall 2007 Editor</td>
+<td>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Head Editor<br/>ACF Regionals 2017 Head Editor<br/>Meeting Chair, 2010&ndash;2015<br/>ACF Fall 2013 Editor<br/>ACF Winter 2010 Head Editor<br/>ACF Fall 2008 Head Editor<br/>ACF Fall 2007 Editor</td>
 </tr>
 <tr>
-<td>Will Holub-Moorman</td>
+<td>Will Holub–Moorman</td>
 <td>Alumnus, Harvard University</td>
 <td>ACF Regionals 2019 Editor<br/>ACF Regionals 2018 Editor</td>
 </tr>
@@ -134,7 +148,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Sam Luongo</td>
 <td>Alum, Virginia Commonwealth University School of Education<br/>Alum, University of Virginia</td>
-<td>Webmaster, 2018-2019<br/>Meeting Chair, 2017-2018<br/>ACF Nationals 2018 Tournament Director<br/>ACF Regionals 2015 Editor and Logistics Coordinator<br/>ACF Fall 2011 Editor</td>
+<td>Webmaster, 2018&ndash;2019<br/>Meeting Chair, 2017&ndash;2018<br/>ACF Nationals 2018 Tournament Director<br/>ACF Regionals 2015 Editor and Logistics Coordinator<br/>ACF Fall 2011 Editor</td>
 </tr>
 <tr>
 <td>Jonathan Magin</td>
@@ -149,7 +163,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Ryan Rosenberg</td>
 <td>Alumnus, University of North Carolina at Chapel Hill</td>
-<td>Webmaster, 2019-2020<br/>ACF Nationals 2019 Tournament Director<br/>ACF Nationals 2018 Assistant Tournament Director<br/>ACF Fall 2017 Editor<br/>ACF Fall 2015 Editor</td>
+<td>Webmaster, 2019&ndash;2020<br/>ACF Nationals 2019 Tournament Director<br/>ACF Nationals 2018 Assistant Tournament Director<br/>ACF Fall 2017 Editor<br/>ACF Fall 2015 Editor</td>
 </tr>
 <tr>
 <td>Bernadette Spencer</td>
@@ -160,8 +174,8 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>Jerry Vinokurov</td>
 <td>Alumnus, University of California-Berkeley<br/>
 Ph.D, Brown University</td>
-<td>ACF Nationals Tournament Director, 2015-2017<br/>
-Treasurer 2010-2015<br/>
+<td>ACF Nationals Tournament Director, 2015&ndash;2017<br/>
+Treasurer 2010&ndash;2015<br/>
 ACF Nationals 2014 Head Editor<br/>
 ACF Nationals 2012 Editor<br/>
 ACF Nationals 2011 Head Editor / Tournament Director<br/>
@@ -172,7 +186,7 @@ ACF Regionals 2007 Editor</td>
 <tr>
 <td>Cody Voight</td>
 <td>Alumnus, Virginia Commonwealth University</td>
-<td>Treasurer, 2019-2020<br/>ACF Regionals 2017 Editor<br/>ACF Nationals 2016 Stats Director<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2013 Editor</td>
+<td>Treasurer, 2019&ndash;2020<br/>ACF Regionals 2017 Editor<br/>ACF Nationals 2016 Stats Director<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2013 Editor</td>
 </tr>
 <tr>
 <td>Andrew Wang</td>
@@ -250,7 +264,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <tr>
 <td>Ashwin Ramaswami</td>
 <td>Stanford University</td>
-<td>Communications Officer, 2018-2019<br>ACF Fall 2018 Editor<br>ACF Fall 2017 Editor</td>
+<td>Communications Officer, 2018&ndash;2019<br>ACF Fall 2018 Editor<br>ACF Fall 2017 Editor</td>
 </tr>
 <tr>
 <td>Nitin Rao</td>
@@ -322,7 +336,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tr>
 <td>Susan Ferrari</td>
 <td>Ph.D., Cancer Biology, University of Chicago<br/>Alumna, University of Chicago</td>
-<td>Communications Officer, 2011-2014<br/>ACF Nationals Editor 2012<br/>ACF Nationals Editor 2011<br/>ACF Nationals Editor 2010</td>
+<td>Communications Officer, 2011&ndash;2014<br/>ACF Nationals Editor 2012<br/>ACF Nationals Editor 2011<br/>ACF Nationals Editor 2010</td>
 </tr>
 <tr>
 <td>Ted Gioia</td>
@@ -357,7 +371,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tr>
 <td>Gautam Kandlikar</td>
 <td>Alumnus, University of Minnesota</td>
-<td>Treasurer 2015-2017<br/>ACF Fall 2014 co-Head Editor<br/>ACF Fall 2009 Head Editor<br/>ACF Fall 2008 Editor</td>
+<td>Treasurer 2015&ndash;2017<br/>ACF Fall 2014 co-Head Editor<br/>ACF Fall 2009 Head Editor<br/>ACF Fall 2008 Editor</td>
 </tr>
 <tr>
 <td>Matt Keller</td>
@@ -457,7 +471,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tr>
 <td>Andrew Yaphe</td>
 <td>J.D., Stanford University Law School<br/>University of Chicago<br/>Alumnus, University of Virginia</td>
-<td>ACF Nationals Head Editor, 2005-07<br/>ACF Regionals Head Editor, 2000, 2005<br/>ACF Fall 2007 Head Editor<br/>ACF Nationals 2001 Editor</td>
+<td>ACF Nationals Head Editor, 2005&ndash;07<br/>ACF Regionals Head Editor, 2000, 2005<br/>ACF Fall 2007 Head Editor<br/>ACF Nationals 2001 Editor</td>
 </tr>
 <tr>
 <td>Richard Yu</td>
