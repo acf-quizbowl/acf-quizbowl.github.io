@@ -10,7 +10,7 @@ Academic Competition Federation (ACF) is a quizbowl organization that produces h
 
 ACF is a federal 501(c)3 non-profit organization, and your donation may qualify as a charitable deduction for federal income tax purposes. 
 
-If you are planning on donating $250 or more, please contact [treasurer@acf-quizbowl.com](mailto:treasurer@acf-quizbowl.com) for a [written acknowledgement of the gift](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contributions-written-acknowledgments).
+If you are planning to deduct a donation of $250 or more, please contact [treasurer@acf-quizbowl.com](mailto:treasurer@acf-quizbowl.com) for a [written acknowledgement of the gift](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contributions-written-acknowledgments).
 
 To donate, please use the PayPal button below. If you wish to make a donation without using PayPal, please contact [treasurer@acf-quizbowl.com](mailto:treasurer@acf-quizbowl.com).
 
