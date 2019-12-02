@@ -116,7 +116,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Head Editor<br/>ACF Regionals 2017 Head Editor<br/>Meeting Chair, 2010&ndash;2015<br/>ACF Fall 2013 Editor<br/>ACF Winter 2010 Head Editor<br/>ACF Fall 2008 Head Editor<br/>ACF Fall 2007 Editor</td>
 </tr>
 <tr>
-<td>Will Holub–Moorman</td>
+<td>Will Holub-Moorman</td>
 <td>Alumnus, Harvard University</td>
 <td>ACF Regionals 2019 Editor<br/>ACF Regionals 2018 Editor</td>
 </tr>
