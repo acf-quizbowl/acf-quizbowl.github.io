@@ -83,8 +83,8 @@ ACF has selected the following host sites for ACF Fall:
 - Eastern Canada: [Carleton University](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23114)
 - United Kingdom: Warwick
 
-- High-school-only: [Chicago](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=23165)
-- High-school-only: [California-Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=23167)
+- High-school-only: [Chicago](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=23167)
+- High-school-only: [California-Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=23165)
 
 Fields for each site can be found [here](https://docs.google.com/spreadsheets/d/1OmCbpEMlbRYfVONfCYDywO16uArhfgEazgIx3C0IxyU/edit#gid=1193040653).
 

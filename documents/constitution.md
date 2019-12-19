@@ -82,4 +82,4 @@ permalink: /constitution/
 
 *This constitution was originally written by Eric Kwartler and ratified by him and the other Full members of ACF at the time of its composition: Matthew Weiner, Jerry Vinokurov, Mike Sorice, and Seth Teitler. It has been amended several times since.*
 
-*Last amended May 2, 2019*
+*Last amended December 16, 2019*
