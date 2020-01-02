@@ -238,7 +238,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 <tr>
 <td>Caroline Mao</td>
-<td>Mount Holyoke College</td>
+<td>Barnard College</td>
 <td>ACF Fall 2019 Editor</td>
 </tr>
 <tr>
