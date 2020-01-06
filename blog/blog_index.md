@@ -3,8 +3,12 @@ layout: page
 title: Blog
 permalink: /blog/
 nav_order: 1.2
-last_updated: November 22, 2019
+last_updated: December 6, 2020
 ---
+
+# [Interview: Rahul Keyal](interview-rahul-keyal)
+
+*Rahul Keyal, a junior studying computer science at the University of California-Berkeley, is co-president of the Cal Quiz Bowl Club. He is a frequent writer and editor who subject-edited 2018 ACF Fall and head-edited 2019 ACF Fall. ACF representative Caroline Mao spoke with him about his editing experiences.*
 
 # [Interview: Jackie Wu](interview-jackie-wu)
 
