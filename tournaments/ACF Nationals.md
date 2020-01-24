@@ -28,6 +28,8 @@ Finalized tossups for 2020 ACF Nationals will be capped at 8 lines in 10 point T
 
 Under this arrangement, packet submission will not be mandatory, but we're counting on teams capable of writing quality packets to work with us to ensure that we have enough submissions to edit the tournament. If we can't be sure that we'll have enough packets to make this work, we'll consider other options.
 
+Packet authors should reflect your final roster. Packet authors may not play on another team if their packet is used.
+
 Additionally, if you submit a packet before registering for the tournament and subsequently do not attend ACF Nationals, whether because you do not qualify or because you choose not to attend, that packet can still be used for ACF Nationals. The discount the packet would have earned will roll over to the next ACF tournament that the school sends a team to. If the discount is greater than $70 ([ACF's share of tournament fees](/hosting-guidelines/#financial-breakdown-between-hosts-and-acf)), it can be spread among multiple teams from the same school, or the difference between $70 and the amount of the discount can be rolled over to a further tournament. Rolling over a discount does not preclude submitting a packet for the next ACF tournament, should that be required.
 
 ## Fee Schedule
