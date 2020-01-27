@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 nav_order: 1.2
-last_updated: December 6, 2020
+last_updated: December 6, 2019
 ---
 
 # [Interview: Rahul Keyal](interview-rahul-keyal)
