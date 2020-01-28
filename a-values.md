@@ -18,6 +18,12 @@ last_updated: January 28, 2020
 2. If the field does not fill once the bid acceptance deadline is reached, then all available bids will be awarded in order of descending A-value.
 
 ## Waitlist
-1. Teams that have not received a bid to ACF Nationals are invited to sign up for the waitlist. The deadline to sign up for the ACF Nationals waitlist is **February 15, 2020**.
+1. Teams that have not received a bid to ACF Nationals are invited to sign up for the waitlist. The deadline to sign up for the ACF Nationals waitlist is **February 15, 2020**. To sign up for the waitlist, please fill out the [ACF bid response form](https://docs.google.com/forms/d/e/1FAIpQLSc9tkD2C6UsNZlkLu41AXalOEU05OFNRzxuAeTedlXNN8Z3Zg/viewform), entering "Other" for your team name and entering your team name in the waitlist team name field.
 
 2. If a team declines a bid, that bid will be offered to the teams on the waitlist, in order of descending A-Value.
+
+## Standby
+
+1. ACF is also looking for teams willing to serve as standby teams in case of last-minute drops. Standby teams must commit to showing up to the tournament day-of; if there are any open spots, they will be able to play ACF Nationals for no entry fee. Otherwise, they are free to staff or explore the Twin Cities. 
+
+2. To sign up as a standby team, please email Tournament Director Ryan Rosenberg at [td@acf-quizbowl.com](mailto:td@acf-quizbowl.com).
