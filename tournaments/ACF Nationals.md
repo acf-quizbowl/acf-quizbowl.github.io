@@ -9,8 +9,8 @@ last_updated: November 11, 2019
 **ACF Nationals** is the ACF collegiate national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the best question set of the year.
 
 
-## ACF Nationals 2020
-ACF Nationals 2020 will be held on the weekend of **April 18th, 2020 at University of Minnesota - Twin Cities**. You can find the HSQB forum announcement [here](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23261).
+## 2020 ACF Nationals
+2020 ACF Nationals will be held on the weekend of **April 18th, 2020 at University of Minnesota - Twin Cities**. You can find the HSQB forum announcement [here](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23261).
 
 Ryan Westbrook, alumnus of the University of Michigan and Wayne State University, will be head editor.
 
@@ -19,7 +19,11 @@ Ryan Westbrook, alumnus of the University of Michigan and Wayne State University
 The submitted packet and final packet distributions for ACF Nationals (and other ACF tournaments) may be found [here](/distribution).
 
 ## Qualifying for ACF Nationals
-[ACF Regionals](/regionals) serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification). As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](/hosting-guidelines/#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
+[ACF Regionals](/regionals) serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification). 
+
+The A-Values for qualification for 2020 ACF Nationals are located [here](/a-values/2020). This page will also serve as a running list of the teams attending 2020 ACF Nationals.
+
+As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](/hosting-guidelines/#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
 
 ## Packet Submission
 The editors of ACF Nationals are planning on writing 12 packets this year. Like the past two ACF Nationals, packet submission will be optional for ACF Nationals this year. The editors of ACF Nationals will work with teams interested in submitting to arrange packet submission, looking to get around 15 submissions for 10 total submitted packets. Please fill out [this form](https://forms.gle/TZ8SxgN3ycKFDALt7) if you would like to submit a packet.
