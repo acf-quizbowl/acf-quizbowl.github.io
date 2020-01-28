@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2020 ACF Nationals A-Values
-permalink: /a-values/2020
+permalink: /a-values/
 last_updated: January 28, 2020
 ---
 

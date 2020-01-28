@@ -21,7 +21,7 @@ The submitted packet and final packet distributions for ACF Nationals (and other
 ## Qualifying for ACF Nationals
 [ACF Regionals](/regionals) serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification). 
 
-The A-Values for qualification for 2020 ACF Nationals are located [here](/a-values/2020). This page will also serve as a running list of the teams attending 2020 ACF Nationals.
+The A-Values for qualification for 2020 ACF Nationals are located [here](/a-values). This page will also serve as a running list of the teams attending 2020 ACF Nationals.
 
 As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](/hosting-guidelines/#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
 
