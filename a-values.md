@@ -10,6 +10,8 @@ last_updated: January 28, 2020
 
 ## A-Values
 
+*For an explanation of how A-Values and qualifications are determined, see [here](/nationals-qualification/).*
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR49LYhUbsgrb_uasAkYqt71nIky1WVNyin86Ju-G9syj9WBhRTdscibgwewpjjb_jFIcdT5Dy255Q3/pubhtml?gid=1982943835&amp;single=true&amp;widget=true&amp;headers=false" class = 'a-values'></iframe>
 
 ## Bid Acceptance
