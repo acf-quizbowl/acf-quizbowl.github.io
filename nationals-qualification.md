@@ -12,7 +12,7 @@ last_updated: October 25, 2019
 
 ## Qualification Methods
 1. Clubs who are hosting ACF Regionals: Each host may apply for one host bid, which will be evaluated by an ACF committee after the fall semester of tournaments has concluded. In their bid, teams must specify a roster of up to four players. The task of the committee will be to determine if this roster would be likely to qualify for Nationals based on the below criteria, using its performance at fall tournaments as the primary factor. If the team’s host bid is denied, then the club must play a house team to qualify. Clubs are responsible for making necessary arrangements to properly staff their ACF Regionals events in the event that they play house teams for any reason, including but not limited to host bids being denied or seeking to qualify a second team. Playing or qualifying additional teams at Regionals has no impact on the host bid decision or status. However, the team members listed in the bid roster may not play Regionals; experienced players should be used as tournament staffers.
-    1. Teams with an ACF Regionals editor who do not host a tournament site and teams that are more than 400 miles from the nearest Regionals site may apply for bids through the same process as host teams.
+1. Teams with an ACF Regionals editor who do not host a tournament site and teams that are more than 400 miles from the nearest Regionals site may apply for bids through the same process as host teams.
 2. Any team that wins an ACF Regionals tournament at which at least four total teams from at least two total schools are present will receive an automatic bid.
 3. Any team that wins the Undergraduate title at an ACF Regionals tournament at which at least four total Undergraduate teams from at least two total schools are present will receive an automatic bid.
 4. All remaining teams are ranked on their “A-value.”
@@ -22,7 +22,7 @@ There are four key components to A-value:
 - Tossup points per tossup heard (TUPPTUH): How many points each team scored, only counting tossups and negs, divided by the number of tossups they heard.
 - Bonus conversion (PPB): Points per bonus.
 - Bonuses heard per tossup heard (BHPTUH): The percentage of tossups a team answered correctly out of all the tossups they heard.
-- Strength of schedule (SOS): The combined points per tossups heard of each team's opponents in other games, weighted by how many times they played each opponent, divided by the average points per tossup heard over the entire field. If a team has played a slate of opponents of perfectly average strength, this will be 1, with higher values indicating a tougher schedule.
+- Strength of schedule (SOS): The combined points per tossups heard of each team's opponents, weighted by how many times they played each opponent, divided by the average points per tossup heard over the entire field. If a team has played a slate of opponents of perfectly average strength, this will be 1, with higher values indicating a tougher schedule.
 
 The raw A-value calculation is:
 `20 * (TUPPTH * SOS + BHPTUH * SOS * PPB)`
