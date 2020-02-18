@@ -31,9 +31,9 @@ If you are not sure whether you are eligible, refer to the [official ACF eligibi
 ACF tournaments are generally held for college teams; however, ACF does, in limited circumstances, allow high school teams to play ACF Fall and ACF Regionals.
 
 ## How can I become an ACF Member?
-Each summer, ACF invites community members who have done work for ACF in the prior year (either by editing an ACF tournament, or contributing to the logistics of running ACF tournaments) to become provisional members of ACF. Provisional members can then become full members of ACF by satisfactorily completing work on another ACF project.
+Twice a year (once before Regionals and once after Nationals), ACF invites community members who have done work for ACF in the prior year (either by editing an ACF tournament, or contributing to the logistics of running ACF tournaments) to become provisional members of ACF. Provisional members can then become full members of ACF by satisfactorily completing work on another ACF project.
 
-To work with ACF, be on the lookout for an application to edit ACF Fall or ACF Regionals over the prior summer, or contact an [ACF board member](/members#officers) about logistical work.
+To work with ACF, be on the lookout for an application to edit an ACF tournament over the prior summer, or contact an [ACF board member](/members#officers) about logistical work.
 
 ## Donating to ACF
 Please see [this page](/donate/) for information on donating to ACF.
