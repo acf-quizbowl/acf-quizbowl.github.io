@@ -3,8 +3,12 @@ layout: page
 title: Blog
 permalink: /blog/
 nav_order: 1.2
-last_updated: December 6, 2019
+last_updated: February 26, 2020
 ---
+
+# [Interview: JinAh Kim](interview-jinah-kim)
+
+*JinAh Kim is an alumna of the University of Pennsylvania, with a B.S. in Economics and a B.A. in Philosophy. She was the head editor of ACF Regionals 2020. ACF representative Caroline Mao spoke with her about her editing and writing involvement.*
 
 # [Interview: Rahul Keyal](interview-rahul-keyal)
 

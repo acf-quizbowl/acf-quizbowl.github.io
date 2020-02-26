@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 nav_order: 1
+last_updated: February 18, 2020
 ---
 ## Quick Links
 - [ACF Constitution](/constitution/)
@@ -12,11 +13,12 @@ nav_order: 1
 ## So what’s ACF all about then?
 **Academic Competition Federation** (ACF) is a non-profit organization dedicated to providing high-quality collegiate quizbowl tournaments. We are entirely student and volunteer run. We pride ourselves on the highest standard of academic question writing and we keep the amount of pop culture (a.k.a. trash) or semi-academic questions to a minimum.
 
-We offer three tournaments throughout the academic year:
+We offer four tournaments throughout the academic year, roughly corresponding to a [four-point difficulty scale](https://collegequizbowlcalendar.com/difficulty-scale/):
 
-- **[ACF Fall](/fall)** is an introductory-level event that is held in early November.
-- **[ACF Regionals](/regionals)** is a “regular difficulty” event that is held in January/February.  It serves as a qualifier for ACF Nationals.
-- **[ACF Nationals](/nationals)** is the premier collegiate championship event. It is held in April. To participate in ACF Nationals, teams must qualify through their performance at ACF Regionals, or may apply for wildcard bids.
+- **[ACF Fall](/fall)** is an novice event that is held in mid-October. It is aimed at players new to collegiate quizbowl and those without significant high school quizbowl experience.
+- **[ACF Winter](/winter)** is a medium-difficulty event that is held in mid-October. It aims to be appropriate for both new players and experienced ones alike.
+- **[ACF Regionals](/regionals)** is a regional championship event that is held in January/February.  It serves as a qualifier for ACF Nationals.
+- **[ACF Nationals](/nationals)** is the premier collegiate national championship. It is held in April. To participate in ACF Nationals, teams must qualify through their performance at ACF Regionals, or may apply for wildcard bids.
 
 ## Who can play in ACF tournaments?
 You and your teammates must be:
