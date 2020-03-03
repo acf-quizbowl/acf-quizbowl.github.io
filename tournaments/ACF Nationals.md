@@ -50,6 +50,27 @@ All packet submission deadlines are at 11:59pm Central Time on the given day. We
 ## Field Size
 The field for ACF Nationals 2020 is 48 teams.
 
+## Tournament Schedule
+*This schedule is tentative and subject to change.*
+
+**Saturday, April 18**
+- 8:00am - 8:30am: Staffer check-in
+- 8:30am - 8:45am: Staff meeting
+- 8:15am - 8:45am: Team registration
+- 8:45am - 9:00am: Opening meeting
+- 9:00am - 3:00pm: Preliminary Rounds (Rounds 1-8)
+- 3:00pm - 4:30pm: Lunch
+    - 3:00pm - 3:45pm: Tiebreaker 1 (Round 9)
+- 4:30pm - 9:00pm: Playoff Rounds (Rounds 10-15)
+
+**Sunday, April 19**
+- 9:00am - 12:00pm: Playoff Rounds (Rounds 16-19)
+- 12:00pm - 1:30pm: Lunch
+    - 12:00pm - 12:45pm: Tiebreaker 2 (Round 20)
+- 1:30pm - 2:15pm: Finals 1 (Round 21, if necessary)
+- 2:15pm - 3:00pm: Finals 2 (Round 22, if necessary)
+- 3:00pm - 3:30pm: Awards Ceremony
+
 ## Staffing
 If you would like to staff ACF Nationals, please send an email both to [td@acf-quizbowl.com](mailto:td@acf-quizbowl.com) and [staffing@acf-quizbowl.com](mailto:staffing@acf-quizbowl.com) with the subject line "ACF Nationals staffing".
 
