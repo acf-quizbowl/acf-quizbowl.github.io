@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Carper Award
-permalink: /carper-award/
+permalink: /carper/
 ---
 
 The Dr. N. Gordon Carper Lifetime Achievement Award is given to members of the quizbowl community who exhibit dedication to and long-term support of collegiate academic competitions. It is named after [Gordon Carper](https://www.qbwiki.com/wiki/Gordon_Carper), the long-time quizbowl coach at Berry College who hosted the first non-College Bowl collegiate academic competitions.
@@ -29,3 +29,4 @@ The Dr. N. Gordon Carper Lifetime Achievement Award is given to members of the q
 - 2017: Jonathan Magin
 - 2018: Mike Bentley
 - 2019: Rob Carson and Kelly McKenzie
+- 2020: Alex Damisch and Mike Sorice
