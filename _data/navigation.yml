@@ -1,0 +1,40 @@
+- title: "About"
+  url: "/about"
+
+- title: "Blog"
+  url: "/blog"
+
+- title: "Members"
+  url: "/members"
+
+- title: "Tournaments"
+  sublinks:
+    - subtitle: "ACF Fall"
+      url: "/fall"
+    - subtitle: "ACF Regionals"
+      url: "/regionals"
+    - subtitle: "ACF Nationals"
+      url: "/nationals"
+
+- title: "Rules"
+  sublinks:
+    - subtitle: "Eligibility Rules"
+      url: "/eligibility-rules"
+    - subtitle: "Gameplay Rules"
+      url: "/gameplay-rules"
+
+- title: "Guidelines"
+  url: "/guidelines"
+  sublinks:
+    - subtitle: "Hosting Guidelines"
+      url: "/hosting-guidelines"
+    - subtitle: "Suggested Formats"
+      url: "/formats"
+    - subtitle: "Packet Submission Guidelines"
+      url: "/packet-submission-guidelines"
+
+- title: "Statistics"
+  url: "/statistics"
+
+- title: "Archives"
+  url: "/archives"

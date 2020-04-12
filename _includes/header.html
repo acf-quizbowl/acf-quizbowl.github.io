@@ -3,17 +3,18 @@
     <a class="align-middle link-primary ml-2" href="{{ site.baseurl }}/"> {{ site.title }} </a>
   </div>
   <div class="right sm-width-full">         
- {% assign pagelist = site.pages | sort: 'nav_order' %}
-    <ul class="list-reset mt-lg-1 mb-lg-1">
-      {% for my_page in pagelist %}
-        {% if my_page.nav_order %}
-        <li class="inline-block">
-          <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2 {% if my_page.url == page.url %}active{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">
-            {{ my_page.title }}
-          </a>
-        </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+    {% assign pagelist = site.pages | sort: 'nav_order' %}
+       <ul class="list-reset mt-lg-1 mb-lg-1">
+         {% for my_page in pagelist %}
+           {% if my_page.nav_order %}
+           <li class="inline-block">
+             <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2 {% if my_page.url == page.url %}active{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">
+               {{ my_page.title }}
+             </a>
+           </li>
+           {% endif %}
+         {% endfor %}
+       </ul>
+      </nav>
   </div>
 </header>

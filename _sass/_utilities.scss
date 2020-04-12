@@ -34,7 +34,7 @@ ol ol { list-style-type: upper-alpha; }
 ol ol ol { list-style-type: lower-roman; }
 
 /* Border utilities */
-.border-bottom-thick { border-bottom: 2px solid; border-color: currentColor; }
+.border-bottom-thick { color: $color-title; border-bottom: 2px solid; border-color: currentColor; }
 .border-bottom-thin { border-bottom: 1px solid; border-color: currentColor; }
 .border-top-thick { border-top: 2px solid; border-color: currentColor; }
 .border-top-thin { border-top: 1px solid; border-color: currentColor; }
@@ -55,6 +55,7 @@ a.active { color: $color-text-accent; }
 
 /* Layout utilities */
 .container { max-width: $container-width; }
+.stats-container { max-width: $stats-container-width; }
 
 .col-1 { width: (1 / 12 * 100%); }
 .col-2 { width: (2 / 12 * 100%); }
@@ -184,4 +185,91 @@ a.active { color: $color-text-accent; }
     color: $color-primary-link;
     text-decoration: none !important;
   }
+}
+
+  // Grids
+  .game-box {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+
+.game-winning-team {
+    grid-column-start: 2; 
+    grid-column-end: 4; 
+    grid-row-start: 1; 
+    grid-row-end: 2; 
+  }
+
+ .game-winning-team > * {
+    font-weight: bold;
+    font-size: 24px;
+    color: $blue-dark;
+  }
+
+ .game-losing-team {
+    grid-column-start: 4; 
+    grid-column-end: 6; 
+    grid-row-start: 1; 
+    grid-row-end: 2; 
+  }
+
+ .game-losing-team > * {
+    font-weight: bold;
+    font-size: 24px;
+    color: $blue-dark;
+  }
+
+  .game-winning-players {
+    grid-column-start: 2; 
+    grid-column-end: 4; 
+    grid-row-start: 2; 
+    grid-row-end: 3; 
+  }
+
+ .game-losing-players {
+    grid-column-start: 4; 
+    grid-column-end: 6; 
+    grid-row-start: 2; 
+    grid-row-end: 3; 
+  }
+
+  .game-bonuses {
+    grid-column-start: 2; 
+    grid-column-end: 6; 
+    grid-row-start: 3; 
+    grid-row-end: 4; 
+  }
+   
+  .record-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+
+  .record-table {
+    grid-column-start: 1; 
+    grid-column-end: 2; 
+    grid-row-start: 1; 
+    grid-row-end: 2; 
+  }
+
+  .record-graph {
+    grid-column-start: 2; 
+    grid-column-end: 3; 
+    grid-row-start: 1; 
+    grid-row-end: 2; 
+  }
+
+.back-to-top {
+  text-decoration: none !important;
+  color: $blue-dark;
+  font-size: 80%;
+}
+
+.a-values {
+  width: 100%;
+  height: 800px;
 }

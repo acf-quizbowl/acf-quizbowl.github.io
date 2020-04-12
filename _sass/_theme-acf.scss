@@ -13,7 +13,7 @@ $color-background: $white !default;
 $color-dot-accent: $blue-light !default;
 $color-foreground: $blue-dark !default;
 $color-title: $blue-dark !default;
-$color-body-text: $blue-dark !default;
+$color-body-text: $black !default;
 $color-text-accent: $blue-light !default;
 $color-code: $blue !default;
 $color-nav-link: $blue-light !default;
@@ -25,5 +25,6 @@ $color-primary-link: $blue-light !default;
         "variables",
         "base",
         "components",
-        "utilities"
+        "utilities",
+        "table-columns"
 ;

@@ -3,6 +3,7 @@ layout: post
 title: "Interview: Vishwa Shanmugam"
 permalink: "/blog/interview-vishwa-shanmugam"
 categories: [blog, interview]
+post_date: July 12, 2019
 ---
 
 <img src="/blog/images/vishwa-shanmugam.jpg" style="width:350px;"/>

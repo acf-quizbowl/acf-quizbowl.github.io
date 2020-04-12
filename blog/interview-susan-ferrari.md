@@ -3,6 +3,7 @@ layout: post
 title: "Interview: Susan Ferrari"
 permalink: "/blog/interview-susan-ferrari"
 categories: [blog, interview]
+post_date: September 20, 2019
 ---
 
 *Susan Ferrari is an alumna of the University of Chicago. A two-time ACF Nationals champion who has been involved with quizbowl since 1999, she now works as Assistant Dean and Director of Corporate, Foundation, and Government Relations at Grinnell College. ACF representative Olivia Lamberti spoke with her about how quizbowl and her relationship with the game have evolved over the years.*
