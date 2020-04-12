@@ -2,6 +2,7 @@
 layout: page
 title: Packet Submission Guidelines
 permalink: /packet-submission-guidelines/
+last_updated: November 12, 2019
 ---
 
 # Table of Contents
@@ -10,82 +11,46 @@ permalink: /packet-submission-guidelines/
 {:toc}
 
 ## Who needs to submit packets?
-Any team with at least one person (two people for ACF Fall) on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the the academic year two years prior to the current year, that school must submit a packet (e.g. any team with a player [two players for ACF Fall] who played prior to September 1 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.)
+For ACF Fall and ACF Regionals, any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the academic year two years prior to the current year, must submit a packet (e.g. any team with two players who played prior to September 1st, 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.) Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.
+
+The packet submission rules for ACF Nationals 2020 will be announced shortly.
 
 ## What counts as a “regular, collegiate, academic quizbowl tournament”?
 All ACF tournaments, NAQT Division I or Division II SCT, NAQT ICT, and typical academic invitationals and summer opens count as regular collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as regular collegiate academic tournaments in determining packet requirement.
 
 Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” questions do not.
 
-This test is applied to individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, then please contact [the ACF eligibility committee](mailto:eligibility@acf-quizbowl.com).
+This test is applied to each individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, then please contact [the ACF eligibility committee](mailto:eligibility@acf-quizbowl.com).
 
-## Sample Packet
+## Sample packet
 Want to know what a well-formatted packet looks like? Take a look at this sample packet.
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRu0cUcpxcLI0wPlCEcZleGhIwyAUIITB-_Zpqr6TdlL2kNDpASIXxs4FLOs6m6ReTYfjFeeJHK3Svi/pub?embedded=true" width="82%" height="600"></iframe>
 
+## Packet submission checklist
+Victor Prieto of Penn State created [a handy checklist](https://acf-quizbowl.com/packet-submission-checklist.pdf) of things to keep in mind when writing a packet to submit to an ACF tournament -- please make sure your submitted packet checks all these boxes!
+
+## How to submit your packet
+
+**Document format**
+
+Please submit your packet as a .doc, .docx, or .rtf file. Submit all questions in 10-point Times New Roman font. Your document should have 1-inch margins on all sides. PDFs, .odt, .html, .txt or any other formats are **not acceptable**.
+
+*If editors cannot open your packet on the first try, they will return your packet to you and have you re-send a fixed version before it is considered submitted for fee purposes.*
+
+**Document Name**
+
+Please follow the following file-naming scheme when submitting packets:
+
+    <Tournament Name> <Year> – <School Name> <Team Name or Letter>
+
+For instance, if UC Irvine’s A team is submitting a packet for 2015 ACF Regionals, it should be named:
+
+    ACF Regionals 2015 – UC Irvine A
+
 ## Distribution
-All Full Packet submissions should have 24 tossups and 24 bonuses according to the distribution outlined below.
 
-The following distribution applies to ACF Regionals and ACF Nationals Submissions. See the [ACF Fall Announcement](/fall) for information about half-packet distributions.
-
-*Note: The X/Y notation used throughout this section refers to X tossups and Y bonuses. Eg. If you see Fine Arts 3/3, it means 3 tossups and 3 bonuses.*
-
-**Literature 5/5**
-
-- American literature: 1/1
-- British literature: 1/1
-- European literature from 500 CE onwards: 1/1
-- World (anything not covered above): 1/0 or 0/1
-- Anything you want, including ancient European literature, more of any category above, or combinations of categories above: 1/2 or 2/1
-
-*Vary questions across time periods. Do not write more than 1 question on very recent (post-1990) literature. Please make sure your questions span a variety of answers such as authors, novels, poems, criticism, essays, etc.*
-
-**History 5/5**
-
-- American history: 1/1
-- European, Canadian, and Australian history: 3/3 (1 should be on classical history, 1 on British history, and 3 on continental Europe from three different post-classical time periods.)
-- World history: 1/1 (from two different areas of the world besides those covered above)
-*You may write up to 4 questions on military history (battles, wars, or people known primarily for their military accomplishments.)*
-
-**Science 5/5**
-- Biology 1/1
-- Chemistry 1/1
-- Physics 1/1
-- Math or computer science: 1 question
-- Astronomy, earth science/geology, or other science not covered above: 1 question
-- Any science: 1/1 (you can write a math question here if you wrote computer science above, or earth science here if you wrote astronomy above, but don’t write a second question on any of the “minor” fields. Questions which straddle the line between disciplines should be used for Any Science. You can also just write more biology, chemistry, or physics here.)
-*You may write up to 1 question on the history of science. Questions on famous experiments which focus on the scientific principles at work are considered science rather than science history.*
-
-**Religion, Mythology and Philosophy 3/3**
-- Religion: 1/1 (different religions)
-- Mythology: 1/1 (different myth systems)
-- Philosophy: 1/1 (different parts of philosophical history)
-*Write least 1 and no more than 2 questions in this category on non-Western topics. You may write about events which straddle the line between history and religion for either history or religion, but don’t write about religious history for both categories.*
-
-**Fine Arts 3/3**
-
-- Painting: 1/1
-- Classical music (excluding opera): 1/1
-- Other Fine Arts: 1/1 (opera, sculpture, architecture, dance, jazz, photography, art film; do NOT write more painting or classical music)
-*Write on a visual category and an auditory art for Other Fine Arts. e.g. pick jazz and photography, or opera and architecture, but not opera and jazz.*
-
-**Social Science 1/1**
-
-Possible topics for this category include economics, psychology, sociology, linguistics, anthropology, political science, social criticism, and law. (Questions on Supreme Court cases go under history; other law questions may go here.)
-
-*Do not write more than 1 question from a particular field of study.*
-
-**Geography 1/1**
-
-Possible topics for this category include physical features, countries, cities, regions, etc. Ethnic groups can be geography; languages are more likely social science.
-
-*Do not write both questions on the same kind of political or physical feature, such as rivers, bodies of water, mountains, cities etc. Do not write both questions on the same area of the world.*
-
-**Pop culture, current events, or your choice 1/1**
-You can write anything you wish here except for topics included in the other broad categories above. You can write questions which mix categories here.
-
-*Do not write more than one pop culture, question from the same general category. e.g. Don’t write two questions on sports.*
+The submitted packet and final packet distributions for ACF tournaments may be found [here](/distribution).
 
 ## Question-writing philosophy
 **Difficulty Level**
@@ -119,15 +84,13 @@ We prohibit specific types of bonuses and levy penalties on teams that submit pa
 
 ## More guidance on writing questions
 
-Please follow the ACF Formatting Guidelines when formatting your packet.
+Please follow ACF formatting guidelines when formatting your packet.
 
 Several ACF editors have provided tips on how to write good questions. Please consult the following guides:
 
 [Jerry Vinokurov’s Guide to Writing Questions](/jerry-guide) is intended for newcomers and has guides on basic principles of good writing.
 [Subash Maddipotti’s Tips on Question Writing](/subash-guide) provide excellent advice on what to avoid when writing questions.
 [Andrew Hart’s Primer on Regular Difficulty](/andrew-hart-regular-difficulty) is an excellent resource for teams writing questions for ACF Regionals (or a “regular difficulty” tournament.)
-
-## Past ACF Events as models
 
 In addition to the above question-writing guides, we encourage you to consult old ACF events as writing models.
 
@@ -136,24 +99,6 @@ We recommend:
 * For ACF Fall-level difficulty – ACF Fall 2012, ACF Fall 2017, and ACF Fall 2018
 * For ACF Regionals-level difficulty – ACF Regionals 2010 and ACF Regionals 2019
 * For ACF Nationals-level difficulty – ACF Nationals 2017, ACF Nationals 2018, and ACF Nationals 2019
-
-## How to submit your packet
-
-**Document format**
-
-Please submit your packet as a .doc, .docx, or .rtf file. Submit all questions in 10-point Times New Roman font. Your document should have 1-inch margins on all sides. PDFs, .odt, .html, .txt or any other formats are **not acceptable**.
-
-*If editors cannot open your packet on the first try, they will return your packet to you and have you re-send a fixed version before it is considered submitted for fee purposes.*
-
-**Document Name**
-
-Please follow the following file-naming scheme when submitting packets:
-
-    <Tournament Name> <Year> – <School Name> <Team Name or Letter>
-
-For instance, if UC Irvine’s A team is submitting a packet for 2015 ACF Regionals, it should be named:
-
-    ACF Regionals 2015 – UC Irvine A
 
 ## Discounts/Penalties
 
@@ -171,4 +116,3 @@ Prohibited types of questions include:
 
 ## Plagiarism
 We do not tolerate plagiarism, and there will be consequences for any instances of plagiarism. Please refer to ACF’s policy on plagiarism.
-
