@@ -3,14 +3,14 @@ layout: page
 title: ACF Nationals
 permalink: /nationals/
 nav_order: 4
-last_updated: November 11, 2019
+last_updated: April 12, 2020
 ---
 
 **ACF Nationals** is the ACF collegiate national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the best question set of the year.
 
 
 ## 2020 ACF Nationals
-2020 ACF Nationals will be held on the weekend of **April 18th, 2020 at University of Minnesota - Twin Cities**. You can find the HSQB forum announcement [here](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23261).
+2020 ACF Nationals will be held on the weekend of **August 8th, 2020 at Northwestern University**. You can find the HSQB forum announcement [here](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23261).
 
 Ryan Westbrook, alumnus of the University of Michigan and Wayne State University, will be head editor.
 
@@ -41,7 +41,7 @@ The base fee for ACF Nationals 2020 is $350.
 
 - -$100 packet submission discount: packet submitted by **Sunday, January 19**
 - -$50 packet submission discount: packet submitted by **Sunday, February 23**
-- -$25 packet submission discount: packet submitted by **Sunday, March 15**
+- -$25 packet submission discount: packet submitted by **Sunday, May 3**
 - Buzzer discount: -$10 per working system
 - Staffer discount: -$100 for each staffer capable of reading a round in 35 minutes or less
 
@@ -53,7 +53,7 @@ The field for ACF Nationals 2020 is 48 teams.
 ## Tournament Schedule
 *This schedule is tentative and subject to change.*
 
-**Saturday, April 18**
+**Saturday, August 8**
 - 8:00am - 8:30am: Staffer check-in
 - 8:30am - 8:45am: Staff meeting
 - 8:15am - 8:45am: Team registration
@@ -63,7 +63,7 @@ The field for ACF Nationals 2020 is 48 teams.
     - 3:00pm - 3:45pm: Tiebreaker 1 (Round 9)
 - 4:30pm - 9:00pm: Playoff Rounds (Rounds 10-15)
 
-**Sunday, April 19**
+**Sunday, August 9**
 - 9:00am - 12:00pm: Playoff Rounds (Rounds 16-19)
 - 12:00pm - 1:30pm: Lunch
     - 12:00pm - 12:45pm: Tiebreaker 2 (Round 20)
