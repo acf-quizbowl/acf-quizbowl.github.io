@@ -414,11 +414,6 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>ACF Regionals 2010 Editor<br/>ACF Winter 2009 Editor</td>
 </tr>
 <tr>
-<td>Eric Mukherjee</td>
-<td>M.D./Ph.D, University of Pennsylvania<br/>Alumnus, Brown University</td>
-<td>ACF Regionals 2019 Editor<br/>ACF Winter 2010 Editor<br/>ACF Regionals 2009 Editor</td>
-</tr>
-<tr>
 <td>Jason Paik</td>
 <td>MD/Ph.D., Cancer Biology, University of Alabama School of Medicine<br/>Alumnus, Washington University, St. Louis</td>
 <td>ACF Nationals 2004 Editor</td>
