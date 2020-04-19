@@ -2,7 +2,7 @@
 layout: page
 title: ACF Packet Distribution
 permalink: /distribution/
-last_updated: October 21, 2019
+last_updated: April 19, 2020
 ---
 *Note: the distribution for ACF Winter is not yet finalized; it will be posted here once it is.*
 
