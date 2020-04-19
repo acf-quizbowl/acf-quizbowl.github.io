@@ -161,49 +161,49 @@ last_updated: October 21, 2019
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#social-science-and-philosophy-">Social Science and Philosophy (total)</a> </td>
-   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/1 or 1/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#social-science-">Social Science</a> </td>
-   <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#philosophy-">Philosophy</a> </td>
-   <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#other-">Other (total)</a> </td>
-   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/2 or 2/3 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/2 or 2/3 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Geography </td>
-   <td style="text-align:center;"> 1/0 or 0/1 </td>
+   <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Current Events </td>
-   <td style="text-align:center;"> 1/0 or 0/1 </td>
+   <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#other-academic-">Other Academic</a> </td>
-   <td style="text-align:center;"> 1/0 or 0/1 </td>
+   <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Popular Culture </td>
-   <td style="text-align:center;"> 1/0 or 0/1 </td>
+   <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> 0/0 </td>
   </tr>
