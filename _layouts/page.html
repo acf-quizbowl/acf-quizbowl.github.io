@@ -3,14 +3,14 @@ layout: default
 ---
 <article class="container mx-auto px-2 mt2 mb4">
   <header>
-    <h1 class="h0 py-4 mt-3">{{ page.title }}</h1>
+    <h1 class="h0 py-3 mt-3">{{ page.title }}</h1>
     {% if page.last_updated %}
     <p style = 'color: #929292'><i>Last Updated: {{ page.last_updated }}</i></p>
     {% endif %}
   </header>
   <div class="col-4 sm-width-full border-top-thin">
   </div>
-  <div class="prose mb-4 py-4">
+  <div class="prose mb-4 py-3">
     {{ content }}
   </div>
 </article>

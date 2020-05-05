@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: November 20, 2019
+last_updated: May 5, 2020
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-can-i-become-an-acf-member).
@@ -131,9 +131,17 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>ACF Fall 2019 Head Editor<br/>ACF Fall 2018 Editor</td>
 </tr>
 <tr>
+<td>JinAh Kim</td>
+<td>Alumna, University of Pennsylvania</td>
+<td>ACF Regionals 2020 Head Editor<br/>ACF Nationals 2019 Editor</td>
+</tr>
+<tr>
 <td>Ophir Lifshitz</td>
 <td>Alumnus, University of Maryland</td>
-<td>ACF Fall 2019 Proofreading and Packetizing<br/>ACF Regionals 2019 Logistics and Advanced Statistics<br/>ACF Regionals 2018 Logistics and Advanced Statistics</td>
+<td>ACF Regionals 2020 Oversight, Logistics, and Advanced Statistics<br/>
+ACF Fall 2019 Proofreading/Packetizing<br/>
+ACF Regionals 2019 Logistics and Advanced Statistics<br/>
+ACF Regionals 2018 Logistics and Advanced Statistics</td>
 </tr>
 <tr>
 <td>Stephen Liu</td>
@@ -151,6 +159,13 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>Webmaster, 2018&ndash;2019<br/>Meeting Chair, 2017&ndash;2018<br/>ACF Nationals 2018 Tournament Director<br/>ACF Regionals 2015 Editor and Logistics Coordinator<br/>ACF Fall 2011 Editor</td>
 </tr>
 <tr>
+<td>Evan Lynch</td>
+<td>Ph.D Student, University of Southampton<br>Alumnus, University of Cambridge</td>
+<td>ACF Regionals 2020 Logistics Support<br/>
+ACF Fall 2019 Logistics Support<br/>
+ACF Fall 2017 Editor</td>
+</tr>
+<tr>
 <td>Jonathan Magin</td>
 <td>Alumnus, University of Maryland</td>
 <td>Meeting Chair, 2018<br/>ACF Fall 2017 Head Editor<br/>ACF Nationals 2013 Head Editor<br/>ACF Nationals 2012 Head Editor<br/>ACF Nationals 2011 Editor<br/>ACF Nationals 2009 Editor<br/>ACF Regionals 2009 Head Editor<br/>ACF Fall 2007 Editor</td>
@@ -161,6 +176,11 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>ACF Regionals 2019 Head Editor<br/>ACF Regionals 2014 Editor<br/>ACF Fall 2009 Editor</td>
 </tr>
 <tr>
+<td>Nitin Rao</td>
+<td>University of Pennsylvania</td>
+<td>ACF Regionals 2020 Editor<br/>ACF Fall 2018 Editor</td>
+</tr>
+<tr>
 <td>Ryan Rosenberg</td>
 <td>Alumnus, University of North Carolina at Chapel Hill</td>
 <td>Webmaster, 2019&ndash;2020<br/>ACF Nationals 2019 Tournament Director<br/>ACF Nationals 2018 Assistant Tournament Director<br/>ACF Fall 2017 Editor<br/>ACF Fall 2015 Editor</td>
@@ -169,19 +189,6 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>Bernadette Spencer</td>
 <td>Minnesota</td>
 <td>ACF Nationals 2019 Travel Logistics<br/>ACF Nationals 2018 Travel Logistics<br/>ACF Nationals 2017 Travel Logistics</td>
-</tr>
-<tr>
-<td>Jerry Vinokurov</td>
-<td>Alumnus, University of California-Berkeley<br/>
-Ph.D, Brown University</td>
-<td>ACF Nationals Tournament Director, 2015&ndash;2017<br/>
-Treasurer 2010&ndash;2015<br/>
-ACF Nationals 2014 Head Editor<br/>
-ACF Nationals 2012 Editor<br/>
-ACF Nationals 2011 Head Editor / Tournament Director<br/>
-ACF Regionals 2010 Head Editor<br/>
-ACF Winter 2009 Head Editor<br/>
-ACF Regionals 2007 Editor</td>
 </tr>
 <tr>
 <td>Cody Voight</td>
@@ -217,9 +224,34 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 <tbody>
 <tr>
-<td>JinAh Kim</td>
-<td>Alumna, University of Pennsylvania</td>
-<td>ACF Nationals 2019 Editor</td>
+<td>Geoffrey Chen</td>
+<td>Cornell University</td>
+<td>ACF Regionals 2020 Editor</td>
+</tr>
+<tr>
+<td>Ganon Evans</td>
+<td>University of Iowa</td>
+<td>ACF Fall 2019 Editor</td>
+</tr>
+<tr>
+<td>Taylor Harvey</td>
+<td>PhD Candidate, University of Florida<br/>Alumnus, University of Florida</td>
+<td>ACF Regionals 2020 Editor</td>
+</tr>
+<tr>
+<td>Wonyoung Jang</td>
+<td>University of Chicago</td>
+<td>ACF Regionals 2020 Editor</td>
+</tr>
+<tr>
+<td>Nick Jensen</td>
+<td>PhD Student, University of California - Davis<br/>Alumnus, Dartmouth College</td>
+<td>ACF Regionals 2020 Editor</td>
+</tr>
+<tr>
+<td>Michael Kearney</td>
+<td>Alumnus, Yale University</td>
+<td>ACF Fall and Regionals 2020 Site TD</td>
 </tr>
 <tr>
 <td>Olivia Lamberti</td>
@@ -230,11 +262,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Katherine Lei</td>
 <td>Montgomery Blair High School</td>
 <td>ACF Fall 2019 Editor</td>
-</tr>
-<tr>
-<td>Evan Lynch</td>
-<td>Ph.D Student, University of Southampton<br>Alumnus, University of Cambridge</td>
-<td>ACF Fall 2017 Editor</td>
 </tr>
 <tr>
 <td>Caroline Mao</td>
@@ -252,24 +279,9 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>ACF Fall 2019 Editor</td>
 </tr>
 <tr>
-<td>Itamar Naveh-Benjamin</td>
-<td>Alumnus, University of Missouri</td>
-<td>ACF Fall 2016 Editor</td>
-</tr>
-<tr>
-<td>Benji Nguyen</td>
-<td>Alumnus, Stanford University</td>
-<td>ACF Regionals 2017 Editor</td>
-</tr>
-<tr>
 <td>Ashwin Ramaswami</td>
 <td>Stanford University</td>
 <td>Communications Officer, 2018&ndash;2019<br>ACF Fall 2018 Editor<br>ACF Fall 2017 Editor</td>
-</tr>
-<tr>
-<td>Nitin Rao</td>
-<td>University of Pennsylvania</td>
-<td>ACF Fall 2018 Editor</td>
 </tr>
 <tr>
 <td>Graham Reid</td>
@@ -452,6 +464,19 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>Seth Teitler</td>
 <td>Ph.D., Astrophysics, University of Chicago<br/>Alumnus, University of California-Berkeley</td>
 <td>ACF Fall 2009 Advisor<br/>ACF Regionals 2007 Head Editor<br/>ACF Fall 2005 Editor</td>
+</tr>
+<tr>
+<td>Jerry Vinokurov</td>
+<td>Alumnus, University of California-Berkeley<br/>
+Ph.D, Brown University</td>
+<td>ACF Nationals Tournament Director, 2015&ndash;2017<br/>
+Treasurer 2010&ndash;2015<br/>
+ACF Nationals 2014 Head Editor<br/>
+ACF Nationals 2012 Editor<br/>
+ACF Nationals 2011 Head Editor / Tournament Director<br/>
+ACF Regionals 2010 Head Editor<br/>
+ACF Winter 2009 Head Editor<br/>
+ACF Regionals 2007 Editor</td>
 </tr>
 <tr>
 <td>Nathan Weiser</td>

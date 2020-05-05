@@ -10,6 +10,17 @@
   }
 }
 
+.h0-title {
+  font-size: $h0-title-mobile;
+  line-height: 1.0125;
+  margin-top: 0.85em;
+  word-wrap: break-word;
+
+  @media (min-width: $breakpoint-lg) {
+    font-size: $h0-title-desktop;
+  }
+}
+
 .text-right { text-align: right; }
 
 .no-underline {

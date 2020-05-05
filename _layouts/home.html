@@ -8,46 +8,25 @@
     <div>
 
       <header class="header-background">
-        <div class="clearfix border-bottom-thick header-border py-1 mt-1 mt-lg-0">
-          <img src="{{ site.logo }}" class="img-fluid ml-2" height="40" width="40">
-          {% assign pagelist = site.pages | sort: 'nav_order' %}
-          <ul class="list-reset right py-1 header-text font-smoothing">
-            {% for my_page in pagelist %}
-              {% if my_page.nav_order %}
-              <li class="inline-block">
-                <a class="align-middle link-primary header-link mt-1 mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-              </li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </div>
+        {% include navbar.html %}
 
         <div class="container mx-auto px-2 mb-2 clearfix header-text">
-          <h1 class="h0 inline-block col-10 sm-width-full py-2 mt-3 header-title">{{ site.title }}</h1>
+          <h1 class="h0-title inline-block col-10 sm-width-full py-2 mt-3 header-title">{{ site.title }}</h1>
           <p class="h3 lh-condensed font-weight-bold mt-2">{{ site.tagline}}</p>
           <p class="h4 lh-condensed font-smoothing col-9">{{ site.description }}</p>
           <div class="clearfix mb-4 py-1">
-            <div class="col-4 sm-width-full left border-top-thin">
+            <div class="col-8 sm-width-full left border-top-thin">
               <div class="table">
                 <div class="inline-block mt-3 mr-1">
-                  <a href="/fall">
                   {% include dot-accent.html %}
-                </a>
                 </div>
                 <div class="inline-block mt-3 mr-1">
-                  <a href="/regionals">
                   {% include dot-dark.html %}
-                </a>
                 </div>
                 <div class="inline-block mt-3">
-                  <a href="/nationals">
                   {% include dot.html %}
-                </a>
                 </div>
               </div>
-            </div>
-
-            <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
             </div>
           </div>
         </div>
