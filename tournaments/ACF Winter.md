@@ -11,5 +11,6 @@ last_updated: February 18, 2020
 ## 2020 ACF Winter
 2020 ACF Winter will be held on November 21, 2020. It will be head-edited by Andrew Wang and William Golden.
 
-An application to edit ACF Winter will be released this spring.
+ACF is now taking [applications for subject editors](https://docs.google.com/forms/d/e/1FAIpQLSeQzPnfLYuZVTxR0l0XNWo9waLzGcEHJUVXKRaXMDg5dOb_kg/viewform) for 2020 ACF Winter. We will be looking at the strength of the applicants' question samples, thought processes, and references. We’re aiming to assemble teams of enthusiastic editors with a diverse set of backgrounds, so we highly encourage all those interested to apply. 
 
+Applications for subject-editing ACF Winter close at 11:59 PM CDT on **Sunday, May 24th**. Any questions regarding the Winter forms can be sent to winter@acf-quizbowl.com. We look forward to receiving your applications!
