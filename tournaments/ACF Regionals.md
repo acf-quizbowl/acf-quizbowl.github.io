@@ -8,7 +8,7 @@ last_updated: May 14, 2020
 
 **ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience.
 
-## 2021 ACF Winter
+## 2021 ACF Regionals
 2021 ACF Regionals will be held on November 21, 2020. It will be head-edited by Jacob Reed.
 
 ACF is now taking [applications for subject editors](https://docs.google.com/forms/d/e/1FAIpQLSdghVDzWLH6kQ68_z817Z6XXw1JJbYobWVAlU2geYgTNiADnw/viewform) for 2021 ACF Regionals. We will be looking at the strength of the applicants' question samples, thought processes, and references. We’re aiming to assemble teams of enthusiastic editors with a diverse set of backgrounds, so we highly encourage all those interested to apply. 
