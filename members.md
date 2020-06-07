@@ -98,7 +98,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Alex Damisch</td>
 <td>M.S., DePaul University<br/>Alumna, Lawrence University</td>
-<td>President, 2020&ndash;2021<br/>Mirror Coordinator, 2019–2020<br/>Treasurer, 2018–2019<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Logistics</td>
+<td>President, 2020&ndash;2021<br/>Site Coordinator, 2019–2020<br/>Treasurer, 2018–2019<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Logistics</td>
 </tr>
 <tr>
 <td>Stephen Eltinge</td>
