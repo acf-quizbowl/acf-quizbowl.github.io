@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: May 5, 2020
+last_updated: May 14, 2020
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-can-i-become-an-acf-member).
@@ -17,22 +17,32 @@ For information on how to become an ACF member, see the [About page](/about#how-
 </tr>
 <tbody>
 <tr>
-<td>Billy Busse</td>
+<td>Alex Damisch</td>
 <td>President</td>
 <td><a href='mailto:president@acf-quizbowl.com'>president@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Matt Bollinger</td>
+<td>Caroline Mao</td>
 <td>Communications</td>
 <td><a href='mailto:communications@acf-quizbowl.com'>communications@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Alex Damisch</td>
+<td>Matthew Bollinger</td>
+<td>Editor-in-Chief</td>
+<td><a href='mailto:editing@acf-quizbowl.com'>editing@acf-quizbowl.com</a></td>
+</tr>
+<tr>
+<td>Margaret Tebbe</td>
 <td>Site Coordinator</td>
 <td><a href='mailto:hosting@acf-quizbowl.com'>hosting@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Cody Voight</td>
+<td>Nationals TD</td>
+<td><a href='mailto:td@acf-quizbowl.com'>td@acf-quizbowl.com</a></td>
+</tr>
+<tr>
+<td>JinAh Kim</td>
 <td>Treasurer</td>
 <td><a href='mailto:treasurer@acf-quizbowl.com'>treasurer@acf-quizbowl.com</a></td>
 </tr>
@@ -47,10 +57,10 @@ For information on how to become an ACF member, see the [About page](/about#how-
 ### Other Contact Emails
 <div class = 'small-list'>
 <ul>
-<li>ACF Fall Head Editor: Rahul Keyal, <a href='fall@acf-quizbowl.com'>fall@acf-quizbowl.com</a></li>
-<li>ACF Regionals Head Editor: JinAh Kim, <a href='regionals@acf-quizbowl.com'>regionals@acf-quizbowl.com</a></li>
+<li>ACF Fall Head Editor: Ben Miller, <a href='fall@acf-quizbowl.com'>fall@acf-quizbowl.com</a></li>
+<li>ACF Winter Head Editor: William Golden, <a href='winter@acf-quizbowl.com'>winter@acf-quizbowl.com</a></li>
+<li>ACF Regionals Head Editor: Jacob Reed, <a href='regionals@acf-quizbowl.com'>regionals@acf-quizbowl.com</a></li>
 <li>ACF Nationals Head Editor: Ryan Westbrook, <a href='nationals@acf-quizbowl.com'>nationals@acf-quizbowl.com</a></li>
-<li>ACF Nationals Tournament Director: Ryan Rosenberg, <a href='td@acf-quizbowl.com'>td@acf-quizbowl.com</a></li>
 <li>ACF Nationals Staffing: <a href='staffing@acf-quizbowl.com'>staffing@acf-quizbowl.com</a></li>
 <li>ACF Eligibility Committee: <a href='eligibility@acf-quizbowl.com'>eligibility@acf-quizbowl.com</a></li>
 </ul>
@@ -68,7 +78,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Matt Bollinger</td>
 <td>Alumnus, University of Virginia</td>
-<td>Communications Officer, 2019–2020<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2017 Head Editor<br/>ACF Fall 2012 Head Editor<br/>ACF Fall 2011 Editor</td>
+<td>Editor-in-Chief, 2020&ndash;2021<br/>Communications Officer, 2019&ndash;2020<br/>ACF Nationals 2019 co-Head Editor<br/>ACF Nationals 2017 Head Editor<br/>ACF Fall 2012 Head Editor<br/>ACF Fall 2011 Editor</td>
 </tr>
 <tr>
 <td>Jordan Brownstein</td>
@@ -78,7 +88,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Billy Busse</td>
 <td>Alumnus, University of Illinois, Urbana-Champaign</td>
-<td>President, 2019–2020<br/>Meeting Chair, 2018–2019<br/>ACF Nationals 2016 Editor<br/>ACF Nationals 2015 Editor</td>
+<td>President, 2019&ndash;2020<br/>Meeting Chair, 2018&ndash;2019<br/>ACF Nationals 2016 Editor<br/>ACF Nationals 2015 Editor</td>
 </tr>
 <tr>
 <td>Rob Carson</td>
@@ -88,12 +98,12 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>Alex Damisch</td>
 <td>M.S., DePaul University<br/>Alumna, Lawrence University</td>
-<td>Site Coordinator, 2019–2020<br/>Treasurer, 2018–2019<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Logistics</td>
+<td>President, 2020&ndash;2021<br/>Site Coordinator, 2019–2020<br/>Treasurer, 2018–2019<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Logistics</td>
 </tr>
 <tr>
 <td>Stephen Eltinge</td>
 <td>Ph.D Candidate, Yale University<br/>Alumnus, Massachusetts Institute of Technology</td>
-<td>ACF Regionals 2018 Editor<br/>Communications Officer, 2014–2017<br/>ACF Fall 2013 Editor</td>
+<td>ACF Regionals 2018 Editor<br/>Communications Officer, 2014&ndash;2017<br/>ACF Fall 2013 Editor</td>
 </tr>
 <tr>
 <td>Andrew Feist</td>
@@ -133,7 +143,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tr>
 <td>JinAh Kim</td>
 <td>Alumna, University of Pennsylvania</td>
-<td>ACF Regionals 2020 Head Editor<br/>ACF Nationals 2019 Editor</td>
+<td>Treasurer, 2020&ndash;2021<br/>ACF Regionals 2020 Head Editor<br/>ACF Nationals 2019 Editor</td>
 </tr>
 <tr>
 <td>Ophir Lifshitz</td>
@@ -183,7 +193,7 @@ ACF Fall 2017 Editor</td>
 <tr>
 <td>Ryan Rosenberg</td>
 <td>Alumnus, University of North Carolina at Chapel Hill</td>
-<td>Webmaster, 2019&ndash;2020<br/>ACF Nationals 2019 Tournament Director<br/>ACF Nationals 2018 Assistant Tournament Director<br/>ACF Fall 2017 Editor<br/>ACF Fall 2015 Editor</td>
+<td>Webmaster, 2019&ndash;2021<br/>ACF Nationals 2019 Tournament Director<br/>ACF Nationals 2018 Assistant Tournament Director<br/>ACF Fall 2017 Editor<br/>ACF Fall 2015 Editor</td>
 </tr>
 <tr>
 <td>Bernadette Spencer</td>
@@ -193,7 +203,7 @@ ACF Fall 2017 Editor</td>
 <tr>
 <td>Cody Voight</td>
 <td>Alumnus, Virginia Commonwealth University</td>
-<td>Treasurer, 2019&ndash;2020<br/>ACF Regionals 2017 Editor<br/>ACF Nationals 2016 Stats Director<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2013 Editor</td>
+<td>Nationals TD, 2020&ndash;2021<br/>Treasurer, 2019&ndash;2020<br/>ACF Regionals 2017 Editor<br/>ACF Nationals 2016 Stats Director<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2013 Editor</td>
 </tr>
 <tr>
 <td>Andrew Wang</td>
@@ -266,7 +276,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <tr>
 <td>Caroline Mao</td>
 <td>Barnard College</td>
-<td>ACF Fall 2019 Editor</td>
+<td>Communications Director, 2020&ndash;2021<br/>ACF Fall 2019 Editor</td>
 </tr>
 <tr>
 <td>Ben Miller</td>
@@ -301,7 +311,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <tr>
 <td>Margaret Tebbe</td>
 <td>University of Pennsylvania</td>
-<td>ACF Nationals 2019 Host Logistics Contact</td>
+<td>Site Coordinator, 2020&ndash;2021<br/>ACF Nationals 2019 Host Logistics Contact</td>
 </tr>
 </tbody>
 </table>
