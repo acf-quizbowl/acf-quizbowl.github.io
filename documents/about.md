@@ -3,10 +3,10 @@ layout: page
 title: About
 permalink: /about/
 nav_order: 1
-last_updated: May 5, 2020
+last_updated: June 6, 2020
 ---
 ## So what’s ACF all about then?
-**Academic Competition Federation** (ACF) is a non-profit organization dedicated to providing high-quality collegiate quizbowl tournaments. We are entirely student and volunteer run. We pride ourselves on the highest standard of academic question writing and we keep the amount of pop culture (a.k.a. trash) or semi-academic questions to a minimum.
+**Academic Competition Federation** (ACF) is a non-profit organization dedicated to providing high-quality collegiate quizbowl tournaments. We are entirely student and volunteer run. We pride ourselves on the highest standard of academic question writing and we keep the amount of pop culture or semi-academic questions to a minimum.
 
 We offer four tournaments throughout the academic year, roughly corresponding to a [four-point difficulty scale](https://collegequizbowlcalendar.com/difficulty-scale/):
 
