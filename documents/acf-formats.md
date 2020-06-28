@@ -340,15 +340,15 @@ last_updated: October 29, 2019
 <tbody>
   <tr>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 v 5 </td>
-   <td style="text-align:center;"> 1 v 6 </td>
-   <td style="text-align:center;"> 3 v 4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 2 v 6 </td>
    <td style="text-align:center;"> 3 v 5 </td>
    <td style="text-align:center;"> 1 v 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 3 </td>
@@ -446,10 +446,10 @@ last_updated: October 29, 2019
 <tbody>
   <tr>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1 v 6 </td>
-   <td style="text-align:center;"> 2 v 5 </td>
-   <td style="text-align:center;"> 3 v 4 </td>
-   <td style="text-align:center;"> 7 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 4 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 2 </td>
@@ -467,10 +467,10 @@ last_updated: October 29, 2019
   </tr>
   <tr>
    <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 3 v 5 </td>
-   <td style="text-align:center;"> 2 v 6 </td>
-   <td style="text-align:center;"> 1 v 7 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 1 v 6 </td>
+   <td style="text-align:center;"> 2 v 5 </td>
+   <td style="text-align:center;"> 3 v 4 </td>
+   <td style="text-align:center;"> 7 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 5 </td>
@@ -512,17 +512,17 @@ last_updated: October 29, 2019
 <tbody>
   <tr>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 v 7 </td>
-   <td style="text-align:center;"> 1 v 8 </td>
-   <td style="text-align:center;"> 3 v 6 </td>
-   <td style="text-align:center;"> 4 v 5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 3 v 7 </td>
    <td style="text-align:center;"> 4 v 6 </td>
    <td style="text-align:center;"> 1 v 5 </td>
    <td style="text-align:center;"> 2 v 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 3 </td>
@@ -661,11 +661,11 @@ last_updated: October 29, 2019
 <tbody>
   <tr>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 1 v 8 </td>
-   <td style="text-align:center;"> 2 v 7 </td>
-   <td style="text-align:center;"> 3 v 6 </td>
-   <td style="text-align:center;"> 4 v 5 </td>
-   <td style="text-align:center;"> 9 </td>
+   <td style="text-align:center;"> 3 v 5 </td>
+   <td style="text-align:center;"> 2 v 6 </td>
+   <td style="text-align:center;"> 1 v 7 </td>
+   <td style="text-align:center;"> 8 v 9 </td>
+   <td style="text-align:center;"> 4 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 2 </td>
@@ -701,11 +701,11 @@ last_updated: October 29, 2019
   </tr>
   <tr>
    <td style="text-align:center;"> 6 </td>
-   <td style="text-align:center;"> 3 v 5 </td>
-   <td style="text-align:center;"> 2 v 6 </td>
-   <td style="text-align:center;"> 1 v 7 </td>
-   <td style="text-align:center;"> 8 v 9 </td>
-   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
+   <td style="text-align:center;"> 2 v 7 </td>
+   <td style="text-align:center;"> 3 v 6 </td>
+   <td style="text-align:center;"> 4 v 5 </td>
+   <td style="text-align:center;"> 9 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 7 </td>
@@ -753,19 +753,19 @@ last_updated: October 29, 2019
 <tbody>
   <tr>
    <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 5 v 9 </td>
-   <td style="text-align:center;"> 4 v 10 </td>
-   <td style="text-align:center;"> 6 v 7 </td>
-   <td style="text-align:center;"> 2 v 3 </td>
-   <td style="text-align:center;"> 1 v 8 </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 2 </td>
    <td style="text-align:center;"> 3 v 10 </td>
    <td style="text-align:center;"> 6 v 9 </td>
    <td style="text-align:center;"> 1 v 4 </td>
    <td style="text-align:center;"> 5 v 8 </td>
    <td style="text-align:center;"> 2 v 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 5 v 9 </td>
+   <td style="text-align:center;"> 4 v 10 </td>
+   <td style="text-align:center;"> 6 v 7 </td>
+   <td style="text-align:center;"> 2 v 3 </td>
+   <td style="text-align:center;"> 1 v 8 </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 3 </td>
