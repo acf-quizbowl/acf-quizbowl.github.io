@@ -8,13 +8,12 @@ last_updated: August 9, 2020
 
 **ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
 
-## 2020 ACF Fall
-2020 ACF Fall will be held on October 17, 2020.  It is being edited by Drew Benner, Justin Duffy, Alex Hardwick, Arjun Nageswaran, Karthik Prasad, and Catherine Qian, with Ben Miller as head editor. Matthew Lehmann and other ACF members are offering oversight.
-
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
+## 2020 ACF Fall
+2020 ACF Fall will be held on October 17, 2020.  It is being edited by Drew Benner, Justin Duffy, Alex Hardwick, Arjun Nageswaran, Karthik Prasad, and Catherine Qian, with Ben Miller as head editor. Matthew Lehmann and other ACF members are offering oversight.
 
 ## Format
 In response to the COVID-19 pandemic, ACF Fall will be held entirely online this year. ACF will coordinate with host schools to hold mirrors using an online platform (to be announced later), and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
