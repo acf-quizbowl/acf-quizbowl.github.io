@@ -9,9 +9,11 @@ last_updated: August 9, 2020
 **ACF Winter** is a medium-difficulty tournament (a 2 on the [collegiate difficulty scale](https://collegequizbowlcalendar.com/difficulty-scale/)) meant to be accessible to everyone from players in their first semester of college quizbowl to players who have played in the finals of ACF Nationals.
 
 ## 2020 ACF Winter
-2020 ACF Winter will be held on November 21, 2020. It will be head-edited by Andrew Wang and William Golden.
+2020 ACF Winter will be held on November 7, 2020. It will target a difficulty halfway between ACF Fall and ACF Regionals. The tournament will be head edited by William Golden and subject edited by Ganon Evans, Nick Jensen, Vishwa Shanmugam, Bryanna Shao, Christopher Sims, Jaskaran Singh, Andrew Wang, and Chandler West. Andrew will also provide science oversight.
 
-This is the official announcement for 2020 ACF Winter, which will be held on November 7th, 2020. (Note that this is two weeks earlier than the original date.) It will target a difficulty halfway between ACF Fall and ACF Regionals. The tournament will be head edited by me (William Golden) and subject edited by Ganon Evans, Nick Jensen, Vishwa Shanmugam, Bryanna Shao, Christopher Sims, Jaskaran Singh, Andrew Wang, and Chandler West. Andrew will also provide science oversight.
+{: .no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 ## Format
 In response to the COVID-19 pandemic, ACF Winter will be held entirely online this year. ACF will coordinate with host schools to hold mirrors using an online platform (to be announced later), and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.

@@ -11,6 +11,11 @@ last_updated: August 9, 2020
 ## 2020 ACF Fall
 2020 ACF Fall will be held on October 17, 2020.  It is being edited by Drew Benner, Justin Duffy, Alex Hardwick, Arjun Nageswaran, Karthik Prasad, and Catherine Qian, with Ben Miller as head editor. Matthew Lehmann and other ACF members are offering oversight.
 
+{: .no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
+
 ## Format
 In response to the COVID-19 pandemic, ACF Fall will be held entirely online this year. ACF will coordinate with host schools to hold mirrors using an online platform (to be announced later), and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
 
