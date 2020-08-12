@@ -6,6 +6,8 @@ permalink: /donate
 
 Academic Competition Federation (ACF) is a quizbowl organization that produces high-quality collegiate quizbowl tournaments for everyone from new players to national champions. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments are written to reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.
 
+<p size=125%>Please note that ACF can only accept donations from Illinois residents at this time.</p>
+
 # Donating to ACF
 
 ACF is a federal 501(c)3 non-profit organization, and your donation may qualify as a charitable deduction for federal income tax purposes. 
