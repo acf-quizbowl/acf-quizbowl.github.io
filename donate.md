@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Donate
+permalink: /donate
 ---
 
 Academic Competition Federation (ACF) is a quizbowl organization that produces high-quality collegiate quizbowl tournaments for everyone from new players to national champions. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments are written to reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.
