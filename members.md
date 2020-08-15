@@ -59,7 +59,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 <ul>
 <li>ACF Fall Head Editor: Ben Miller, <a href='fall@acf-quizbowl.com'>fall@acf-quizbowl.com</a></li>
 <li>ACF Winter Head Editor: William Golden, <a href='winter@acf-quizbowl.com'>winter@acf-quizbowl.com</a></li>
-<li>ACF Regionals Head Editor: Jacob Reed, <a href='regionals@acf-quizbowl.com'>regionals@acf-quizbowl.com</a></li>
+<li>ACF Regionals Head Editor: Jaimie Carlson, <a href='regionals@acf-quizbowl.com'>regionals@acf-quizbowl.com</a></li>
 <li>ACF Nationals Head Editor: Ryan Westbrook, <a href='nationals@acf-quizbowl.com'>nationals@acf-quizbowl.com</a></li>
 <li>ACF Nationals Staffing: <a href='staffing@acf-quizbowl.com'>staffing@acf-quizbowl.com</a></li>
 <li>ACF Eligibility Committee: <a href='eligibility@acf-quizbowl.com'>eligibility@acf-quizbowl.com</a></li>
