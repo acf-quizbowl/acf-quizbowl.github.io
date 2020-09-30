@@ -265,7 +265,7 @@ This includes engineering and technology questions that don’t fit into any of 
 You may either write one painting and one sculpture question, or two painting questions.
 
 ### Other Fine Arts <a href = '#top' class = 'back-to-top'>&uarr;</a>
-This includes opera, jazz, architecture, photography, film, dance, etc. Do not write more of the categories above. Write on one “visual” category (architecture, photography, dance, film, etc.) and one “auditory” (opera, jazz, etc.) category.
+This includes opera, jazz, architecture, photography, film, dance, etc. Do not write more of the categories above. Write on one “visual” category (architecture, photography, film, etc.) and one “auditory” (opera, jazz, dance, etc.) category.
 
 ## Religion and Mythology <a href = '#top' class = 'back-to-top'>&uarr;</a>
 Write at least one and no more than two questions on non-Western topics.
