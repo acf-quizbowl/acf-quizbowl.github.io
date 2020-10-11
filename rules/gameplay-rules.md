@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACF Gameplay Rules
-permalink: /official-gameplay-rules/
+permalink: /gameplay-rules/
 redirect-from: 
   - /official-acf-gameplay-rules/
 last_updated: October 10, 2020
