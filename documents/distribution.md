@@ -4,7 +4,6 @@ title: ACF Packet Distribution
 permalink: /distribution/
 last_updated: April 19, 2020
 ---
-*Note: the distribution for ACF Winter is not yet finalized; it will be posted here once it is.*
 
 <a id = 'top'></a>
 <table class="table table-striped table-hover table-responsive table-condensed" style="margin-left: auto; margin-right: auto;">
@@ -13,6 +12,7 @@ last_updated: April 19, 2020
    <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Category </th>
    <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Fall </th>
    <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Regionals </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Winter </th>
    <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Nationals </th>
   </tr>
  </thead>
@@ -22,9 +22,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> American Literature </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
@@ -34,9 +36,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> European Literature after 500 CE </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
@@ -46,15 +50,18 @@ last_updated: April 19, 2020
    <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#any-literature-">Any Literature</a> </td>
    <td style="text-align:center;"> 2/1 or 1/2 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#history-">History (total)</a> </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
@@ -64,9 +71,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#european-history-">European History</a> </td>
+   <td style="text-align:center;"> 2/1 or 1/2 </td>
    <td style="text-align:center;"> 2/1 or 1/2 </td>
    <td style="text-align:center;"> 2/1 or 1/2 </td>
    <td style="text-align:center;"> 2/1 or 1/2 </td>
@@ -76,9 +85,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#any-history-">Any History</a> </td>
+   <td style="text-align:center;"> 2/1 or 1/2 </td>
    <td style="text-align:center;"> 2/1 or 1/2 </td>
    <td style="text-align:center;"> 2/1 or 1/2 </td>
    <td style="text-align:center;"> 2/1 or 1/2 </td>
@@ -88,9 +99,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 5/5 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Biology </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
@@ -100,9 +113,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Physics </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
@@ -112,9 +127,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#any-science-">Any Science</a> </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
@@ -124,9 +141,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/3 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/3 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/3 </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/3 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#painting-and-sculpture-">Painting and Sculpture</a> </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
@@ -136,9 +155,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#other-fine-arts-">Other Fine Arts</a> </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
@@ -147,16 +168,19 @@ last_updated: April 19, 2020
    <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#religion-and-mythology-">Religion and Mythology (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/1 or 1/2 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#religion-">Religion</a> </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#mythology-">Mythology</a> </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
@@ -166,10 +190,12 @@ last_updated: April 19, 2020
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/1 or 1/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#social-science-">Social Science</a> </td>
    <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
   </tr>
@@ -178,10 +204,12 @@ last_updated: April 19, 2020
    <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
    <td style="text-align:center;"> 1/1 </td>
+   <td style="text-align:center;"> 1/1 </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> <a href="#other-">Other (total)</a> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/2 or 2/3 </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 2/2 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 3/2 or 2/3 </td>
   </tr>
@@ -189,11 +217,13 @@ last_updated: April 19, 2020
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Geography </td>
    <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/0 or 0/1 </td>
+   <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Current Events </td>
    <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
+   <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
   </tr>
@@ -201,11 +231,13 @@ last_updated: April 19, 2020
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> <a href="#other-academic-">Other Academic</a> </td>
    <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
    <td style="text-align:center;"> 1/0 or 0/1 </td>
+   <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> at least 1/0 or 0/1 </td>
   </tr>
   <tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Popular Culture </td>
    <td style="text-align:center;"> 1/0, 0/1, or 1/1 </td>
+   <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> 1/0 or 0/1 </td>
    <td style="text-align:center;"> 0/0 </td>
   </tr>
@@ -214,9 +246,11 @@ last_updated: April 19, 2020
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>*</sup> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>*</sup> </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>*</sup> </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 24/24<sup>*</sup> </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #d1d3d4 !important;"> Final packet </td>
+   <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 20/20 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 20/20 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 20/20 </td>
    <td style="text-align:center;font-weight: bold;background-color: #d1d3d4 !important;"> 20/20 </td>
