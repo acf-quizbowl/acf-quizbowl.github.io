@@ -16,10 +16,10 @@ last_updated: August 9, 2020
 2020 ACF Fall will be held on October 17, 2020.  It is being edited by Drew Benner, Justin Duffy, Alex Hardwick, Arjun Nageswaran, Karthik Prasad, and Catherine Qian, with Ben Miller as head editor. Matthew Lehmann and other ACF members are offering oversight.
 
 ## Format
-In response to the COVID-19 pandemic, ACF Fall will be held entirely online this year. ACF will coordinate with host schools to hold mirrors using an online platform (to be announced later), and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
+In response to the COVID-19 pandemic, ACF Fall will be held entirely online this year. ACF will coordinate with host schools to hold mirrors using Discord, and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
 
 ## Registration
-The registration form for ACF Fall will be available after hosts have been announced.
+Fill out the central 2020 ACF Fall registration form with all relevant information. The form is [here](https://forms.gle/qjy2kmJSFv56ySuQ8). The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1hrgokKUJukxb6UmNnrAMwjnScDbiTsOTKAKB40Gunvc/edit?usp=sharing).
 
 ## Fees
 
@@ -56,23 +56,21 @@ If you are interested in hosting an online mirror of ACF Fall, fill out this for
 
 Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2020 ACF Fall in the following regions:
 
-- Northeast:
-- Upper Mid-Atlantic:
-- Lower Mid-Atlantic:
-- Southeast:
-- Florida:
-- Great Lakes:
-- Midwest:
-- North:
-- South Central:
-- Mountain West:
-- Northern California:
-- Southern California:
-- Northwest:
-- Eastern Canada:
-- United Kingdom:
+- Northeast: [Harvard](https://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=24515)
+- Upper Mid-Atlantic: [NYU](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24424)
+- Lower Mid-Atlantic: [UNC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24427)
+- Northeast/Mid-Atlantic overflow: [Stony Brook](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24431)
+- Southeast: [USC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24454)
+- Great Lakes: [Chicago](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24425)
+- Midwest: [Illinois](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24453)
+- North: [Carleton](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24435)
+- South Central: [Rice](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24430)
+- Mountain West and Northwest: [Colorado](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24445)
+- California: [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24434)
+- Eastern Canada: [McGill](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24423)
+- United Kingdom: UKQB
 
-- High-school-only sites:
+- High-school-only sites: Ridgewood HS
 
 ## High school teams and high-school-only mirrors
 
