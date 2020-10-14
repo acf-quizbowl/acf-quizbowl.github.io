@@ -35,10 +35,9 @@ code { color: #4279C1; font-size: 16px; padding: 1px 0px; }
 
 .prose a { color: #023B7F; text-decoration: underline; }
 .prose a:hover { text-decoration: none; }
-.prose p, .prose ol, .prose ul { font-size: 20px; margin-bottom: 1em; width: 100%; }
+.prose p, .prose ol, .prose ul { font-size: 20px; width: 100%; }
 @media (min-width: 100%) { .prose p, .prose ol, .prose ul { width: 83.3333333333%; } }
 .prose ul, .prose ol { padding-left: 40px; }
-.prose li { margin-bottom: 0.5em; }
 .prose li ul li, .prose li ol li { margin-bottom: 0; }
 .prose img { max-width: 100%; }
 @media (min-width: 100%) { .prose img { max-width: 120%; } }
@@ -62,7 +61,11 @@ code { color: #4279C1; font-size: 16px; padding: 1px 0px; }
 
 .small-list > ul > li { font-size: 85%; margin: 0px; }
 
-nav { width: 100%; height: 60px; margin: 0 auto; }
+nav { width: 100%; height: 60px; margin: 0 auto; position: sticky; }
+
+.training-question { background-color: #eeff00f5; border: 2px black solid; border-radius: 8px; padding: 2%; }
+
+.training-question-text { font-size: 24px; }
 
 /* Type utilities */
 .h0 { font-size: 36px; line-height: 1.0125; margin-top: 0.85em; word-wrap: break-word; }
