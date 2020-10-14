@@ -59,27 +59,23 @@ Host sites will bill teams as soon as possible after the teams register. Teams s
 More information can be found in [ACF’s packet submission guidelines](/packet-submission-guidelines).
 
 ## Hosts
-If you are interested in hosting an online mirror of ACF Winter, fill out [this form](https://forms.gle/GFZqMtxvwdorirVj6). If you have any questions about hosting or about the form, contact ACF’s Mirror Coordinator, Margaret Tebbe, at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines), which will be revised to reflect requirements for online tournaments.
-
 Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2020 ACF Winter in the following regions:
 
-- Northeast:
-- Upper Mid-Atlantic:
-- Lower Mid-Atlantic:
-- Southeast:
-- Florida:
-- Great Lakes:
-- Midwest:
-- North:
-- South Central:
-- Mountain West:
-- Northern California:
-- Southern California:
-- Northwest:
-- Eastern Canada:
-- United Kingdom:
+- Northeast: Yale
+- Upper Mid-Atlantic: Rutgers
+- Lower Mid-Atlantic: TBD
+- East Coast Overflow: TBD
+- Southeast: Vanderbilt
+- Great Lakes: Ohio State
+- Midwest: TBD
+- North: Iowa
+- South Central: Texas
+- Mountain West + Northwest: Washington
+- California: USC
+- Eastern Canada: Toronto
+- UK: TBD
 
-- High-school-only sites:
+- High school only: TBD
 
 ## High school mirrors
 ACF Winter will be available for high school mirrors. If you want to host a high school mirror of Winter, please email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). High school mirrors are restricted to high school teams; no college teams can participate.
