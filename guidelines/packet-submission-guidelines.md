@@ -11,9 +11,9 @@ last_updated: November 12, 2019
 {:toc}
 
 ## Who needs to submit packets?
-For ACF Fall and ACF Regionals, any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the academic year two years prior to the current year, must submit a packet (e.g. any team with two players who played prior to September 1st, 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.) Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.
+For ACF Winter and ACF Regionals, any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the academic year two years prior to the current year, must submit a packet (e.g. any team with two players who played prior to September 1st, 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.) Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.
 
-The packet submission rules for ACF Nationals 2020 will be announced shortly.
+ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but are not required to submit in order to play.
 
 ## What counts as a “regular, collegiate, academic quizbowl tournament”?
 All ACF tournaments, NAQT Division I or Division II SCT, NAQT ICT, and typical academic invitationals and summer opens count as regular collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as regular collegiate academic tournaments in determining packet requirement.
@@ -96,7 +96,7 @@ In addition to the above question-writing guides, we encourage you to consult ol
 
 We recommend:
 
-* For ACF Fall-level difficulty – ACF Fall 2012, ACF Fall 2017, and ACF Fall 2018
+* For ACF Fall-level difficulty – ACF Fall 2017, ACF Fall 2018, and ACF Fall 2020
 * For ACF Regionals-level difficulty – ACF Regionals 2010 and ACF Regionals 2019
 * For ACF Nationals-level difficulty – ACF Nationals 2017, ACF Nationals 2018, and ACF Nationals 2019
 
