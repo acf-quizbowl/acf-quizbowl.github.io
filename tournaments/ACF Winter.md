@@ -61,24 +61,26 @@ Host sites will bill teams as soon as possible after the teams register. Teams s
 
 More information can be found in [ACF’s packet submission guidelines](/packet-submission-guidelines).
 
+## Staffing
+To staff ACF Winter, please fill out [the staffer registration form](https://forms.gle/XaM1RbCFmYiGbqvD8).
+
 ## Hosts
 Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2020 ACF Winter in the following regions:
 
-- Northeast: Yale
-- Upper Mid-Atlantic: Rutgers
-- Lower Mid-Atlantic: TBD
+- Northeast: [Yale](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24555)
+- Upper Mid-Atlantic: [Rutgers](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24556)
+- Lower Mid-Atlantic: [Maryland](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24570)
 - East Coast Overflow: TBD
-- Southeast: Vanderbilt
-- Great Lakes: Ohio State
-- Midwest: TBD
-- North: Iowa
-- South Central: Texas
-- Mountain West + Northwest: Washington
-- California: USC
-- Eastern Canada: Toronto
-- UK: TBD
-
-- High school only: TBD
+- Southeast: [Vanderbilt](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24544)
+- Great Lakes: [Ohio State](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24543)
+- Midwest: [Alex Damisch](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24569)
+- North: [Iowa](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24542)
+- South Central: [Texas](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24546)
+- Mountain West + Northwest: [Washington](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24562)
+- California: [USC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24568)
+- Eastern Canada: [Toronto](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24554)
+- UK: [Warwick](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24580)
+- [High school only](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=24575)
 
 ## High school mirrors
 ACF Winter will be available for high school mirrors. If you want to host a high school mirror of Winter, please email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). High school mirrors are restricted to high school teams; no college teams can participate.
