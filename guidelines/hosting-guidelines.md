@@ -155,7 +155,7 @@ The title of announcement should be in the form of “[Year] ACF [Tournament] at
 
 ## Tournament format and rules
 ### Tournament format
-All teams must be offered at least 9 meaningful games for Fall, and 10 meaningful games for Regionals. (Exceptions must be approved by the Mirror Coordinator.) ACF recommends offering at least 11 games. More details on suggested formats and tiebreaking procedures can be found on ACF’s [Formats](/formats/) page. Hosts should expect that at least 15 packets will be available for Fall and Regionals. All tournament formats must be approved by the Mirror Coordinator one week before the tournament.
+All teams must be offered at least 9 meaningful games for Fall, and 10 meaningful games for Winter and Regionals. Online mirrors must offer teams at least 7 games. (Exceptions must be approved by the Mirror Coordinator.) ACF recommends offering at least 11 games for in-person tournament. More details on suggested formats and tiebreaking procedures can be found on ACF’s [Formats](/formats/) page. Hosts should expect that at least 15 packets will be available for Fall, Winter, and Regionals (13 for online tournaments). All tournament formats must be approved by the Mirror Coordinator one week before the tournament.
 ### Rules
 Hosts must use the [official ACF rules](/gameplay-rules) for gameplay.
 
@@ -174,12 +174,15 @@ The top two overall teams will receive trophies in all cases.
 The top two Undergraduate and Division II teams will receive trophies if the field includes at least four Undergraduate teams and/or four Division II teams, respectively. If, two weeks before the tournament, the host reasonably expects fewer than four Undergraduate and/or four Division II teams will play the tournament, then the host must inform ACF that it will opt out of Undergraduate and/or Division II trophies. The host may also opt out of Undergraduate and/or Division II trophies if they reasonably expect that the _entire_ field will consist of Undergraduate and/or Division II teams. If the host opts out of Undergraduate and/or Division II trophies, but it turns out that the field merited awarding either or both of those titles, the host must make reasonable efforts to award prizes to the winners. 
 
 Failing to properly award titles and trophies according to ACF's [finals procedures](/formats/#finals-procedures), including Undergraduate and/or Division II, will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
+
 ### Book Prizes
 At a minimum, the members of the top two overall teams, and the top four individual scorers, should receive book prizes. Inexpensive used books are perfectly acceptable. For tournaments with more than ten teams, it is preferred that at least the fifth through eighth overall scorers also receive book prizes. If the field composition merits awarding Undergraduate and/or Division II trophies (see [above](#trophies)), the top four Undergraduate and/or Division II scorers should also receive book prizes. 
 
 In addition to awarding individual book prizes as specified, hosts of tournaments using [detailed statistics](#detailed-statistics) may optionally choose to recognize the top scorers in each category (e.g. literature, science, history, fine arts, religion/mythology/philosophy, etc.). Hosts may purchase extra books for this purpose, or may announce the top scorers in each category without awarding extra prizes.
+
 ### Qualifying for ACF Nationals
 ACF Regionals serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification/). As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
+
 ## Miscellaneous
 ### Recordings
 Teams registering for ACF tournaments will be asked to sign a media waiver. Hosts are welcome to record games at ACF tournaments, if that game’s players and staffers all consent before the game, and consent is not revoked during or after the game. ACF asks that hosts refrain from livestreaming games (including final games), or uploading recorded matches until 24 hours after the last mirror has concluded, to avoid question content being revealed to other sites.
@@ -245,7 +248,7 @@ The rest of the entry fees for ACF Nationals goes to the editors. ACF will provi
 </tr>
 <tbody>
 <tr>
-<td>Fewer than ten meaningful games offered<sup style="font-style:italic;font-size:65%;">1</sup> to each team (or fewer than nine for Fall sites)</td>
+<td>Fewer than ten meaningful games offered<sup style="font-style:italic;font-size:65%;">1</sup> to each team (or fewer than nine for Fall sites, or seven for online tournaments)</td>
 <td>$10 per team affected</td>
 </tr>
 <tr>
