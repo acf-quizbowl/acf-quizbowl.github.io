@@ -106,6 +106,11 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>ACF Regionals 2018 Editor<br/>Communications Officer, 2014&ndash;2017<br/>ACF Fall 2013 Editor</td>
 </tr>
 <tr>
+<td>Ganon Evans</td>
+<td>University of Iowa</td>
+<td>ACF Winter 2020 Editor<br/>ACF Fall 2019 Editor</td>
+</tr>
+<tr>
 <td>Andrew Feist</td>
 <td>A.M. and PhD, Duke University<br/>Alumnus, University of Central Missouri</td>
 <td>ACF Nationals 2019 Stats Director<br/>ACF Nationals 2018 Stats Director</td>
@@ -129,6 +134,11 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <td>Will Holub-Moorman</td>
 <td>Alumnus, Harvard University</td>
 <td>ACF Regionals 2019 Editor<br/>ACF Regionals 2018 Editor</td>
+</tr>
+<tr>
+<td>Nick Jensen</td>
+<td>PhD Student, University of California - Davis<br/>Alumnus, Dartmouth College</td>
+<td>ACF Winter 2020 Editor<br/>ACF Regionals 2020 Editor</td>
 </tr>
 <tr>
 <td>Ike Jose</td>
@@ -181,6 +191,11 @@ ACF Fall 2017 Editor</td>
 <td>Meeting Chair, 2018<br/>ACF Fall 2017 Head Editor<br/>ACF Nationals 2013 Head Editor<br/>ACF Nationals 2012 Head Editor<br/>ACF Nationals 2011 Editor<br/>ACF Nationals 2009 Editor<br/>ACF Regionals 2009 Head Editor<br/>ACF Fall 2007 Editor</td>
 </tr>
 <tr>
+<td>Ben Miller</td>
+<td>University of Chicago</td>
+<td>ACF Fall 2020 Head Editor<br/>ACF Fall 2019 Editor</td>
+</tr>
+<tr>
 <td>Will Nediger</td>
 <td>Ph.D, University of Michigan<br/>Alumnus, University of Western Ontario</td>
 <td>ACF Regionals 2019 Head Editor<br/>ACF Regionals 2014 Editor<br/>ACF Fall 2009 Editor</td>
@@ -208,7 +223,7 @@ ACF Fall 2017 Editor</td>
 <tr>
 <td>Andrew Wang</td>
 <td>Alumnus, University of Illinois, Urbana-Champaign</td>
-<td>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Editor<br/>ACF Fall 2015 Editor</td>
+<td>ACF Winter 2020 Editor<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Editor<br/>ACF Fall 2015 Editor</td>
 </tr>
 <tr>
 <td>Ryan Westbrook</td>
@@ -239,9 +254,24 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>ACF Regionals 2020 Editor</td>
 </tr>
 <tr>
-<td>Ganon Evans</td>
-<td>University of Iowa</td>
-<td>ACF Fall 2019 Editor</td>
+<td>Justin Duffy</td>
+<td>Harvard University</td>
+<td>ACF Fall 2020 Editor</td>
+</tr>
+<tr>
+<td>Halle Friedman</td>
+<td>Alumna, University of Chicago</td>
+<td>ACF Fall 2020 Editor<br/>ACF Fall 2019 Editor</td>
+</tr>
+<tr>
+<td>William Golden</td>
+<td>University of Texas at Austin</td>
+<td>ACF Winter 2020 Head Editor</td>
+</tr>
+<tr>
+<td>Alex Hardwick</td>
+<td>Oxford University</td>
+<td>ACF Fall 2020 Editor</td>
 </tr>
 <tr>
 <td>Taylor Harvey</td>
@@ -251,11 +281,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <tr>
 <td>Wonyoung Jang</td>
 <td>University of Chicago</td>
-<td>ACF Regionals 2020 Editor</td>
-</tr>
-<tr>
-<td>Nick Jensen</td>
-<td>PhD Student, University of California - Davis<br/>Alumnus, Dartmouth College</td>
 <td>ACF Regionals 2020 Editor</td>
 </tr>
 <tr>
@@ -269,6 +294,11 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>ACF Fall 2018 Editor</td>
 </tr>
 <tr>
+<td>Matthew Lehmann</td>
+<td>University of Chicago</td>
+<td>ACF Fall 2020 Editor</td>
+</tr>
+<tr>
 <td>Katherine Lei</td>
 <td>Montgomery Blair High School</td>
 <td>ACF Fall 2019 Editor</td>
@@ -279,14 +309,14 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Communications Director, 2020&ndash;2021<br/>ACF Fall 2019 Editor</td>
 </tr>
 <tr>
-<td>Ben Miller</td>
-<td>University of Chicago</td>
-<td>ACF Fall 2019 Editor</td>
-</tr>
-<tr>
 <td>Tracy Mirkin</td>
 <td>University of Florida</td>
 <td>ACF Fall 2019 Editor</td>
+</tr>
+<tr>
+<td>Arjun Nageswaran</td>
+<td>Stevenson High School</td>
+<td>ACF Fall 2020 Editor</td>
 </tr>
 <tr>
 <td>Ashwin Ramaswami</td>
@@ -304,14 +334,34 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>ACF Nationals 2019 Assistant TD</td>
 </tr>
 <tr>
+<td>Vishwa Shanmugam</td>
+<td>University of Maryland</td>
+<td>ACF Winter 2020 Editor</td>
+</tr>
+<tr>
+<td>Bryanna Shao</td>
+<td>Wayzata High School</td>
+<td>ACF Winter 2020 Editor</td>
+</tr>
+<tr>
 <td>Kenji Shimizu</td>
 <td>Alumnus, University of Michigan</td>
 <td>ACF Regionals 2018 Editor</td>
 </tr>
 <tr>
+<td>Christopher Sims</td>
+<td>PhD Student, Northwestern University<br/>Alumnus, University of Toronto</td>
+<td>ACF Winter 2020 Editor</td>
+</tr>
+<tr>
 <td>Margaret Tebbe</td>
 <td>University of Pennsylvania</td>
 <td>Site Coordinator, 2020&ndash;2021<br/>ACF Nationals 2019 Host Logistics Contact</td>
+</tr>
+<tr>
+<td>Chandler West</td>
+<td>MEd Student, Vanderbilt University<br/>Alumnus, Auburn University</td>
+<td>ACF Winter 2020 Editor</td>
 </tr>
 </tbody>
 </table>
