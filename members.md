@@ -314,6 +314,11 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>ACF Fall 2019 Editor</td>
 </tr>
 <tr>
+<td>Olivia Murton</td>
+<td>Ph.D, Harvard University<br/>Alumna, MIT</td>
+<td>ACF Moderator Training</td>
+</tr>
+<tr>
 <td>Arjun Nageswaran</td>
 <td>Stevenson High School</td>
 <td>ACF Fall 2020 Editor</td>
