@@ -300,7 +300,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 <tr>
 <td>Katherine Lei</td>
-<td>Montgomery Blair High School</td>
+<td>MIT</td>
 <td>ACF Fall 2019 Editor</td>
 </tr>
 <tr>
