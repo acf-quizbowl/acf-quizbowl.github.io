@@ -8,14 +8,14 @@ last_updated: October 22, 2020
 
 **ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience.
 
-## 2021 ACF Regionals
-2021 ACF Regionals will be held on January 30, 2021. 
+{: .no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
-### Announcement
-This is the official announcement for ACF Regionals 2021, which will take place on January 30, 2021. It will be head edited by Jaimie Carlson and edited by Annabelle Yang, Hari Parameswaran, Hasna Karim, Jonathan Tran, Jordan Brownstein, Michael Kearney, Natan Holtzman, Nick Dai, Nitin Rao, Stephen Eltinge, and Tim Morrison.
+## 2021 ACF Regionals
+2021 ACF Regionals will be held on January 30, 2021. It will be head edited by Jaimie Carlson and edited by Annabelle Yang, Hari Parameswaran, Hasna Karim, Jonathan Tran, Jordan Brownstein, Michael Kearney, Natan Holtzman, Nick Dai, Nitin Rao, Stephen Eltinge, and Tim Morrison.
 
 ### Format
-
 In response to the COVID-19 pandemic, Regionals is being held online this year. ACF will coordinate with host schools to hold mirrors using Discord, and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
 
 ### Qualification Changes
@@ -54,6 +54,17 @@ The new to quizbowl discount is intended for schools that did not send a team to
 
 Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, bank transfer, cash, or PayPal.
 
+
+### Registration
+To register for ACF Regionals, fill out [the central 2020 ACF Regionals registration form](https://forms.gle/Fip9Ru3wPMF56DCU8) with all relevant information. 
+
+
+### Field
+The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1ZtpLDgZCnaCKaKyhUQ74a1sTIG_hO6nGGrLr_QBE1O8/edit#gid=583264051).
+
+### Staffing
+To staff ACF Winter, please fill out [the staffer registration form](https://forms.gle/XaM1RbCFmYiGbqvD8).
+
 ### Distribution
 The distribution for this tournament will follow the standard ACF distribution, as laid out [here](https://acf-quizbowl.com/packet-submission-guidelines/#distribution).
 
@@ -68,29 +79,26 @@ This tournament is intended to be easier than ACF Regionals 2018, close in diffi
 * Submissions that flagrantly disregard the length or difficulty guidelines will be sent back to teams and will be considered unsubmitted for the purposes of packet discounts. If you would like to request an extension for your deadline, please submit your request and explanation to regionals@acf-quizbowl.com.
 
 ### Hosts
-If you are interested in hosting an online mirror of ACF Regionals, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScQ07K62BgtNI0zajtS6E9phwoic_pUKmvgKuG793z-9kTYwA/viewform). The deadline to submit a bid is December 5th. Sites will be announced by December 11th.
-
 If you have any questions about hosting or about the form, contact ACF’s Mirror Coordinator, Margaret Tebbe, at hosting@acf-quizbowl.com. Hosts must abide by ACF’s [Hosting Guidelines](https://acf-quizbowl.com/hosting-guidelines/) and the updated [guidelines for hosting online tournaments](https://docs.google.com/document/u/4/d/1JLzgDS3PICaPeBKG4CwixlRgtfT2lIq72y9tx-7hvJ4/edit).
 
 Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Regionals in the following [regions](https://acf-quizbowl.com/hosting-guidelines/#regions-according-to-acf):
 
-Northeast:
-Upper Mid-Atlantic:
-Lower Mid-Atlantic:
-Southeast:
-Florida:
-Great Lakes:
-Midwest:
-North:
-South Central:
-Mountain West:
-Northern California:
-Southern California:
-Northwest:
-Eastern Canada:
-United Kingdom:
+Northeast: [Yale](https://hsquizbowl.org/forums/viewtopic.php?p=382182#p382182)
+Upper Mid-Atlantic: [NYU](https://hsquizbowl.org/forums/viewtopic.php?p=382418#p382418)
+Lower Mid-Atlantic: TBD
+Southeast: [Georgia Tech](https://hsquizbowl.org/forums/viewtopic.php?p=382175#p382175)
+Great Lakes: TBD
+Midwest: TBD
+North: [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24742)
+South Central: [Nebraska](https://hsquizbowl.org/forums/viewtopic.php?p=382218#p382218)
+West: USC/Washington
+Eastern Canada: Toronto
+UK: Imperial
 
-High-school-only sites:
+Invitational: [ACF](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24756)
+
+High school only: [Westview](https://hsquizbowl.org/forums/viewtopic.php?p=382191#p382191)
+
 
 ### Further Questions
 
