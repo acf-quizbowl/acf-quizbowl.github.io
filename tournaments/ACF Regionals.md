@@ -63,7 +63,7 @@ To register for ACF Regionals, fill out [the central 2020 ACF Regionals registra
 The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1ZtpLDgZCnaCKaKyhUQ74a1sTIG_hO6nGGrLr_QBE1O8/edit#gid=583264051).
 
 ### Staffing
-To staff ACF Winter, please fill out [the staffer registration form](https://forms.gle/XaM1RbCFmYiGbqvD8).
+To staff ACF Regionals, please fill out [the staffer registration form](https://docs.google.com/forms/d/e/1FAIpQLSc0dBPR3TekDmkLdbNuYb7EYo5K0Bfb3Z5r022dQxVJ48Kebg/viewform).
 
 ### Distribution
 The distribution for this tournament will follow the standard ACF distribution, as laid out [here](https://acf-quizbowl.com/packet-submission-guidelines/#distribution).
