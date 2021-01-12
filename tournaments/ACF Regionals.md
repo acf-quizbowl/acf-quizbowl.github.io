@@ -12,7 +12,7 @@ last_updated: October 22, 2020
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-## 2021 ACF Regionals
+### 2021 ACF Regionals
 2021 ACF Regionals will be held on January 30, 2021. It will be head edited by Jaimie Carlson and edited by Annabelle Yang, Hari Parameswaran, Hasna Karim, Jonathan Tran, Jordan Brownstein, Michael Kearney, Natan Holtzman, Nick Dai, Nitin Rao, Stephen Eltinge, and Tim Morrison.
 
 ### Format
