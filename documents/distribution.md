@@ -5,14 +5,16 @@ permalink: /distribution/
 last_updated: April 19, 2020
 ---
 
+This page lists full-packet distributions for each ACF tournament. Teams submitting full packets to ACF tournaments should follow the prescribed distribution for the tournament they are submitting a packet to. For tournaments with half-packet submissions, teams will only submit a half-packet of 12/12, with pre-assigned categories.
+
 <a id = 'top'></a>
 <table class="table table-striped table-hover table-responsive table-condensed" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
    <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Category </th>
    <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Fall </th>
-   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Regionals </th>
    <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Winter </th>
+   <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Regionals </th>
    <th style="text-align:center;position: sticky; top:0; background-color: #FFFFFF;"> Nationals </th>
   </tr>
  </thead>
