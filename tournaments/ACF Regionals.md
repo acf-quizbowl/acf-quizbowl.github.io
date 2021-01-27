@@ -56,7 +56,7 @@ Host sites will bill teams as soon as possible after the teams register. Teams s
 
 
 ### Registration
-To register for ACF Regionals, fill out [the central 2020 ACF Regionals registration form](https://forms.gle/Fip9Ru3wPMF56DCU8) with all relevant information. 
+To register for ACF Regionals, fill out [the central 2021 ACF Regionals registration form](https://forms.gle/Fip9Ru3wPMF56DCU8) with all relevant information. 
 
 
 ### Field
