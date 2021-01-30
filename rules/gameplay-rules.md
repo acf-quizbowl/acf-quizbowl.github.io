@@ -307,15 +307,50 @@ Any tournament may use these rules free of charge without prior permission from 
 The following rules are designed to adapt ACF rules to online quizbowl; they are also included in the ruleset above, but are collected here for your convenience.
 
 - Section A.2.A: "In the case of an online tournament, [a game room] may be a virtual room. If the tournament requires video, all players should have video on, unless given prior permission by the tournament director or the other players in the game. Tournament directors may define requirements for video as they see fit."
+<br>
+
 - Section A.8.A: "When possible, players should give spoken responses. Typed or written responses should only be used if spoken responses are not feasible."
+<br>
+
 - Section B.1.A: "Online tournaments may use a buzzer system which either locks out all other users from signaling once any one individual user has signaled, or preserves a record of which player buzzed first. In situations where there may be different records of who buzzed first (such as an Internet chat client), the moderator's record shall be final."
+<br>
+
+
 - Section B.3: Specify that a buzz may alternatively preserve a record of where a player buzzed in relation to other players.
+<br>
+
+
 - Section B.7.B: "The [rule prohibiting personal electronic devices] also does not apply to devices used to compete in online tournaments. A player playing an online tournament may use a personal electronic device such as a laptop to compete in the tournament, but may not use any functions of the personal electronic device other than what is necessary to compete. The player may not use any personal electronic devices that are not being used to compete in the tournament while playing the tournament."
+<br>
+
+
 - Section D.4.A: "In the event that a player gives an incorrect answer, the moderator shall clear the buzzer system and disregard all prior buzzes by the other team before continuing."
+<br>
+
+
 - Section D.6.A: "For an online tournament, players will have eight seconds after recognition to give an answer. This timing restriction applies to both spoken and typed answers. Unlike in-person tournaments, moderators must recognize the player who buzzed in and is eligible to answer the question."
+<br>
+
+
 - Section DX.2.B: "Whether or not a player buzzed before, at, or within less than a syllable after the power mark is a matter of moderator judgment, and is not protestable. A player will be considered to have buzzed once the moderator stops speaking."
+<br>
+
+
 - Section E.2.A: "For an online tournament, teams will have eight seconds to give an answer after the bonus part has been read in full."
+<br>
+
+
 - Section E.4.A: "For an online tournament, a team shall direct a response to the moderator by prepending "Our answer is" to their answer. Moderators should only consider responses preceded by "Our answer is." (For example, for a bonus part on Sextus Empiricus, the answering team should say "Our answer is Sextus Empiricus" to have their answer ruled upon.)"
+<br>
+
+
 - Section E.4.A: "In addition to the above rule about teams directing answers, during online tournaments moderators shall consider directed the first answer given by a team after the moderator prompts them for an answer at the six-second mark, regardless of if the answer is preceded by a directing phrase or not. This does not apply to prompts given for the correctness of an answer, but only to prompts given for reasons of time."
+<br>
+
+
 - Section E.5: Specify that moderators should prompt for an answer to a bonus part after six seconds for an online tournament, and give two seconds thereafter to respond.
+<br>
+
+
 - Section G.19: Typed responses will be held to the same correctness guidelines as spoken responses.
+<br>
