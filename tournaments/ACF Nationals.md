@@ -9,7 +9,7 @@ last_updated: May 14, 2020
 **ACF Nationals** is the ACF collegiate national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the best question set of the year.
 
 ## 2021 ACF Nationals 
-2021 ACF Nationals will be held on April 17, 2021. 
+2021 ACF Nationals was postponed until summer 2021. More information will be posted at a later date.
 
 Matt Bollinger, alumnus of the University of Virginia, and Ryan Westbrook, alumnus of the University of Michigan and Wayne State University, will be head editors.
 
