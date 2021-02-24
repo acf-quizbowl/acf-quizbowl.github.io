@@ -3,7 +3,7 @@ layout: page
 title: Andrew Hart’s Regular Difficulty Primer
 permalink: /andrew-hart-regular-difficulty/
 ---
-*The following is a document by ACF member Andrew Hart. It was  intended to help teams write difficulty appropriate questions for ACF Winter, but generally the content is helpful for teams writing questions for any “regular difficulty” tournament.*
+*This document written by ACF member Andrew Hart was intended to help teams write difficulty appropriate questions for ACF Winter, but generally the content is helpful for teams writing questions for any “regular difficulty” tournament.*
 
 This guide attempts to elucidate just what editors envision by “regular difficulty.”
 
