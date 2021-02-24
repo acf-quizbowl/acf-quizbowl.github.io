@@ -17,10 +17,12 @@ If you would like to host an ACF tournament in your region, email the [Mirror Co
 For the purposes of selecting ACF tournament sites only, ACF generally considers North America to contain these regions:
 <!--gt table start-->
 <table>
+<thead>
 <tr>
 <th>Region Name</th>
 <th>Areas</th>
 </tr>
+</thead>
 <tbody>
 <tr>
 <td>Northeast</td>
@@ -86,17 +88,19 @@ When the Mirror Coordinator receives more than one host bid from a given region,
 
 <!--gt table start-->
 <table>
+<thead>
 <tr>
-<th>Approximate time</th>
+<th width="30%">Approximate time</th>
 <th>Task</th>
 </tr>
+</thead>
 <tbody>
 <tr>
 <td>12 weeks before tournament</td>
 <td>Bids received for tournament</td>
 </tr>
 <tr>
-<td>10 weeks before tournament<sup style="font-style:italic;font-size:65%;">1</sup></td>
+<td>10 weeks before tournament<sup style="font-size:65%;">1</sup></td>
 <td>ACF announces sites for tournament<br/>
 Hosts post individual announcements on Forums and Database</td>
 </tr>
@@ -131,11 +135,9 @@ ACF notifies hosts of which schools’ packets used in set</td>
 <td>Deadline for hosts to pay ACF</td>
 </tr>
 </tbody>
-<tfoot>
-<tr>
-<td colspan='2' style="font-size:90%;padding:4px;"><sup style="font-style:italic;font-size:65%;"><em>1</em></sup> If no viable bids are received for a region, it may take longer to decide sites for that region. Site announcements may be staggered.</td>
-</tr>
-</tfoot></table>
+</table>
+
+<small><sup style="font-size:65%;">1</sup> If no viable bids are received for a region, it may take longer to decide sites for that region. Site announcements may be staggered.</small>
 <!--gt table end-->
 
 # Host requirements
@@ -190,22 +192,21 @@ Teams registering for ACF tournaments will be asked to sign a media waiver. Host
 ACF encourages all hosts to run their tournaments digitally in order to be environmentally responsible and save on the time and cost of copying paper packets and scoresheets.
 # Details about finances
 ## Financial breakdown between hosts and ACF
-<!--gt table start-->
 #### For online tournaments with non-ACF hosts
 
 **Team fee**
 - Base fee: $120
-- New to quizbowl discount: -$80
-- Shorthanded discount (1-2 players): -$60
-- Packet submission discounts/penalties: +/- amount as applicable
-- Logistics discounts: -$25 per staffer (must have working laptop and internet connection)
+- New to quizbowl discount: −$80
+- Shorthanded discount (1–2 players): −$60
+- Packet submission discounts/penalties: +/− amount as applicable
+- Logistics discounts: −$25 per staffer (must have working laptop and internet connection)
 
 **Host share**
 - Base fee: $60
-- New to quizbowl discount: -$20
-- Shorthanded discount (1–2 players): -$40
-- Packet submission discounts/penalties: *NA*
-- Logistics discounts: -$25 per staffer (must have working laptop and internet connection)
+- New to quizbowl discount: −$20
+- Shorthanded discount (1–2 players): −$40
+- Packet submission discounts/penalties: n/a
+- Logistics discounts: −$25 per staffer (must have working laptop and internet connection)
 
 All staffers, including moderators, must first register to staff through ACF. Once approved, hosts must reimburse staffers who staff for all non-finals, non-tiebreaker rounds (including logistics staff) at a minimum of $25 (either paid directly to staff or as part of a logistics discount to a competing team; host teams are permitted to keep pay for in-house staffers as part of their overall hosting revenue). 
 
@@ -213,11 +214,10 @@ Hosts are no longer required to award trophies.
 
 **ACF share**
 - Base fee: $60
-- New to quizbowl discount: -$60
-- Shorthanded discount (1–2 players): -$20
-- Packet submission discounts/penalties: +/- amount as applicable
-- Logistics discounts: *NA*
-<!--gt table end-->
+- New to quizbowl discount: −$60
+- Shorthanded discount (1–2 players): −$20
+- Packet submission discounts/penalties: +/− amount as applicable
+- Logistics discounts: n/a
 
 The travel discount is applied at most once per school. 
 
@@ -239,16 +239,19 @@ The bidding process for ACF Nationals occurs over the summer immediately followi
 For ACF Nationals, the host school will receive $25 per team in attendance for use of the rooms, $15 per staffer provided, and the right to enter one host team for free. If the host team would normally be required to write a packet, then they must do so by the no-penalty deadline. Additional host teams will also be free, but will be allowed only if the tournament has adequate staff, and still must write packets by the no-penalty deadline if required to do so under the packet guidelines.
 If ACF Nationals is officially designated as being “co-hosted” by multiple teams, then the other teams, besides the one at whose school the tournament is physically occurring, will also receive $15 per staffer provided.
 The rest of the entry fees for ACF Nationals goes to the editors. ACF will provide staff meals, and cover other normal tournament expenses such as printing.
+
 # Penalties for egregious hosting violations
 <!--gt table start-->
 <table>
+<thead>
 <tr>
 <th>Violation</th>
 <th>Penalty</th>
 </tr>
+</thead>
 <tbody>
 <tr>
-<td>Fewer than ten meaningful games offered<sup style="font-style:italic;font-size:65%;">1</sup> to each team (or fewer than nine for Fall sites, or seven for online tournaments)</td>
+<td>Fewer than ten meaningful games offered<sup style="font-size:65%;">1</sup> to each team (or fewer than nine for Fall sites, or seven for online tournaments)</td>
 <td>$10 per team affected</td>
 </tr>
 <tr>
@@ -275,13 +278,10 @@ The rest of the entry fees for ACF Nationals goes to the editors. ACF will provi
 <td>Site is run in egregious violation of or ignoring the official ACF rules or hosting guidelines</td>
 <td>$50 penalty and possible ban from hosting</td>
 </tr>
-<tfoot>
-<tr>
-<td colspan='2' style="font-size:90%;padding:4px;"><sup style="font-style:italic;font-size:65%;"><em>1</em></sup> No penalties will be levied if teams elect to leave early on their own volition, causing schedules to drop below the minimum number of games. Hosts may not, however, encourage teams to leave early.</td>
-</tr>
-</tfoot>
 </tbody>
 </table>
+
+<small><sup style="font-size:65%;">1</sup> No penalties will be levied if teams elect to leave early on their own volition, causing schedules to drop below the minimum number of games. Hosts may not, however, encourage teams to leave early.</small>
 <!--gt table end-->
 
 At the treasurer or head editor’s discretion, first-time violations may result in a warning instead of a monetary penalty.
