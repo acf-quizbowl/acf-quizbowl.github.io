@@ -41,7 +41,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 </tr>
 <tr>
 <td>Cody Voight</td>
-<td>Nationals TD</td>
+<td>ACF Nationals Tournament Director</td>
 <td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 <thead>
 <tr>
 <th class="name">Head editor</th>
-<th class="affiliations">Position</th>
+<th class="affiliations">Tournament</th>
 <th class="contributions">Contact</th>
 </tr>
 </thead>
@@ -93,16 +93,30 @@ For information on how to become an ACF member, see the [About page](/about#how-
 
 ## Other contacts
 
-<ul>
-<li>ACF Nationals Staffing: <a href="staffing@acf-quizbowl.com">staffing@acf-quizbowl.com</a></li>
-<li>ACF Eligibility Committee: <a href="eligibility@acf-quizbowl.com">eligibility@acf-quizbowl.com</a></li>
-</ul>
+<table>
+<thead>
+<tr>
+<th width="50%">Position</th>
+<th class="contributions">Contact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ACF Nationals Staffing</td>
+<td><a href="mailto:staffing@acf-quizbowl.com">staffing@acf-quizbowl.com</a></td>
+</tr>
+<tr>
+<td>Eligibility Committee</td>
+<td><a href="mailto:eligibility@acf-quizbowl.com">eligibility@acf-quizbowl.com</a></td>
+</tr>
+</tbody>
+</table>
 
 # Full members
 
 Full members are ACF's editors, officers, and tournament directors. They vote in all ACF elections and on all constitutional amendments.
 
-<table class="table-ruled">
+<table class="table-ruled member-list">
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -113,163 +127,514 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <tbody>
 <tr>
 <td>Matt Bollinger</td>
-<td>Alumnus, University of Virginia</td>
-<td>Editor-in-Chief, 2020&ndash;2021<br/>Communications Officer, 2019&ndash;2020<br/>ACF Nationals 2019 co-Head Editor<br/>ACF Nationals 2017 Head Editor<br/>ACF Fall 2012 Head Editor<br/>ACF Fall 2011 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Virginia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020–2021 Editor-in-Chief</li>
+<li>2019–2020 Communications Officer</li>
+<li>2019 ACF Nationals co-Head Editor</li>
+<li>2017 ACF Nationals Head Editor</li>
+<li>2012 ACF Fall Head Editor</li>
+<li>2011 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Jordan Brownstein</td>
-<td>Alumnus, University of Maryland</td>
-<td>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Editor<br/>ACF Fall 2014 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Nationals Editor</li>
+<li>2018 ACF Nationals Editor</li>
+<li>2014 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Billy Busse</td>
-<td>Alumnus, University of Illinois, Urbana-Champaign</td>
-<td>President, 2019&ndash;2020<br/>Meeting Chair, 2018&ndash;2019<br/>ACF Nationals 2016 Editor<br/>ACF Nationals 2015 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Illinois, Urbana-Champaign</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019–2020 President</li>
+<li>2018–2019 Meeting Chair</li>
+<li>2016 ACF Nationals Editor</li>
+<li>2015 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Rob Carson</td>
-<td>Alumnus, University of Minnesota</td>
-<td>ACF Regionals 2019 Editor<br/>ACF Nationals 2018 Logistics<br/>ACF Nationals 2016 co–Head Editor<br/>ACF Nationals 2015 Editor<br/>ACF Regionals 2013 Editor<br/>ACF Regionals 2011 Head Editor<br/>ACF Winter 2010 Editor<br/>ACF Fall 2008 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Minnesota</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Editor</li>
+<li>2018 ACF Nationals Logistics</li>
+<li>2016 ACF Nationals co-Head Editor</li>
+<li>2015 ACF Nationals Editor</li>
+<li>2013 ACF Regionals Editor</li>
+<li>2011 ACF Regionals Head Editor</li>
+<li>2010 ACF Winter Editor</li>
+<li>2008 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Alex Damisch</td>
-<td>M.S., DePaul University<br/>Alumna, Lawrence University</td>
-<td>President, 2020&ndash;2021<br/>Site Coordinator, 2019–2020<br/>Treasurer, 2018–2019<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Logistics</td>
+<td>
+<ul>
+<li>M.S., DePaul University</li>
+<li>Alumna, Lawrence University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020–2021 President</li>
+<li>2019–2020 Site Coordinator</li>
+<li>2018–2019 Treasurer</li>
+<li>2019 ACF Nationals Editor</li>
+<li>2018 ACF Nationals Logistics</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Stephen Eltinge</td>
-<td>Ph.D Candidate, Yale University<br/>Alumnus, Massachusetts Institute of Technology</td>
-<td>ACF Regionals 2018 Editor<br/>Communications Officer, 2014&ndash;2017<br/>ACF Fall 2013 Editor</td>
+<td>
+<ul>
+<li>PhD Candidate, Yale University</li>
+<li>Alumnus, Massachusetts Institute of Technology</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Regionals Editor</li>
+<li>2014–2017 Communications Officer</li>
+<li>2013 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Ganon Evans</td>
-<td>University of Iowa</td>
-<td>ACF Winter 2020 Editor<br/>ACF Fall 2019 Editor</td>
+<td>
+<ul>
+<li>University of Iowa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Editor</li>
+<li>2019 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Andrew Feist</td>
-<td>A.M. and PhD, Duke University<br/>Alumnus, University of Central Missouri</td>
-<td>ACF Nationals 2019 Stats Director<br/>ACF Nationals 2018 Stats Director</td>
+<td>
+<ul>
+<li>A.M. and PhD, Duke University</li>
+<li>Alumnus, University of Central Missouri</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Nationals Stats Director</li>
+<li>2018 ACF Nationals Stats Director</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Carsten Gehring</td>
-<td>Alumnus, Carleton College</td>
-<td>ACF Nationals 2018 Proofreader<br/>ACF Regionals 2017 Proofreader<br/>ACF Regionals 2014 Editor<br/>ACF Fall 2011 Head Editor<br/>ACF Fall 2010 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Carleton College</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Nationals Proofreader</li>
+<li>2017 ACF Regionals Proofreader</li>
+<li>2014 ACF Regionals Editor</li>
+<li>2011 ACF Fall Head Editor</li>
+<li>2010 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Auroni Gupta</td>
-<td>Ph.D Student, University of Illinois Urbana-Champaign<br/>MPH, University of Michigan School of Public Health<br/>Alumnus, University of California, San Diego</td>
-<td>ACF Nationals 2019 Head Editor<br/>ACF Regionals 2018 Head Editor<br/>ACF Nationals 2014 Editor<br/>ACF Regionals 2012 Editor<br/>ACF Fall 2009 Editor</td>
+<td>
+<ul>
+<li>PhD Student, University of Illinois Urbana-Champaign</li>
+<li>MPH, University of Michigan School of Public Health</li>
+<li>Alumnus, University of California, San Diego</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Nationals Head Editor</li>
+<li>2018 ACF Regionals Head Editor</li>
+<li>2014 ACF Nationals Editor</li>
+<li>2012 ACF Regionals Editor</li>
+<li>2009 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Andrew Hart</td>
-<td>J.D., University of Minnesota Law School<br/>Alumnus, University of Minnesota</td>
-<td>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Head Editor<br/>ACF Regionals 2017 Head Editor<br/>Meeting Chair, 2010&ndash;2015<br/>ACF Fall 2013 Editor<br/>ACF Winter 2010 Head Editor<br/>ACF Fall 2008 Head Editor<br/>ACF Fall 2007 Editor</td>
+<td>
+<ul>
+<li>J.D., University of Minnesota Law School</li>
+<li>Alumnus, University of Minnesota</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Nationals Editor</li>
+<li>2018 ACF Nationals Head Editor</li>
+<li>2017 ACF Regionals Head Editor</li>
+<li>2010–2015 Meeting Chair</li>
+<li>2013 ACF Fall Editor</li>
+<li>2010 ACF Winter Head Editor</li>
+<li>2008 ACF Fall Head Editor</li>
+<li>2007 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Will Holub-Moorman</td>
-<td>Alumnus, Harvard University</td>
-<td>ACF Regionals 2019 Editor<br/>ACF Regionals 2018 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Editor</li>
+<li>2018 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Nick Jensen</td>
-<td>PhD Student, University of California - Davis<br/>Alumnus, Dartmouth College</td>
-<td>ACF Winter 2020 Editor<br/>ACF Regionals 2020 Editor</td>
+<td>
+<ul>
+<li>PhD Student, University of California - Davis</li>
+<li>Alumnus, Dartmouth College</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Editor</li>
+<li>2020 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Ike Jose</td>
-<td>Alumnus, University of Illinois, Urbana-Champaign</td>
-<td>ACF Nationals 2019 Editor<br/>ACF Nationals 2017 Editor<br/>ACF Nationals 2016 co-Head Editor<br/>ACF Nationals 2015 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Illinois, Urbana-Champaign</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Nationals Editor</li>
+<li>2017 ACF Nationals Editor</li>
+<li>2016 ACF Nationals co-Head Editor</li>
+<li>2015 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Rahul Keyal</td>
-<td>University of Californa, Berkeley</td>
-<td>ACF Fall 2019 Head Editor<br/>ACF Fall 2018 Editor</td>
+<td>
+<ul>
+<li>University of Californa, Berkeley</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Fall Head Editor</li>
+<li>2018 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>JinAh Kim</td>
-<td>Alumna, University of Pennsylvania</td>
-<td>Treasurer, 2020&ndash;2021<br/>ACF Regionals 2020 Head Editor<br/>ACF Nationals 2019 Editor</td>
+<td>
+<ul>
+<li>Alumna, University of Pennsylvania</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020–2021 Treasurer</li>
+<li>2020 ACF Regionals Head Editor</li>
+<li>2019 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Ophir Lifshitz</td>
-<td>Alumnus, University of Maryland</td>
-<td>ACF Regionals 2020 Oversight, Logistics, and Advanced Statistics<br/>
-ACF Fall 2019 Proofreading/Packetizing<br/>
-ACF Regionals 2019 Logistics and Advanced Statistics<br/>
-ACF Regionals 2018 Logistics and Advanced Statistics</td>
+<td>
+<ul>
+<li>Alumnus, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Regionals Oversight</li>
+<li>2020 ACF Regionals Logistics and Advanced Statistics</li>
+<li>2019 ACF Fall Proofreading/Packetizing</li>
+<li>2019 ACF Regionals Logistics and Advanced Statistics</li>
+<li>2018 ACF Regionals Logistics and Advanced Statistics</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Stephen Liu</td>
-<td>J.D., Stanford Law School<br/>Alumnus, Harvard University</td>
-<td>ACF Nationals 2018 Editor<br/>ACF Regionals 2017 Editor<br/>ACF Regionals 2015 Editor<br/>ACF Fall 2013 Head Editor<br/>ACF Fall 2012 Editor</td>
+<td>
+<ul>
+<li>J.D., Stanford Law School</li>
+<li>Alumnus, Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Nationals Editor</li>
+<li>2017 ACF Regionals Editor</li>
+<li>2015 ACF Regionals Editor</li>
+<li>2013 ACF Fall Head Editor</li>
+<li>2012 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Bruce Lou</td>
-<td>Alumnus, University of California, Berkeley</td>
-<td>ACF Regionals 2019 Editor<br/>ACF Fall 2017 Editor<br/>ACF Fall 2016 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of California, Berkeley</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Editor</li>
+<li>2017 ACF Fall Editor</li>
+<li>2016 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Sam Luongo</td>
-<td>Alum, Virginia Commonwealth University School of Education<br/>Alum, University of Virginia</td>
-<td>Webmaster, 2018&ndash;2019<br/>Meeting Chair, 2017&ndash;2018<br/>ACF Nationals 2018 Tournament Director<br/>ACF Regionals 2015 Editor and Logistics Coordinator<br/>ACF Fall 2011 Editor</td>
+<td>
+<ul>
+<li>Alum, Virginia Commonwealth University School of Education</li>
+<li>Alum, University of Virginia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018–2019 Webmaster</li>
+<li>2017–2018 Meeting Chair</li>
+<li>2018 ACF Nationals Tournament Director</li>
+<li>2015 ACF Regionals Editor and Logistics Coordinator</li>
+<li>2011 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Evan Lynch</td>
-<td>Ph.D Student, University of Southampton<br>Alumnus, University of Cambridge</td>
-<td>ACF Regionals 2020 Logistics Support<br/>
-ACF Fall 2019 Logistics Support<br/>
-ACF Fall 2017 Editor</td>
+<td>
+<ul>
+<li>PhD Student, University of Southampton</li>
+<li>Alumnus, University of Cambridge</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Regionals Logistics Support</li>
+<li>2019 ACF Fall Logistics Support</li>
+<li>2017 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Jonathan Magin</td>
-<td>Alumnus, University of Maryland</td>
-<td>Meeting Chair, 2018<br/>ACF Fall 2017 Head Editor<br/>ACF Nationals 2013 Head Editor<br/>ACF Nationals 2012 Head Editor<br/>ACF Nationals 2011 Editor<br/>ACF Nationals 2009 Editor<br/>ACF Regionals 2009 Head Editor<br/>ACF Fall 2007 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 Meeting Chair</li>
+<li>2017 ACF Fall Head Editor</li>
+<li>2013 ACF Nationals Head Editor</li>
+<li>2012 ACF Nationals Head Editor</li>
+<li>2011 ACF Nationals Editor</li>
+<li>2009 ACF Nationals Editor</li>
+<li>2009 ACF Regionals Head Editor</li>
+<li>2007 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Ben Miller</td>
-<td>University of Chicago</td>
-<td>ACF Fall 2020 Head Editor<br/>ACF Fall 2019 Editor</td>
+<td>
+<ul>
+<li>University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Fall Head Editor</li>
+<li>2019 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Will Nediger</td>
-<td>Ph.D, University of Michigan<br/>Alumnus, University of Western Ontario</td>
-<td>ACF Regionals 2019 Head Editor<br/>ACF Regionals 2014 Editor<br/>ACF Fall 2009 Editor</td>
+<td>
+<ul>
+<li>PhD, University of Michigan</li>
+<li>Alumnus, University of Western Ontario</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Head Editor</li>
+<li>2014 ACF Regionals Editor</li>
+<li>2009 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Nitin Rao</td>
-<td>University of Pennsylvania</td>
-<td>ACF Regionals 2020 Editor<br/>ACF Fall 2018 Editor</td>
+<td>
+<ul>
+<li>University of Pennsylvania</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Regionals Editor</li>
+<li>2018 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Ryan Rosenberg</td>
-<td>Alumnus, University of North Carolina at Chapel Hill</td>
-<td>Webmaster, 2019&ndash;2021<br/>ACF Nationals 2019 Tournament Director<br/>ACF Nationals 2018 Assistant Tournament Director<br/>ACF Fall 2017 Editor<br/>ACF Fall 2015 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of North Carolina at Chapel Hill</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019–2021 Webmaster</li>
+<li>2019 ACF Nationals Tournament Director</li>
+<li>2018 ACF Nationals Assistant Tournament Director</li>
+<li>2017 ACF Fall Editor</li>
+<li>2015 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Bernadette Spencer</td>
-<td>Minnesota</td>
-<td>ACF Nationals 2019 Travel Logistics<br/>ACF Nationals 2018 Travel Logistics<br/>ACF Nationals 2017 Travel Logistics</td>
+<td>
+<ul>
+<li>Minnesota</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Nationals Travel Logistics</li>
+<li>2018 ACF Nationals Travel Logistics</li>
+<li>2017 ACF Nationals Travel Logistics</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Cody Voight</td>
-<td>Alumnus, Virginia Commonwealth University</td>
-<td>Nationals TD, 2020&ndash;2021<br/>Treasurer, 2019&ndash;2020<br/>ACF Regionals 2017 Editor<br/>ACF Nationals 2016 Stats Director<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2013 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Virginia Commonwealth University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020–2021 ACF Nationals Tournament Director</li>
+<li>2019–2020 Treasurer</li>
+<li>2017 ACF Regionals Editor</li>
+<li>2016 ACF Nationals Stats Director</li>
+<li>2015 ACF Nationals Assistant Tournament Director</li>
+<li>2013 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Andrew Wang</td>
-<td>Alumnus, University of Illinois, Urbana-Champaign</td>
-<td>ACF Winter 2020 Editor<br/>ACF Nationals 2019 Editor<br/>ACF Nationals 2018 Editor<br/>ACF Fall 2015 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Illinois, Urbana-Champaign</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Editor</li>
+<li>2019 ACF Nationals Editor</li>
+<li>2018 ACF Nationals Editor</li>
+<li>2015 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Ryan Westbrook</td>
-<td>J.D., Wayne State University Law School<br/>Alumnus, University of Michigan</td>
-<td>ACF Nationals 2018 Editor<br/>ACF Nationals 2016 Editor<br/>ACF Nationals 2015 Head Editor<br/>ACF Nationals 2014 Editor<br/>ACF Nationals 2010 Editor<br/>ACF Nationals 2008 Editor<br/>ACF Regionals 2007 Editor</td>
+<td>
+<ul>
+<li>J.D., Wayne State University Law School</li>
+<li>Alumnus, University of Michigan</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Nationals Editor</li>
+<li>2016 ACF Nationals Editor</li>
+<li>2015 ACF Nationals Head Editor</li>
+<li>2014 ACF Nationals Editor</li>
+<li>2010 ACF Nationals Editor</li>
+<li>2008 ACF Nationals Editor</li>
+<li>2007 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Jennie Yang</td>
-<td>Stanford University</td>
-<td>ACF Regionals 2019 Editor<br/>ACF Fall 2017 Editor</td>
+<td>
+<ul>
+<li>Stanford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Editor</li>
+<li>2017 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -278,7 +643,7 @@ ACF Fall 2017 Editor</td>
 
 Provisional members are community members who have ably assisted ACF in the past and may be invited to apply for full membership if they so do again in the future.
 
-<table class="table-ruled">
+<table class="table-ruled member-list">
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -289,123 +654,324 @@ Provisional members are community members who have ably assisted ACF in the past
 <tbody>
 <tr>
 <td>Geoffrey Chen</td>
-<td>Cornell University</td>
-<td>ACF Regionals 2020 Editor</td>
+<td>
+<ul>
+<li>Cornell University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Justin Duffy</td>
-<td>Harvard University</td>
-<td>ACF Fall 2020 Editor</td>
+<td>
+<ul>
+<li>Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Halle Friedman</td>
-<td>Alumna, University of Chicago</td>
-<td>ACF Fall 2020 Editor<br/>ACF Fall 2019 Editor</td>
+<td>
+<ul>
+<li>Alumna, University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Fall Editor</li>
+<li>2019 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>William Golden</td>
-<td>University of Texas at Austin</td>
-<td>ACF Winter 2020 Head Editor</td>
+<td>
+<ul>
+<li>University of Texas at Austin</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Head Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Alex Hardwick</td>
-<td>Oxford University</td>
-<td>ACF Fall 2020 Editor</td>
+<td>
+<ul>
+<li>Oxford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Taylor Harvey</td>
-<td>PhD Candidate, University of Florida<br/>Alumnus, University of Florida</td>
-<td>ACF Regionals 2020 Editor</td>
+<td>
+<ul>
+<li>PhD Candidate, University of Florida</li>
+<li>Alumnus, University of Florida</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Wonyoung Jang</td>
-<td>University of Chicago</td>
-<td>ACF Regionals 2020 Editor</td>
+<td>
+<ul>
+<li>University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Michael Kearney</td>
-<td>Alumnus, Yale University</td>
-<td>ACF Fall and Regionals 2020 Site TD</td>
+<td>
+<ul>
+<li>Alumnus, Yale University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Fall and Regionals Site Tournament Director</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Olivia Lamberti</td>
-<td>Stanford University</td>
-<td>ACF Fall 2018 Editor</td>
+<td>
+<ul>
+<li>Stanford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Matthew Lehmann</td>
-<td>University of Chicago</td>
-<td>ACF Fall 2020 Editor</td>
+<td>
+<ul>
+<li>University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Katherine Lei</td>
-<td>MIT</td>
-<td>ACF Fall 2019 Editor</td>
+<td>
+<ul>
+<li>MIT</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Caroline Mao</td>
-<td>Barnard College</td>
-<td>Communications Director, 2020&ndash;2021<br/>ACF Fall 2019 Editor</td>
+<td>
+<ul>
+<li>Barnard College</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020–2021 Communications Director</li>
+<li>2019 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Tracy Mirkin</td>
-<td>University of Florida</td>
-<td>ACF Fall 2019 Editor</td>
+<td>
+<ul>
+<li>University of Florida</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Olivia Murton</td>
-<td>Ph.D, Harvard University<br/>Alumna, MIT</td>
-<td>ACF Moderator Training</td>
+<td>
+<ul>
+<li>PhD, Harvard University</li>
+<li>Alumna, MIT</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>ACF Moderator Training</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Arjun Nageswaran</td>
-<td>Stevenson High School</td>
-<td>ACF Fall 2020 Editor</td>
+<td>
+<ul>
+<li>Stevenson High School</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Ashwin Ramaswami</td>
-<td>Stanford University</td>
-<td>Communications Officer, 2018&ndash;2019<br>ACF Fall 2018 Editor<br>ACF Fall 2017 Editor</td>
+<td>
+<ul>
+<li>Stanford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018–2019 Communications Officer</li>
+<li>2018 ACF Fall Editor</li>
+<li>2017 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Graham Reid</td>
-<td>Ph.D Student, University of Maryland</td>
-<td>ACF Regionals 2019 Editor</td>
+<td>
+<ul>
+<li>PhD Student, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Rebecca Rosenthal</td>
-<td>Swarthmore College</td>
-<td>ACF Nationals 2019 Assistant TD</td>
+<td>
+<ul>
+<li>Swarthmore College</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Nationals Assistant Tournament Director</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Vishwa Shanmugam</td>
-<td>University of Maryland</td>
-<td>ACF Winter 2020 Editor</td>
+<td>
+<ul>
+<li>University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Bryanna Shao</td>
-<td>Wayzata High School</td>
-<td>ACF Winter 2020 Editor</td>
+<td>
+<ul>
+<li>Wayzata High School</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Kenji Shimizu</td>
-<td>Alumnus, University of Michigan</td>
-<td>ACF Regionals 2018 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Michigan</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Christopher Sims</td>
-<td>PhD Student, Northwestern University<br/>Alumnus, University of Toronto</td>
-<td>ACF Winter 2020 Editor</td>
+<td>
+<ul>
+<li>PhD Student, Northwestern University</li>
+<li>Alumnus, University of Toronto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Margaret Tebbe</td>
-<td>University of Pennsylvania</td>
-<td>Site Coordinator, 2020&ndash;2021<br/>ACF Nationals 2019 Host Logistics Contact</td>
+<td>
+<ul>
+<li>University of Pennsylvania</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020–2021 Site Coordinator</li>
+<li>2019 ACF Nationals Host Logistics Contact</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Chandler West</td>
-<td>MEd Student, Vanderbilt University<br/>Alumnus, Auburn University</td>
-<td>ACF Winter 2020 Editor</td>
+<td>
+<ul>
+<li>MEd Student, Vanderbilt University</li>
+<li>Alumnus, Auburn University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Editor</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -414,7 +980,7 @@ Provisional members are community members who have ably assisted ACF in the past
 
 Emeritus members are former ACF full members who have decided to take a step back from active involvement in ACF.
 
-<table class="table-ruled">
+<table class="table-ruled member-list">
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -425,186 +991,552 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tbody>
 <tr>
 <td>Evan Adams</td>
-<td>Alumnus, University of Virginia Law School<br/>Alumnus, Virginia Commonwealth University</td>
-<td>ACF Nationals 2017 Editor<br/>ACF Regionals 2014 Head Editor<br/>ACF Fall 2010 Head Editor<br/>ACF Fall 2009 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Virginia Law School</li>
+<li>Alumnus, Virginia Commonwealth University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2017 ACF Nationals Editor</li>
+<li>2014 ACF Regionals Head Editor</li>
+<li>2010 ACF Fall Head Editor</li>
+<li>2009 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Bruce Arthur</td>
-<td>Alumnus, Harvard Law School<br/>Alumnus, University of Chicago</td>
-<td>ACF Nationals 2013 Editor<br/>ACF Nationals 2012 Editor<br/>ACF Nationals 2011 Contributor</td>
+<td>
+<ul>
+<li>Alumnus, Harvard Law School</li>
+<li>Alumnus, University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2013 ACF Nationals Editor</li>
+<li>2012 ACF Nationals Editor</li>
+<li>2011 ACF Nationals Contributor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Zeke Berdichevsky</td>
-<td>J.D., George Washington University Law School<br/>M.A., Ph.D. Candidate (ABD), English Literature, University of Michigan<br/>Alumnus, University of Maryland</td>
-<td>ACF Nationals 2010 Head Editor<br/>ACF Nationals 2004 Head Editor<br/>ACF Regionals 2002 Head Editor</td>
+<td>
+<ul>
+<li>J.D., George Washington University Law School</li>
+<li>M.A., PhD Candidate (ABD), English Literature, University of Michigan</li>
+<li>Alumnus, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2010 ACF Nationals Head Editor</li>
+<li>2004 ACF Nationals Head Editor</li>
+<li>2002 ACF Regionals Head Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Will Butler</td>
-<td>Ph.D. Student, Biology, Georgia Tech<br/>Alumnus, University of Virginia</td>
-<td>ACF Regionals 2012 Editor<br/>ACF Fall 2010 Editor</td>
+<td>
+<ul>
+<li>PhD Student, Biology, Georgia Tech</li>
+<li>Alumnus, University of Virginia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2012 ACF Regionals Editor</li>
+<li>2010 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Tommy Casalaspi</td>
-<td>Ph.D Student, Harvard University<br/>University of Virginia</td>
-<td>ACF Nationals 2017 Editor<br/>ACF Regionals 2015 Editor</td>
+<td>
+<ul>
+<li>PhD Student, Harvard University</li>
+<li>University of Virginia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2017 ACF Nationals Editor</li>
+<li>2015 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Trevor Davis</td>
-<td>Graduate Student, University of Alberta<br/>Alumnus, Carnegie Mellon University</td>
-<td>ACF Regionals 2015 Editor<br/>ACF Regionals 2012 Head Editor<br/>ACF Winter 2010 Editor<br/>ACF Fall 2008 Editor</td>
+<td>
+<ul>
+<li>Graduate Student, University of Alberta</li>
+<li>Alumnus, Carnegie Mellon University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2015 ACF Regionals Editor</li>
+<li>2012 ACF Regionals Head Editor</li>
+<li>2010 ACF Winter Editor</li>
+<li>2008 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Susan Ferrari</td>
-<td>Ph.D., Cancer Biology, University of Chicago<br/>Alumna, University of Chicago</td>
-<td>Communications Officer, 2011&ndash;2014<br/>ACF Nationals Editor 2012<br/>ACF Nationals Editor 2011<br/>ACF Nationals Editor 2010</td>
+<td>
+<ul>
+<li>PhD, Cancer Biology, University of Chicago</li>
+<li>Alumna, University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2011–2014 Communications Officer</li>
+<li>2012 ACF Nationals Editor</li>
+<li>2011 ACF Nationals Editor</li>
+<li>2010 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Ted Gioia</td>
-<td>Alumnus, Harvard University</td>
-<td>ACF Nationals Editor 2014<br/>ACF Regionals Editor 2011<br/>ACF Regionals Editor 2010<br/>ACF Fall Editor 2008</td>
+<td>
+<ul>
+<li>Alumnus, Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2014 ACF Nationals Editor</li>
+<li>2011 ACF Regionals Editor</li>
+<li>2010 ACF Regionals Editor</li>
+<li>2008 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>David Hamilton</td>
-<td>Fellow, Casualty Actuarial Society<br/>M.B.A., Elon University Love School of Business<br/>Alumnus, University of Maryland</td>
-<td>ACF Nationals 2001 Editor<br/>ACF Nationals 2000 Editor<br/>ACF Regionals 1999 Editor</td>
+<td>
+<ul>
+<li>Fellow, Casualty Actuarial Society</li>
+<li>M.B.A., Elon University Love School of Business</li>
+<li>Alumnus, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2001 ACF Nationals Editor</li>
+<li>2000 ACF Nationals Editor</li>
+<li>1999 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Jeff Hoppes</td>
-<td>M.A., History, University of California-Berkeley<br/>Alumnus, Princeton University</td>
-<td>ACF Regionals 2005 Editor</td>
+<td>
+<ul>
+<li>M.A., History, University of California-Berkeley</li>
+<li>Alumnus, Princeton University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2005 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Matt Jackson</td>
-<td>Alumnus, Yale University</td>
-<td>Lead writer, August 2016 ACF rules revision<br/>ACF Nationals 2015 Assistant Tournament Director<br/>ACF Regionals 2015 Head Editor<br/>ACF Regionals 2014 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Yale University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2016 Lead writer, August ACF rules revision</li>
+<li>2015 ACF Nationals Assistant Tournament Director</li>
+<li>2015 ACF Regionals Head Editor</li>
+<li>2014 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Dennis Jang</td>
-<td>Alumnus, Brown University</td>
-<td>ACF Winter 2010 Editor<br/>ACF Winter 2009 Editor<br/>ACF Fall 2008 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Brown University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2010 ACF Winter Editor</li>
+<li>2009 ACF Winter Editor</li>
+<li>2008 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Gaurav Kandlikar</td>
-<td>Ph.D Student, UCLA<br/>Alumnus, University of Minnesota</td>
-<td>ACF Fall 2016 Head Editor<br/>ACF Fall 2015 co-Head Editor<br/>ACF Fall 2014 co-Head Editor<br/>ACF Fall 2011 Editor</td>
+<td>
+<ul>
+<li>PhD Student, UCLA</li>
+<li>Alumnus, University of Minnesota</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2016 ACF Fall Head Editor</li>
+<li>2015 ACF Fall co-Head Editor</li>
+<li>2014 ACF Fall co-Head Editor</li>
+<li>2011 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Gautam Kandlikar</td>
-<td>Alumnus, University of Minnesota</td>
-<td>Treasurer 2015&ndash;2017<br/>ACF Fall 2014 co-Head Editor<br/>ACF Fall 2009 Head Editor<br/>ACF Fall 2008 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Minnesota</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2015–2017 Treasurer</li>
+<li>2014 ACF Fall co-Head Editor</li>
+<li>2009 ACF Fall Head Editor</li>
+<li>2008 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Matt Keller</td>
-<td>Alumnus, Vanderbilt University</td>
-<td>ACF Regionals 2008 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Vanderbilt University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2008 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Eddie Kim</td>
-<td>SoCal Quizbowl</td>
-<td>ACF Fall 2016 Editor<br/>ACF Fall 2015 Editor</td>
+<td>
+<ul>
+<li>SoCal Quizbowl</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2016 ACF Fall Editor</li>
+<li>2015 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Matt Lafer</td>
-<td>Alumnus, University of Michigan</td>
-<td>ACF Nationals 2009 Editor<br/>ACF Nationals 2008 Editor<br/>ACF Regionals 2006 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Michigan</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2009 ACF Nationals Editor</li>
+<li>2008 ACF Nationals Editor</li>
+<li>2006 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>John Lawrence</td>
-<td>PhD Candidate, University of Chicago<br/>Alumnus, Yale University</td>
-<td>ACF Regionals 2016 Head Editor<br/>ACF Regionals 2013 Editor<br/>ACF Fall 2013 Editor<br/>ACF Regionals 2012 Editor<br/>ACF Fall 2010 Editor</td>
+<td>
+<ul>
+<li>PhD Candidate, University of Chicago</li>
+<li>Alumnus, Yale University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2016 ACF Regionals Head Editor</li>
+<li>2013 ACF Regionals Editor</li>
+<li>2013 ACF Fall Editor</li>
+<li>2012 ACF Regionals Editor</li>
+<li>2010 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Paul Litvak</td>
-<td>Ph.D., Behavioral Decision Making, Carnegie Mellon University<br/>Alumnus, University of Michigan</td>
-<td>ACF Nationals 2004 Editor</td>
+<td>
+<ul>
+<li>PhD, Behavioral Decision Making, Carnegie Mellon University</li>
+<li>Alumnus, University of Michigan</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2004 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Subash Maddipoti</td>
-<td>Alumnus, University of Chicago</td>
-<td>ACF Nationals 2001 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2001 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Wesley Matthews</td>
-<td>Alumnus, Indiana University</td>
-<td>ACF Nationals 2008 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Indiana University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2008 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Trygve Meade</td>
-<td>Alumnus, Southern Illinois University Law School<br/>Alumnus, University of Illinois</td>
-<td>ACF Regionals 2010 Editor<br/>ACF Winter 2009 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Southern Illinois University Law School</li>
+<li>Alumnus, University of Illinois</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2010 ACF Regionals Editor</li>
+<li>2009 ACF Winter Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Jason Paik</td>
-<td>MD/Ph.D., Cancer Biology, University of Alabama School of Medicine<br/>Alumnus, Washington University, St. Louis</td>
-<td>ACF Nationals 2004 Editor</td>
+<td>
+<ul>
+<li>MD/PhD, Cancer Biology, University of Alabama School of Medicine</li>
+<li>Alumnus, Washington University, St. Louis</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2004 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Chris Ray</td>
-<td>Ph.D Candidate, The Ohio State University<br/>MA, University of Chicago<br/>Alumnus, University of Maryland</td>
-<td>ACF Regionals 2016 Editor<br/>ACF Regionals 2013 Head Editor<br/>ACF Regionals 2010 Editor</td>
+<td>
+<ul>
+<li>PhD Candidate, The Ohio State University</li>
+<li>MA, University of Chicago</li>
+<li>Alumnus, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2016 ACF Regionals Editor</li>
+<li>2013 ACF Regionals Head Editor</li>
+<li>2010 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Matt Reece</td>
-<td>Ph.D., Theoretical Physics, Cornell University<br/>Alumnus, University of Chicago</td>
-<td>ACF Nationals 2010 Editor</td>
+<td>
+<ul>
+<li>PhD, Theoretical Physics, Cornell University</li>
+<li>Alumnus, University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2010 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Max Schindler</td>
-<td>Alumnus, University of Chicago</td>
-<td>ACF Regionals 2016 Editor<br/>ACF Fall 2014 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2016 ACF Regionals Editor</li>
+<li>2014 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Adam Silverman</td>
-<td>Ph.D Candidate, Northwestern University<br/>Alumnus, Georgia Tech</td>
-<td>ACF Regionals 2017 Editor<br/>ACF Regionals 2014 Editor<br/>ACF Fall 2013 Editor</td>
+<td>
+<ul>
+<li>PhD Candidate, Northwestern University</li>
+<li>Alumnus, Georgia Tech</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2017 ACF Regionals Editor</li>
+<li>2014 ACF Regionals Editor</li>
+<li>2013 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Mike Sorice</td>
-<td>Ph.D. Candidate, Nuclear, Plasma, and Radiological Engineering, University of Illinois</td>
-<td>ACF Nationals 2013 Editor<br/>ACF Regionals 2006 Head Editor<br/>ACF Regionals 2005 Editor</td>
+<td>
+<ul>
+<li>PhD Candidate, Nuclear, Plasma, and Radiological Engineering, University of Illinois</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2013 ACF Nationals Editor</li>
+<li>2006 ACF Regionals Head Editor</li>
+<li>2005 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Guy Tabachnick</td>
-<td>Alumnus, Brown University</td>
-<td>ACF Regionals 2012 Editor<br/>ACF Fall 2010 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Brown University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2012 ACF Regionals Editor</li>
+<li>2010 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Seth Teitler</td>
-<td>Ph.D., Astrophysics, University of Chicago<br/>Alumnus, University of California-Berkeley</td>
-<td>ACF Fall 2009 Advisor<br/>ACF Regionals 2007 Head Editor<br/>ACF Fall 2005 Editor</td>
+<td>
+<ul>
+<li>PhD, Astrophysics, University of Chicago</li>
+<li>Alumnus, University of California-Berkeley</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2009 ACF Fall Advisor</li>
+<li>2007 ACF Regionals Head Editor</li>
+<li>2005 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Jerry Vinokurov</td>
-<td>Alumnus, University of California-Berkeley<br/>
-Ph.D, Brown University</td>
-<td>ACF Nationals Tournament Director, 2015&ndash;2017<br/>
-Treasurer 2010&ndash;2015<br/>
-ACF Nationals 2014 Head Editor<br/>
-ACF Nationals 2012 Editor<br/>
-ACF Nationals 2011 Head Editor / Tournament Director<br/>
-ACF Regionals 2010 Head Editor<br/>
-ACF Winter 2009 Head Editor<br/>
-ACF Regionals 2007 Editor</td>
+<td>
+<ul>
+<li>Alumnus, University of California-Berkeley</li>
+<li>PhD, Brown University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2015–2017 ACF Nationals Tournament Director</li>
+<li>2010–2015 Treasurer</li>
+<li>2014 ACF Nationals Head Editor</li>
+<li>2012 ACF Nationals Editor</li>
+<li>2011 ACF Nationals Head Editor / Tournament Director</li>
+<li>2010 ACF Regionals Head Editor</li>
+<li>2009 ACF Winter Head Editor</li>
+<li>2007 ACF Regionals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Nathan Weiser</td>
-<td>Alumnus, Stanford University</td>
-<td>ACF Fall 2018 Head Editor<br/>ACF Regionals 2017 Editor<br/>ACF Fall 2015 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Stanford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Fall Head Editor</li>
+<li>2017 ACF Regionals Editor</li>
+<li>2015 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Dwight Wynne</td>
-<td>Ph.D. Candidate, Biomedical Engineering, University of California-Irvine<br/>Alumnus, University of California-Los Angeles</td>
-<td>Designer of A-value qualification system<br/>ACF Regionals 2011 Editor<br/>ACF Regionals 2010 Editor<br/>ACF Nationals 2009 Editor</td>
+<td>
+<ul>
+<li>PhD Candidate, Biomedical Engineering, University of California-Irvine</li>
+<li>Alumnus, University of California-Los Angeles</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Designer of A-value qualification system</li>
+<li>2011 ACF Regionals Editor</li>
+<li>2010 ACF Regionals Editor</li>
+<li>2009 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Andrew Yaphe</td>
-<td>J.D., Stanford University Law School<br/>University of Chicago<br/>Alumnus, University of Virginia</td>
-<td>ACF Nationals Head Editor, 2005&ndash;07<br/>ACF Regionals Head Editor, 2000, 2005<br/>ACF Fall 2007 Head Editor<br/>ACF Nationals 2001 Editor</td>
+<td>
+<ul>
+<li>J.D., Stanford University Law School</li>
+<li>University of Chicago</li>
+<li>Alumnus, University of Virginia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2007 ACF Nationals Head Editor</li>
+<li>2006 ACF Nationals Head Editor</li>
+<li>2005 ACF Nationals Head Editor</li>
+<li>2005 ACF Regionals Head Editor</li>
+<li>2000 ACF Regionals Head Editor</li>
+<li>2007 ACF Fall Head Editor</li>
+<li>2001 ACF Nationals Editor</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>Richard Yu</td>
-<td>Alumnus, Washington University in St. Louis</td>
-<td>ACF Fall 2017 Editor<br/>ACF Fall 2015 co-Head Editor<br/>ACF Fall 2014 Editor</td>
+<td>
+<ul>
+<li>Alumnus, Washington University in St. Louis</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2017 ACF Fall Editor</li>
+<li>2015 ACF Fall co-Head Editor</li>
+<li>2014 ACF Fall Editor</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
