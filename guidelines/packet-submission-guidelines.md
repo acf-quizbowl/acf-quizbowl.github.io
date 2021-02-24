@@ -14,19 +14,23 @@ last_updated: February 24, 2021
 
 ### ACF Winter and ACF Regionals
 
-Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament (either as a college student or as a high school student) prior to September 1 of the previous academic year must submit a packet.
+Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament prior to September 1 of the previous academic year is required to submit a packet.
 
-For example, any team with two players who played prior to September 1, 2018, must submit a packet to compete in ACF tournaments in the 2019–2020 academic year.
+<small>For example, any team with two players who played prior to September 1, 2018, must submit a packet in order to compete in ACF tournaments in the 2019–2020 academic year.</small>
 
 Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.
 
 ### ACF Fall
 
-ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.
+As of 2020, ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.
 
 ## What counts as a “mainstream, collegiate, academic quizbowl tournament”?
 
-All ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical academic invitationals and summer opens count as mainstream collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as mainstream collegiate academic tournaments in determining packet requirement.
+All ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical academic invitationals and summer opens count as mainstream collegiate academic tournaments.
+
+Playing tournaments either as a college student or as a high school student counts for the packet submission requirement.
+
+Novice collegiate events with strict eligiblity requirements do not count as mainstream collegiate academic tournaments in determining packet submission requirement.
 
 Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” (IS) questions do not count.
 
@@ -44,15 +48,11 @@ Victor Prieto of Penn State created [a handy checklist](https://acf-quizbowl.com
 
 ## How to submit your packet
 
-**Document format**
-
 Submit your packet as a .doc or .docx file. Use 10-point Times New Roman font and 1-inch margins on all sides. PDFs, .odt, .rtf, .html, .txt, or any other formats are not acceptable.
 
 *If editors cannot open your packet on the first try, they will return your packet to you and have you re-send a fixed version before it is considered submitted for fee purposes.*
 
-**Document Name**
-
-Please follow the following file-naming scheme when submitting packets:
+Name your packet using the following scheme:
 
     <Year> <Tournament Name> – <School Name> <Team Name or Letter>
 
@@ -66,19 +66,19 @@ The submitted packet and final packet distributions for ACF tournaments may be f
 
 ## Question-writing philosophy
 
-### Difficulty Level
+### Difficulty
 
-Consult individual tournament announcements for difficulty guidelines.
+Consult individual tournament announcements for guidelines on writing questions of appropriate difficulty.
 
 ### Tossups
 
-Write tossups on easier topics. Use challenging clues for the lead-in, and then use progressively easier clues. End your tossups with a giveaway that most players in the tournament would know.
+Write tossups on easier topics. Use challenging clues for the lead-in, and then use progressively easier clues. End your tossups with a giveaway that most players in the tournament should know.
 
-Do NOT write tossups which are:
+Do not write tossups that:
 
-- Geared towards specific players. You should write your questions for a general audience.
-- Heavy on difficult or easy clues. Make sure you devote appropriate amounts of space to hard, medium, and easy clues.
-- On your pet topics or things which are likely to go unanswered. Dead tossups are the enemy of fun.
+- Are geared towards specific players. You should write your questions for a general audience.
+- Have too many difficult or easy clues. Devote appropriate amounts of space to hard, medium, and easy clues.
+- Are on your pet topics or on things which are likely to go unanswered. Dead tossups are the enemy of fun.
 
 ### Bonuses
 
@@ -88,7 +88,7 @@ All bonuses should have 3 parts, worth 10 points each. Bonuses should have one e
 - The medium part: roughly 50% of the field should be able to correctly answer
 - The hard part: a person who is well-read in the subject should be able to correctly answer
 
-If you are unsure about the difficulty of a bonus you are writing, then you should err on the side of easier, or write on something else entirely.
+If you are unsure about the difficulty of a bonus you are writing, then you should err on the easier side, or write on something else entirely.
 
 We prohibit specific types of bonuses and levy penalties on teams that submit packets with prohibited formats. For more information, see [Discounts/Penalties](#discountspenalties).
 
@@ -98,19 +98,20 @@ Please follow ACF formatting guidelines when formatting your packet.
 
 Several past ACF editors have provided tips on how to write good questions. Please consult the following guides:
 
-[Jerry Vinokurov’s Guide to Writing Questions](/jerry-guide) is intended for newcomers and has guides on basic principles of good writing.
-[Subash Maddipotti’s Tips on Question Writing](/subash-guide) provide excellent advice on what to avoid when writing questions.
-[Andrew Hart’s Primer on Regular Difficulty](/andrew-hart-regular-difficulty) is an excellent resource for teams writing questions for ACF Regionals (or a “regular difficulty” tournament).
+* [Jerry Vinokurov’s Guide to Writing Questions](/jerry-guide) is helpful for newcomers and teaches basic principles of good writing.
+* [Subash Maddipotti’s Tips on Question Writing](/subash-guide) provide excellent advice on what to avoid when writing questions.
+* [Andrew Hart’s Primer on Regular Difficulty](/andrew-hart-regular-difficulty) is an excellent resource for teams writing questions for ACF Regionals (or a “regular difficulty” tournament).
 
-In addition to the above question-writing guides, we recommend that you consult past ACF sets as models of question writing.
+In addition to the above guides, we recommend that you consult past ACF sets as models of question writing.
 
 * For ACF Fall-level difficulty: 2017 ACF Fall, 2018 ACF Fall, and 2020 ACF Fall
+* For ACF Winter-level difficulty: 2020 ACF Winter
 * For ACF Regionals-level difficulty: 2010 ACF Regionals and 2019 ACF Regionals
 * For ACF Nationals-level difficulty: 2017 ACF Nationals, 2018 ACF Nationals, and 2019 ACF Nationals
 
 ## Discounts/Penalties
 
-We offer discounts for early submission of packets, and levy a penalty for late packet submissions. The exact schedule will be set in each tournament's announcement.
+We offer discounts for packets submitted early, and levy penalties for packets submitted late. The timeline and the amounts of discounts and penalties is listed in each tournament's announcement.
 
 **Gross deviation from packet-formatting guidelines:** $50 penalty
 
@@ -119,11 +120,11 @@ We offer discounts for early submission of packets, and levy a penalty for late 
 Prohibited types of questions include:
 
 - Spelling questions, i.e. questions for which the answer involves spelling a word.
-- Binary matching questions, i.e. questions of the form “Given X, name Y” which do not have prose clues.
-- 5-10-15 bonuses, i.e. bonuses whose hard-parts are worth 15 points. These questions should instead be changed to 10-10-10 bonuses.
+- Binary matching questions, i.e. questions of the form “Given X, name Y” that do not have prose clues.
+- 5-10-15 bonuses. These questions should instead be changed to 10-10-10 bonuses.
 
 See also [Penalties](/hosting-guidelines/#penalties-for-egregious-hosting-violations) in the Hosting Guidelines.
 
 ## Plagiarism
 
-We do not tolerate plagiarism, and there will be consequences for any instances of plagiarism.
+Plagiarism is not tolerated. There will be consequences for any instances of plagiarism.
