@@ -11,7 +11,6 @@ pre {
 
 code {
     color: $color-code;
-    font-size: $body-font-size;
     padding: 1px 0px;
 }
 
@@ -28,7 +27,6 @@ code {
   }
 
   p, ol, ul {
-    font-size: $prose-font-size;
     width: 100%;
 
     @media (min-width: $breakpoint-lg) {
@@ -39,13 +37,6 @@ code {
 
   ul, ol {
     padding-left: 40px;
-  }
-
-  li {
-
-    ul li, ol li {
-      margin-bottom: 0;
-    }
   }
 
   img {
@@ -66,19 +57,10 @@ code {
     font-style: italic;
     color: $color-primary-link;
 
-    p {
-      font-size: 24px;
-    }
-
     @media (min-width: $breakpoint-lg) {
       padding-left: $spacer-3;
       margin: $spacer-4 0 $spacer-4 -40px;
       max-width: (11 / 10 * 100%);
-
-      p {
-        font-size: 28px;
-      }
-
     }
 
   }
@@ -119,55 +101,39 @@ code {
       font-weight: bold;
       text-align: left;
       color: $color-title;
-      padding: 0px 5px;
     }
 
-    th,
-    td {
+    th, td {
+      padding: 3px 4px;
+      vertical-align: top;
+    }
+
+    tr th {
       border-top: 1px solid $color-title;
       border-bottom: 1px solid $color-title;
     }
 
-    tr {
-      background-color: #fff;
-      border-top: 1px solid $color-title;
+    &.table-striped tbody tr:nth-child(odd) {
+      background-color: #f2f2f2;
+    }
+    &.table-ruled   tbody tr {
+      border-bottom: 1px solid $gray-light;
     }
 
-    tr td {
-      padding: 0px 5px;
-    }
-
-    tr th {
+    thead tr:first-child {
       border-top: 2px solid $color-title;
+    }
+    tbody tr:last-child {
       border-bottom: 2px solid $color-title;
-      font-size: 200%;
+    }
+
+    &.member-list tr td:nth-of-type(2) {
+      padding-left: calc(1em + 4px);
+      text-indent: -1em;
+      text-indent: -1em each-line;
     }
 
   }
-
-  .table-striped tr th {
-      border-top: 2px solid $color-title;
-      border-bottom: 2px solid $color-title;
-      font-size: 100%;
-      padding: 0px 5px;
-  }
-
-  .table-striped td {
-    padding: 0px 5px;
-  }
-
-  .table-striped tbody tr:nth-child(odd) {
-    background-color: #ececec;
-  }
- 
- .table-stats tr th {
-  border-top: 2px solid $color-title;
-  border-bottom: 2px solid $color-title;
-  font-size: 100%;
-  padding: 0px 5px;
-  }
-
-
 }
 
 .small-list > ul > li {
