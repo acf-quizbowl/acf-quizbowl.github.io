@@ -3,77 +3,113 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: May 14, 2020
+last_updated: February 24, 2021
 ---
 
-For information on how to become an ACF member, see the [About page](/about#how-can-i-become-an-acf-member).
+For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
 
 # Officers
+
 <table>
+<thead>
 <tr>
-<th class = 'name'>Officer</th>
-<th class = 'affiliations'>Position</th>
-<th class = 'contributions'>Contact</th>
+<th class="name">Officer</th>
+<th class="affiliations">Position</th>
+<th class="contributions">Contact</th>
 </tr>
+</thead>
 <tbody>
 <tr>
 <td>Alex Damisch</td>
 <td>President</td>
-<td><a href='mailto:president@acf-quizbowl.com'>president@acf-quizbowl.com</a></td>
+<td><a href="mailto:president@acf-quizbowl.com">president@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Caroline Mao</td>
 <td>Communications</td>
-<td><a href='mailto:communications@acf-quizbowl.com'>communications@acf-quizbowl.com</a></td>
+<td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Matthew Bollinger</td>
 <td>Editor-in-Chief</td>
-<td><a href='mailto:editing@acf-quizbowl.com'>editing@acf-quizbowl.com</a></td>
+<td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Margaret Tebbe</td>
 <td>Site Coordinator</td>
-<td><a href='mailto:hosting@acf-quizbowl.com'>hosting@acf-quizbowl.com</a></td>
+<td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Cody Voight</td>
 <td>Nationals TD</td>
-<td><a href='mailto:td@acf-quizbowl.com'>td@acf-quizbowl.com</a></td>
+<td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>JinAh Kim</td>
 <td>Treasurer</td>
-<td><a href='mailto:treasurer@acf-quizbowl.com'>treasurer@acf-quizbowl.com</a></td>
+<td><a href="mailto:treasurer@acf-quizbowl.com">treasurer@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Ryan Rosenberg</td>
 <td>Webmaster</td>
-<td><a href='mailto:webmaster@acf-quizbowl.com'>webmaster@acf-quizbowl.com</a></td>
+<td><a href="mailto:webmaster@acf-quizbowl.com">webmaster@acf-quizbowl.com</a></td>
 </tr>
 </tbody>
 </table>
 
-### Other Contact Emails
-<div class = 'small-list'>
-<ul>
-<li>ACF Fall Head Editor: Ben Miller, <a href='fall@acf-quizbowl.com'>fall@acf-quizbowl.com</a></li>
-<li>ACF Winter Head Editor: William Golden, <a href='winter@acf-quizbowl.com'>winter@acf-quizbowl.com</a></li>
-<li>ACF Regionals Head Editor: Jaimie Carlson, <a href='regionals@acf-quizbowl.com'>regionals@acf-quizbowl.com</a></li>
-<li>ACF Nationals Head Editor: Ryan Westbrook, <a href='nationals@acf-quizbowl.com'>nationals@acf-quizbowl.com</a></li>
-<li>ACF Nationals Staffing: <a href='staffing@acf-quizbowl.com'>staffing@acf-quizbowl.com</a></li>
-<li>ACF Eligibility Committee: <a href='eligibility@acf-quizbowl.com'>eligibility@acf-quizbowl.com</a></li>
-</ul>
-</div>
+## Head editors
 
-# Full Members
-Full members are ACF's editors, officers, and tournament directors. They vote in all ACF elections and on all constitutional amendments.
 <table>
+<thead>
 <tr>
-<th class = 'name'>Name</th>
-<th class = 'affiliations'>Affiliation</th>
-<th class = 'contributions'>Contributions</th>
+<th class="name">Head editor</th>
+<th class="affiliations">Position</th>
+<th class="contributions">Contact</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td>Ben Miller</td>
+<td>2020 ACF Fall</td>
+<td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
+</tr>
+<tr>
+<td>William Golden</td>
+<td>2020 ACF Winter</td>
+<td><a href="mailto:winter@acf-quizbowl.com">winter@acf-quizbowl.com</a></td>
+</tr>
+<tr>
+<td>Jaimie Carlson</td>
+<td>2021 ACF Regionals</td>
+<td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
+</tr>
+<tr>
+<td>Ryan Westbrook</td>
+<td>2021 ACF Nationals</td>
+<td><a href="mailto:nationals@acf-quizbowl.com">nationals@acf-quizbowl.com</a></td>
+</tr>
+</tbody>
+</table>
+
+## Other contacts
+
+<ul>
+<li>ACF Nationals Staffing: <a href="staffing@acf-quizbowl.com">staffing@acf-quizbowl.com</a></li>
+<li>ACF Eligibility Committee: <a href="eligibility@acf-quizbowl.com">eligibility@acf-quizbowl.com</a></li>
+</ul>
+
+# Full members
+
+Full members are ACF's editors, officers, and tournament directors. They vote in all ACF elections and on all constitutional amendments.
+
+<table class="table-ruled">
+<thead>
+<tr>
+<th class="name">Name</th>
+<th class="affiliations">Affiliation</th>
+<th class="contributions">Contributions</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td>Matt Bollinger</td>
@@ -238,15 +274,18 @@ ACF Fall 2017 Editor</td>
 </tbody>
 </table>
 
+# Provisional members
 
-# Provisional Members
 Provisional members are community members who have ably assisted ACF in the past and may be invited to apply for full membership if they so do again in the future.
-<table>
+
+<table class="table-ruled">
+<thead>
 <tr>
-<th class = 'name'>Name</th>
-<th class = 'affiliations'>Affiliation</th>
-<th class = 'contributions'>Contributions</th>
+<th class="name">Name</th>
+<th class="affiliations">Affiliation</th>
+<th class="contributions">Contributions</th>
 </tr>
+</thead>
 <tbody>
 <tr>
 <td>Geoffrey Chen</td>
@@ -371,14 +410,18 @@ Provisional members are community members who have ably assisted ACF in the past
 </tbody>
 </table>
 
-# Emeritus Members
+# Emeritus members
+
 Emeritus members are former ACF full members who have decided to take a step back from active involvement in ACF.
-<table>
+
+<table class="table-ruled">
+<thead>
 <tr>
-<th class = 'name'>Name</th>
-<th class = 'affiliations'>Affiliation</th>
-<th class = 'contributions'>Contributions</th>
+<th class="name">Name</th>
+<th class="affiliations">Affiliation</th>
+<th class="contributions">Contributions</th>
 </tr>
+</thead>
 <tbody>
 <tr>
 <td>Evan Adams</td>
