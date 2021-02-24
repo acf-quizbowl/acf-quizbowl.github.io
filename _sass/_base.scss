@@ -20,6 +20,7 @@ button {
  * Basic styling
  */
 body {
+    margin: 0;
     font-family: $body-font-family;
     font-size: $body-font-size;
     line-height: 1.5;
@@ -29,8 +30,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: $color-title;
-  margin-top: 1em;
-  margin-bottom: 0.25em;
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
 }
 
 h1, .h1 { font-size: $h1-size; }

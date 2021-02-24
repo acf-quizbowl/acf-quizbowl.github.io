@@ -104,7 +104,7 @@ code {
     }
 
     th, td {
-      padding: 3px 4px;
+      padding: 3px 6px;
       vertical-align: top;
     }
 
@@ -117,7 +117,7 @@ code {
       background-color: #f2f2f2;
     }
     &.table-ruled   tbody tr {
-      border-bottom: 1px solid $gray-light;
+      border-bottom: 1px solid $color-border;
     }
 
     thead tr:first-child {
@@ -127,18 +127,15 @@ code {
       border-bottom: 2px solid $color-title;
     }
 
-    &.member-list tr td:nth-of-type(2) {
-      padding-left: calc(1em + 4px);
+    &.member-list tr td ul {
+      font-size: 0.9em;
+      margin: 0;
+      list-style: none;
+      padding-left: 1em;
       text-indent: -1em;
-      text-indent: -1em each-line;
     }
 
   }
-}
-
-.small-list > ul > li {
-  font-size: 85%;
-  margin: 0px;
 }
 
 nav {
@@ -159,4 +156,11 @@ nav {
   font-size: 24px;
 }
 
-
+.last-updated {
+  margin-top: 0;
+  font-size: 0.9em;
+  color: $gray;
+}
+.navbar-nav {
+  margin-top: 0;
+}
