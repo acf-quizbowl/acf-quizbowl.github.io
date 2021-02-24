@@ -2,7 +2,7 @@
 layout: page
 title: Packet Submission Guidelines
 permalink: /packet-submission-guidelines/
-last_updated: November 12, 2019
+last_updated: February 24, 2021
 ---
 
 # Table of Contents
@@ -24,9 +24,9 @@ Schools with multiple such teams must submit separate packets, and the teams can
 
 ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.
 
-## What counts as a “regular, collegiate, academic quizbowl tournament”?
+## What counts as a “mainstream, collegiate, academic quizbowl tournament”?
 
-All ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical academic invitationals and summer opens count as regular collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as regular collegiate academic tournaments in determining packet requirement.
+All ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical academic invitationals and summer opens count as mainstream collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as mainstream collegiate academic tournaments in determining packet requirement.
 
 Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” (IS) questions do not count.
 
