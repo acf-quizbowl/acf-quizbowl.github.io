@@ -10,7 +10,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 
 # Officers
 
-<table>
+<table class="member-list">
 <thead>
 <tr>
 <th class="name">Officer</th>
@@ -59,7 +59,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 
 ## Head editors
 
-<table>
+<table class="member-list">
 <thead>
 <tr>
 <th class="name">Head editor</th>
@@ -93,7 +93,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 
 ## Other contacts
 
-<table>
+<table class="member-list">
 <thead>
 <tr>
 <th width="50%">Position</th>

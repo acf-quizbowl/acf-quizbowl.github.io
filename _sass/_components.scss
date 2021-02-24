@@ -50,12 +50,13 @@ code {
   }
 
   blockquote {
+    font-size: 1.15em;
     line-height: 1.375;
     padding-left: 20px;
     margin: 40px 0 40px -16px;
     border-left: $spacer-1 solid $color-border;
     font-style: italic;
-    color: $color-primary-link;
+    color: $color-text-accent;
 
     @media (min-width: $breakpoint-lg) {
       padding-left: $spacer-3;
@@ -90,7 +91,7 @@ code {
   // Markdown tables
   table {
     border-collapse: collapse;
-    width: 100%;
+    // width: 100%;
     margin-bottom: .5em;
     overflow: auto;
     // For Firefox to horizontally scroll wider tables.
@@ -116,15 +117,19 @@ code {
     &.table-striped tbody tr:nth-child(odd) {
       background-color: #f2f2f2;
     }
-    &.table-ruled   tbody tr {
+    &.table-ruled   tbody tr td {
       border-bottom: 1px solid $color-border;
     }
 
-    thead tr:first-child {
+    thead tr:first-child th {
       border-top: 2px solid $color-title;
     }
-    tbody tr:last-child {
+    tbody tr:last-child td {
       border-bottom: 2px solid $color-title;
+    }
+
+    &.member-list {
+      width: 100%;
     }
 
     &.member-list tr td ul {
@@ -135,6 +140,39 @@ code {
       text-indent: -1em;
     }
 
+    &.schedule {
+      th, td {
+        text-align: center;
+        width: 5em;
+      }
+    }
+
+    &.distribution {
+      width: 100%;
+
+      thead tr th {
+        position: sticky;
+        top: 0;
+        background-color: white;
+      }
+
+      tr.category td {
+        font-weight: bold;
+        background-color: #d1d3d4;
+        border-top: 1px solid $color-title;
+      }
+      tr.subcategory td:first-child {
+        padding-left: 2em;
+      }
+
+      thead, tbody {
+        th, td {
+          &:nth-child(n+2) {
+            text-align: center;
+          }
+        }
+      }
+    }
   }
 }
 
@@ -145,6 +183,11 @@ nav {
   position: sticky;
 }
 
+.navbar-nav {
+  margin-top: 0;
+}
+
+
 .training-question {
   background-color: #eeff00f5;
   border: 2px black solid;
@@ -152,15 +195,8 @@ nav {
   padding: 2%;
 }
 
-.training-question-text{
-  font-size: 24px;
-}
-
 .last-updated {
   margin-top: 0;
   font-size: 0.9em;
   color: $gray;
-}
-.navbar-nav {
-  margin-top: 0;
 }
