@@ -40,3 +40,7 @@ To work with ACF, apply to edit an ACF tournament (applications usually open in 
 ## Donating to ACF
 
 Please see [this page](/donate/) for information on donating to ACF.
+
+## About this site
+
+This static site is open source. You can contribute at the [GitHub repository](https://github.com/acf-quizbowl/acf-quizbowl.github.io/).
