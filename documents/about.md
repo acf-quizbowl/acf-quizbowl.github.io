@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About ACF
 permalink: /about/
 nav_order: 1
 last_updated: February 24, 2021
@@ -12,7 +12,7 @@ We offer four tournaments throughout the academic year, roughly corresponding to
 
 - **[ACF Fall](/fall)** is a novice tournament held in mid-October. It is for players who are new to collegiate quizbowl who do not have significant experience with high-school quizbowl.
 
-- **[ACF Winter](/winter)** is a medium-difficulty tournament held in mid-November. It is for both new players and experienced players alike.
+- **[ACF Winter](/winter)** is a medium-difficulty tournament held in mid-November. It is for both new and experienced players alike.
 
 - **[ACF Regionals](/regionals)** is a regional championship tournament held in January or February. It serves as a qualifier for ACF Nationals.
 
@@ -33,7 +33,7 @@ ACF tournaments are generally for college teams. In limited circumstances, ACF m
 
 ## How to become an ACF member?
 
-Community members who have done satisfactory work for ACF in the prior year (such as editing an ACF tournament or contributing to the logistics of running ACF tournaments) may be invited to become provisional members of ACF. Invitations are sent twice a year: before ACF Regionals, and after ACF Nationals. Provisional members can become full members by doing satisfactory work on another ACF project.
+People who have done satisfactory work for ACF in the prior year (such as editing an ACF tournament or contributing to the logistics of running ACF tournaments) may be invited to become provisional members of ACF. Invitations happen twice a year: before ACF Regionals, and after ACF Nationals. Provisional members can become full members by doing satisfactory work on another ACF project.
 
 To work with ACF, apply to edit an ACF tournament (applications usually open in the summer), or contact an [ACF board member](/members#officers) about logistical work.
 
