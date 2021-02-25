@@ -5,7 +5,9 @@ permalink: /distribution/
 last_updated: April 19, 2020
 ---
 
-This page lists full-packet distributions for each ACF tournament. Teams submitting full packets to ACF tournaments should follow the prescribed distribution for the tournament they are submitting a packet to. For tournaments with half-packet submissions, teams will only submit a half-packet of 12/12, with pre-assigned categories.
+This page lists full-packet distributions for each ACF tournament. Teams submitting full packets to ACF tournaments should follow the prescribed distribution for the tournament they are submitting a packet to.
+
+For tournaments with half-packet submissions, teams will only submit a half-packet of 12/12. Teams that request to submit a half-packet will be given a half-packet submission template containing a list of pre-assigned categories.
 
 <table id="top" class="table table-striped table-hover table-responsive table-condensed distribution">
  <thead>
@@ -257,11 +259,9 @@ This page lists full-packet distributions for each ACF tournament. Teams submitt
    <td>20/20</td>
   </tr>
 </tbody>
-<tfoot>
-<tr><td style="padding: 0; border: 0;" colspan="100%">
-<sup>*</sup> The submitted packet distribution adds up to 24/24 in total. To produce final packets of 20/20, the editors will remove 1/1 literature, 1/1 history, 1/1 science, and 1/1 geography/current events/popular culture/other academic.</td></tr>
-</tfoot>
 </table>
+
+<small>\* The submitted full-packet distribution adds up to 24/24 in total. To produce final packets of 20/20, the editors will remove 1/1 Literature, 1/1 History, 1/1 Science, and 1/1 Other.</small>
 
 # Category Guidelines
 
@@ -289,10 +289,12 @@ This includes more of any of the areas of the world covered above, historiograph
 ## Science [↑](#top)
 
 ### Math, Computer Science, Astronomy, Earth Science [↑](#top)
-Write your questions on two different areas of study.
+Write questions on two different areas of study.
 
 ### Any Science [↑](#top)
-This includes engineering and technology questions that don’t fit into any of the fields above and questions that mix clues/concepts from multiple fields. You may also write additional questions from one of the “major” fields (biology/chemistry/physics) or questions on a “minor” field (math/computer science/astronomy/earth science) that you didn’t write on above.
+This includes engineering and technology questions that don’t fit into any of the fields above, and questions that mix clues/concepts from multiple fields.
+
+You may also write additional questions from one of the “major” fields (biology/chemistry/physics), or you may write a question on a “minor” field (math/computer science/astronomy/earth science) that you didn’t already write on above.
 
 ## Fine Arts [↑](#top)
 
@@ -300,7 +302,9 @@ This includes engineering and technology questions that don’t fit into any of 
 You may either write one painting and one sculpture question, or two painting questions.
 
 ### Other Fine Arts [↑](#top)
-This includes opera, jazz, architecture, photography, film, dance, etc. Do not write more of the categories above. Write on one “visual” category (architecture, photography, film, etc.) and one “auditory” (opera, jazz, dance, etc.) category.
+This includes opera, jazz, architecture, photography, film, dance, etc. Do not write more of the categories above.
+
+Write on one “visual” category (architecture, photography, film, etc.) and one “auditory” (opera, jazz, dance, etc.) category.
 
 ## Religion and Mythology [↑](#top)
 Write at least one and no more than two questions on non-Western topics.
@@ -314,15 +318,19 @@ Do not write two questions on the same mythological system.
 ## Social Science and Philosophy [↑](#top)
 
 ### Social Science [↑](#top)
-Topics for this category include economics, psychology, sociology, anthropology, linguistics, political science, social criticism, and law (questions on individual Supreme Court cases go in history; other law questions may go here). Write your questions on two different fields of study.
+Topics for this category include economics, psychology, sociology, anthropology, linguistics, political science, social criticism, and law (although questions on individual Supreme Court cases go in history).
+
+Write questions on two different fields of study.
 
 ### Philosophy [↑](#top)
 Write questions on two different movements/time periods in philosophical history.
 
 ## Other [↑](#top)
-**For Fall and Regionals:** Write one question in each of Geography, Current Events, Other Academic, and Popular Culture.
+**For Fall, Winter, and Regionals:** Write one question in each of Geography, Current Events, Other Academic, and Popular Culture.
 
 **For Nationals:** Write at least one question in each of Geography, Current Events, and Other Academic.
 
 ### Other Academic [↑](#top)
-“Other Academic” comprises questions that don’t neatly fit into any of the above categories, (such as interdisciplinary common links, miscellaneous thought, science history, etc.) but you may choose to write an additional question in any category here instead.
+“Other Academic” comprises questions that don’t neatly fit into any of the above categories, such as interdisciplinary common links, miscellaneous thought, science history, etc.
+
+You may also choose to write an additional question in any category here instead.
