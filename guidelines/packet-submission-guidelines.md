@@ -115,4 +115,4 @@ Prohibited types of questions include:
 - 5-10-15 bonuses, i.e. bonuses whose hard-parts are worth 15 points. These questions should instead be changed to 10-10-10 bonuses.
 
 ## Plagiarism
-We do not tolerate plagiarism, and there will be consequences for any instances of plagiarism. Please refer to ACF’s policy on plagiarism.
+We do not tolerate plagiarism, and there will be consequences for any instances of plagiarism.
