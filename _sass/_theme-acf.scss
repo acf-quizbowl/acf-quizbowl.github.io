@@ -1,31 +1,32 @@
 // ACF theme
 
 // Color variables
-$black: #181818;
-$blue-dark: #023B7F;
-$blue: #4279C1;
+$black:      #111;
+$blue-dark:  #023B7F;
+$blue:       #4279C1;
 $blue-light: #7EB7FD;
-$gray: #929292;
-$white: #fff;
+$gray:       #929292;
+$gray-light: #C8C8C8;
+$white:      #fff;
 
 // Config
-$color-background: $white !default;
-$color-dot-accent: $blue-light !default;
-$color-foreground: $blue-dark !default;
-$color-title: $blue-dark !default;
-$color-body-text: $black !default;
-$color-text-accent: $blue-light !default;
-$color-code: $blue !default;
-$color-nav-link: $blue-light !default;
+$color-background:   $white      !default;
+$color-dot-accent:   $blue-light !default;
+$color-foreground:   $blue-dark  !default;
+$color-title:        $blue-dark  !default;
+$color-body-text:    $black      !default;
+$color-text-accent:  $blue       !default;
+$color-code:         $blue       !default;
+$color-nav-link:     $blue-light !default;
 $color-primary-link: $blue-light !default;
 
 
 // Import sass partials (used in all themes)
 @import
-        "variables",
-        "base",
-        "components",
-        "utilities",
-        "table-columns",
-        "bootstrap/bootstrap"
+    "variables",
+    "base",
+    "components",
+    "utilities",
+    "table-columns",
+    "bootstrap/bootstrap"
 ;

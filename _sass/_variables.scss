@@ -1,28 +1,28 @@
 
 // Font family
-$body-font-family: "Helvetica Neue", Arial, sans-serif;
-$body-font-size: 16px;
-$prose-font-size: 20px;
+$body-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$body-font-size:  1.125em;
+$prose-font-size: 1em;
 
 
 // Type scale
-$h0-mobile: 36px;
-$h0-desktop: 72px;
-$h0-title-mobile: 48px;
-$h0-title-desktop: 96px;
+$h0-mobile:        1.65em;
+$h0-desktop:       1.65em;
+$h0-title-mobile:  2em;
+$h0-title-desktop: 2em;
 
-$h1-size: 40px !default;
-$h2-size: 32px !default;
-$h3-size: 24px !default;
-$h4-size: 20px !default;
-$h5-size: 16px !default;
-$h6-size: 12px !default;
+$h1-size: 1.5em  !default;
+$h2-size: 1.3em  !default;
+$h3-size: 1.15em !default;
+$h4-size: 1.05em !default;
+$h5-size: 1em    !default;
+$h6-size: 1em    !default;
 
 // Default border color
 $color-border: #ddd !default;
 
 // Container width
-$container-width: 64em;
+$container-width: 57em;
 
 // Container width
 $stats-container-width: 80em;

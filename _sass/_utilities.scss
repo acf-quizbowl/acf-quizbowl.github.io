@@ -274,10 +274,9 @@ a.active { color: $color-text-accent; }
     grid-row-end: 2; 
   }
 
-.back-to-top {
-  text-decoration: none !important;
-  color: $blue-dark;
-  font-size: 80%;
+a[href="#top"] {
+  text-decoration: none;
+  color: $blue-light;
 }
 
 .a-values {

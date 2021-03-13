@@ -2,7 +2,9 @@
 layout: page
 title: ACF Constitution
 permalink: /constitution/
+last_updated: December 16, 2019
 ---
+
 # Table of Contents
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
@@ -83,5 +85,3 @@ permalink: /constitution/
 7. Resignation or termination of membership from Academic Competition Federation, Inc. shall cease ACF membership entirely. (Article added by amendment 11/4/2012)
 
 *This constitution was originally written by Eric Kwartler and ratified by him and the other Full members of ACF at the time of its composition: Matthew Weiner, Jerry Vinokurov, Mike Sorice, and Seth Teitler. It has been amended several times since.*
-
-*Last amended December 16, 2019*

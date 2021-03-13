@@ -13,8 +13,8 @@ last_updated: October 10, 2020
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-## About These Rules
-*This is the official set of gameplay rules of the Academic Competition Federation, put forward for use at all official ACF events and at other applicable collegiate or collegiate-style quizbowl events. Eligibility information specifically pertaining to ACF events now exists as the ACF Official Eligibility Rules, and is no longer covered by this document.*
+## About these rules
+*This is the official set of gameplay rules of the Academic Competition Federation, put forward for use at all official ACF events and at other applicable collegiate or collegiate-style quizbowl events. Eligibility information specifically pertaining to ACF events now exists as the [ACF Eligibility Rules](/eligibility-rules), and is no longer covered by this document.*
 
 Within these rules, all plain text has the effective force of a rule governing all participants within a quizbowl match or tournament. The initial use of an important rules term, at the point where that term is most clearly defined, is given in **bold** [with alternate rules terms for that same thing bolded within **square brackets**]. In places where examples or clarifying “reminder text” might be useful, but not strictly necessary, to understanding the rules, that reminder text has been presented within parentheses in italics. 
 

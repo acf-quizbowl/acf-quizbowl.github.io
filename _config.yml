@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Academic Competition Federation
 tagline: Hi. We’re ACF.
-description: We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments are written to reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.
+description: We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.
 logo: /logo.png
 thumbnail: /thumbnail_logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
