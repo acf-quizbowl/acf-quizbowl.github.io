@@ -2,12 +2,14 @@
 layout: page
 title: ACF Packet Distribution
 permalink: /distribution/
-last_updated: April 19, 2020
+last_updated: April 4, 2021
 ---
 
 This page lists full-packet distributions for each ACF tournament. Teams submitting full packets to ACF tournaments should follow the prescribed distribution for the tournament they are submitting a packet to.
 
 For tournaments with half-packet submissions, teams will only submit a half-packet of 12/12. Teams that request to submit a half-packet will be given a half-packet submission template containing a list of pre-assigned categories.
+
+<small>Note: The notation “X/Y” refers to X tossups and Y bonuses (per packet).</small>
 
 <table id="top" class="table table-striped table-hover table-responsive table-condensed distribution">
  <thead>
