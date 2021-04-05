@@ -23,7 +23,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
  </thead>
 <tbody>
   <tr class="category">
-   <td><a href="#literature-">Literature</a> (total)</td>
+   <td><a href="#literature-">Literature</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -65,7 +65,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>1/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#history-">History</a> (total)</td>
+   <td><a href="#history-">History</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -100,7 +100,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>2/1 or 1/2</td>
   </tr>
   <tr class="category">
-   <td><a href="#science-">Science</a> (total)</td>
+   <td><a href="#science-">Science</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -212,7 +212,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>1/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#other-">Other</a> (total)</td>
+   <td><a href="#other-">Other</a> (total*)</td>
    <td>3/2 or 2/3</td>
    <td>2/2</td>
    <td>2/2</td>
