@@ -2,12 +2,14 @@
 layout: page
 title: ACF Packet Distribution
 permalink: /distribution/
-last_updated: April 19, 2020
+last_updated: April 4, 2021
 ---
 
 This page lists full-packet distributions for each ACF tournament. Teams submitting full packets to ACF tournaments should follow the prescribed distribution for the tournament they are submitting a packet to.
 
 For tournaments with half-packet submissions, teams will only submit a half-packet of 12/12. Teams that request to submit a half-packet will be given a half-packet submission template containing a list of pre-assigned categories.
+
+<small>Note: The notation “X/Y” refers to X tossups and Y bonuses (per packet).</small>
 
 <table id="top" class="table table-striped table-hover table-responsive table-condensed distribution">
  <thead>
@@ -21,7 +23,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
  </thead>
 <tbody>
   <tr class="category">
-   <td><a href="#literature-">Literature</a> (total)</td>
+   <td><a href="#literature-">Literature</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -63,7 +65,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>1/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#history-">History</a> (total)</td>
+   <td><a href="#history-">History</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -98,7 +100,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>2/1 or 1/2</td>
   </tr>
   <tr class="category">
-   <td><a href="#science-">Science</a> (total)</td>
+   <td><a href="#science-">Science</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -210,7 +212,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>1/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#other-">Other</a> (total)</td>
+   <td><a href="#other-">Other</a> (total*)</td>
    <td>3/2 or 2/3</td>
    <td>2/2</td>
    <td>2/2</td>
