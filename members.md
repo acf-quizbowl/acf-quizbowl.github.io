@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: February 24, 2021
+last_updated: April 14, 2021
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -385,6 +385,24 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <li>2020–2021 Treasurer</li>
 <li>2020 ACF Regionals Head Editor</li>
 <li>2019 ACF Nationals Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>John Lawrence</td>
+<td>
+<ul>
+<li>PhD Candidate, University of Chicago</li>
+<li>Alumnus, Yale University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2016 ACF Regionals Head Editor</li>
+<li>2013 ACF Regionals Editor</li>
+<li>2013 ACF Fall Editor</li>
+<li>2012 ACF Regionals Editor</li>
+<li>2010 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -1253,24 +1271,6 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <li>2009 ACF Nationals Editor</li>
 <li>2008 ACF Nationals Editor</li>
 <li>2006 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>John Lawrence</td>
-<td>
-<ul>
-<li>PhD Candidate, University of Chicago</li>
-<li>Alumnus, Yale University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2016 ACF Regionals Head Editor</li>
-<li>2013 ACF Regionals Editor</li>
-<li>2013 ACF Fall Editor</li>
-<li>2012 ACF Regionals Editor</li>
-<li>2010 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
