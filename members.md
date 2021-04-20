@@ -35,7 +35,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 <td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Margaret Tebbe</td>
+<td>Michael Kearney</td>
 <td>Site Coordinator</td>
 <td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
 </tr>
@@ -237,6 +237,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </td>
 <td>
 <ul>
+<li>2021 ACF Nationals Qualifier Logistics</li>
 <li>2020 ACF Winter Editor</li>
 <li>2019 ACF Fall Editor</li>
 </ul>
@@ -772,6 +773,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
+<li>2021 Site Coordinator (interim)</li>
 <li>2020 ACF Fall and Regionals Site Tournament Director</li>
 </ul>
 </td>
