@@ -766,6 +766,16 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
+<td>Natan Holtzman</td>
+<td>
+</td>
+<td>
+<ul>
+<li>2021 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Wonyoung Jang</td>
 <td>
 <ul>
