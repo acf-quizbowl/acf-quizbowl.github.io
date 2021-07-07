@@ -882,6 +882,16 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
+<td>Hari Parameswaran </td>
+<td>
+</td>
+<td>
+<ul>
+<li>2021 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Ashwin Ramaswami</td>
 <td>
 <ul>
