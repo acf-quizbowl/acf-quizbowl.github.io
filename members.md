@@ -525,6 +525,20 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </ul>
 </td>
 </tr>
+ <tr>
+<td>Olivia Murton</td>
+<td>
+<ul>
+<li>PhD, Harvard University</li>
+<li>Alumna, MIT</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>ACF Moderator Training</li>
+</ul>
+</td>
+</tr>
 <tr>
 <td>Will Nediger</td>
 <td>
@@ -841,20 +855,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2019 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Olivia Murton</td>
-<td>
-<ul>
-<li>PhD, Harvard University</li>
-<li>Alumna, MIT</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>ACF Moderator Training</li>
 </ul>
 </td>
 </tr>
