@@ -361,6 +361,20 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </td>
 </tr>
 <tr>
+<td>Michael Kearney</td>
+<td>
+<ul>
+<li>Alumnus, Yale University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 Site Coordinator (interim)</li>
+<li>2020 ACF Fall and Regionals Site Tournament Director</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Rahul Keyal</td>
 <td>
 <ul>
@@ -789,16 +803,15 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
-<td>Michael Kearney</td>
+<td>Hasna Karim</td>
 <td>
 <ul>
-<li>Alumnus, Yale University</li>
+<li>Alumna, Yale University</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>2021 Site Coordinator (interim)</li>
-<li>2020 ACF Fall and Regionals Site Tournament Director</li>
+<li>2019 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
