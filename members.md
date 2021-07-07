@@ -1013,6 +1013,20 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+<tr>
+<td>Annabelle Yang</td>
+<td>
+<ul>
+<li>MD Candidate, Washington University in St. Louis</li>
+<li>Alumna, Duke University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -1356,7 +1370,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>
 <ul>
 <li>MD/PhD, Cancer Biology, University of Alabama School of Medicine</li>
-<li>Alumnus, Washington University, St. Louis</li>
+<li>Alumnus, Washington University in St. Louis</li>
 </ul>
 </td>
 <td>
