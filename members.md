@@ -134,9 +134,10 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </td>
 <td>
 <ul>
+<li>2021 ACF Nationals co-Head Editor</li>
 <li>2020–2021 Editor-in-Chief</li>
 <li>2019–2020 Communications Officer</li>
-<li>2019 ACF Nationals co-Head Editor</li>
+<li>2019 ACF Nationals Editor</li>
 <li>2017 ACF Nationals Head Editor</li>
 <li>2012 ACF Fall Head Editor</li>
 <li>2011 ACF Fall Editor</li>
