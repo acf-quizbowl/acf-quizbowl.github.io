@@ -896,6 +896,20 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
+<td>Theresa Nyowheoma</td>
+<td>
+<ul>
+<li>Alumna, New York University</li>
+</ul>
+</td>
+<td>
+<ul>
+ <li>2021 ACF Regionals Tournament Director</li>
+<li>2020 ACF Fall Tournament Director</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Hari Parameswaran </td>
 <td>
 </td>
