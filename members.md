@@ -540,7 +540,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </ul>
 </td>
 </tr>
- <tr>
+<tr>
 <td>Olivia Murton</td>
 <td>
 <ul>
@@ -904,13 +904,13 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
- <li>2021 ACF Regionals Tournament Director</li>
+<li>2021 ACF Regionals Tournament Director</li>
 <li>2020 ACF Fall Tournament Director</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td>Hari Parameswaran </td>
+<td>Hari Parameswaran</td>
 <td>
 </td>
 <td>
