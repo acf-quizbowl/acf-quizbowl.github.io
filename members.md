@@ -134,9 +134,10 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </td>
 <td>
 <ul>
+<li>2021 ACF Nationals co-Head Editor</li>
 <li>2020–2021 Editor-in-Chief</li>
 <li>2019–2020 Communications Officer</li>
-<li>2019 ACF Nationals co-Head Editor</li>
+<li>2019 ACF Nationals Editor</li>
 <li>2017 ACF Nationals Head Editor</li>
 <li>2012 ACF Fall Head Editor</li>
 <li>2011 ACF Fall Editor</li>
@@ -361,6 +362,20 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </td>
 </tr>
 <tr>
+<td>Michael Kearney</td>
+<td>
+<ul>
+<li>Alumnus, Yale University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 Site Coordinator (interim)</li>
+<li>2020 ACF Fall and Regionals Site Tournament Director</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Rahul Keyal</td>
 <td>
 <ul>
@@ -522,6 +537,20 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <ul>
 <li>2020 ACF Fall Head Editor</li>
 <li>2019 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Olivia Murton</td>
+<td>
+<ul>
+<li>PhD, Harvard University</li>
+<li>Alumna, MIT</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>ACF Moderator Training</li>
 </ul>
 </td>
 </tr>
@@ -752,6 +781,16 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
+<td>Natan Holtzman</td>
+<td>
+</td>
+<td>
+<ul>
+<li>2021 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Wonyoung Jang</td>
 <td>
 <ul>
@@ -765,16 +804,15 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
-<td>Michael Kearney</td>
+<td>Hasna Karim</td>
 <td>
 <ul>
-<li>Alumnus, Yale University</li>
+<li>Alumna, Yale University</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>2021 Site Coordinator (interim)</li>
-<li>2020 ACF Fall and Regionals Site Tournament Director</li>
+<li>2021 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
@@ -845,20 +883,6 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
-<td>Olivia Murton</td>
-<td>
-<ul>
-<li>PhD, Harvard University</li>
-<li>Alumna, MIT</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>ACF Moderator Training</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Arjun Nageswaran</td>
 <td>
 <ul>
@@ -868,6 +892,30 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2020 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Theresa Nyowheoma</td>
+<td>
+<ul>
+<li>Alumna, New York University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Regionals Tournament Director</li>
+<li>2020 ACF Fall Tournament Director</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Hari Parameswaran</td>
+<td>
+</td>
+<td>
+<ul>
+<li>2021 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
@@ -990,6 +1038,20 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2020 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Annabelle Yang</td>
+<td>
+<ul>
+<li>MD Candidate, Washington University in St. Louis</li>
+<li>Alumna, Duke University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
@@ -1336,7 +1398,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>
 <ul>
 <li>MD/PhD, Cancer Biology, University of Alabama School of Medicine</li>
-<li>Alumnus, Washington University, St. Louis</li>
+<li>Alumnus, Washington University in St. Louis</li>
 </ul>
 </td>
 <td>
