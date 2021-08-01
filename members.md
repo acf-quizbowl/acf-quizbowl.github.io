@@ -812,7 +812,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
-<li>2019 ACF Regionals Editor</li>
+<li>2021 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
