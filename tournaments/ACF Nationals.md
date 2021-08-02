@@ -3,17 +3,20 @@ layout: page
 title: ACF Nationals
 permalink: /nationals/
 nav_order: 4
-last_updated: June 30, 2021
+last_updated: August 3, 2021
 ---
 
 **ACF Nationals** is the premier collegiate quizbowl national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the hardest and biggest question set of the season.
 
 ## 2021 ACF Nationals 
-2021 ACF Nationals was postponed until summer 2021. ACF Nationals will tentatively be held **August 7-8 at Northwestern University in Evanston, Illinois.** The final date and location have not been confirmed yet; for more information, ACF is posting updates in [this forums thread](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25133).
+2021 ACF Nationals was postponed until summer 2021. ACF Nationals will be held **August 7-8 at Northwestern University in Evanston, Illinois.**
 
 Matt Bollinger (alumnus of the University of Virginia) and Ryan Westbrook (alumnus of the University of Michigan and Wayne State University) will be head editors.
 
-Bidding to host 2021 ACF Nationals is currently undetermined. For more information, contact the Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com).
+### COVID-19 precautions
+Due to the COVID-19 pandemic, all players and spectators will be required to wear masks at ACF Nationals, regardless of vaccination status. Participants are strongly recommended to get vaccinated before attending.
+
+Staff will be required to wear masks while not actively moderating; in order to be allowed to moderate without a mask, staff must show a negative COVID-19 test taken in the prior 5 days.
 
 ### Qualification changes for 2021
 In 2021, ACF Regionals will not serve as the qualifier for ACF Nationals. The [new qualification method](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24836) was announced on January 29, 2021, and took place on the weekend of April 3, 2021.
