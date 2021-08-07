@@ -11,7 +11,7 @@ permalink: /2021-program/
     var adobeDCView = new AdobeDC.View({clientId: "c02c3ab424e2450a8b18c70972526b25", divId: "adobe-dc-view"});
     adobeDCView.previewFile({
       content:{ location: 
-        { url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea%20Brochure.pdf"}},
+        { url: "https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:414e4816-e198-4ce3-b5cb-cf619b3d78c7"}},
       metaData:{fileName: "Bodea Brochure.pdf"}
     },
     {
