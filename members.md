@@ -69,23 +69,23 @@ For information on how to become an ACF member, see the [About page](/about#how-
 </thead>
 <tbody>
 <tr>
-<td>Ben Miller</td>
-<td>2020 ACF Fall</td>
+<td>Katherine Lei</td>
+<td>2021 ACF Fall</td>
 <td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>William Golden</td>
-<td>2020 ACF Winter</td>
+<td>Tim Morrison</td>
+<td>2021 ACF Winter</td>
 <td><a href="mailto:winter@acf-quizbowl.com">winter@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Jaimie Carlson</td>
-<td>2021 ACF Regionals</td>
+<td>Taylor Harvey</td>
+<td>2022 ACF Regionals</td>
 <td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Ryan Westbrook</td>
-<td>2021 ACF Nationals</td>
+<td>John Lawrence</td>
+<td>2022 ACF Nationals</td>
 <td><a href="mailto:nationals@acf-quizbowl.com">nationals@acf-quizbowl.com</a></td>
 </tr>
 </tbody>
