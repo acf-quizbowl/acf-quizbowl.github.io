@@ -507,22 +507,16 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </td>
 </tr>
 <tr>
-<td>Jonathan Magin</td>
+<td>Caroline Mao</td>
 <td>
 <ul>
-<li>Alumnus, University of Maryland</li>
+<li>Barnard College</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>2018 Meeting Chair</li>
-<li>2017 ACF Fall Head Editor</li>
-<li>2013 ACF Nationals Head Editor</li>
-<li>2012 ACF Nationals Head Editor</li>
-<li>2011 ACF Nationals Editor</li>
-<li>2009 ACF Nationals Editor</li>
-<li>2009 ACF Regionals Head Editor</li>
-<li>2007 ACF Fall Editor</li>
+<li>2020–2021 Communications Director</li>
+<li>2019 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -856,20 +850,6 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
-<td>Caroline Mao</td>
-<td>
-<ul>
-<li>Barnard College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020–2021 Communications Director</li>
-<li>2019 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Tracy Mirkin</td>
 <td>
 <ul>
@@ -916,34 +896,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2021 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Ashwin Ramaswami</td>
-<td>
-<ul>
-<li>Stanford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2018–2019 Communications Officer</li>
-<li>2018 ACF Fall Editor</li>
-<li>2017 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Graham Reid</td>
-<td>
-<ul>
-<li>PhD Student, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
@@ -1362,6 +1314,26 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>
 <ul>
 <li>2001 ACF Nationals Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Jonathan Magin</td>
+<td>
+<ul>
+<li>Alumnus, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 Meeting Chair</li>
+<li>2017 ACF Fall Head Editor</li>
+<li>2013 ACF Nationals Head Editor</li>
+<li>2012 ACF Nationals Head Editor</li>
+<li>2011 ACF Nationals Editor</li>
+<li>2009 ACF Nationals Editor</li>
+<li>2009 ACF Regionals Head Editor</li>
+<li>2007 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
