@@ -260,23 +260,6 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </td>
 </tr>
 <tr>
-<td>Carsten Gehring</td>
-<td>
-<ul>
-<li>Alumnus, Carleton College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2018 ACF Nationals Proofreader</li>
-<li>2017 ACF Regionals Proofreader</li>
-<li>2014 ACF Regionals Editor</li>
-<li>2011 ACF Fall Head Editor</li>
-<li>2010 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Auroni Gupta</td>
 <td>
 <ul>
@@ -440,24 +423,6 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 </td>
 </tr>
 <tr>
-<td>Stephen Liu</td>
-<td>
-<ul>
-<li>J.D., Stanford Law School</li>
-<li>Alumnus, Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2018 ACF Nationals Editor</li>
-<li>2017 ACF Regionals Editor</li>
-<li>2015 ACF Regionals Editor</li>
-<li>2013 ACF Fall Head Editor</li>
-<li>2012 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Bruce Lou</td>
 <td>
 <ul>
@@ -607,6 +572,20 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 <li>2019 ACF Nationals Travel Logistics</li>
 <li>2018 ACF Nationals Travel Logistics</li>
 <li>2017 ACF Nationals Travel Logistics</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Margaret Tebbe</td>
+<td>
+<ul>
+<li>University of Pennsylvania</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020–2021 Site Coordinator</li>
+<li>2019 ACF Nationals Host Logistics Contact</li>
 </ul>
 </td>
 </tr>
@@ -798,6 +777,19 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
+<td>Justin Jasperse</td>
+<td>
+<ul>
+<li>Northwestern University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Nationals Host Contact</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Hasna Karim</td>
 <td>
 <ul>
@@ -846,6 +838,19 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2019 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Jack Mehr</td>
+<td>
+<ul>
+<li>Alumnus, University of Virginia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Nationals Editor</li>
 </ul>
 </td>
 </tr>
@@ -962,20 +967,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2020 ACF Winter Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Margaret Tebbe</td>
-<td>
-<ul>
-<li>University of Pennsylvania</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020–2021 Site Coordinator</li>
-<li>2019 ACF Nationals Host Logistics Contact</li>
 </ul>
 </td>
 </tr>
@@ -1134,6 +1125,23 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <li>2012 ACF Nationals Editor</li>
 <li>2011 ACF Nationals Editor</li>
 <li>2010 ACF Nationals Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Carsten Gehring</td>
+<td>
+<ul>
+<li>Alumnus, Carleton College</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Nationals Proofreader</li>
+<li>2017 ACF Regionals Proofreader</li>
+<li>2014 ACF Regionals Editor</li>
+<li>2011 ACF Fall Head Editor</li>
+<li>2010 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -1301,6 +1309,24 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>
 <ul>
 <li>2004 ACF Nationals Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Stephen Liu</td>
+<td>
+<ul>
+<li>J.D., Stanford Law School</li>
+<li>Alumnus, Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2018 ACF Nationals Editor</li>
+<li>2017 ACF Regionals Editor</li>
+<li>2015 ACF Regionals Editor</li>
+<li>2013 ACF Fall Head Editor</li>
+<li>2012 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
