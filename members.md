@@ -114,7 +114,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 
 # Full members
 
-Full members are ACF's editors, officers, and tournament directors. They vote in all ACF elections and on all constitutional amendments.
+Full members can vote in all ACF elections and on all constitutional amendments.
 
 <table class="table-ruled member-list">
 <thead>
@@ -662,7 +662,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 
 # Provisional members
 
-Provisional members are community members who have ably assisted ACF in the past and may be invited to apply for full membership if they so do again in the future.
+Provisional members are community members who have ably assisted ACF in the past and, if they do so again in the future, may be invited to apply for full membership.
 
 <table class="table-ruled member-list">
 <thead>

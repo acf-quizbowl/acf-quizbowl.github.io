@@ -3,7 +3,7 @@ layout: page
 title: ACF Fall
 permalink: /fall/
 nav_order: 2
-last_updated: October 12, 2020
+last_updated: September 4, 2021
 ---
 
 **ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
@@ -43,7 +43,7 @@ Host sites will bill teams as soon as possible after the teams register. Teams s
 ## Packet submission
 Unlike past iterations of the set, no teams are required to submit questions in order to play the tournament. However, ACF still needs high-quality, half-packet submissions from teams to complete the set.
 
-Below is the submission schedule for ACF Fall. All deadlines are at 11:59 p.m. PDT. The maximum packet discounts have increased since last year; furthermore, all submitting teams are eligible for an additional −$20 quality discount if their questions are particularly polished and usable, up to a maximum discount of −$60. Teams may submit a maximum of one half-packet.
+Below is the submission schedule for ACF Fall. All deadlines are at 11:59 p.m. Pacific Time. The maximum packet discounts have increased since last year; furthermore, all submitting teams are eligible for an additional −$20 quality discount if their questions are particularly polished and usable, up to a maximum discount of −$60. Teams may submit a maximum of one half-packet.
 
 - August 23, 2020: −$50
 - August 30, 2020: −$40
