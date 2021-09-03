@@ -40,7 +40,7 @@ This test is applied to each individual team, not to your school’s contingent 
 
 Want to know what a well-formatted packet looks like? Take a look at this sample packet.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRu0cUcpxcLI0wPlCEcZleGhIwyAUIITB-_Zpqr6TdlL2kNDpASIXxs4FLOs6m6ReTYfjFeeJHK3Svi/pub?embedded=true" width="82%" height="600"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRu0cUcpxcLI0wPlCEcZleGhIwyAUIITB-_Zpqr6TdlL2kNDpASIXxs4FLOs6m6ReTYfjFeeJHK3Svi/pub?embedded=true" title="Well-formatted packet" width="82%" height="600"></iframe>
 
 ## Packet submission checklist
 
