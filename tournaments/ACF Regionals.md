@@ -3,10 +3,10 @@ layout: page
 title: ACF Regionals
 permalink: /regionals/
 nav_order: 3
-last_updated: October 22, 2020
+last_updated: September 4, 2021
 ---
 
-**ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. ACF Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience. Many players will find ACF Regionals to be a significant but rewarding challenge.
+**ACF Regionals** is a difficult tournament that serves as a qualifier for ACF Nationals. ACF Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience. Many players will find ACF Regionals to be a significant but rewarding challenge.
 
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
@@ -29,7 +29,7 @@ Any team with at least two people on it who played a mainstream, collegiate, aca
 
 <small>\* For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as mainstream collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not count.</small>
 
-If your team is obligated to submit a half-packet or wishes to do so, please register with [this form](https://forms.gle/dzjKcWTSJNa6ExBU7) by January 3, 2021. A half-packet distribution will be mailed to you. If you have already received a half-packet distribution, please still register, but no additional half-packet will be emailed to you. If you register and do not receive a half-packet distribution in a timely manner, please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Registering to submit a half-packet is not registration for ACF Regionals, which will be set up after sites are announced. 
+If your team is obligated to submit a half-packet or wishes to do so, register with [this form](https://forms.gle/dzjKcWTSJNa6ExBU7) by January 3, 2021. A half-packet distribution will be mailed to you. If you have already received a half-packet distribution, please still register, but no additional half-packet will be emailed to you. If you register and do not receive a half-packet distribution in a timely manner, please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Registering to submit a half-packet is not registration for ACF Regionals, which will be set up after sites are announced. 
 
 The submission schedule is as follows:
 * November 22, 2020: −$50
@@ -42,7 +42,7 @@ After January 17, 2021, teams will be required to pay an additional $10 per day 
 
 The submission discounts and penalties – but not the schedule – may differ for teams attending sites outside of the United States, and will be detailed on the relevant site's forum post.
 
-In order to meet a deadline, you must submit your half-packet to [regionals@acf-quizbowl.com](regionals@acf-quizbowl.com) before 11:59 p.m. PDT on that date. Half-packets should be submitted in Microsoft Word .doc or .docx format. Please do not submit packets as PDFs. If a team wishes to outsource part of its packet to a player not expected to play on that team (e.g., a student who has graduated), it must first receive approval from the head editor. Teams should email in their submissions separately and should not collaborate on packets; i.e., a school’s A team and B team should not write two half-packets together. However, if anyone who works on a packet or has access to that packet ends up playing on a different team (e.g. if someone originally intended to be on your school’s B team instead plays for your school’s A team) please let the head editor and your local TD know as soon as possible.
+In order to meet a deadline, you must submit your half-packet to [regionals@acf-quizbowl.com](regionals@acf-quizbowl.com) before 11:59 p.m. Pacific Time on that date. Half-packets should be submitted in .docx format. Please do not submit packets as PDFs. If a team wishes to outsource part of its packet to a player not expected to play on that team (e.g., a student who has graduated), it must first receive approval from the head editor. Teams should email in their submissions separately and should not collaborate on packets; i.e., a school’s A team and B team should not write two half-packets together. However, if anyone who works on a packet or has access to that packet ends up playing on a different team (e.g. if someone originally intended to be on your school’s B team instead plays for your school’s A team) please let the head editor and your local TD know as soon as possible.
 
 ## Fees
 Additional details can be found on [the ACF website](/hosting-guidelines/#details-about-finances). Fees and discounts for this tournament are structured as follows:

@@ -3,10 +3,10 @@ layout: page
 title: ACF Winter
 permalink: /winter/
 nav_order: 2.5
-last_updated: October 12, 2020
+last_updated: September 4, 2021
 ---
 
-**ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived again in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
+**ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
 
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
@@ -36,7 +36,7 @@ Here is the submission schedule:
 
 *If teams required to submit a half-packet have not submitted by November 1, they will be dropped from the tournament, with no exceptions.*
 
-If your team is going to submit a half-packet, whether required or not, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) to request a distribution. All finished packets must be sent to that email before 11:59 p.m. PDT on the day listed to receive the discount or penalty. Please format the half-packet in .doc or .docx before sending it. The email subject line should list the name of the school, the team number (if applicable), and the words “half-packet.”
+If your team is going to submit a half-packet, whether required or not, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) to request a distribution. All finished packets must be sent to that email before 11:59 p.m. Pacific Time on the day listed to receive the discount or penalty. Please send the half-packet in .docx format. The email subject line should list the name of the school, the team number (if applicable), and the words “half-packet.”
 
 ## Registration
 To register for 2020 ACF Winter, fill out the central [2020 ACF Winter registration form](https://docs.google.com/forms/d/e/1FAIpQLSekgWuKx-Dfe2j8cYtALGJBu3Mf7rbuhjMPKPcuy3Ab5faB9A/viewform) with all relevant information. 
