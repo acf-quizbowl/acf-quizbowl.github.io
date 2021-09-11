@@ -37,5 +37,5 @@ Initial qualifying teams and teams on the waitlist will then be invited to join 
 2. If the field does not fill once the bid acceptance deadline is reached, then all available bids will be awarded in order of descending A-value.
 
 ## Notes
-1. There are no restrictions on what Regionals site a school may attend. 
+1. There are no restrictions on what Regionals site a school may attend.
 2. There are no special considerations or penalties given to B teams, with the exception of the host roster rule explained above.

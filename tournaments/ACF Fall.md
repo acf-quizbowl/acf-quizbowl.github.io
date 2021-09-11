@@ -22,7 +22,7 @@ last_updated: September 4, 2021
 In response to the COVID-19 pandemic, ACF Fall will be held entirely online this year. ACF will coordinate with hosts to hold mirrors using Discord, and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
 
 ## Registration
-To register for 2020 ACF Fall, fill out the central [2020 ACF Fall registration form](https://forms.gle/qjy2kmJSFv56ySuQ8) with all relevant information. 
+To register for 2020 ACF Fall, fill out the central [2020 ACF Fall registration form](https://forms.gle/qjy2kmJSFv56ySuQ8) with all relevant information.
 
 ## Field
 The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1hrgokKUJukxb6UmNnrAMwjnScDbiTsOTKAKB40Gunvc/edit?usp=sharing).

@@ -29,7 +29,7 @@ Any team with at least two people on it who played a mainstream, collegiate, aca
 
 <small>\* For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as mainstream collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not count.</small>
 
-If your team is obligated to submit a half-packet or wishes to do so, register with [this form](https://forms.gle/dzjKcWTSJNa6ExBU7) by January 3, 2021. A half-packet distribution will be mailed to you. If you have already received a half-packet distribution, please still register, but no additional half-packet will be emailed to you. If you register and do not receive a half-packet distribution in a timely manner, please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Registering to submit a half-packet is not registration for ACF Regionals, which will be set up after sites are announced. 
+If your team is obligated to submit a half-packet or wishes to do so, register with [this form](https://forms.gle/dzjKcWTSJNa6ExBU7) by January 3, 2021. A half-packet distribution will be mailed to you. If you have already received a half-packet distribution, please still register, but no additional half-packet will be emailed to you. If you register and do not receive a half-packet distribution in a timely manner, please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Registering to submit a half-packet is not registration for ACF Regionals, which will be set up after sites are announced.
 
 The submission schedule is as follows:
 * November 22, 2020: −$50
@@ -57,7 +57,7 @@ The "new to quizbowl" discount is intended for schools that have not sent a team
 Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, bank transfer, cash, or PayPal.
 
 ## Registration
-To register for 2021 ACF Regionals, fill out the central [2021 ACF Regionals registration form](https://forms.gle/Fip9Ru3wPMF56DCU8) with all relevant information. 
+To register for 2021 ACF Regionals, fill out the central [2021 ACF Regionals registration form](https://forms.gle/Fip9Ru3wPMF56DCU8) with all relevant information.
 
 ## Field
 The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1ZtpLDgZCnaCKaKyhUQ74a1sTIG_hO6nGGrLr_QBE1O8/edit#gid=583264051).
@@ -70,10 +70,10 @@ ACF Regionals uses the [standard ACF distribution](/distribution).
 
 ## Accessibility
 This tournament is intended to be easier than ACF Regionals 2018, close in difficulty to ACF Regionals 2019, and slightly easier than ACF Regionals 2020. While writing submissions, please keep the following in mind:
-* At least 50% of tossup answerlines should be things that can be tossed up at ACF Fall or below. This does not mean “answerlines with an easy giveaway, but no other Fall-level clues in their category” (e.g., a literature question with an answerline of “Delaware,” exclusively on Delawarean authors) but rather answerlines that could have a full Fall-level tossup in their category written on them (e.g., a geography question on Delaware). 
+* At least 50% of tossup answerlines should be things that can be tossed up at ACF Fall or below. This does not mean “answerlines with an easy giveaway, but no other Fall-level clues in their category” (e.g., a literature question with an answerline of “Delaware,” exclusively on Delawarean authors) but rather answerlines that could have a full Fall-level tossup in their category written on them (e.g., a geography question on Delaware).
 * The remaining tossup answerlines should be predominantly things that could be uncontroversially tossed up at regular difficulty. While you should feel free to submit tossups with unconventional answerlines that are still accessible (e.g. the trend of writing harder tossups on elements of core-canon works) these should make up no more than one or two of your overall submission.
 * Easy parts for bonuses should be genuinely easy, gettable by around 90% of teams. However, try and avoid “curved yellow fruit” style easy parts that (a) don’t reward knowledge and (b) can actually obfuscate an answer.
-* Hard parts for bonuses should be genuinely hard, but gettable by around 10% of teams. That 10% is important – a Regionals hard part is not a Nationals hard part. It may be canon-expanding, but should still be relevant. 
+* Hard parts for bonuses should be genuinely hard, but gettable by around 10% of teams. That 10% is important – a Regionals hard part is not a Nationals hard part. It may be canon-expanding, but should still be relevant.
 * Tossups this year will be hard-capped at seven lines, 10-point Times New Roman with one-inch margins. Please do not submit tossups that run into the ninth line or are shorter than five full lines. For bonuses, please do not submit any bonus parts that are over three lines, and aim for 1–2 lines per part.
 * Submissions that flagrantly disregard the length or difficulty guidelines will be sent back to teams and will be considered unsubmitted for the purposes of packet discounts. If you would like to request an extension for your deadline, please submit your request and explanation to [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 

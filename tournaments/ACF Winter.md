@@ -39,7 +39,7 @@ Here is the submission schedule:
 If your team is going to submit a half-packet, whether required or not, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) to request a distribution. All finished packets must be sent to that email before 11:59 p.m. Pacific Time on the day listed to receive the discount or penalty. Please send the half-packet in .docx format. The email subject line should list the name of the school, the team number (if applicable), and the words “half-packet.”
 
 ## Registration
-To register for 2020 ACF Winter, fill out the central [2020 ACF Winter registration form](https://docs.google.com/forms/d/e/1FAIpQLSekgWuKx-Dfe2j8cYtALGJBu3Mf7rbuhjMPKPcuy3Ab5faB9A/viewform) with all relevant information. 
+To register for 2020 ACF Winter, fill out the central [2020 ACF Winter registration form](https://docs.google.com/forms/d/e/1FAIpQLSekgWuKx-Dfe2j8cYtALGJBu3Mf7rbuhjMPKPcuy3Ab5faB9A/viewform) with all relevant information.
 
 ## Field
 The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1Qll_pT6gIiXsOFlrOLcnpYhz8LmTHrx7O__y9G0i4BY/edit?usp=sharing).

@@ -26,6 +26,6 @@ last_updated: January 28, 2020
 
 ## Standby
 
-1. ACF is also looking for teams willing to serve as standby teams in case of last-minute drops. Standby teams must commit to showing up to the tournament day-of; if there are any open spots, they will be able to play ACF Nationals for no entry fee. Otherwise, they are free to staff or explore the Twin Cities. 
+1. ACF is also looking for teams willing to serve as standby teams in case of last-minute drops. Standby teams must commit to showing up to the tournament day-of; if there are any open spots, they will be able to play ACF Nationals for no entry fee. Otherwise, they are free to staff or explore the Twin Cities.
 
 2. To sign up as a standby team, please email Tournament Director Ryan Rosenberg at [td@acf-quizbowl.com](mailto:td@acf-quizbowl.com).
