@@ -32,10 +32,12 @@ The field for each site can be found [here](https://docs.google.com/spreadsheets
 
 ## Fees
 
-- Base fee per team: $120
-- New to quizbowl discount: −$80
-- Shorthanded discount (1–2 players): −$60
-- Staffers: −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
+Team entry fee or discount | 
+- | -
+Base fee per team | $120
+New to quizbowl discount | −$80
+Shorthanded discount (1–2 players) | −$60
+Staffers | −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
 
 <!-- need to reinstate buzzer/travel discounts? -->
 
@@ -50,11 +52,13 @@ Like 2020 ACF Fall, no teams are required to submit questions in order to play t
 
 Below is the submission schedule for ACF Fall. All deadlines are at 11:59 p.m. Pacific Time. All submitting teams are eligible for an additional −$20 quality discount if their questions are particularly polished and usable, up to a maximum discount of −$60. Teams may submit a maximum of one half-packet.
 
-- August 21, 2021: −$50
-- August 28, 2021: −$40
-- September 4, 2021: −$30
-- September 11, 2021: −$20
-- September 18, 2021: −$10
+Submission deadline | Packet discount
+- | -
+August 21, 2021    | −$50
+August 28, 2021    | −$40
+September 4, 2021  | −$30
+September 11, 2021 | −$20
+September 18, 2021 | −$10
 
 If you would like to submit a half-packet, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScUin-wIZeG1dJa-8JRtfKhhzhSbN924JHDuIU6GZxJHZcpCA/viewform). ACF will respond with a half-packet template specifying which categories you are assigned to write.
 
