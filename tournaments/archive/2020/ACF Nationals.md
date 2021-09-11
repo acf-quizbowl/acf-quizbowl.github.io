@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ACF Nationals
-permalink: /nationals/
 nav_order: 4
 last_updated: August 3, 2021
 ---
