@@ -9,6 +9,7 @@ last_updated: September 3, 2021
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
 
 # Officers
+ACF’s officers also serve as ACF’s board of directors.
 
 <table class="member-list">
 <thead>
