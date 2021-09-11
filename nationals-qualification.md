@@ -5,6 +5,8 @@ permalink: /nationals-qualification/
 last_updated: October 25, 2019
 ---
 
+# Table of Contents
+{: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
