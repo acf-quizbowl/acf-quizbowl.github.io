@@ -3,7 +3,7 @@ layout: page
 title: ACF Winter
 permalink: /winter/
 nav_order: 2.5
-last_updated: September 4, 2021
+last_updated: September 11, 2021
 ---
 
 **ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
@@ -13,83 +13,122 @@ last_updated: September 4, 2021
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-# 2020 ACF Winter
-[2020 ACF Winter](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24322) was held on November 7, 2020.
+# 2021 ACF Winter
+[2021 ACF Winter](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25262) will be held on November 6, 2021.
 
 ## Editors
-2020 ACF Winter is head-edited by William Golden and edited by Ganon Evans, Nick Jensen, Vishwa Shanmugam, Bryanna Shao, Christopher Sims, Jaskaran Singh, Andrew Wang, and Chandler West. Andrew Wang will also provide science oversight.
+2021 ACF Winter is head-edited by Tim Morrison and edited by Ethan Ashbrook, Vikshar Athreya, Nick Jensen, Joseph Krol, Angela Lin, Steven Liu, Benjamin McAvoy-Bickford, Eric Mukherjee, and Chris Sims.
+The subject breakdown by editor is:
+
+Editor | Subjects
+- | -
+Ethan Ashbrook           | European Literature, Mythology, Philosophy
+Vikshar Athreya          | World History
+Nick Jensen              | US History, European History, Other History, Earth Science, Other Academic
+Joseph Krol              | World Literature, Visual Fine Arts, Other Fine Arts
+Angela Lin               | US Literature, British Literature
+Steven Liu               | Physics, Other Science
+Benjamin McAvoy-Bickford | Religion, Geography, Current Events
+Eric Mukherjee           | Biology, Chemistry
+Chris Sims               | Music, Social Science
 
 ## Online format
-In response to the COVID-19 pandemic, ACF Winter will be held entirely online this year. ACF will coordinate with hosts to hold mirrors using Discord, and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
+We hope that ACF Winter can be held in person. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Winter will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.
 
 ## Packet submission
-Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament\* (either as a college student or as a high school student) prior to September 1, 2019, is required to submit a half-packet. Email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional packet by the no-penalty deadline for a $50 discount.
+Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament\* (either as a college student or as a high school student) prior to September 1, 2020, is required to submit a half-packet (unless it is a high school team attending a high-school-only mirror). Email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional packet by the −$0 (no penalty) deadline for a $50 discount.
 
 <small>\* For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as mainstream collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not count.</small>
 
 Here is the submission schedule:
 
-- September 6, 2020: −$50
-- September 20, 2020: −$25
-- October 3, 2020: −$0
-- October 17, 2020: +$25
-- October 24, 2020: +$50
+Submission deadline | Packet discount
+- | -
+September 5, 2021  | −$50
+September 19, 2021 | −$25
+October 3, 2021    | −$0 (no penalty)
+October 17, 2021   | +$25
+October 24, 2021   | +$50
 
-*If teams required to submit a half-packet have not submitted by November 1, they will be dropped from the tournament, with no exceptions.*
+There is an additional $10/day penalty for each day after October 24th. If teams required to submit a half-packet have not submitted by October 31, they will be dropped from the tournament, with no exceptions.
 
 If your team is going to submit a half-packet, whether required or not, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) to request a distribution. All finished packets must be sent to that email before 11:59 p.m. Pacific Time on the day listed to receive the discount or penalty. Please send the half-packet in .docx format. The email subject line should list the name of the school, the team number (if applicable), and the words “half-packet.”
 
 ## Registration
-To register for 2020 ACF Winter, fill out the central [2020 ACF Winter registration form](https://docs.google.com/forms/d/e/1FAIpQLSekgWuKx-Dfe2j8cYtALGJBu3Mf7rbuhjMPKPcuy3Ab5faB9A/viewform) with all relevant information.
+The registration form for ACF Winter will be available after hosts have been announced.
 
-## Field
-The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1Qll_pT6gIiXsOFlrOLcnpYhz8LmTHrx7O__y9G0i4BY/edit?usp=sharing).
+<!-- ## Field
+The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1Qll_pT6gIiXsOFlrOLcnpYhz8LmTHrx7O__y9G0i4BY/edit?usp=sharing). -->
 
 ## Distribution
 ACF Winter uses the [standard ACF distribution](/distribution), which is the same distribution as ACF Regionals.
 
 ## Fees
-- Base fee per team: $120
-- New to quizbowl discount: −$80
-- Shorthanded discount (1–2 players): −$60
-- Staffers: −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
 
-The "new to quizbowl" discount is for schools that have not sent a team to any mainstream collegiate academic tournament (exclusively Novice tournaments do not count) since September 2019, and have no one on the team(s) claiming this discount who played those tournaments for another school.
+Team entry fee or discount | 
+- | -
+Base fee per team | $150
+New to quizbowl discount | −$100
+Shorthanded discount (1–2 players) | −$75
+Travel discount | −$10 per 200 miles traveled one-way
+Buzzers | −$10 per functional buzzer system
+Staffers | −$15 per staffer with functional laptop. Staffers must register with ACF in advance.
 
-Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, bank transfer, cash, or PayPal.
+The "new to quizbowl" discount is for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September 2020, and which have no players who competed in non-novice collegiate tournaments during that same period.
+
+Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, cash, or PayPal.
+
+See above for packet submission discounts.
 
 ## Tips and guidelines
 <!-- todo: note that in different years, editors may have different philosophies, subject to change -->
 
-- Please make sure your questions are harder than questions in ACF Fall and easier than at ACF Regionals. 2019 EFT is a good difficulty target. A majority of your tossup answers should conceivably be a tossup answer at ACF Fall.
-- Questions should be written in 10-pt Times New Roman with one-inch margins. Although you may submit longer questions, tossups will be capped at seven lines for the tournament. Each bonus part should be a maximum of three lines in length, with the majority being one or two lines long.
+- Please make sure your questions are harder than questions in ACF Fall and easier than questions in ACF Regionals. 2019 EFT and 2020 ACF Winter are good difficulty targets. A majority of your tossup answers should conceivably be a tossup answer at ACF Fall.
+- Questions should be written in 10-point Times New Roman with one-inch margins. Although you may submit longer questions, tossups will be capped at seven lines. Each bonus part should be a maximum of three lines in length, with the majority being one or two lines long.
 - When writing bonuses, aim for the easy parts to be converted by around 90% of teams. The giveaways for tossups should also conceivably be answered by the majority of teams. While creative questions are great, don’t sacrifice playability for novelty.
 
 More information can be found in [ACF’s packet submission guidelines](/packet-submission-guidelines).
 
-## Staffing
-To staff ACF Winter, please fill out [the staffer registration form](https://forms.gle/XaM1RbCFmYiGbqvD8).
+<!-- ## Staffing
+To staff ACF Winter, please fill out [the staffer registration form](https://forms.gle/XaM1RbCFmYiGbqvD8). -->
 
 ## Hosts
-Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2020 ACF Winter in the following [regions](/hosting-guidelines#regions-according-to-acf):
+If you are interested in hosting a mirror of ACF Winter or have questions about hosting, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines).
+
+Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Winter in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region                    | Site
 -                         | -
-Northeast                 | [Yale](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24555)
-Upper Mid-Atlantic        | [Rutgers](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24556)
-Lower Mid-Atlantic        | [Maryland](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24570)
-Southeast                 | [Vanderbilt](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24544)
-Great Lakes               | [Ohio State](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24543)
-Midwest                   | [Midwest](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24569)
-North                     | [Iowa](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24542)
-South Central             | [Texas](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24546)
-Mountain West & Northwest | [Washington](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24562)
-California                | [USC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24568)
-Eastern Canada            | [Toronto](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24554)
-United Kingdom            | [Warwick](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24580)
-High school only          | [High school only](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=24575)
+Northeast                 | 
+Upper Mid-Atlantic        | 
+Lower Mid-Atlantic        | 
+Southeast                 | 
+Florida                   | 
+Great Lakes               | 
+Midwest                   | 
+North                     | 
+South Central             | 
+Mountain West             | 
+California                | 
+Northwest                 | 
+Eastern Canada            | 
+United Kingdom            | 
+High school only          | 
 
 ## High school mirrors
 ACF Winter will be available for high school mirrors. If you want to host a high school mirror of ACF Winter, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). High school mirrors are restricted to high school teams only; no college teams can participate.
 
 If you have any questions, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com).
+
+## Dates of note
+
+Event | Date
+- | -
+ACF dates announced  | June 7, 2021
+ACF Winter announced | August 13, 2021
+Bidding opened       | not yet
+Bidding closed       | not yet
+Host sites announced | not yet
+Registration opened  | not yet
+Registration closed  | not yet
+ACF Winter held      | November 6, 2021
