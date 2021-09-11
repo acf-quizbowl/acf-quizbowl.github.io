@@ -1072,7 +1072,7 @@ Welcome to the ACF Statistics Database! This database contains team and individu
 </select>
 
 ## Record Book
-[ACF Record Book](record-book) (2005-present)
+[ACF Record Book](record-book) (2005–present)
 
 ## Data
 You can access raw versions of team and player data on [the GitHub repo](https://github.com/acf-quizbowl/acf-data/tree/master/nationals).

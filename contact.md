@@ -59,10 +59,10 @@ This page lists the best methods for contacting ACF; if you know which officer y
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <!-- all your input fields here.... -->
   <label for="Name">Name</label>
-  <input type='text' name='Name' /> <br>
+  <input type="text" name="Name" /><br>
   <label for="Email">Email</label>
-  <input type='text' name='Email' /> <br>
+  <input type="text" name="Email" /><br>
   <label for="Message">Message</label>
-  <textarea name='Message' rows="10" cols="40"></textarea> <br>
-  <input type='submit' value='Submit' />
+  <textarea name="Message" rows="10" cols="40"></textarea><br>
+  <input type="submit" value="Submit" />
 </form>
