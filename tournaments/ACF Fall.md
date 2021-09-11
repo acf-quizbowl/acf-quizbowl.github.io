@@ -104,3 +104,16 @@ High-school-only                |
 ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2021 ACF Fall, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). However, we do not plan to offer mixed mirrors that include high school and college teams.
 
 If you have any questions, email [fall@acf-quizbowl.com](fall@acf-quizbowl.com).
+
+## Dates of note
+
+Event | Date
+- | -
+ACF dates announced  | June 7, 2021
+ACF Fall announced   | August 13, 2021
+Bidding opened       | September 10, 2021
+Bidding closed       | September 17, 2021
+Host sites announced | not yet
+Registration opened  | not yet
+Registration closed  | not yet
+ACF Fall held        | October 16, 2021
