@@ -62,6 +62,16 @@ Each submission consists of 12 tossups and 12 bonuses. Before writing, please re
 
 Your assigned half-packet may ask you to write questions from specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on a 20th-century American poem, or an Economics bonus instead of “Social Science/Philosophy.” This should reduce redundancy in submissions and maximize the number of submitted questions we can use, without being too constraining. The submission form offers space to indicate your writing interests in each category, which we will do our best to accommodate.
 
+## Eligibility
+To make this tournament more accessible to new teams and players, ACF is enforcing eligibility guidelines for ACF Fall (new as of 2021). Players are not eligible to compete at 2021 ACF Fall if, _at any point_, they:
+- Scored more than 50 PPG in the prelims of a college mirror of ACF Fall, OR
+- Were the top scorer (highest overall PPG) on a team that finished in the top 15% of the field, rounded up, at ACF Fall, OR
+- Scored more than 40 PP20TUH in the prelims of HSNCT or 60 PPG in the prelims of PACE NSC, OR
+- Were the top scorer (highest overall PPG) on a team that finished in the top 30 at HSNCT or top 10 at PACE NSC, OR
+- Finished in the top 12 in IPNCT
+
+**Players are responsible for determining their own eligibility.** If you have questions, email [eligibility@acf-quizbowl.com](mailto:eligibility@acf-quizbowl.com). Failure to abide by these eligibility guidelines may result in disqualification from ACF Fall and/or future ACF tournaments.
+
 ## Hosts
 If you are interested in hosting a mirror of ACF Fall or have questions about hosting, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines).
 
