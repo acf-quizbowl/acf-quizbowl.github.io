@@ -194,6 +194,9 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 ## Financial breakdown between hosts and ACF
 #### For online tournaments with non-ACF hosts
 
+<!-- make into a table -->
+<!-- need to restore to pre-online -->
+
 **Team fee**
 - Base fee: $120
 - New to quizbowl discount: −$80
@@ -222,6 +225,7 @@ Hosts are no longer required to award trophies.
 The travel discount is applied at most once per school.
 
 The new to quizbowl discount is intended for schools that did not send a team to any regular collegiate academic tournament (exclusively Novice tournaments do not count) before September of the competition year prior to the current one, and have no one on the team(s) claiming this discount who played those tournaments for another school. Hosts do not owe ACF any money for teams receiving the new to quizbowl discount. Any money they do pay is the host’s. Normally, such teams will pay around $50. ACF asks for the cooperation of tournament directors in welcoming new teams into quizbowl by taking significantly less money from such teams.
+<!-- fix/consistentify wording with tournament pages -->
 
 Host teams (also called “house teams”) do not owe ACF anything and are not required to write packets. However, they have the option of writing a packet for the host team to save money. If the host team (or any combination of the host team and host-provided staff) writes an acceptable packet by the no-penalty deadline, then they will receive a $50 discount from the total amount that they owe to ACF.
 ACF does not expect hosts to lose money by allowing a team into their tournament. In the unlikely event that a strict reading of these guidelines implies that the hosts owe ACF more money for a particular team than that team actually is supposed to pay the hosts, then the amount the hosts owe ACF will be adjusted downwards.

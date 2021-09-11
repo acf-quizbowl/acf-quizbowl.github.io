@@ -8,6 +8,8 @@ last_updated: September 29, 2020
 ---
 [Rules in PDF format](/official-gameplay-rules.pdf)
 
+<!-- delete this page? -->
+
 # Table of Contents
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above

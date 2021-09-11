@@ -59,6 +59,8 @@ The "new to quizbowl" discount is for schools that have not sent a team to any m
 Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, bank transfer, cash, or PayPal.
 
 ## Tips and guidelines
+<!-- todo: note that in different years, editors may have different philosophies, subject to change -->
+
 - Please make sure your questions are harder than questions in ACF Fall and easier than at ACF Regionals. 2019 EFT is a good difficulty target. A majority of your tossup answers should conceivably be a tossup answer at ACF Fall.
 - Questions should be written in 10-pt Times New Roman with one-inch margins. Although you may submit longer questions, tossups will be capped at seven lines for the tournament. Each bonus part should be a maximum of three lines in length, with the majority being one or two lines long.
 - When writing bonuses, aim for the easy parts to be converted by around 90% of teams. The giveaways for tossups should also conceivably be answered by the majority of teams. While creative questions are great, don’t sacrifice playability for novelty.

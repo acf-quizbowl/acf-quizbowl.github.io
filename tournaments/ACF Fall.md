@@ -19,6 +19,8 @@ last_updated: September 4, 2021
 ## Editors
 2020 ACF Fall is head-edited by Ben Miller and edited by Drew Benner, Justin Duffy, Alex Hardwick, Arjun Nageswaran, Karthik Prasad, and Catherine Qian. Matthew Lehmann and other ACF members are offering oversight.
 
+<!-- add editors breakdown table -->
+
 ## Online format
 In response to the COVID-19 pandemic, ACF Fall will be held entirely online this year. ACF will coordinate with hosts to hold mirrors using Discord, and will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
 
@@ -34,6 +36,8 @@ The field for each site can be found [here](https://docs.google.com/spreadsheets
 - New to quizbowl discount: −$80
 - Shorthanded discount (1–2 players): −$60
 - Staffers: −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
+
+<!-- need to reinstate buzzer/travel discounts? -->
 
 To reflect the new online format of Fall, ACF has lowered the price of the tournament. We hope this maximizes the accessibility of the event considering the diminished fundraising environment that many teams face.
 
