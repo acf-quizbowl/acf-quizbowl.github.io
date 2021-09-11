@@ -123,7 +123,7 @@ Prohibited types of questions include:
 - Binary matching questions, i.e. questions of the form “Given X, name Y” that do not have prose clues.
 - 5-10-15 bonuses. These questions should instead be changed to 10-10-10 bonuses.
 
-See also [Penalties](/hosting-guidelines/#penalties-for-egregious-hosting-violations) in the Hosting Guidelines.
+See also [Penalties](/hosting-guidelines#penalties-for-egregious-hosting-violations) in the Hosting Guidelines.
 
 ## Plagiarism
 

@@ -45,7 +45,7 @@ The submission discounts and penalties – but not the schedule – may differ f
 In order to meet a deadline, you must submit your half-packet to [regionals@acf-quizbowl.com](regionals@acf-quizbowl.com) before 11:59 p.m. Pacific Time on that date. Half-packets should be submitted in .docx format. Please do not submit packets as PDFs. If a team wishes to outsource part of its packet to a player not expected to play on that team (e.g., a student who has graduated), it must first receive approval from the head editor. Teams should email in their submissions separately and should not collaborate on packets; i.e., a school’s A team and B team should not write two half-packets together. However, if anyone who works on a packet or has access to that packet ends up playing on a different team (e.g. if someone originally intended to be on your school’s B team instead plays for your school’s A team) please let the head editor and your local TD know as soon as possible.
 
 ## Fees
-Additional details can be found on [the ACF website](/hosting-guidelines/#details-about-finances). Fees and discounts for this tournament are structured as follows:
+Additional details can be found on [the ACF website](/hosting-guidelines#details-about-finances). Fees and discounts for this tournament are structured as follows:
 
 - Base fee per team: $120
 - New to quizbowl discount: −$80
@@ -78,9 +78,9 @@ This tournament is intended to be easier than ACF Regionals 2018, close in diffi
 * Submissions that flagrantly disregard the length or difficulty guidelines will be sent back to teams and will be considered unsubmitted for the purposes of packet discounts. If you would like to request an extension for your deadline, please submit your request and explanation to [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 
 ## Hosts
-<!-- If you have any questions about hosting or about the form, contact ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines/) and the updated [guidelines for hosting online tournaments](https://docs.google.com/document/u/4/d/1JLzgDS3PICaPeBKG4CwixlRgtfT2lIq72y9tx-7hvJ4/edit). -->
+<!-- If you have any questions about hosting or about the form, contact ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines) and the updated [guidelines for hosting online tournaments](https://docs.google.com/document/u/4/d/1JLzgDS3PICaPeBKG4CwixlRgtfT2lIq72y9tx-7hvJ4/edit). -->
 
-Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Regionals in the following [regions](/hosting-guidelines/#regions-according-to-acf):
+Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Regionals in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region             | Site
 -                  | -

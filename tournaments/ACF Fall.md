@@ -60,7 +60,7 @@ In another change from last year, your assigned half-packet will ask for questio
 ## Hosts
 <!-- If you are interested in hosting an online mirror of ACF Fall, fill out this form. If you have any questions about hosting or about the form, contact ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s Hosting Guidelines, which will be revised to reflect requirements for online tournaments. -->
 
-Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2020 ACF Fall in the following [regions](/hosting-guidelines/#regions-according-to-acf):
+Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2020 ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region                          | Site
 -                               | -

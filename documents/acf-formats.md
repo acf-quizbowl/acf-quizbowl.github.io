@@ -1473,7 +1473,7 @@ The procedures below should be used for overall finals.
 
 ## Undergraduate and Division II
 
-If there are at least four Undergraduate teams and/or four Division II teams, but the field is not _entirely_ comprised of those teams (see ACF's [trophy policies](/hosting-guidelines/#trophies), these procedures should also be used for those titles. 
+If there are at least four Undergraduate teams and/or four Division II teams, but the field is not _entirely_ comprised of those teams (see ACF's [trophy policies](/hosting-guidelines#trophies), these procedures should also be used for those titles. 
 
 If the field composition merits awarding Undergraduate and/or Division II titles and the tournament format involves rebracketing, and only one Undergraduate and/or Division II team is in the top bracket, they automatically win that title. If an Undergraduate and/or Division II team finishes one game ahead of another Undergraduate and/or Division II team, but the team with the higher placement is involved with finals procedures, they automatically win that title. 
  
@@ -1491,6 +1491,6 @@ If the top two teams have the same record, they play a single game to determine 
  
 If two teams are tied for second place, with records that put them one game behind a team in first place, the tied teams play a single game (a "play-in" game). The winner of the play-in game then plays a disadvantaged final against the top team, in a standard final series of up to two games.
  
-If three teams are tied for first place, they are seeded statistically by points per game by common games. This may include both carried-over preliminary games and playoff games, see the [Statistics guidelines](/stats-guide/). The second- and third-seeded teams play a play-in game, the winner of which plays a single-game final against the first-seeded team.
+If three teams are tied for first place, they are seeded statistically by points per game by common games. This may include both carried-over preliminary games and playoff games, see the [Statistics guidelines](/stats-guide). The second- and third-seeded teams play a play-in game, the winner of which plays a single-game final against the first-seeded team.
 
 If four teams are tied for first place, they are seeded statistically by points per game by common games. The first- and fourth-seeded teams and the second- and third-seeded teams play a semi-finals game. The winners of those two games play a single-game final.

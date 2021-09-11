@@ -21,7 +21,7 @@ SQBS can be used to keep game statistics, and is available for free [here](http:
 ### Multi-Phase Tournaments
 - If the tournament uses multiple preliminary pools, label them separately as divisions (File → New Tournament → Use Divisions)
 - If tournament uses multiple phases like preliminary rounds and playoff games, statistics should be posted for each phase separately, as well as a combined file for all phases. `Settings → General → Rounds Included In Reports`, then generate separate reports.
-- When breaking ties, it may be necessary to seed teams by points per game, only including games against opponents that both teams played (see ACF’s [Formats](/formats/) guidelines). After saving a safe copy of the tournament results, delete non-common games for the teams involved in the tiebreaker.
+- When breaking ties, it may be necessary to seed teams by points per game, only including games against opponents that both teams played (see ACF’s [Formats](/formats) guidelines). After saving a safe copy of the tournament results, delete non-common games for the teams involved in the tiebreaker.
     - Deleting a game cannot be undone, so exercise care!
 
 ### Miscellaneous
