@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ACF Nationals
-permalink: /nationals/
 nav_order: 4
 last_updated: August 3, 2021
 ---
@@ -9,9 +8,9 @@ last_updated: August 3, 2021
 **ACF Nationals** is the premier collegiate quizbowl national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the hardest and biggest question set of the season.
 
 ## 2021 ACF Nationals
-2021 ACF Nationals was held on August 7–8 at Northwestern University in Evanston, Illinois.
+2021 ACF Nationals was postponed until summer 2021. ACF Nationals will be held **August 7-8 at Northwestern University in Evanston, Illinois.**
 
-Matt Bollinger (alumnus of the University of Virginia) and Ryan Westbrook (alumnus of the University of Michigan and Wayne State University) are head editors.
+Matt Bollinger (alumnus of the University of Virginia) and Ryan Westbrook (alumnus of the University of Michigan and Wayne State University) will be head editors.
 
 ### COVID-19 precautions
 Due to the COVID-19 pandemic, all players and spectators will be required to wear masks at ACF Nationals, regardless of vaccination status. Participants are strongly recommended to get vaccinated before attending.

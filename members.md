@@ -3,12 +3,13 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: August 25, 2021
+last_updated: September 3, 2021
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
 
 # Officers
+ACF’s officers also serve as ACF’s board of directors.
 
 <table class="member-list">
 <thead>
@@ -20,37 +21,37 @@ For information on how to become an ACF member, see the [About page](/about#how-
 </thead>
 <tbody>
 <tr>
-<td>Alex Damisch</td>
+<td>Ryan Rosenberg</td>
 <td>President</td>
 <td><a href="mailto:president@acf-quizbowl.com">president@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Caroline Mao</td>
+<td>Olivia Murton</td>
 <td>Communications</td>
 <td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Matthew Bollinger</td>
+<td>Taylor Harvey</td>
 <td>Editor-in-Chief</td>
 <td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Michael Kearney</td>
+<td>Theresa Nyowheoma</td>
 <td>Site Coordinator</td>
 <td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Cody Voight</td>
+<td>Michael Kearney</td>
 <td>ACF Nationals Tournament Director</td>
 <td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>JinAh Kim</td>
+<td>Ganon Evans</td>
 <td>Treasurer</td>
 <td><a href="mailto:treasurer@acf-quizbowl.com">treasurer@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Ryan Rosenberg</td>
+<td>Ophir Lifshitz</td>
 <td>Webmaster</td>
 <td><a href="mailto:webmaster@acf-quizbowl.com">webmaster@acf-quizbowl.com</a></td>
 </tr>
@@ -114,7 +115,7 @@ For information on how to become an ACF member, see the [About page](/about#how-
 
 # Full members
 
-Full members are ACF's editors, officers, and tournament directors. They vote in all ACF elections and on all constitutional amendments.
+Full members can vote in all ACF elections and on all constitutional amendments.
 
 <table class="table-ruled member-list">
 <thead>
@@ -662,7 +663,7 @@ Full members are ACF's editors, officers, and tournament directors. They vote in
 
 # Provisional members
 
-Provisional members are community members who have ably assisted ACF in the past and may be invited to apply for full membership if they so do again in the future.
+Provisional members are community members who have ably assisted ACF in the past and, if they do so again in the future, may be invited to apply for full membership.
 
 <table class="table-ruled member-list">
 <thead>

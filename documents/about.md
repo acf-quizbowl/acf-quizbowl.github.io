@@ -25,7 +25,7 @@ You and your teammates must be:
 - all attending the same school
 - all taking at least one class for credit during the school year.
 
-If you are not sure whether you are eligible, refer to the [official ACF eligibility rules](/eligibility-rules/) or write to [ACF’s eligibility committee](mailto:eligibility@acf-quizbowl.com).
+If you are not sure whether you are eligible, refer to the [official ACF eligibility rules](/eligibility-rules) or write to [ACF’s eligibility committee](mailto:eligibility@acf-quizbowl.com).
 
 “Mixed” teams containing players from more than one school are not allowed to play ACF tournaments. ACF may make exceptions in very limited circumstances. ACF reserves the right to disallow any team from playing at its tournaments.
 
@@ -39,7 +39,7 @@ To work with ACF, apply to edit an ACF tournament (applications usually open in 
 
 ## Donating to ACF
 
-Please see [this page](/donate/) for information on donating to ACF.
+Please see [this page](/donate) for information on donating to ACF.
 
 ## About this site
 
