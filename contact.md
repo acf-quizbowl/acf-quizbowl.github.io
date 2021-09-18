@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 last_updated: March 10, 2021
 ---
-This page lists the best methods for contacting ACF; if you know which officer you would like to contact, you may email the officer directly. Otherwise, if you fill out the contact form below you will be directed to an officer who can help
+This page lists the best methods for contacting ACF; if you know which officer you would like to contact, you may email the officer directly. Otherwise, if you fill out the contact form below you will be directed to an officer who can help.
 
 <!-- delete this whole page? -->
 
@@ -60,9 +60,9 @@ This page lists the best methods for contacting ACF; if you know which officer y
 <form action="https://getsimpleform.com/messages?form_api_token=e4d71af94ba527340f71acff093ba458" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <!-- all your input fields here.... -->
-  <label for="Name">Name</label>
+  <label for="Name">Your name</label>
   <input type="text" name="Name" /><br>
-  <label for="Email">Email</label>
+  <label for="Email">Your email address</label>
   <input type="text" name="Email" /><br>
   <label for="Message">Message</label>
   <textarea name="Message" rows="10" cols="40"></textarea><br>

@@ -22,7 +22,7 @@ Schools with multiple such teams must submit separate packets, and the teams can
 
 ### ACF Fall
 
-As of 2020, ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.
+As of 2020, ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.
 
 ## What counts as a “mainstream, collegiate, academic quizbowl tournament”?
 

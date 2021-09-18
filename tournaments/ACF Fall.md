@@ -24,11 +24,14 @@ last_updated: September 11, 2021
 ## Online format
 We hope that ACF Fall can be held in person. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Fall will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.
 
+## Rules
+This tournament will follow [ACF’s official gameplay rules](/gameplay-rules). Rules specifically pertaining to online tournaments are in blue.
+
 ## Registration
 The registration form for ACF Fall will be available after hosts have been announced.
 
 ## Field
-The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1hrgokKUJukxb6UmNnrAMwjnScDbiTsOTKAKB40Gunvc/edit?usp=sharing).
+The field (list of registered teams) for each site can be found [here](https://docs.google.com/spreadsheets/d/1hrgokKUJukxb6UmNnrAMwjnScDbiTsOTKAKB40Gunvc/edit?usp=sharing).
 
 ## Fees
 
