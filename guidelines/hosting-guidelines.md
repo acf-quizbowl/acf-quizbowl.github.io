@@ -307,7 +307,7 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 <small><sup style="font-size:65%;">3</sup> Staffers must have functional laptop and internet connection.
 All staffers, including moderators, must register with ACF in advance.</small>
 
-Hosts must reimburse staffers who staff for all non-finals, non-tiebreaker rounds (including logistics staff) at a minimum of $25 (either paid directly to staff or as part of a logistics discount to a competing team; host teams are permitted to keep pay for in-house staffers as part of their overall hosting revenue).
+Hosts must pay a minimum of $25 to staffers (including logistics staffers) who staff all essential rounds (not counting finals or tiebreakers). This may either be paid directly to staffers, or may count for a competing team’s staffer discount (if the staffer is affiliated with that team). Hosts are not required to pay in-house staffers (i.e. staffers affiliated with the host), as it is generally expected of members of clubs to staff the tournaments they host in order to raise money to attend events.
 
 The new to quizbowl discount is intended for schools that did not send a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) before September of the competition year prior to the current one, and which have no players who competed in non-novice collegiate tournaments during that same period. Hosts do not owe ACF any money for teams receiving the new to quizbowl discount. Any money they do pay is the host’s. Normally, such teams will pay around $50. ACF asks for the cooperation of tournament directors in welcoming new teams into quizbowl by taking significantly less money from such teams.
 
