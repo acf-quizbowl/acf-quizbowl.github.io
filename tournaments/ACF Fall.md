@@ -6,6 +6,12 @@ nav_order: 2
 last_updated: September 18, 2021
 ---
 
+<!--
+do HS mirrors have the same stats-based eligibility rules?
+do (online?) HS mirrors have to award trophies or book prizes?
+are HS mirror bids from high schoolers accepted?
+-->
+
 **ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
 
 # Table of Contents

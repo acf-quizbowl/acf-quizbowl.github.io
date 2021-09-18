@@ -4,6 +4,7 @@ title: Hosting Guidelines
 permalink: /hosting-guidelines/
 last_updated: September 18, 2021
 ---
+<!-- need to rewrite so "host team" is not ambiguous with club vs. competing house team -->
 
 # Table of Contents
 {: .no_toc}

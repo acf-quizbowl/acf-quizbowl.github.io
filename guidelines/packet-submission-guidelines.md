@@ -20,6 +20,8 @@ Any team with at least two people on it who played a mainstream, collegiate, aca
 
 Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.
 
+<!-- need to add expectation do not discuss submission with anyone until after the tournament is clear/published; or without permission from ACF -->
+
 ### For ACF Fall
 
 As of 2020, ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.
@@ -31,6 +33,7 @@ All ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, typical col
 Playing tournaments either as a college student or as a high school student counts for the packet submission requirement.
 
 Novice collegiate events with strict eligiblity requirements do not count as mainstream collegiate academic tournaments in determining packet submission requirement.
+<!-- as of 2021, needs clarification on whether ACF Fall counts, since it now has eligibility requirements -->
 
 Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” (IS) questions do not count.
 
