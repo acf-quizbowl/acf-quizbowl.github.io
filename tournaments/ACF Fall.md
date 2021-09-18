@@ -42,9 +42,9 @@ Team entry fee or discount |
 Base fee per team | $120
 New to quizbowl discount | −$80
 Shorthanded discount (1–2 players) | −$60
+Travel discount | −$10 per 200 miles traveled one-way
+Buzzers | −$10 per functional buzzer system
 Staffers | −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
-
-<!-- need to reinstate buzzer/travel discounts? -->
 
 The "new to quizbowl" discount is for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September 2020, and which have no players who competed in non-novice collegiate tournaments during that same period.
 
