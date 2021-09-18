@@ -195,35 +195,114 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 
 # Details about finances
 ## Financial breakdown between hosts and ACF
-#### For online tournaments with non-ACF hosts
 
-<!-- make into a table -->
-<!-- need to restore to pre-online -->
+### For in-person tournaments
 
-**Team fee**
-- Base fee: $120
-- New to quizbowl discount: −$80
-- Shorthanded discount (1–2 players): −$60
-- Packet submission discounts/penalties: +/− amount as applicable
-- Logistics discounts: −$25 per staffer (must have working laptop and internet connection)
+<table>
+<thead>
+<tr>
+<th>Fee type</th>
+<th width="200">Team fee</th>
+<th width="200">Host share</th>
+<th width="200">ACF share</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Base fee</td>
+<td>$150</td>
+<td>$80</td>
+<td>$70</td>
+</tr>
+<tr>
+<td>New to quizbowl discount</td>
+<td>−$100</td>
+<td>−$30</td>
+<td>−$70</td>
+</tr>
+<tr>
+<td>Shorthanded discount
+(1–2 players)</td>
+<td>−$75</td>
+<td>−$45</td>
+<td>−$30</td>
+</tr>
+<tr>
+<td>Packet submission discounts/penalties</td>
+<td>± amount as applicable</td>
+<td>n/a</td>
+<td>± amount as applicable</td>
+</tr>
+<tr>
+<td>Travel discount</td>
+<td>−$10 per 200 miles traveled one-way</td>
+<td>−$10 per 200 miles traveled one-way</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Buzzers</td>
+<td>−$10 per buzzer</td>
+<td>−$10 per buzzer</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Staffers</td>
+<td>−$15 per staffer</td>
+<td>−$15 per staffer</td>
+<td>n/a</td>
+</tr>
+</tbody>
+</table>
 
-**Host share**
-- Base fee: $60
-- New to quizbowl discount: −$20
-- Shorthanded discount (1–2 players): −$40
-- Packet submission discounts/penalties: n/a
-- Logistics discounts: −$25 per staffer (must have working laptop and internet connection)
+### For online tournaments
+
+<table>
+<thead>
+<tr>
+<th>Fee type</th>
+<th width="200">Team fee</th>
+<th width="200">Host share</th>
+<th width="200">ACF share</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Base fee</td>
+<td>$120</td>
+<td>$60</td>
+<td>$60</td>
+</tr>
+<tr>
+<td>New to quizbowl discount</td>
+<td>−$80</td>
+<td>−$20</td>
+<td>−$60</td>
+</tr>
+<tr>
+<td>Shorthanded discount
+(1–2 players)</td>
+<td>−$60</td>
+<td>−$40</td>
+<td>−$20</td>
+</tr>
+<tr>
+<td>Packet submission discounts/penalties</td>
+<td>± amount as applicable</td>
+<td>n/a</td>
+<td>± amount as applicable</td>
+</tr>
+<tr>
+<td>Staffers</td>
+<td>−$25 per staffer</td>
+<td>−$25 per staffer</td>
+<td>n/a</td>
+</tr>
+</tbody>
+</table>
 
 All staffers, including moderators, must first register to staff through ACF. Once approved, hosts must reimburse staffers who staff for all non-finals, non-tiebreaker rounds (including logistics staff) at a minimum of $25 (either paid directly to staff or as part of a logistics discount to a competing team; host teams are permitted to keep pay for in-house staffers as part of their overall hosting revenue).
 
 Hosts are no longer required to award trophies.
-
-**ACF share**
-- Base fee: $60
-- New to quizbowl discount: −$60
-- Shorthanded discount (1–2 players): −$20
-- Packet submission discounts/penalties: +/− amount as applicable
-- Logistics discounts: n/a
 
 The travel discount is applied at most once per school.
 
