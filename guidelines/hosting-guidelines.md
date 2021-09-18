@@ -178,6 +178,8 @@ The top two Undergraduate and Division II teams will receive trophies if the fie
 
 Failing to properly award titles and trophies according to ACF's [finals procedures](/formats#finals-procedures), including Undergraduate and/or Division II, will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
 
+Hosts of online tournaments are not required to award trophies due to the costly expenses of shipping.
+
 ### Book prizes
 At minimum, book prizes should be awarded to the members of the top two overall teams and the top four individual scorers. Inexpensive used books are perfectly acceptable. For tournaments with more than ten teams, it is preferred that at least the top eight individual scorers receive book prizes. If the field composition merits awarding Undergraduate and/or Division II trophies (see [above](#trophies)), the top four Undergraduate and/or Division II scorers should also receive book prizes.
 
@@ -234,19 +236,19 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 <td>± amount as applicable</td>
 </tr>
 <tr>
-<td>Travel discount</td>
+<td>Travel discount<sup style="font-size:65%;">1</sup></td>
 <td>−$10 per 200 miles traveled one-way</td>
 <td>−$10 per 200 miles traveled one-way</td>
 <td>n/a</td>
 </tr>
 <tr>
-<td>Buzzers</td>
+<td>Buzzers<sup style="font-size:65%;">2</sup></td>
 <td>−$10 per buzzer</td>
 <td>−$10 per buzzer</td>
 <td>n/a</td>
 </tr>
 <tr>
-<td>Staffers</td>
+<td>Staffers<sup style="font-size:65%;">3</sup></td>
 <td>−$15 per staffer</td>
 <td>−$15 per staffer</td>
 <td>n/a</td>
@@ -292,7 +294,7 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 <td>± amount as applicable</td>
 </tr>
 <tr>
-<td>Staffers</td>
+<td>Staffers<sup style="font-size:65%;">3</sup></td>
 <td>−$25 per staffer</td>
 <td>−$25 per staffer</td>
 <td>n/a</td>
@@ -300,11 +302,12 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 </tbody>
 </table>
 
-All staffers, including moderators, must first register to staff through ACF. Once approved, hosts must reimburse staffers who staff for all non-finals, non-tiebreaker rounds (including logistics staff) at a minimum of $25 (either paid directly to staff or as part of a logistics discount to a competing team; host teams are permitted to keep pay for in-house staffers as part of their overall hosting revenue).
+<small><sup style="font-size:65%;">1</sup> Travel discount applies to at most one team per school.</small>
+<small><sup style="font-size:65%;">2</sup> Buzzers must be functional.</small>
+<small><sup style="font-size:65%;">3</sup> Staffers must have functional laptop and internet connection.
+All staffers, including moderators, must register with ACF in advance.</small>
 
-Hosts are no longer required to award trophies.
-
-The travel discount is applied at most once per school.
+Hosts must reimburse staffers who staff for all non-finals, non-tiebreaker rounds (including logistics staff) at a minimum of $25 (either paid directly to staff or as part of a logistics discount to a competing team; host teams are permitted to keep pay for in-house staffers as part of their overall hosting revenue).
 
 The new to quizbowl discount is intended for schools that did not send a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) before September of the competition year prior to the current one, and which have no players who competed in non-novice collegiate tournaments during that same period. Hosts do not owe ACF any money for teams receiving the new to quizbowl discount. Any money they do pay is the host’s. Normally, such teams will pay around $50. ACF asks for the cooperation of tournament directors in welcoming new teams into quizbowl by taking significantly less money from such teams.
 
