@@ -197,6 +197,8 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 
 # Details about finances
 ## Financial breakdown between hosts and ACF
+This section is subject to change.
+In-person mirrors of 2021 ACF Fall will use the Base fee, New to quizbowl discount, and Shorthanded discount listed for online tournaments instead.
 
 ### For in-person tournaments
 
