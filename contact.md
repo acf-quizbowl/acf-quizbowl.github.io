@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-last_updated: March 10, 2021
+last_updated: September 18, 2021
 ---
 This page lists the best methods for contacting ACF; if you know which officer you would like to contact, you may email the officer directly. Otherwise, if you fill out the contact form below you will be directed to an officer who can help.
 
@@ -19,37 +19,37 @@ This page lists the best methods for contacting ACF; if you know which officer y
 </thead>
 <tbody>
 <tr>
-<td>Alex Damisch</td>
+<td>Ryan Rosenberg</td>
 <td>President</td>
 <td><a href="mailto:president@acf-quizbowl.com">president@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Caroline Mao</td>
+<td>Olivia Murton</td>
 <td>Communications</td>
 <td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Matthew Bollinger</td>
+<td>Taylor Harvey</td>
 <td>Editor-in-Chief</td>
 <td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Margaret Tebbe</td>
+<td>Theresa Nyowheoma</td>
 <td>Site Coordinator</td>
 <td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Cody Voight</td>
+<td>Michael Kearney</td>
 <td>ACF Nationals Tournament Director</td>
 <td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>JinAh Kim</td>
+<td>Ganon Evans</td>
 <td>Treasurer</td>
 <td><a href="mailto:treasurer@acf-quizbowl.com">treasurer@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Ryan Rosenberg</td>
+<td>Ophir Lifshitz</td>
 <td>Webmaster</td>
 <td><a href="mailto:webmaster@acf-quizbowl.com">webmaster@acf-quizbowl.com</a></td>
 </tr>
