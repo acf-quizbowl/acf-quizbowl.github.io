@@ -279,9 +279,9 @@ a[href="#top"] {
   color: $blue-light;
 }
 
-a[href^="mailto:"] {
-	background: url('data:image/svg+xml,%3Csvg width="20" height="14" viewBox="0 0 10 7" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="%23000" stroke-linejoin="round" stroke-width=".6"%3E%3Cpath d="M1 1H9V6H1V1L5 4.20L9 1M9 6"/%3E%3C/svg%3E') no-repeat right center;
-	padding-right: 22px;
+p a[href^="mailto:"] {
+	background: url('data:image/svg+xml,%3Csvg width="20" height="14" viewBox="0 0 10 7" xmlns="http://www.w3.org/2000/svg" stroke="%23033b80" stroke-linejoin="round" stroke-width=".69"%3E%3Cpath d="M1 1H9V6H1Z" fill="%237eb7fdab"/%3E%3Cpath d="M1 1L5 4.20L9 1Z" fill="%23427ac069"/%3E%3C/svg%3E') no-repeat left center;
+	padding-left: 24px;
 }
 
 .a-values {
