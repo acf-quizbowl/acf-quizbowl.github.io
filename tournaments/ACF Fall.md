@@ -3,7 +3,7 @@ layout: page
 title: ACF Fall
 permalink: /fall/
 nav_order: 2
-last_updated: September 18, 2021
+last_updated: September 19, 2021
 ---
 
 <!--
@@ -93,7 +93,7 @@ To make this tournament more accessible to new teams and players, ACF is enforci
 To staff ACF Fall, please fill out [the staffer registration form](https://forms.gle/EFqZKtLk89iQc4C67).
 
 ## Hosting
-If you are interested in hosting a mirror of ACF Fall or have questions about hosting, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines).
+If you are interested in hosting a mirror of ACF Fall, fill out [this form](https://forms.gle/ArXGL6gSVFCbeh1v7). If you have any questions about hosting or about the form, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
 
 ## Sites
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
@@ -102,16 +102,16 @@ Region                          | Site
 -                               | -
 Northeast                       | [MIT](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25359) (in-person)
 Upstate New York                | [RIT](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25366) (in-person)
-Upper Mid-Atlantic              | UMD (in-person)
+Upper Mid-Atlantic              | [UMD](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25368) (in-person)
 Lower Mid-Atlantic              | [Duke](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25362) (in-person)
-Southeast                       | Georgia Tech (in-person)
+Southeast                       | [Georgia Tech](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25374) (in-person)
 Florida                         | 
 Great Lakes                     | [Case Western](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25363) (in-person)
 Midwest                         | [UIUC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25360) (in-person)
 North                           | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25358) (in-person)
 South Central                   | 
 Mountain West                   | 
-California and Northwest        | Berkeley (online)
+California and Northwest        | [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25369) (online)
 Eastern Canada                  | McGill (online)
 United Kingdom                  | 
 High-school-only                | 

@@ -3,7 +3,7 @@ layout: page
 title: ACF Winter
 permalink: /winter/
 nav_order: 2.5
-last_updated: September 11, 2021
+last_updated: September 19, 2021
 ---
 
 **ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
@@ -93,7 +93,7 @@ More information can be found in [ACF’s packet submission guidelines](/packet-
 To staff ACF Winter, please fill out [the staffer registration form](https://forms.gle/XaM1RbCFmYiGbqvD8). -->
 
 ## Hosting
-If you are interested in hosting a mirror of ACF Winter or have questions about hosting, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines).
+If you are interested in hosting a mirror of ACF Winter, fill out [this form](https://forms.gle/6kDFdeFpYuECB9Me9). If you have any questions about hosting or about the form, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
 
 ## Sites
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Winter in the following [regions](/hosting-guidelines#regions-according-to-acf):
@@ -127,8 +127,8 @@ Event | Date
 - | -
 ACF dates announced  | June 7, 2021
 ACF Winter announced | August 13, 2021
-Bidding opened       | not yet
-Bidding closed       | not yet
+Bidding opened       | September 19, 2021
+Bidding closed       | September 30, 2021
 Host sites announced | not yet
 Registration opened  | not yet
 Registration closed  | not yet
