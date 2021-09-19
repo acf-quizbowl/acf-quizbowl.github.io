@@ -65,14 +65,14 @@ ACF Winter uses the [standard ACF distribution](/distribution), which is the sam
 
 ## Fees
 
-Team entry fee or discount | 
-- | -
-Base fee per team | $150
-New to quizbowl discount | −$100
+Team entry fee or discount         | 
+-                                  | -
+Base fee per team                  | $150
+New to quizbowl discount           | −$100
 Shorthanded discount (1–2 players) | −$75
-Travel discount | −$10 per 200 miles traveled one-way
-Buzzers | −$10 per functional buzzer system
-Staffers | −$15 per staffer with functional laptop. Staffers must register with ACF in advance.
+Travel discount                    | −$10 per 200 miles traveled one-way
+Buzzers                            | −$10 per functional buzzer system
+Staffers                           | −$15 per staffer with functional laptop. Staffers must register with ACF in advance.
 
 The "new to quizbowl" discount is for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September 2020, and which have no players who competed in non-novice collegiate tournaments during that same period.
 
@@ -92,9 +92,10 @@ More information can be found in [ACF’s packet submission guidelines](/packet-
 <!-- ## Staffing
 To staff ACF Winter, please fill out [the staffer registration form](https://forms.gle/XaM1RbCFmYiGbqvD8). -->
 
-## Hosts
+## Hosting
 If you are interested in hosting a mirror of ACF Winter or have questions about hosting, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines).
 
+## Sites
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Winter in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region                    | Site

@@ -78,9 +78,10 @@ This tournament is intended to be easier than ACF Regionals 2018, close in diffi
 * Tossups this year will be hard-capped at seven lines, 10-point Times New Roman with one-inch margins. Please do not submit tossups that run into the ninth line or are shorter than five full lines. For bonuses, please do not submit any bonus parts that are over three lines, and aim for 1–2 lines per part.
 * Submissions that flagrantly disregard the length or difficulty guidelines will be sent back to teams and will be considered unsubmitted for the purposes of packet discounts. If you would like to request an extension for your deadline, please submit your request and explanation to [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 
-## Hosts
+## Hosting
 <!-- If you have any questions about hosting or about the form, contact ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines) and the updated [guidelines for hosting online tournaments](https://docs.google.com/document/u/4/d/1JLzgDS3PICaPeBKG4CwixlRgtfT2lIq72y9tx-7hvJ4/edit). -->
 
+## Sites
 Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Regionals in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region             | Site

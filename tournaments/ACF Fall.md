@@ -10,6 +10,7 @@ last_updated: September 18, 2021
 do HS mirrors have the same stats-based eligibility rules?
 do (online?) HS mirrors have to award trophies or book prizes?
 are HS mirror bids from high schoolers accepted?
+number the sections.
 -->
 
 **ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
@@ -43,15 +44,15 @@ The field (list of registered teams) for each site can be found [here](https://d
 
 ## Fees
 
-Team entry fee or discount | 
-- | -
-Base fee per team | $120
-New to quizbowl discount | −$80
+Team entry fee or discount         | 
+-                                  | -
+Base fee per team                  | $120
+New to quizbowl discount           | −$80
 Shorthanded discount (1–2 players) | −$60
-Travel discount | −$10 per 200 miles traveled one-way
-Buzzers | −$10 per functional buzzer system
-Staffers (in-person) | −$15 per staffer with functional laptop. Staffers must register with ACF in advance.
-Staffers (online) | −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
+Travel discount                    | −$10 per 200 miles traveled one-way
+Buzzers                            | −$10 per functional buzzer system
+Staffers (in-person)               | −$15 per staffer with functional laptop. Staffers must register with ACF in advance.
+Staffers (online)                  | −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
 
 The "new to quizbowl" discount is for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September 2020, and which have no players who competed in non-novice collegiate tournaments during that same period.
 
@@ -91,9 +92,10 @@ To make this tournament more accessible to new teams and players, ACF is enforci
 ## Staffing
 To staff ACF Fall, please fill out [the staffer registration form](https://forms.gle/EFqZKtLk89iQc4C67).
 
-## Hosts
+## Hosting
 If you are interested in hosting a mirror of ACF Fall or have questions about hosting, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines).
 
+## Sites
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region                          | Site
