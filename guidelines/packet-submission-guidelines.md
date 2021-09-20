@@ -12,29 +12,32 @@ last_updated: February 24, 2021
 
 ## Who needs to submit packets?
 
-### ACF Winter and ACF Regionals
+### For ACF Winter and ACF Regionals
 
 Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament prior to September 1 of the previous academic year is required to submit a packet.
 
-<small>For example, any team with two players who played prior to September 1, 2018, must submit a packet in order to compete in ACF tournaments in the 2019–2020 academic year.</small>
+<small>For example, any team with two players who played prior to September 1, 2020, must submit a packet in order to compete in ACF tournaments in the 2021–2022 academic year.</small>
 
 Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.
 
-### ACF Fall
+<!-- need to add expectation do not discuss submission with anyone until after the tournament is clear/published; or without permission from ACF -->
 
-As of 2020, ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.
+### For ACF Fall
 
-## What counts as a “mainstream, collegiate, academic quizbowl tournament”?
+As of 2020, ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.
 
-All ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical academic invitationals and summer opens count as mainstream collegiate academic tournaments.
+### What counts as a “mainstream, collegiate, academic quizbowl tournament”?
+
+All ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, typical collegiate academic invitational tournaments, and typical open tournaments count as mainstream collegiate academic quizbowl tournaments.
 
 Playing tournaments either as a college student or as a high school student counts for the packet submission requirement.
 
 Novice collegiate events with strict eligiblity requirements do not count as mainstream collegiate academic tournaments in determining packet submission requirement.
+<!-- as of 2021, needs clarification on whether ACF Fall counts, since it now has eligibility requirements -->
 
 Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” (IS) questions do not count.
 
-This test is applied to each individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, then please contact [the ACF eligibility committee](mailto:eligibility@acf-quizbowl.com).
+This test is applied to each individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, email [ACF’s eligibility committee](mailto:eligibility@acf-quizbowl.com).
 
 ## Sample packet
 

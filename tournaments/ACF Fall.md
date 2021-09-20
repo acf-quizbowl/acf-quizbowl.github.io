@@ -3,8 +3,15 @@ layout: page
 title: ACF Fall
 permalink: /fall/
 nav_order: 2
-last_updated: September 11, 2021
+last_updated: September 19, 2021
 ---
+
+<!--
+do HS mirrors have the same stats-based eligibility rules?
+do (online?) HS mirrors have to award trophies or book prizes?
+are HS mirror bids from high schoolers accepted?
+number the sections.
+-->
 
 **ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
 
@@ -24,22 +31,28 @@ last_updated: September 11, 2021
 ## Online format
 We hope that ACF Fall can be held in person. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Fall will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.
 
+## Rules
+This tournament will follow [ACF’s official gameplay rules](/gameplay-rules). Rules specifically pertaining to online tournaments are in blue.
+
 ## Registration
-The registration form for ACF Fall will be available after hosts have been announced.
+To register for 2021 ACF Fall, fill out the central [2021 ACF Fall registration form](https://forms.gle/kG9b7Rj4zo49zKtf8) with all relevant information.
+
+If possible, teams should register for the site that is geographically closest to them and/or is in the region they would normally attend.
 
 ## Field
-The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1hrgokKUJukxb6UmNnrAMwjnScDbiTsOTKAKB40Gunvc/edit?usp=sharing).
+The field (list of registered teams) for each site can be found [here](https://docs.google.com/spreadsheets/d/1P4tdvLOAb_yQhPQqkl6PMsTyxn-Y1L2Ae25EzY6H3EU/edit?usp=sharing).
 
 ## Fees
 
-Team entry fee or discount | 
-- | -
-Base fee per team | $120
-New to quizbowl discount | −$80
+Team entry fee or discount         | 
+-                                  | -
+Base fee per team                  | $120
+New to quizbowl discount           | −$80
 Shorthanded discount (1–2 players) | −$60
-Staffers | −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
-
-<!-- need to reinstate buzzer/travel discounts? -->
+Travel discount                    | −$10 per 200 miles traveled one-way
+Buzzers                            | −$10 per functional buzzer system
+Staffers (in-person)               | −$15 per staffer with functional laptop. Staffers must register with ACF in advance.
+Staffers (online)                  | −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
 
 The "new to quizbowl" discount is for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September 2020, and which have no players who competed in non-novice collegiate tournaments during that same period.
 
@@ -76,27 +89,30 @@ To make this tournament more accessible to new teams and players, ACF is enforci
 
 **Players are responsible for determining their own eligibility.** If you have questions, email [eligibility@acf-quizbowl.com](mailto:eligibility@acf-quizbowl.com). Failure to abide by these eligibility guidelines may result in disqualification from ACF Fall and/or future ACF tournaments.
 
-## Hosts
-If you are interested in hosting a mirror of ACF Fall or have questions about hosting, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines).
+## Staffing
+To staff ACF Fall, please fill out [the staffer registration form](https://forms.gle/EFqZKtLk89iQc4C67).
 
+## Hosting
+If you are interested in hosting a mirror of ACF Fall, fill out [this form](https://forms.gle/ArXGL6gSVFCbeh1v7). If you have any questions about hosting or about the form, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
+
+## Sites
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
-Region                          | Site
--                               | -
-Northeast                       | 
-Upper Mid-Atlantic              | 
-Lower Mid-Atlantic              | 
-Southeast                       | 
+Region                          | Site | Type
+-                               | -    | -
+Northeast                       | [MIT](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25359) | in person
+Upstate New York                | [RIT](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25366) | in person
+Upper Mid-Atlantic              | [UMD](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25368) | in person
+Lower Mid-Atlantic              | [Duke](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25362) | in person
+Southeast                       | [Georgia Tech](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25374) | in person
 Florida                         | 
-Great Lakes                     | 
-Midwest                         | 
-North                           | 
-South Central                   | 
+Great Lakes                     | [Case Western](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25363) | in person
+Midwest                         | [UIUC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25360) | in person
+North                           | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25358) | in person
+South Central                   | [UT-Austin](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25376)
 Mountain West                   | 
-Northern California             | 
-Southern California             | 
-Northwest                       | 
-Eastern Canada                  | 
+California and Northwest        | [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25369) | online
+Eastern Canada                  | McGill | online
 United Kingdom                  | 
 High-school-only                | 
 
@@ -113,7 +129,7 @@ ACF dates announced  | June 7, 2021
 ACF Fall announced   | August 13, 2021
 Bidding opened       | September 10, 2021
 Bidding closed       | September 17, 2021
-Host sites announced | not yet
-Registration opened  | not yet
-Registration closed  | not yet
+Host sites announced | September 17, 2021
+Registration opened  | September 17, 2021
+Registration closed  | October 11, 2021
 ACF Fall held        | October 16, 2021
