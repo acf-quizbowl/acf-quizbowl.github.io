@@ -45,7 +45,7 @@ Here is the submission schedule:
 Submission deadline | Packet discount
 - | -
 September 5, 2021  | −$50
-September 19, 2021 | −$25
+September 24, 2021 | −$25
 October 3, 2021    | −$0 (no penalty)
 October 17, 2021   | +$25
 October 24, 2021   | +$50

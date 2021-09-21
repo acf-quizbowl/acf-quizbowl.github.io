@@ -112,9 +112,9 @@ North                           | [Minnesota](https://hsquizbowl.org/forums/view
 South Central                   | [UT-Austin](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25376)
 Mountain West                   | 
 California and Northwest        | [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25369) | online
-Eastern Canada                  | McGill | online
+Eastern Canada                  | [McGill](https://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=25380) | online
 United Kingdom                  | 
-High-school-only                | 
+High-school-only                | [California and Georgia](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=25378)
 
 ## High school teams and high-school-only mirrors
 ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2021 ACF Fall, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). However, we do not plan to offer mixed mirrors that include high school and college teams.
