@@ -3,39 +3,61 @@ layout: page
 title: ACF Nationals
 permalink: /nationals/
 nav_order: 4
-last_updated: August 3, 2021
+last_updated: September 22, 2021
 ---
 
 **ACF Nationals** is the premier collegiate quizbowl national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the hardest and biggest question set of the season.
 
-## 2021 ACF Nationals
-2021 ACF Nationals was held on August 7–8 at Northwestern University in Evanston, Illinois.
+## 2022 ACF Nationals
+[2022 ACF Nationals](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25391) will be held on April 9–10, 2022.
 
-Matt Bollinger (alumnus of the University of Virginia) and Ryan Westbrook (alumnus of the University of Michigan and Wayne State University) are head editors.
+2022 ACF Nationals is head edited by John Lawrence. Will Alston, Stephen Eltinge, Stephen Liu, Eric Mukherjee, and Adam Silverman are editors.
 
-### COVID-19 precautions
-Due to the COVID-19 pandemic, all players and spectators will be required to wear masks at ACF Nationals, regardless of vaccination status. Participants are strongly recommended to get vaccinated before attending.
+Michael Kearney will be Tournament Director.
 
-Staff will be required to wear masks while not actively moderating; in order to be allowed to moderate without a mask, staff must show a negative COVID-19 test taken in the prior 5 days.
-
-### Qualification changes for 2021
-In 2021, ACF Regionals will not serve as the qualifier for ACF Nationals. The [new qualification method](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=24836) was announced on January 29, 2021, and took place on the weekend of April 3, 2021.
-
-## 2020 ACF Nationals
-[2020 ACF Nationals](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=23261) was cancelled due to COVID-19.
-
-Teams should not spoil any packets that were submitted for 2020 ACF Nationals, as they may be able to resubmit for 2021 ACF Nationals.
+More details about packet submission, fees, field size, and staffing will be available in the coming months.
 
 ## Distribution
 The submitted packet and final packet distributions for ACF Nationals are found [here](/distribution).
 
 ## Qualifying for ACF Nationals
-[ACF Regionals](/regionals) ordinarily serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification).
+[ACF Regionals](/regionals) serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification).
 
 If an ACF Regionals host fails to play off or award Undergraduate and Division II titles, or an event precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
 
-## Staffing
-If you would like to staff ACF Nationals, email both [td@acf-quizbowl.com](mailto:td@acf-quizbowl.com) and [staffing@acf-quizbowl.com](mailto:staffing@acf-quizbowl.com) with the subject line "ACF Nationals staffing."
+## Eligibility
+
+For information on who is eligible to play ACF tournaments, see [ACF’s official Eligibility Rules](/eligibility-rules).
+
+<!-- ## Staffing
+If you would like to staff ACF Nationals, email both [td@acf-quizbowl.com](mailto:td@acf-quizbowl.com) and [staffing@acf-quizbowl.com](mailto:staffing@acf-quizbowl.com) with the subject line "ACF Nationals staffing." -->
+
+## Hosting
+ACF is currently soliciting bids to host 2022 ACF Nationals. To bid, please fill out [this form](https://forms.gle/UrUe8m5UonW2t7d86) by Sunday, October 24, 2021, at 11:59 p.m. Pacific Time.
+The hosting guidelines and benefits are outlined [here](/hosting-guidelines#details-about-bidding-for-acf-nationals).
+
+ACF seeks to receive as many bids as possible from different institutions. Please provide as much of the requested information as possible, paying particular care to the sections about COVID-19 restrictions.
+
+For any questions, please contact both the Nationals Tournament Director at [td@acf-quizbowl.com](mailto:td@acf-quizbowl.com) and the Mirror Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com).
+
+ACF plans to announce the location of the tournament by November 1, 2021.
 
 ## Past tournaments
-Sample questions from previous ACF Nationals are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Nationals&col=1&season=&archived=y).
+Sample questions from previous iterations of ACF Nationals are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Nationals&col=1&season=&archived=y).
+
+Announcements and information about previous iterations of ACF Nationals are archived below:
+
+* [2021 ACF Nationals](/tournaments/archive/2020/ACF%20Nationals)
+
+## Dates of note
+
+Event | Date
+- | -
+ACF dates announced     | June 7, 2021
+ACF Nationals announced | August 13, 2021
+Bidding opened          | September 22, 2021
+Bidding closed          | October 24, 2021
+Host sites announced    | November 1, 2021
+Registration opened     | not yet
+Registration closed     | not yet
+ACF Nationals held      | April 9–10, 2022
