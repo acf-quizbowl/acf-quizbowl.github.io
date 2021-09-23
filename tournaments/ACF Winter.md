@@ -3,7 +3,7 @@ layout: page
 title: ACF Winter
 permalink: /winter/
 nav_order: 2.5
-last_updated: September 19, 2021
+last_updated: September 22, 2021
 ---
 
 **ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
@@ -89,6 +89,10 @@ See above for packet submission discounts.
 
 More information can be found in [ACF’s packet submission guidelines](/packet-submission-guidelines).
 
+## Eligibility
+
+For information on who is eligible to play ACF tournaments, see [ACF’s official Eligibility Rules](/eligibility-rules).
+
 <!-- ## Staffing
 To staff ACF Winter, please fill out [the staffer registration form](https://forms.gle/XaM1RbCFmYiGbqvD8). -->
 
@@ -120,6 +124,13 @@ High school only          |
 ACF Winter will be available for high school mirrors. If you want to host a high school mirror of ACF Winter, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). High school mirrors are restricted to high school teams only; no college teams can participate.
 
 If you have any questions, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com).
+
+## Past tournaments
+Sample questions from previous iterations of ACF Winter are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Winter&col=1&season=&archived=y).
+
+Announcements and information about previous iterations of ACF Winter are archived below:
+
+* [2020 ACF Winter](/tournaments/archive/2020/ACF%20Winter)
 
 ## Dates of note
 
