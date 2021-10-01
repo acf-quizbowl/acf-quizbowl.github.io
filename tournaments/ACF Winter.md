@@ -35,25 +35,6 @@ Chris Sims               | Music, Social Science
 ## Online format
 We hope that ACF Winter can be held in person. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Winter will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.
 
-## Packet submission
-Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament\* (either as a college student or as a high school student) prior to September 1, 2020, is required to submit a half-packet (unless it is a high school team attending a high-school-only mirror). Email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional packet by the −$0 (no penalty) deadline for a $50 discount.
-
-<small>\* For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as mainstream collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not count.</small>
-
-Here is the submission schedule:
-
-Submission deadline | Packet discount
-- | -
-September 5, 2021  | −$50
-September 24, 2021 | −$25
-October 3, 2021    | −$0 (no penalty)
-October 17, 2021   | +$25
-October 24, 2021   | +$50
-
-There is an additional $10/day penalty for each day after October 24th. If teams required to submit a half-packet have not submitted by October 31, they will be dropped from the tournament, with no exceptions.
-
-If your team is going to submit a half-packet, whether required or not, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) to request a distribution. All finished packets must be sent to that email before 11:59 p.m. Pacific Time on the day listed to receive the discount or penalty. Please send the half-packet in .docx format. The email subject line should list the name of the school, the team number (if applicable), and the words “half-packet.”
-
 ## Registration
 The registration form for ACF Winter will be available after hosts have been announced.
 
@@ -78,11 +59,30 @@ The "new to quizbowl" discount is for schools that have not sent a team to any m
 
 Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, cash, or PayPal.
 
-See above for packet submission discounts.
+See below for packet submission discounts.
 
 The minimum fee is $0 per team.
 
-## Tips and guidelines
+## Packet submission
+Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament\* (either as a college student or as a high school student) prior to September 1, 2020, is required to submit a half-packet (unless it is a high school team attending a high-school-only mirror). Email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional packet by the −$0 (no penalty) deadline for a $50 discount.
+
+<small>\* For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as mainstream collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not count.</small>
+
+Here is the submission schedule:
+
+Submission deadline | Packet discount
+- | -
+September 5, 2021  | −$50
+September 24, 2021 | −$25
+October 3, 2021    | −$0 (no penalty)
+October 17, 2021   | +$25
+October 24, 2021   | +$50
+
+There is an additional $10/day penalty for each day after October 24th. If teams required to submit a half-packet have not submitted by October 31, they will be dropped from the tournament, with no exceptions.
+
+If your team is going to submit a half-packet, whether required or not, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) to request a distribution. All finished packets must be sent to that email before 11:59 p.m. Pacific Time on the day listed to receive the discount or penalty. Please send the half-packet in .docx format. The email subject line should list the name of the school, the team number (if applicable), and the words “half-packet.”
+
+### Tips and guidelines
 <!-- todo: note that in different years, editors may have different philosophies, subject to change -->
 
 - Please make sure your questions are harder than questions in ACF Fall and easier than questions in ACF Regionals. 2019 EFT and 2020 ACF Winter are good difficulty targets. A majority of your tossup answers should conceivably be a tossup answer at ACF Fall.

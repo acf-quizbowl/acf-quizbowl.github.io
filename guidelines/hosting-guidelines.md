@@ -143,7 +143,9 @@ ACF notifies hosts of which schools’ packets used in set</td>
 # Host requirements
 ## Finances
 ### Fees
-Hosts must use the posted fee schedule for ACF tournaments. However, hosts may provide additional discounts, provided that they are subtracted from the amount of money the host receives and not the amount that ACF receives (see [Financial breakdown between hosts and ACF](#financial-breakdown-between-hosts-and-acf)). Hosts are responsible for invoicing each team that has registered for their site. Hosts will have access to a spreadsheet of teams attending their site, and should invoice each team as soon as possible after the team registers. Hosts are required to use payment tracker spreadsheets, which will be provided by the Treasurer, to track how much each team owes, which teams they have invoiced and when, and to indicate which teams have paid. Hosts must communicate with the Treasurer if they need to make changes to e.g. buzzer and staffer discounts.
+Hosts must use the posted fee schedule for ACF tournaments. However, hosts may provide additional discounts, provided that they are subtracted from the amount of money the host receives and not the amount that ACF receives (see [Financial breakdown between hosts and ACF](#financial-breakdown-between-hosts-and-acf)).
+
+Hosts are responsible for invoicing each team that has registered for their site. Hosts will have access to a spreadsheet of teams attending their site, and should invoice each team as soon as possible after the team registers. Hosts are required to use payment tracker spreadsheets, which will be provided by the Treasurer, to track how much each team owes, which teams they have invoiced and when, and to indicate which teams have paid. Hosts must communicate with the Treasurer if they need to make changes to e.g. buzzer and staffer discounts.
 
 ### Currency
 Sites in countries that do not use the United States Dollar (USD) must work out an appropriate payment structure with the Site Coordinator and Treasurer.
