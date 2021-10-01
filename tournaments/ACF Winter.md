@@ -80,6 +80,8 @@ Host sites will bill teams as soon as possible after the teams register. Teams s
 
 See above for packet submission discounts.
 
+The minimum fee is $0 per team.
+
 ## Tips and guidelines
 <!-- todo: note that in different years, editors may have different philosophies, subject to change -->
 

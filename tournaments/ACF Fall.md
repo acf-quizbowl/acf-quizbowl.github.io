@@ -60,6 +60,8 @@ Host sites will bill teams as soon as possible after the teams register. Teams s
 
 See below for packet submission discounts.
 
+The minimum fee is $0 per team.
+
 ## Packet submission
 Like 2020 ACF Fall, no teams are required to submit questions in order to play the tournament. However, ACF still needs high-quality, half-packet submissions from teams to complete the set.
 
