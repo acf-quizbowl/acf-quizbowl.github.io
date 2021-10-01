@@ -89,6 +89,8 @@ To make this tournament more accessible to new teams and players, ACF is enforci
 - Were the top scorer (highest overall PPG) on a team that finished in the top 30 at HSNCT or top 10 at PACE NSC, OR
 - Finished in the top 12 in IPNCT
 
+The eligibility restrictions do not apply to high-school-only mirrors.
+
 **Players are responsible for determining their own eligibility.** If you have questions, email [eligibility@acf-quizbowl.com](mailto:eligibility@acf-quizbowl.com). Failure to abide by these eligibility guidelines may result in disqualification from ACF Fall and/or future ACF tournaments.
 
 ## Staffing
