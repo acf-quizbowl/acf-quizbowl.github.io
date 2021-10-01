@@ -77,14 +77,15 @@ code {
     text-align: center;
   }
 
+  dl {
+	  margin-left: 1em;
+  }
   dt {
     font-weight: bold;
-    font-style: italic;
     line-height: 1.25;
   }
 
   dd {
-    font-style: italic;
     margin-bottom: 0.5em;
   }
 
