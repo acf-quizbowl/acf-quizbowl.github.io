@@ -330,22 +330,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 </tr>
 <tr>
-<td>Ike Jose</td>
-<td>
-<ul>
-<li>Alumnus, University of Illinois, Urbana-Champaign</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Nationals Editor</li>
-<li>2017 ACF Nationals Editor</li>
-<li>2016 ACF Nationals co-Head Editor</li>
-<li>2015 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Michael Kearney</td>
 <td>
 <ul>
