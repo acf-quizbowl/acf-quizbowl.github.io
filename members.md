@@ -856,7 +856,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Arjun Nageswaran</td>
 <td>
 <ul>
-<li>Stevenson High School</li>
+<li>Harvard University</li>
 </ul>
 </td>
 <td>
@@ -919,7 +919,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Bryanna Shao</td>
 <td>
 <ul>
-<li>Wayzata High School</li>
+<li>University of Minnesota</li>
 </ul>
 </td>
 <td>
