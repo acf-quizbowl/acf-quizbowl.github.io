@@ -17,13 +17,13 @@ Michael Kearney will be Tournament Director.
 
 More details about packet submission, fees, field size, and staffing will be available in the coming months.
 
-## Distribution
-The submitted packet and final packet distributions for ACF Nationals are found [here](/distribution).
-
 ## Qualifying for ACF Nationals
 [ACF Regionals](/regionals) serves as a qualifying tournament for ACF Nationals. ACF’s procedures for determining which teams have qualified for ACF Nationals are available [here](/nationals-qualification).
 
 If an ACF Regionals host fails to play off or award Undergraduate and Division II titles, or an event precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
+
+## Distribution
+The submitted packet and final packet distributions for ACF Nationals are found [here](/distribution).
 
 ## Eligibility
 

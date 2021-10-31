@@ -81,6 +81,9 @@ Each submission consists of 12 tossups and 12 bonuses. Before writing, please re
 
 Your assigned half-packet may ask you to write questions from specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on a 20th-century American poem, or an Economics bonus instead of “Social Science/Philosophy.” This should reduce redundancy in submissions and maximize the number of submitted questions we can use, without being too constraining. The submission form offers space to indicate your writing interests in each category, which we will do our best to accommodate.
 
+## Distribution
+ACF Fall uses the [standard ACF distribution](/distribution).
+
 ## Eligibility
 To make this tournament more accessible to new teams and players, ACF is enforcing eligibility guidelines for ACF Fall (new as of 2021). Players are not eligible to compete at 2021 ACF Fall if, _at any point_, they:
 - Scored more than 50 PPG in the prelims of a college mirror of ACF Fall, OR

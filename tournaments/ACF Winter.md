@@ -41,9 +41,6 @@ The registration form for ACF Winter will be available after hosts have been ann
 <!-- ## Field
 The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1Qll_pT6gIiXsOFlrOLcnpYhz8LmTHrx7O__y9G0i4BY/edit?usp=sharing). -->
 
-## Distribution
-ACF Winter uses the [standard ACF distribution](/distribution), which is the same distribution as ACF Regionals.
-
 ## Fees
 
 Team entry fee or discount         | 
@@ -90,6 +87,9 @@ If your team is going to submit a half-packet, whether required or not, email [w
 - When writing bonuses, aim for the easy parts to be converted by around 90% of teams. The giveaways for tossups should also conceivably be answered by the majority of teams. While creative questions are great, don’t sacrifice playability for novelty.
 
 More information can be found in [ACF’s packet submission guidelines](/packet-submission-guidelines).
+
+## Distribution
+ACF Winter uses the [standard ACF distribution](/distribution), which is the same distribution as ACF Regionals.
 
 ## Eligibility
 
