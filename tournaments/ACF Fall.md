@@ -40,7 +40,7 @@ To register for 2021 ACF Fall, fill out the central [2021 ACF Fall registration 
 If possible, teams should register for the site that is geographically closest to them and/or is in the region they would normally attend.
 
 ## Field
-The field (list of registered teams) for each site can be found [here](https://docs.google.com/spreadsheets/d/1P4tdvLOAb_yQhPQqkl6PMsTyxn-Y1L2Ae25EzY6H3EU/edit?usp=sharing).
+The field (list of registered teams) for each site can be found [here](https://docs.google.com/spreadsheets/d/1P4tdvLOAb_yQhPQqkl6PMsTyxn-Y1L2Ae25EzY6H3EU/edit).
 
 ## Fees
 
@@ -77,7 +77,7 @@ September 18, 2021 | −$10
 
 If you would like to submit a half-packet, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScUin-wIZeG1dJa-8JRtfKhhzhSbN924JHDuIU6GZxJHZcpCA/viewform). ACF will respond with a half-packet template specifying which categories you are assigned to write.
 
-Each submission consists of 12 tossups and 12 bonuses. Before writing, please review [ACF's packet submission guidelines](/packet-submission-guidelines) and stick to the format provided. Answers should generally emphasize playability over creativity – aim for creative and interesting clues with straightforward answerlines. These [5 model tossups](https://docs.google.com/document/d/1mokTuDeyDDSb4J1yQG6BWeGsee4x-RFsqf-lmvfBXjc/edit?usp=sharing) reflect the difficulty and style to aim for. When finished, submit your half-packet by emailing it to [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com).
+Each submission consists of 12 tossups and 12 bonuses. Before writing, please review [ACF's packet submission guidelines](/packet-submission-guidelines) and stick to the format provided. Answers should generally emphasize playability over creativity – aim for creative and interesting clues with straightforward answerlines. These [5 model tossups](https://docs.google.com/document/d/1mokTuDeyDDSb4J1yQG6BWeGsee4x-RFsqf-lmvfBXjc/edit) reflect the difficulty and style to aim for. When finished, submit your half-packet by emailing it to [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com).
 
 Your assigned half-packet may ask you to write questions from specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on a 20th-century American poem, or an Economics bonus instead of “Social Science/Philosophy.” This should reduce redundancy in submissions and maximize the number of submitted questions we can use, without being too constraining. The submission form offers space to indicate your writing interests in each category, which we will do our best to accommodate.
 

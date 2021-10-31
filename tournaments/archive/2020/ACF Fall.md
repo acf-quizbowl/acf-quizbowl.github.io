@@ -24,7 +24,7 @@ In response to the COVID-19 pandemic, ACF Fall will be held entirely online this
 To register for 2020 ACF Fall, fill out the central [2020 ACF Fall registration form](https://forms.gle/qjy2kmJSFv56ySuQ8) with all relevant information.
 
 ## Field
-The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1hrgokKUJukxb6UmNnrAMwjnScDbiTsOTKAKB40Gunvc/edit?usp=sharing).
+The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1hrgokKUJukxb6UmNnrAMwjnScDbiTsOTKAKB40Gunvc/edit).
 
 ## Fees
 
@@ -50,9 +50,9 @@ Below is the submission schedule for ACF Fall. All deadlines are at 11:59 p.m. P
 - September 13, 2020: −$20
 - September 20, 2020: −$10
 
-If you would like to submit a half-packet, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfEkGlKRiGfDeo_tQIU4hl8yPIXLMUxLh1A0GrHv2tmEyrcYQ/viewform?usp=sf_link). ACF will respond with a half-packet template specifying which categories you are assigned to write.
+If you would like to submit a half-packet, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfEkGlKRiGfDeo_tQIU4hl8yPIXLMUxLh1A0GrHv2tmEyrcYQ/viewform). ACF will respond with a half-packet template specifying which categories you are assigned to write.
 
-Each submission consists of 12 tossups and 12 bonuses. Before writing, please review [ACF's packet submission guidelines](/packet-submission-guidelines) and stick to the format provided. Answers should generally emphasize playability over creativity – aim for creative and interesting clues with straightforward answerlines. These [5 model tossups](https://docs.google.com/document/d/1mokTuDeyDDSb4J1yQG6BWeGsee4x-RFsqf-lmvfBXjc/edit?usp=sharing) reflect the difficulty and style to aim for. When finished, submit your half-packet by emailing it to [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com).
+Each submission consists of 12 tossups and 12 bonuses. Before writing, please review [ACF's packet submission guidelines](/packet-submission-guidelines) and stick to the format provided. Answers should generally emphasize playability over creativity – aim for creative and interesting clues with straightforward answerlines. These [5 model tossups](https://docs.google.com/document/d/1mokTuDeyDDSb4J1yQG6BWeGsee4x-RFsqf-lmvfBXjc/edit) reflect the difficulty and style to aim for. When finished, submit your half-packet by emailing it to [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com).
 
 In another change from last year, your assigned half-packet will ask for questions from more specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on a 20th-century American poem, or an Economics bonus instead of “Social Science/Philosophy.” This should reduce redundancy in submissions and maximize the number of submitted questions we can use, without being too constraining. The submission form offers space to indicate your writing interests in each category, which we will do our best to accommodate.
 

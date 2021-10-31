@@ -41,7 +41,7 @@ If your team is going to submit a half-packet, whether required or not, email [w
 To register for 2020 ACF Winter, fill out the central [2020 ACF Winter registration form](https://docs.google.com/forms/d/e/1FAIpQLSekgWuKx-Dfe2j8cYtALGJBu3Mf7rbuhjMPKPcuy3Ab5faB9A/viewform) with all relevant information.
 
 ## Field
-The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1Qll_pT6gIiXsOFlrOLcnpYhz8LmTHrx7O__y9G0i4BY/edit?usp=sharing).
+The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1Qll_pT6gIiXsOFlrOLcnpYhz8LmTHrx7O__y9G0i4BY/edit).
 
 ## Distribution
 ACF Winter uses the [standard ACF distribution](/distribution), which is the same distribution as ACF Regionals.
