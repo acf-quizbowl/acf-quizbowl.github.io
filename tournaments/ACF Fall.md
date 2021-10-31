@@ -3,7 +3,7 @@ layout: page
 title: ACF Fall
 permalink: /fall/
 nav_order: 2
-last_updated: September 22, 2021
+last_updated: October 31, 2021
 ---
 
 <!--
@@ -21,7 +21,7 @@ number the sections.
 {:toc}
 
 # 2021 ACF Fall
-[2021 ACF Fall](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25261) will be held on October 16, 2021.
+[2021 ACF Fall](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25261) was held on October 16, 2021.
 
 ## Editors
 2021 ACF Fall is head-edited by Katherine Lei and edited by Sarah Benner, Justin Duffy, Karan Gurazada, Mitch McCullar, Gov Prabhakar, Ethan Strombeck, and Ned Tagtmeier. Justin Duffy, Matthew Lehmann, Matthew Bollinger, and other ACF members are offering oversight.
@@ -110,6 +110,7 @@ Region                          | Site | Type
 Northeast                       | [MIT](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25359) | in person
 Upstate New York                | [RIT](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25366) | in person
 Upper Mid-Atlantic              | [UMD](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25368) | in person
+Upper Mid-Atlantic Overflow     | [NYU](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25465) | online
 Lower Mid-Atlantic              | [Duke](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25362) | in person
 Southeast                       | [Georgia Tech](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25374) | in person
 Florida                         | 
