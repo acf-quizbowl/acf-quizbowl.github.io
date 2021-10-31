@@ -6,12 +6,31 @@ layout: home
 
 ## Recent updates
 
+#### October 19, 2021
+[ACF Regionals](/regionals)
+: The editing team was updated.
+
+#### October 16, 2021
+[ACF Fall](/fall)
+: A record-setting 259 teams played ACF Fall!
+
+#### October 11, 2021
+[ACF Regionals](/regionals)
+: Global announcement has been published.
+
 #### October 1, 2021
 [Miscellaneous Policies](/policies)
 : New policy on pseudonyms.
 
 [Carper Award](/carper)
 : Added 2021 winners.
+
+### Past updates
+
+<details markdown="1">
+<summary>
+September 2021
+</summary>
 
 #### September 26, 2021
 [ACF Fall](/fall) and [ACF Winter](/winter)
@@ -35,3 +54,5 @@ layout: home
 #### September 3, 2021
 [Members](/members)
 : ACF [announced new officers and members](https://hsquizbowl.org/forums/viewtopic.php?f=9&t=25323) following the long-awaited 2021 ACF Nationals.
+
+</details>
