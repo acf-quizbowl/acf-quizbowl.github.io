@@ -261,25 +261,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 </tr>
 <tr>
-<td>Auroni Gupta</td>
-<td>
-<ul>
-<li>PhD Student, University of Illinois Urbana-Champaign</li>
-<li>MPH, University of Michigan School of Public Health</li>
-<li>Alumnus, University of California, San Diego</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Nationals Head Editor</li>
-<li>2018 ACF Regionals Head Editor</li>
-<li>2014 ACF Nationals Editor</li>
-<li>2012 ACF Regionals Editor</li>
-<li>2009 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Andrew Hart</td>
 <td>
 <ul>
@@ -899,19 +880,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2019 ACF Nationals Assistant Tournament Director</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Vishwa Shanmugam</td>
-<td>
-<ul>
-<li>University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Winter Editor</li>
 </ul>
 </td>
 </tr>
