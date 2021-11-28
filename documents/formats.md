@@ -16,7 +16,7 @@ last_updated: October 29, 2019
    <th style="width: 6em;"># teams</th>
    <th style="width: 10em;">Type</th>
    <th style="width: 10em;">Description</th>
-   <th style="width: 6em;">Notes</th>
+   <th style="width: 16em;">Notes</th>
   </tr>
  </thead>
  <tbody>
@@ -1478,7 +1478,6 @@ If there are at least four Undergraduate teams and/or four Division II teams, bu
 If the field composition merits awarding Undergraduate and/or Division II titles and the tournament format involves rebracketing, and only one Undergraduate and/or Division II team is in the top bracket, they automatically win that title. If an Undergraduate and/or Division II team finishes one game ahead of another Undergraduate and/or Division II team, but the team with the higher placement is involved with finals procedures, they automatically win that title.
 
 ## Two teams
-{: .no_toc}
 
 At the end of normal phases of play, if the top team is two or more games ahead of the second-place team, no final is played. The phrases "games ahead" or "games behind" is defined [here](https://en.wikipedia.org/wiki/Games_behind).
 
@@ -1487,7 +1486,6 @@ If the top team is one game ahead of the second-place team, the two teams play a
 If the top two teams have the same record, they play a single game to determine the tournament winner.
 
 ## More than two teams
-{: .no_toc}
 
 If two teams are tied for second place, with records that put them one game behind a team in first place, the tied teams play a single game (a "play-in" game). The winner of the play-in game then plays a disadvantaged final against the top team, in a standard final series of up to two games.
 
