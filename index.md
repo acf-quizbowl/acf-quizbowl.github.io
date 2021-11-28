@@ -17,6 +17,7 @@ layout: home
 #### November 1, 2021
 [ACF Nationals](/nationals)
 : Host bids are still being evaluated. We hope to announce a site soon.
+
 [Members](/members)
 : The list of members was updated.
 
