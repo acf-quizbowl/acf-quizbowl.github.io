@@ -24,7 +24,7 @@ There are four key components to A-value:
 - Tossup points per tossup heard (TUPPTUH): How many points each team scored, only counting tossups and negs, divided by the number of tossups they heard.
 - Bonus conversion (PPB): Points per bonus.
 - Bonuses heard per tossup heard (BHPTUH): The percentage of tossups a team answered correctly out of all the tossups they heard.
-- Strength of schedule (SOS): The combined points per tossups heard of each team's opponents, weighted by how many times they played each opponent, divided by the average points per tossup heard over the entire field. If a team has played a slate of opponents of perfectly average strength, this will be 1, with higher values indicating a tougher schedule.
+- Strength of schedule (SOS): The combined points per tossup-bonus cycle heard of each team's opponents, weighted by how many times they played each opponent, divided by the average points per tossup-bonus cycle heard over the entire field. If a team has played a slate of opponents of perfectly average strength, this will be 1, with higher values indicating a tougher schedule.
 
 The raw A-value calculation is:
 `20 * (TUPPTH * SOS + BHPTUH * SOS * PPB)`
