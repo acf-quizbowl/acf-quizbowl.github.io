@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: November 1, 2021
+last_updated: February 6, 2022
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -830,6 +830,19 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2019 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Tim Morrison</td>
+<td>
+<ul>
+<li>PhD Student, Stanford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
