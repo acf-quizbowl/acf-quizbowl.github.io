@@ -130,6 +130,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Matt Bollinger</td>
 <td>
 <ul>
+<li>Georgia Institute of Technology</li>
 <li>Alumnus, University of Virginia</li>
 </ul>
 </td>
@@ -709,7 +710,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Taylor Harvey</td>
 <td>
 <ul>
-<li>PhD Candidate, University of Florida</li>
 <li>Alumnus, University of Florida</li>
 </ul>
 </td>
@@ -785,7 +785,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Matthew Lehmann</td>
 <td>
 <ul>
-<li>University of Chicago</li>
+<li>Washington University in St. Louis</li>
 </ul>
 </td>
 <td>
@@ -876,6 +876,9 @@ Provisional members are community members who have ably assisted ACF in the past
 <tr>
 <td>Hari Parameswaran</td>
 <td>
+<ul>
+<li>Georgia Institute of Technology</li>
+</ul>
 </td>
 <td>
 <ul>
@@ -900,7 +903,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Bryanna Shao</td>
 <td>
 <ul>
-<li>University of Minnesota</li>
+<li>Vanderbilt University</li>
 </ul>
 </td>
 <td>
