@@ -838,6 +838,19 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
+<td>Joseph Krol</td>
+<td>
+<ul>
+<li>University of Cambridge</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Olivia Lamberti</td>
 <td>
 <ul>
