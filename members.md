@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: October 1, 2021
+last_updated: February 6, 2022
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -130,6 +130,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Matt Bollinger</td>
 <td>
 <ul>
+<li>Georgia Institute of Technology</li>
 <li>Alumnus, University of Virginia</li>
 </ul>
 </td>
@@ -372,6 +373,20 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 </tr>
 <tr>
+<td>Katherine Lei</td>
+<td>
+<ul>
+<li>MIT</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Fall Head Editor</li>
+<li>2019 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Ophir Lifshitz</td>
 <td>
 <ul>
@@ -466,6 +481,20 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 </tr>
 <tr>
+<td>Tim Morrison</td>
+<td>
+<ul>
+<li>PhD Student, Stanford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Winter Head Editor</li>
+<li>2021 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Olivia Murton</td>
 <td>
 <ul>
@@ -523,6 +552,21 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <li>2018 ACF Nationals Assistant Tournament Director</li>
 <li>2017 ACF Fall Editor</li>
 <li>2015 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Christopher Sims</td>
+<td>
+<ul>
+<li>PhD Student, Northwestern University</li>
+<li>Alumnus, University of Toronto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Winter Editor</li>
+<li>2020 ACF Winter Editor</li>
 </ul>
 </td>
 </tr>
@@ -640,6 +684,19 @@ Provisional members are community members who have ably assisted ACF in the past
 </thead>
 <tbody>
 <tr>
+<td>Ethan Ashbrook</td>
+<td>
+<ul>
+<li>University of Minnesota</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Geoffrey Chen</td>
 <td>
 <ul>
@@ -693,6 +750,19 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
+<td>Karan Gurazada</td>
+<td>
+<ul>
+<li>University of Texas at Austin</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Alex Hardwick</td>
 <td>
 <ul>
@@ -709,7 +779,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Taylor Harvey</td>
 <td>
 <ul>
-<li>PhD Candidate, University of Florida</li>
 <li>Alumnus, University of Florida</li>
 </ul>
 </td>
@@ -769,6 +838,19 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
+<td>Joseph Krol</td>
+<td>
+<ul>
+<li>University of Cambridge</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>Olivia Lamberti</td>
 <td>
 <ul>
@@ -785,7 +867,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Matthew Lehmann</td>
 <td>
 <ul>
-<li>University of Chicago</li>
+<li>Washington University in St. Louis</li>
 </ul>
 </td>
 <td>
@@ -795,7 +877,20 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
-<td>Katherine Lei</td>
+<td>Angela Lin</td>
+<td>
+<ul>
+<li>UC Berkeley</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Steven Liu</td>
 <td>
 <ul>
 <li>MIT</li>
@@ -803,7 +898,20 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
-<li>2019 ACF Fall Editor</li>
+<li>2021 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Mitch McCullar</td>
+<td>
+<ul>
+<li>University of Illinois</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -863,6 +971,9 @@ Provisional members are community members who have ably assisted ACF in the past
 <tr>
 <td>Hari Parameswaran</td>
 <td>
+<ul>
+<li>Georgia Institute of Technology</li>
+</ul>
 </td>
 <td>
 <ul>
@@ -887,7 +998,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Bryanna Shao</td>
 <td>
 <ul>
-<li>University of Minnesota</li>
+<li>Vanderbilt University</li>
 </ul>
 </td>
 <td>
@@ -910,16 +1021,28 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
-<td>Christopher Sims</td>
+<td>Ethan Strombeck</td>
 <td>
 <ul>
-<li>PhD Student, Northwestern University</li>
-<li>Alumnus, University of Toronto</li>
+<li>Stanford University</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>2020 ACF Winter Editor</li>
+<li>2021 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Ned Tagtmeier</td>
+<td>
+<ul>
+<li>University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>

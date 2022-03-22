@@ -6,6 +6,28 @@ layout: home
 
 ## Recent updates
 
+#### November 14, 2021
+[ACF Regionals](/regionals)
+: The bid form is open.
+
+#### November 7, 2021
+[ACF Winter](/winter)
+: A record-setting 182 teams played ACF Winter (up from 174 last year)!
+
+#### November 1, 2021
+[ACF Nationals](/nationals)
+: Host bids are still being evaluated. We hope to announce a site soon.
+
+[Members](/members)
+: The list of members was updated.
+
+### Past updates
+
+<details markdown="1">
+<summary>
+October 2021
+</summary>
+
 #### October 19, 2021
 [ACF Regionals](/regionals)
 : The editing team was updated.
@@ -24,8 +46,7 @@ layout: home
 
 [Carper Award](/carper)
 : Added 2021 winners.
-
-### Past updates
+</details>
 
 <details markdown="1">
 <summary>

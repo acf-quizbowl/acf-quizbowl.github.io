@@ -3,7 +3,7 @@ layout: page
 title: ACF Regionals
 permalink: /regionals/
 nav_order: 3
-last_updated: October 31, 2021
+last_updated: November 27, 2021
 ---
 
 **ACF Regionals** is a difficult tournament that serves as a qualifier for ACF Nationals. ACF Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience. Many players will find ACF Regionals to be a significant but rewarding challenge.
@@ -37,7 +37,7 @@ Annabelle Yang | Mythology
 We hope that ACF Regionals can be held in person wherever possible. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Regionals will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances.
 
 ## Qualification
-ACF is currently actively discussing whether or not potential online mirrors of ACF Regionals will serve as qualifying tournaments for 2022 ACF Nationals. It is at this time unclear as to whether or not all regions will be able to host a Regionals site in person. If all sites are able to safely host in person in January, then ACF Regionals will act as the method of qualification for Nationals, as it has in pre-pandemic years. If the situation requires some or all Regionals sites to be online, then a separate qualifier may be devised for Nationals qualification.
+ACF is allowing for in-person and online sites for 2022 ACF Regionals. Only teams who attend in-person ACF Regionals sites will be able to qualify for ACF Nationals by A-value. Teams that are not located near any in-person ACF Regionals sites can apply for a wildcard bid. Hosts of in-person and online sites can apply for wildcard bids. The process for ACF Nationals qualification is described [here](/nationals-qualification).
 
 ## Packet submission
 Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament\* (either as a college student or as a high school student) prior to September 1, 2020, is required to submit a half-packet. Email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional packet by the no-penalty deadline for a $50 discount.
@@ -57,7 +57,7 @@ The submission schedule is as follows:
 
 After January 9, 2022, teams will be required to pay an additional $10 per day their packet is late. Teams that have not submitted a packet by January 16, 2022, will be dropped from the tournament, with no exceptions.
 
-The submission discounts and penalties – but not the schedule – may differ for teams attending sites outside of the United States, and will be detailed on the relevant site's forum post.
+The submission discounts and penalties – but not the schedule – may differ for teams attending sites outside of the United States, and will be detailed on the relevant site’s forum post.
 
 In order to meet a deadline, you must submit your half-packet to [regionals@acf-quizbowl.com](regionals@acf-quizbowl.com) before 11:59 p.m. Pacific Time on that date. Half-packets should be submitted in .docx format. Please do not submit packets as PDFs. If a team wishes to outsource part of its packet to a player not expected to play on that team (e.g., a student who has graduated), it must first receive approval from the head editor. Teams should email in their submissions separately and should not collaborate on packets; i.e., a school’s A team and B team should not write two half-packets together. However, if anyone who works on a packet or has access to that packet ends up playing on a different team (e.g. if someone originally intended to be on your school’s B team instead plays for your school’s A team) please let the head editor and your local TD know as soon as possible.
 
@@ -103,10 +103,7 @@ To staff ACF Regionals, please fill out the [staffer registration form](https://
 -->
 
 ## Hosting
-
-If your school would like to host a mirror of ACF Regionals, you will need to submit a bid to host. Information on submitting a bid will be posted here in the coming weeks.
-
-If you have any questions about hosting<!-- or about the form -->, contact ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by ACF’s [Hosting Guidelines](/hosting-guidelines) and the updated [guidelines for hosting online tournaments](https://docs.google.com/document/u/4/d/1JLzgDS3PICaPeBKG4CwixlRgtfT2lIq72y9tx-7hvJ4/edit) (if the mirror is to be online).
+If you are interested in hosting a mirror of ACF Regionals, fill out [this form](https://forms.gle/984e3DiihqH78r5B9). If you have any questions about hosting or about the form, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
 
 ## Sites
 Mirrors will by default be regional. If any sites end up being online, ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2022 ACF Regionals in the following [regions](/hosting-guidelines#regions-according-to-acf):
@@ -143,9 +140,9 @@ Event | Date
 - | -
 ACF dates announced     | June 7, 2021
 ACF Regionals announced | October 11, 2021
-Bidding opened          | not yet
-Bidding closed          | not yet
-Host sites announced    | not yet
+Bidding opened          | November 14, 2021
+Bidding closed          | November 26, 2021
+Host sites announced    | December 1, 2021
 Registration opened     | not yet
 Registration closed     | not yet
 ACF Regionals held      | January 29, 2022

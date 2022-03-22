@@ -116,7 +116,7 @@ Southeast and Florida     | [Florida](https://hsquizbowl.org/forums/viewtopic.ph
 Great Lakes               | [OSU](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25444) | in person
 Midwest                   | [Missouri](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25446) | in person
 North                     | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25473) | in person
-South Central             | [Oklahoma](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25462) | in person
+South Central             | [Oklahoma](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25462) | online
 California and Northwest  | [UCSD](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25458) | online
 Eastern Canada            | [Toronto](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25455) | online
 United Kingdom            | Strathclyde and Oxford Brookes | online
