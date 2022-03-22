@@ -219,12 +219,13 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Stephen Eltinge</td>
 <td>
 <ul>
-<li>PhD Candidate, Yale University</li>
+<li>PhD, Yale University</li>
 <li>Alumnus, Massachusetts Institute of Technology</li>
 </ul>
 </td>
 <td>
 <ul>
+<li>2021 ACF Regionals Editor</li>
 <li>2018 ACF Regionals Editor</li>
 <li>2014–2017 Communications Officer</li>
 <li>2013 ACF Fall Editor</li>
