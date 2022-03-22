@@ -8,6 +8,11 @@ last_updated: March 22, 2021
 
 **ACF Nationals** is the premier collegiate quizbowl national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the hardest and biggest question set of the season.
 
+# Table of Contents
+{: .no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 ## 2022 ACF Nationals
 [2022 ACF Nationals](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25391) will be held on April 9–10, 2022, at the University of Minnesota, in Blegen Hall and Willey Hall on "West Bank."
 
