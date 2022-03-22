@@ -3,7 +3,7 @@ layout: page
 title: ACF Regionals
 permalink: /regionals/
 nav_order: 3
-last_updated: November 27, 2021
+last_updated: March 22, 2022
 ---
 
 **ACF Regionals** is a difficult tournament that serves as a qualifier for ACF Nationals. ACF Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience. Many players will find ACF Regionals to be a significant but rewarding challenge.
@@ -14,7 +14,7 @@ last_updated: November 27, 2021
 {:toc}
 
 # 2022 ACF Regionals
-[2022 ACF Regionals](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25467) will be held on January 29, 2022.
+[2022 ACF Regionals](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25467) was held on January 29, 2022.
 
 ## Editors
 2022 ACF Regionals is head-edited by Taylor Harvey and edited by Jaimie Carlson, Ganon Evans, Alex Hardwick, Nick Jensen, Arjun Nageswaran, Grant Peet, Graham Reid, Jonathen Settle, Chandler West, and Annabelle Yang.
@@ -49,11 +49,14 @@ If your team is obligated to submit a half-packet or wishes to do so, email [reg
 In an effort to reduce the number of submitted questions that cannot be used for distributional reasons, the editors may include suggested subtopics along with your half-packet distribution. For example, if the social science editor has received many economics questions already, but few anthropology questions, you may see a note like “We suggest that you write this question on an anthropology topic” in your distribution. Teams who abide by these suggestions are more likely to see their questions used, but they are not obliged to write on the suggested subtopic if they do not feel comfortable doing so.
 
 The submission schedule is as follows:
-* November 16, 2021: −$50
-* November 28, 2021: −$25
-* December 12, 2021: −$0
-* January 2, 2022: +$25
-* January 9, 2022: +$50
+
+Submission deadline | Packet discount
+- | -
+November 16, 2021 | −$50
+November 28, 2021 | −$25
+December 12, 2021 | −$0 (no penalty)
+January 2, 2022 | +$25
+January 9, 2022 | +$50
 
 After January 9, 2022, teams will be required to pay an additional $10 per day their packet is late. Teams that have not submitted a packet by January 16, 2022, will be dropped from the tournament, with no exceptions.
 
@@ -85,22 +88,20 @@ ACF Regionals uses the [standard ACF distribution](/distribution).
 This tournament is intended to be close in difficulty to ACF Regionals 2021. While writing submissions, please keep the following in mind:
 
 * Around 50% of tossup answerlines should be on things that can be tossed up at ACF Fall or below.
-* The remaining tossup answerlines should be on things that can be tossed up at Regionals difficulty (“three dots”). If you do not know what sort of answerlines this entails, I encourage you to look at ACF Regionals questions from recent years to get a feel for them. You should feel free to submit tossups with unconventional answerlines that are still accessible, but tossup answerlines themselves are usually not the place for “canon expansion.”
+* The remaining tossup answerlines should be on things that can be tossed up at Regionals difficulty (“three dots”). If you do not know what sort of answerlines this entails, I encourage you to look at [ACF Regionals questions from recent years](#past-tournaments) to get a feel for them. You should feel free to submit tossups with unconventional answerlines that are still accessible, but tossup answerlines themselves are usually not the place for “canon expansion.”
 * Easy parts for bonuses should be genuinely easy, gettable by around 90% of teams. However, try and avoid “curved yellow fruit” style easy parts that (a) don’t reward knowledge and (b) can actually obfuscate an answer.
 * Hard parts for bonuses should be genuinely hard, but gettable by around 10% of teams. That 10% is important – but a Regionals hard part is not a Nationals hard part. It may be canon-expanding, but should still be something that someone with an interest in the bonus topic could organically know, rather than an ultra-specific detail or some random piece of arcanum.
-* Tossups this year will be capped at seven lines, 10-point Times New Roman with one-inch margins. Please do not submit tossups that run into the ninth line or are shorter than six full lines. Bonuses do not have explicit length limits, but try to keep things concise and only add extra clues when they are meaningfully necessary.
+* Tossups will be capped at 7 lines, 10-point Times New Roman with 1-inch margins. Please do not submit tossups that run into the 9th line or are shorter than 6 full lines. Bonuses do not have explicit length limits, but try to keep things concise and only add extra clues when they are meaningfully necessary.
 * Submissions that flagrantly disregard the length or difficulty guidelines will be sent back to teams and will be considered unsubmitted for the purposes of packet discounts. If you would like to request an extension for your deadline, please submit your request and explanation to [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 
-<!--
 ## Registration
-To register for 2021 ACF Regionals, fill out the central [2021 ACF Regionals registration form](https://forms.gle/Fip9Ru3wPMF56DCU8) with all relevant information.
+To register for 2022 ACF Regionals, fill out the central [2022 ACF Regionals registration form](https://forms.gle/4D4gUwZ1a7uKf9hA8) with all relevant information.
 
 ## Field
-The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1ZtpLDgZCnaCKaKyhUQ74a1sTIG_hO6nGGrLr_QBE1O8/edit#gid=583264051).
+The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1IL449gIL0_BoG_Ood8U-SosWIPVQKl8ljRw0ii6ioVw/edit#gid=583264051).
 
 ## Staffing
-To staff ACF Regionals, please fill out the [staffer registration form](https://docs.google.com/forms/d/e/1FAIpQLSc0dBPR3TekDmkLdbNuYb7EYo5K0Bfb3Z5r022dQxVJ48Kebg/viewform).
--->
+To staff ACF Regionals, please fill out the [staffer registration form](https://forms.gle/duddCiY37pQWc5PQ9).
 
 ## Hosting
 If you are interested in hosting a mirror of ACF Regionals, fill out [this form](https://forms.gle/984e3DiihqH78r5B9). If you have any questions about hosting or about the form, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
@@ -108,22 +109,21 @@ If you are interested in hosting a mirror of ACF Regionals, fill out [this form]
 ## Sites
 Mirrors will by default be regional. If any sites end up being online, ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2022 ACF Regionals in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
-Region              | Site
--                   | -
-Northeast           | 
-Upper Mid-Atlantic  | 
-Lower Mid-Atlantic  | 
-Southeast           | 
-Great Lakes         | 
-Midwest             | 
-North               | 
-South Central       | 
-Mountain West       | 
-Northern California | 
-Southern California | 
-Northwest           | 
-Eastern Canada      | 
-United Kingdom      | 
+Region              | Site | Type
+-                   | -    | -
+Northeast           | [Brown](https://hsquizbowl.org/forums/viewtopic.php?t=25606) | in person
+Upper Mid-Atlantic  | [Penn State](https://hsquizbowl.org/forums/viewtopic.php?t=25613) | in person
+Upper Mid-Atlantic  | [Stony Brook](https://hsquizbowl.org/forums/viewtopic.php?t=25607) | online
+Lower Mid-Atlantic  | [Duke/UNC](https://hsquizbowl.org/forums/viewtopic.php?t=25603) | in person
+Southeast           | [Vanderbilt](https://hsquizbowl.org/forums/viewtopic.php?t=25597) | in person
+Florida             | [Florida](https://hsquizbowl.org/forums/viewtopic.php?t=25586) | in person
+Great Lakes         | [Kentucky](https://hsquizbowl.org/forums/viewtopic.php?t=25588) | in person
+Midwest             | [Chicago](https://hsquizbowl.org/forums/viewtopic.php?t=25639) | in person
+North               | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?t=25587) | in person
+South Central       | [UT Austin](https://hsquizbowl.org/forums/viewtopic.php?t=25589) | in person
+Overflow            | [Nebraska](https://hsquizbowl.org/forums/viewtopic.php?t=25610) | online
+Eastern Canada      | [Toronto](https://hsquizbowl.org/forums/viewtopic.php?t=25596) | online
+United Kingdom      | [Warwick](https://hsquizbowl.org/forums/viewtopic.php?t=25609) | in person
 
 If you have any questions, email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 
@@ -143,6 +143,6 @@ ACF Regionals announced | October 11, 2021
 Bidding opened          | November 14, 2021
 Bidding closed          | November 26, 2021
 Host sites announced    | December 1, 2021
-Registration opened     | not yet
-Registration closed     | not yet
+Registration opened     | December 1, 2021
+Registration closed     | January 24, 2022
 ACF Regionals held      | January 29, 2022
