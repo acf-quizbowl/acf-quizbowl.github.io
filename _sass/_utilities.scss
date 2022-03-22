@@ -293,3 +293,7 @@ p a[href^="mailto:"] {
   color: $blue;
   display: inline;
 }
+
+.toc-lvl-1-only ul ul {
+  display: none;
+}
