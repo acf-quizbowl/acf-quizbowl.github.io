@@ -47,7 +47,7 @@ Sample questions from previous iterations of ACF Nationals are on the [Collegiat
 
 Announcements and information about previous iterations of ACF Nationals are archived below:
 
-* [2021 ACF Nationals](/tournaments/archive/2020/ACF%20Nationals)
+* [2021 ACF Nationals announcement](/tournaments/archive/2020/ACF%20Nationals)
 
 ## Dates of note
 

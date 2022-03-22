@@ -132,7 +132,7 @@ Sample questions from previous iterations of ACF Winter are on the [Collegiate Q
 
 Announcements and information about previous iterations of ACF Winter are archived below:
 
-* [2020 ACF Winter](/tournaments/archive/2020/ACF%20Winter)
+* [2020 ACF Winter announcement](/tournaments/archive/2020/ACF%20Winter)
 
 ## Dates of note
 

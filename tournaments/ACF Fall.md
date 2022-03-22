@@ -135,7 +135,7 @@ Sample questions from previous iterations of ACF Fall are on the [Collegiate Qui
 
 Announcements and information about previous iterations of ACF Fall are archived below:
 
-* [2020 ACF Fall](/tournaments/archive/2020/ACF%20Fall)
+* [2020 ACF Fall announcement](/tournaments/archive/2020/ACF%20Fall)
 
 ## Dates of note
 

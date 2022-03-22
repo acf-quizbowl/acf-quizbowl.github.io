@@ -132,7 +132,7 @@ Sample questions from previous iterations of ACF Regionals are on the [Collegiat
 
 Announcements and information about previous iterations of ACF Regionals are archived below:
 
-* [2021 ACF Regionals](/tournaments/archive/2020/ACF%20Regionals)
+* [2021 ACF Regionals announcement](/tournaments/archive/2020/ACF%20Regionals)
 
 ## Dates of note
 
