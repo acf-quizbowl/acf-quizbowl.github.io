@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: March 22, 2022
+last_updated: April 2, 2022
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -155,6 +155,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2021 ACF Nationals Editor</li>
+<li>2021 ACF Regionals Editor</li>
 <li>2019 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Editor</li>
 <li>2014 ACF Fall Editor</li>
@@ -212,6 +214,20 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <li>2018–2019 Treasurer</li>
 <li>2019 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Logistics</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Justin Duffy</td>
+<td>
+<ul>
+<li>Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Fall Editor and Oversight</li>
+<li>2020 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -322,6 +338,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>2021 Site Coordinator (interim)</li>
+<li>2021 ACF Regionals Editor</li>
 <li>2020 ACF Fall and Regionals Site Tournament Director</li>
 </ul>
 </td>
@@ -365,6 +382,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2022 ACF Nationals Head Editor</li>
+<li>2021 ACF Nationals Qualifier Editor</li>
 <li>2016 ACF Regionals Head Editor</li>
 <li>2013 ACF Regionals Editor</li>
 <li>2013 ACF Fall Editor</li>
@@ -534,6 +553,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2021 ACF Regionals Editor</li>
 <li>2020 ACF Regionals Editor</li>
 <li>2018 ACF Fall Editor</li>
 </ul>
@@ -644,6 +664,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2021 ACF Nationals co-Head Editor</li>
 <li>2018 ACF Nationals Editor</li>
 <li>2016 ACF Nationals Editor</li>
 <li>2015 ACF Nationals Head Editor</li>
@@ -711,19 +732,6 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 <tr>
-<td>Justin Duffy</td>
-<td>
-<ul>
-<li>Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Halle Friedman</td>
 <td>
 <ul>
@@ -785,6 +793,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
+<li>2022 ACF Regionals Head Editor</li>
 <li>2020 ACF Regionals Editor</li>
 </ul>
 </td>
