@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: April 2, 2022
+last_updated: May 4, 2022
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -21,27 +21,27 @@ ACF’s officers also serve as ACF’s board of directors.
 </thead>
 <tbody>
 <tr>
-<td>Ryan Rosenberg</td>
+<td>Michael Kearney</td>
 <td>President</td>
 <td><a href="mailto:president@acf-quizbowl.com">president@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Olivia Murton</td>
+<td>Mia McGill</td>
 <td>Communications</td>
 <td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Taylor Harvey</td>
+<td>Nick Jensen</td>
 <td>Editor-in-Chief</td>
 <td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Theresa Nyowheoma</td>
+<td>John Nienajadlo</td>
 <td>Site Coordinator</td>
 <td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Michael Kearney</td>
+<td>Ryan Rosenberg</td>
 <td>ACF Nationals Tournament Director</td>
 <td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
 </tr>
@@ -51,7 +51,7 @@ ACF’s officers also serve as ACF’s board of directors.
 <td><a href="mailto:treasurer@acf-quizbowl.com">treasurer@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Ophir Lifshitz</td>
+<td>Caroline Mao</td>
 <td>Webmaster</td>
 <td><a href="mailto:webmaster@acf-quizbowl.com">webmaster@acf-quizbowl.com</a></td>
 </tr>
@@ -70,23 +70,23 @@ ACF’s officers also serve as ACF’s board of directors.
 </thead>
 <tbody>
 <tr>
-<td>Katherine Lei</td>
-<td>2021 ACF Fall</td>
+<td></td>
+<td>2022 ACF Fall</td>
 <td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Tim Morrison</td>
-<td>2021 ACF Winter</td>
+<td></td>
+<td>2022 ACF Winter</td>
 <td><a href="mailto:winter@acf-quizbowl.com">winter@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Taylor Harvey</td>
-<td>2022 ACF Regionals</td>
+<td></td>
+<td>2023 ACF Regionals</td>
 <td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>John Lawrence</td>
-<td>2022 ACF Nationals</td>
+<td></td>
+<td>2023 ACF Nationals</td>
 <td><a href="mailto:nationals@acf-quizbowl.com">nationals@acf-quizbowl.com</a></td>
 </tr>
 </tbody>
@@ -1689,4 +1689,3 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </tbody>
 </table>
 <!--gt table end-->
-
