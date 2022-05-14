@@ -2,6 +2,42 @@
 layout: home
 ---
 
+<table>
+  <tr>
+    <th>
+      <h2>2022 ACF Fall</h2>
+    </th>
+    <th>
+      <h2>2022 ACF Winter</h2>
+    </th>
+    <th>
+      <h2>2023 ACF Regionals</h2>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      October 15, 2022
+    </td>
+    <td>
+      November 5, 2022
+    </td>
+    <td>
+      January 28, 2023
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Head editors: Arjun Nageswaran and Steven Liu
+    </td>
+    <td>
+      Head editor: Joseph Krol
+    </td>
+    <td>
+      Head editor: Nick Jensen
+    </td>
+  </tr>
+</table>
+
 <!-- Set title and description in config.yml -->
 
 {% comment %}
