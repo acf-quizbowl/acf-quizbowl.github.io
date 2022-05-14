@@ -70,17 +70,17 @@ ACF’s officers also serve as ACF’s board of directors.
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Arjun Nageswaran and Steven Liu</td>
 <td>2022 ACF Fall</td>
 <td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td></td>
+<td>Joseph Krol</td>
 <td>2022 ACF Winter</td>
 <td><a href="mailto:winter@acf-quizbowl.com">winter@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td></td>
+<td>Nick Jensen</td>
 <td>2023 ACF Regionals</td>
 <td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
 </tr>
