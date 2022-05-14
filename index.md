@@ -5,13 +5,13 @@ layout: home
 <table>
   <tr>
     <th>
-      <h2>2022 ACF Fall</h2>
+      <h4>2022 ACF Fall</h4>
     </th>
     <th>
-      <h2>2022 ACF Winter</h2>
+      <h4>2022 ACF Winter</h4>
     </th>
     <th>
-      <h2>2023 ACF Regionals</h2>
+      <h4>2023 ACF Regionals</h4>
     </th>
   </tr>
   <tr>
@@ -27,7 +27,7 @@ layout: home
   </tr>
   <tr>
     <td>
-      Head editors: Arjun Nageswaran and Steven Liu
+      Head editors: Arjun Nageswaran <br>and Steven Liu
     </td>
     <td>
       Head editor: Joseph Krol
