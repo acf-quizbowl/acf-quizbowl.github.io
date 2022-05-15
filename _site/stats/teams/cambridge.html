@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   <head>
 
@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Cambridge Statistics</title>
-  <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments are written to reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
+  <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
 
   
   
@@ -38,8 +38,8 @@
 
     <div class="clearfix border-bottom-thick header-border py-1 mt-1 mt-lg-0">
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
-    <a class="navbar-brand" href="/">
-        <img src="/logo.png" class="img-fluid ml-2" height="40" width="40">
+    <a class="navbar-brand" href="/" aria-label="Home page">
+        <img src="/logo.png" alt="ACF logo" class="img-fluid ml-2" height="44" width="44">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -47,51 +47,58 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              About
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownAbout" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              About ACF
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownAbout">
               <a class="dropdown-item" href="/about">About ACF</a>
               <a class="dropdown-item" href="/members">Members</a>
               <a class="dropdown-item" href="/constitution">Constitution</a>
+              <a class="dropdown-item" href="/carper">Carper Award</a>
               <a class="dropdown-item" href="/blog">Blog</a>
               <!-- <a class="dropdown-item" href="/donate">Donate</a> -->
             </div>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTournaments" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Tournaments
             </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              <h6 class="dropdown-header">Tournament Pages</h6>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownTournaments">
+              <h6 class="dropdown-header">Tournament Information</h6>
               <a class="dropdown-item" href="/fall">ACF Fall</a>
               <a class="dropdown-item" href="/winter">ACF Winter</a>
               <a class="dropdown-item" href="/regionals">ACF Regionals</a>
               <a class="dropdown-item" href="/nationals">ACF Nationals</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">General Information</h6>
-              <a class="dropdown-item" href="/distribution">Distribution</a>
+              <a class="dropdown-item" href="/distribution">ACF Distribution</a>
               <a class="dropdown-item" href="/packet-submission-guidelines">Packet Submission Guidelines</a>
+              <div class="dropdown-divider"></div>
+              <h6 class="dropdown-header">ACF Nationals Information</h6>
+              <a class="dropdown-item" href="/nationals-qualification">Nationals Qualification</a>
+              <!-- Nationals website -->
+              <!-- A-values -->
             </div>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownResources" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Resources
             </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownResources">
               <h6 class="dropdown-header">Rules</h6>
               <a class="dropdown-item" href="/eligibility-rules">ACF Eligibility Rules</a>
               <a class="dropdown-item" href="/gameplay-rules">ACF Gameplay Rules</a>
+              <a class="dropdown-item" href="/policies">Miscellaneous Policies</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">Guidelines</h6>
               <a class="dropdown-item" href="/hosting-guidelines">ACF Hosting Guidelines</a>
               <a class="dropdown-item" href="/packet-submission-guidelines">ACF Packet Submission Guidelines</a>
+              <a class="dropdown-item" href="/formats">ACF Tournament Formats</a>
               <div class="dropdown-divider"></div>
-              <h6 class="dropdown-header">Trainings</h6>
+              <h6 class="dropdown-header">Training</h6>
               <a class="dropdown-item" href="/online-moderator-training">Online Moderator Training</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">Documents</h6>
-              <a class="dropdown-item" href="/formats">ACF Formats</a>
               <a class="dropdown-item" href="/why-packet-submission">Why Packet Submission?</a>
               <a class="dropdown-item" href="/jerry-guide">Guide to Writing Questions</a>
               <div class="dropdown-divider"></div>
@@ -104,6 +111,7 @@
     </div>
   </nav>
 </div>
+
 
     <div>
       <article class="stats-container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">

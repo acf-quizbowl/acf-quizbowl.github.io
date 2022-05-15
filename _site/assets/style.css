@@ -5,9 +5,9 @@
 input, select, textarea, button { font-family: inherit; font-size: inherit; line-height: inherit; }
 
 /** Basic styling */
-body { margin: 0; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.125em; line-height: 1.5; color: #111; background-color: #fff; }
+body { margin: 0; font-family: sans-serif; font-size: 1.0625em; line-height: 1.5; color: #111; background-color: #fff; }
 
-h1, h2, h3, h4, h5, h6 { color: #023B7F; margin-top: 1.25em; margin-bottom: 0.5em; }
+h1, h2, h3, h4, h5, h6 { margin-top: 1.25em; margin-bottom: 0.5em; }
 
 h1, .h1 { font-size: 1.5em; }
 
@@ -41,8 +41,9 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose blockquote { font-size: 1.15em; line-height: 1.375; padding-left: 20px; margin: 40px 0 40px -16px; border-left: 8px solid #ddd; font-style: italic; color: #4279C1; }
 @media (min-width: 100%) { .prose blockquote { padding-left: 32px; margin: 64px 0 64px -40px; max-width: 110%; } }
 .prose hr { color: #023B7F; border-style: solid; border-width: thin; margin-top: 2em; margin-bottom: -2em; width: 50%; margin-left: 15%; text-align: center; }
-.prose dt { font-weight: bold; font-style: italic; line-height: 1.25; }
-.prose dd { font-style: italic; margin-bottom: 0.5em; }
+.prose dl { margin-left: 1em; }
+.prose dt { font-weight: bold; line-height: 1.25; }
+.prose dd { margin-bottom: 0.5em; }
 .prose table { border-collapse: collapse; margin-bottom: .5em; overflow: auto; word-break: normal; word-break: keep-all; }
 .prose table th { font-weight: bold; text-align: left; color: #023B7F; }
 .prose table th, .prose table td { padding: 3px 6px; vertical-align: top; }
@@ -56,7 +57,7 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose table.schedule th, .prose table.schedule td { text-align: center; width: 5em; }
 .prose table.distribution { width: 100%; }
 .prose table.distribution thead tr th { position: sticky; top: 0; background-color: white; }
-.prose table.distribution tr.category td { font-weight: bold; background-color: #d1d3d4; border-top: 1px solid #023B7F; }
+.prose table.distribution tr.category td { font-weight: bold; background-color: #dbdcde; border-top: 1px solid #023B7F; }
 .prose table.distribution tr.subcategory td:first-child { padding-left: 2em; }
 .prose table.distribution thead th:nth-child(n+2), .prose table.distribution thead td:nth-child(n+2), .prose table.distribution tbody th:nth-child(n+2), .prose table.distribution tbody td:nth-child(n+2) { text-align: center; }
 
@@ -285,9 +286,13 @@ a.active { color: #4279C1; }
 
 a[href="#top"] { text-decoration: none; color: #7EB7FD; }
 
+p a[href^="mailto:"] { background: url('data:image/svg+xml,%3Csvg width="20" height="14" viewBox="0 0 10 7" xmlns="http://www.w3.org/2000/svg" stroke="%23033b80" stroke-linejoin="round" stroke-width=".69"%3E%3Cpath d="M1 1H9V6H1Z" fill="%237eb7fdab"/%3E%3Cpath d="M1 1L5 4.20L9 1Z" fill="%23427ac069"/%3E%3C/svg%3E') no-repeat left center; padding-left: 24px; }
+
 .a-values { width: 100%; height: 800px; }
 
 .online-rule { color: #4279C1; display: inline; }
+
+.toc-lvl-1-only ul ul { display: none; }
 
 /* Team Career Table */
 th.year-team-career { width: 5%; }

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   <head>
 
@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Official ACF Eligibility Rules</title>
-  <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments are written to reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
+  <title>ACF Eligibility Rules</title>
+  <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
 
   
   
@@ -38,8 +38,8 @@
 
     <div class="clearfix border-bottom-thick header-border py-1 mt-1 mt-lg-0">
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
-    <a class="navbar-brand" href="/">
-        <img src="/logo.png" class="img-fluid ml-2" height="40" width="40">
+    <a class="navbar-brand" href="/" aria-label="Home page">
+        <img src="/logo.png" alt="ACF logo" class="img-fluid ml-2" height="44" width="44">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -47,51 +47,58 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              About
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownAbout" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              About ACF
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownAbout">
               <a class="dropdown-item" href="/about">About ACF</a>
               <a class="dropdown-item" href="/members">Members</a>
               <a class="dropdown-item" href="/constitution">Constitution</a>
+              <a class="dropdown-item" href="/carper">Carper Award</a>
               <a class="dropdown-item" href="/blog">Blog</a>
               <!-- <a class="dropdown-item" href="/donate">Donate</a> -->
             </div>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTournaments" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Tournaments
             </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              <h6 class="dropdown-header">Tournament Pages</h6>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownTournaments">
+              <h6 class="dropdown-header">Tournament Information</h6>
               <a class="dropdown-item" href="/fall">ACF Fall</a>
               <a class="dropdown-item" href="/winter">ACF Winter</a>
               <a class="dropdown-item" href="/regionals">ACF Regionals</a>
               <a class="dropdown-item" href="/nationals">ACF Nationals</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">General Information</h6>
-              <a class="dropdown-item" href="/distribution">Distribution</a>
+              <a class="dropdown-item" href="/distribution">ACF Distribution</a>
               <a class="dropdown-item" href="/packet-submission-guidelines">Packet Submission Guidelines</a>
+              <div class="dropdown-divider"></div>
+              <h6 class="dropdown-header">ACF Nationals Information</h6>
+              <a class="dropdown-item" href="/nationals-qualification">Nationals Qualification</a>
+              <!-- Nationals website -->
+              <!-- A-values -->
             </div>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownResources" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Resources
             </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownResources">
               <h6 class="dropdown-header">Rules</h6>
               <a class="dropdown-item" href="/eligibility-rules">ACF Eligibility Rules</a>
               <a class="dropdown-item" href="/gameplay-rules">ACF Gameplay Rules</a>
+              <a class="dropdown-item" href="/policies">Miscellaneous Policies</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">Guidelines</h6>
               <a class="dropdown-item" href="/hosting-guidelines">ACF Hosting Guidelines</a>
               <a class="dropdown-item" href="/packet-submission-guidelines">ACF Packet Submission Guidelines</a>
+              <a class="dropdown-item" href="/formats">ACF Tournament Formats</a>
               <div class="dropdown-divider"></div>
-              <h6 class="dropdown-header">Trainings</h6>
+              <h6 class="dropdown-header">Training</h6>
               <a class="dropdown-item" href="/online-moderator-training">Online Moderator Training</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">Documents</h6>
-              <a class="dropdown-item" href="/formats">ACF Formats</a>
               <a class="dropdown-item" href="/why-packet-submission">Why Packet Submission?</a>
               <a class="dropdown-item" href="/jerry-guide">Guide to Writing Questions</a>
               <div class="dropdown-divider"></div>
@@ -105,22 +112,17 @@
   </nav>
 </div>
 
+
     <div>
-      <article class="container mx-auto px-2 mt2 mb4">
+      <article class="container mx-auto px-2">
   <header>
-    <h1 class="h0 py-3 mt-3">Official ACF Eligibility Rules</h1>
+    <h1 class="h0 py-1 mt-3">ACF Eligibility Rules</h1>
+    
+    <p class="last-updated">Last updated: October 31, 2021</p>
     
   </header>
-  <div class="col-4 sm-width-full border-top-thin">
-  </div>
-  <div class="prose mb-4 py-3">
-    <h1 id="official-acf-eligibility-rules">Official ACF Eligibility Rules</h1>
-
-<p><strong>Official Player and Team Eligibility Rules</strong></p>
-
-<p><strong>Last revised October 4, 2019</strong></p>
-
-<p><strong>Effective for 2019-20 competition year forward</strong></p>
+  <div class="prose mb-4 py-1">
+    <p><strong>Effective for 2019–2020 competition year forward</strong></p>
 
 <p><em>(The following is a comprehensive set of rules for establishing eligibility at collegiate tournaments. It is formally binding on all sites of official ACF tournaments held within any given competition year, and may be enforced or modified at the tournament director’s discretion at other collegiate tournaments. The official <a href="/gameplay-rules">ACF Gameplay Rules</a> are now a separate document from this one.)</em></p>
 
@@ -132,7 +134,7 @@
   </li>
   <li>For purposes of these rules, a <strong>class</strong> is a college-level class or course taken, for credit, at the institution at which the player is attempting to establish eligibility. <strong>Taking</strong> or <strong>having taken a class</strong> means that, on the date of the tournament, the player is currently enrolled in that class, or has completed that class for credit earlier in the academic competition year.
     <ol>
-      <li>A class is considered to be a part of whichever competition year in which it begins or its first meeting, assignment, etc. is conducted. <em>(For example: A class which begins on March 1, 2016 and ends on August 2, 2016 is considered a part of the 2015-16 competition year, and is therefore not a basis for eligibility in the 2016-17 competition year.)</em> The only exception to the above is if a class is held within a designate “fall term” <em>(or equivalent)</em> which begins prior to August 1 and continues at least through the date of ACF Fall in a given, in which case the class will be treated as though its start date were August 1. <em>(e.g.: A class which begins on July 15, 2016 and ends on December 10, 2016 is considered a part of the 2016-17 competition year.)</em></li>
+      <li>A class is considered to be a part of whichever competition year in which it begins or its first meeting, assignment, etc. is conducted. <em>(For example: A class which begins on March 1, 2016 and ends on August 2, 2016 is considered a part of the 2015–2016 competition year, and is therefore not a basis for eligibility in the 2016–2017 competition year.)</em> The only exception to the above is if a class is held within a designate “fall term” <em>(or equivalent)</em> which begins prior to August 1 and continues at least through the date of ACF Fall in a given, in which case the class will be treated as though its start date were August 1. <em>(e.g.: A class which begins on July 15, 2016 and ends on December 10, 2016 is considered a part of the 2016–2017 competition year.)</em></li>
     </ol>
   </li>
   <li>Any accredited real-world educational institution or school that offers recognized postsecondary degrees of the associate’s, bachelor’s, master’s, or doctorate types <em>(including, e.g., M.Div and JD)</em> may participate in any collegiate-level ACF tournament. This includes all sorts of post-secondary institutions, such as service academies and community colleges. Institutions with the word “online” in their names, or which only provide online certificates (e.. Coursera), or which only provide certificates of completion (e.g. tech “bootcamps”), are not eligible.
@@ -165,7 +167,7 @@
       </li>
     </ol>
   </li>
-  <li>The <strong>ACF Eligibility Committee</strong> for a given competition year consists of the head editors of ACF Fall, ACF Regionals, and ACF Nationals across that competition year. This committee is the final authority on any question of eligibility. Any player, coach or other team adviser, or director of an official ACF tournament may petition the Committee regarding their own eligibility or the eligibility of any other player, both prior to an ACF tournament and up to three weeks after the conclusion of the event. Players who question their own eligibility must petition the committee at least two weeks before the tournament that they wish to play. <em>(If the committee retroactively determines that a player was ineligible, sanctions are available under Rule 10.)</em> Once the committee determines a player to be eligible or ineligible, that decision will stand for the entire competition year unless the educational circumstances of the player in question change, in which case the committee may be asked to re-determine.
+  <li>The <strong>ACF Eligibility Committee</strong> for a given competition year consists of the head editors of ACF Fall, ACF Winter, ACF Regionals, and ACF Nationals across that competition year. This committee is the final authority on any question of eligibility. Any player, coach or other team adviser, or director of an official ACF tournament may petition the Committee regarding their own eligibility or the eligibility of any other player, both prior to an ACF tournament and up to three weeks after the conclusion of the event. Players who question their own eligibility must petition the committee at least two weeks before the tournament that they wish to play. <em>(If the committee retroactively determines that a player was ineligible, sanctions are available under Rule 10.)</em> Once the committee determines a player to be eligible or ineligible, that decision will stand for the entire competition year unless the educational circumstances of the player in question change, in which case the committee may be asked to re-determine.
     <ol>
       <li>The ACF Eligibility Committee reserves the right to investigate or remove someone’s eligibility to play ACF tournaments or play for a particular school if the spirit of the rules, which is generally representable as “college quizbowl is for college students,” is not met.</li>
       <li>Any person entitled to serve on the ACF Eligibility Committee by virtue of being the head editor of ACF Fall, ACF Regionals, or ACF Nationals in a giving competition year may instead designate a proxy to serve on the ACF Eligibility Committee in his/her/their stead, either for a limited duration or for the entire competition year. No person may be designated to serve as a proxy on the ACF Eligibility Committee unless that person is a Full Member of ACF, as defined in the ACF Constitution.</li>
@@ -173,7 +175,7 @@
     </ol>
   </li>
   <li>Holding any prior degree from any institution will not, in and of itself, render an otherwise eligible player ineligible. The taking of minimal course loads for the sole purpose of retaining eligibility at an institution that the player would not otherwise be attending is prohibited. Determining whether this is taking place is at the sole discretion of the Eligibility Committee; players who do not meet the letter of the eligibility rules laid out here but who believe that their circumstances merit consideration should petition the Eligibility Committee before attempting to register for any ACF tournaments.</li>
-  <li>Once a player completes a class or academic obligation which renders them eligible, the eligibility thereby conferred lasts until the end of the competition year in which the class was completed. Players may not participate in tournaments held earlier in a competition year than their classes or other eligibility-granting academic arrangements begin. <em>(Example 1: A player who is on academic leave for fall 2016, at a school which holds semester-long classes in fall 2016 and in spring 2017, may NOT play ACF Fall 2016. If that player resumes student status in spring 2017, that player MAY play ACF Regionals 2017 and/or ACF Nationals 2017.)</em> <em>(Example 2: A player who is enrolled in fall 2016 but on academic leave in spring 2017 may play any of ACF Fall, ACF Regionals, or ACF Nationals across the 2016-17 calendar year.)</em></li>
+  <li>Once a player completes a class or academic obligation which renders them eligible, the eligibility thereby conferred lasts until the end of the competition year in which the class was completed. Players may not participate in tournaments held earlier in a competition year than their classes or other eligibility-granting academic arrangements begin. <em>(Example 1: A player who is on academic leave for fall 2016, at a school which holds semester-long classes in fall 2016 and in spring 2017, may NOT play ACF Fall 2016. If that player resumes student status in spring 2017, that player MAY play ACF Regionals 2017 and/or ACF Nationals 2017.)</em> <em>(Example 2: A player who is enrolled in fall 2016 but on academic leave in spring 2017 may play any of ACF Fall, ACF Regionals, or ACF Nationals across the 2016–2017 calendar year.)</em></li>
   <li>If a player meets the eligibility requirements for a portion of the competition year prior to being awarded a degree in the middle of that same competition year <em>(e.g. receives a Ph.D in January, or graduates and receives a BA in December)</em>, that player retains eligibility to play or that school for the entirety of that same competition year, even if the school has ceased to consider that player an enrolled student.</li>
   <li>Players may play for any collegiate institution for which they are eligible at any given tournament. Players need not apply for special dispensation to play for a second school during a particular academic year if they are able to establish eligibility at the second institution. A player may represent only one institution at any given tournament.</li>
   <li>Teams may consist of individuals from only one school or institution and may not include non-students or individuals enrolled at other schools.
@@ -182,10 +184,10 @@
       <li>With the exception of the above, teams composed of players from multiple institutions or standalone campuses within the same university system are not allowed.</li>
     </ol>
   </li>
-  <li>If a player is determined to be ineligible prior to an event, the sole penalty for that player will be disqualification from playing at that event on the team for which that player is ineligible. Such a player will still be allowed to play the event in question for any other team for which they meet the eligibility requirements of these rules, and their eligibility for future events will not be affected. A team which is discovered after an event to have used one or more ineligible players may be required to retroactively forfeit games involving that player and any titles dependent on the results of those particular games, but no other penalty will apply.</li>
-  <li>For collegiate tournaments which recognize high-finishing teams and/or individuals of “undergraduate” status <em>(such as all official ACF tournaments)</em>, an “undergraduate” is a player who did not receive a BA or equivalent or higher degree prior to the competition year in which the tournament is taking place, AND who first enrolled in a collegiate program in a competition year four or fewer years prior to the competition year in which the tournament is taking place. “Enrolled in a collegiate program” means enrollment at a postsecondary institution for the purpose of taking classes toward an associate’s, bachelor’s, or equivalent degree, excluding any enrollment occurring before the player has obtained a high school degree <em>(such as post-secondary high school programs)</em>. For purposes of this rule, the date of enrollment is the school’s first day of classes in the first period in which the player has enrolled, excluding any summer term. If a particular institution’s fall academic calendar begins before August 1, the player’s date of enrollment will be set as August 1.
+  <li>If it is determined prior to an event that a prospective player is ineligible, the sole penalty for that player will be disqualification from playing at that event on the team for which that player is ineligible. Such a player will still be allowed to play the event in question for any other team for which they meet the eligibility requirements of these rules, and their eligibility for future events will not be affected. A team which is discovered after an event to have used one or more ineligible players may be required to retroactively forfeit games involving that player and any titles dependent on the results of those particular games, but no other penalty will apply.</li>
+  <li>For collegiate tournaments that recognize high-finishing teams and/or individuals of “undergraduate” status <em>(such as all official ACF tournaments)</em>, an “undergraduate” is a player who did not receive a BA or equivalent or higher degree prior to the competition year in which the tournament is taking place, AND who first enrolled in a collegiate program in a competition year four or fewer years prior to the competition year in which the tournament is taking place. “Enrolled in a collegiate program” means enrollment at a postsecondary institution for the purpose of taking classes toward an associate’s, bachelor’s, or equivalent degree, excluding any enrollment occurring before the player has obtained a high school degree <em>(such as post-secondary high school programs)</em>. For purposes of this rule, the date of enrollment is the school’s first day of classes in the first period in which the player has enrolled, excluding any summer term. If a particular institution’s fall academic calendar begins before August 1, the player’s date of enrollment will be set as August 1.
     <ol>
-      <li>For the purposes of determining who is or is not an undergraduate player, any competition years or segments thereof during which that person was unenrolled or on academic leave are counted exactly the same as competition years in which that person had standard or maximal enrollment. <em>(e.g.: A player who first enrolled in college in 2011-12, completed a standard freshman year, took four years of academic leave in a row, and then re-enrolled as an undergraduate in 2016-17 would NOT be considered an undergraduate player for the 2016-17 competition year.)</em></li>
+      <li>For the purposes of determining who is or is not an undergraduate player, any competition years or segments thereof during which that person was unenrolled or on academic leave are counted exactly the same as competition years in which that person had standard or maximal enrollment. <em>(e.g.: A player who first enrolled in college in 2011–2012, completed a standard freshman year, took four years of academic leave in a row, and then re-enrolled as an undergraduate in 2016–2017 would NOT be considered an undergraduate player for the 2016–2017 competition year.)</em></li>
     </ol>
   </li>
   <li>
