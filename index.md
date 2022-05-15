@@ -53,9 +53,13 @@ layout: home
 
 <!-- Set title and description in config.yml -->
 
-{% comment %}
 ## Recent updates
 
+#### May 5, 2022
+[Members](/members)
+: ACF [announced new officers, members, and head editors](https://hsquizbowl.org/forums/viewtopic.php?f=9&t=25323) for the 2022-23 school year.
+
+{% comment %}
 #### November 14, 2021
 [ACF Regionals](/regionals)
 : The bid form is open.
