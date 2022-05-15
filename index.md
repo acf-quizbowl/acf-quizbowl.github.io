@@ -57,7 +57,7 @@ layout: home
 
 #### May 5, 2022
 [Members](/members)
-: ACF [announced new officers, members, and head editors](https://hsquizbowl.org/forums/viewtopic.php?f=9&t=25323) for the 2022-23 school year.
+: ACF [announced new officers, members, and head editors](https://hsquizbowl.org/forums/viewtopic.php?p=389927#p389927) for the 2022-23 school year.
 
 {% comment %}
 #### November 14, 2021
