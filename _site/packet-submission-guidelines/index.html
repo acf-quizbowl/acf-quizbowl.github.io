@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   <head>
 
@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Packet Submission Guidelines</title>
-  <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments are written to reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
+  <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
 
   
   
@@ -38,8 +38,8 @@
 
     <div class="clearfix border-bottom-thick header-border py-1 mt-1 mt-lg-0">
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
-    <a class="navbar-brand" href="/">
-        <img src="/logo.png" class="img-fluid ml-2" height="40" width="40">
+    <a class="navbar-brand" href="/" aria-label="Home page">
+        <img src="/logo.png" alt="ACF logo" class="img-fluid ml-2" height="44" width="44">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -47,51 +47,58 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              About
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownAbout" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              About ACF
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownAbout">
               <a class="dropdown-item" href="/about">About ACF</a>
               <a class="dropdown-item" href="/members">Members</a>
               <a class="dropdown-item" href="/constitution">Constitution</a>
+              <a class="dropdown-item" href="/carper">Carper Award</a>
               <a class="dropdown-item" href="/blog">Blog</a>
               <!-- <a class="dropdown-item" href="/donate">Donate</a> -->
             </div>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTournaments" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Tournaments
             </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              <h6 class="dropdown-header">Tournament Pages</h6>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownTournaments">
+              <h6 class="dropdown-header">Tournament Information</h6>
               <a class="dropdown-item" href="/fall">ACF Fall</a>
               <a class="dropdown-item" href="/winter">ACF Winter</a>
               <a class="dropdown-item" href="/regionals">ACF Regionals</a>
               <a class="dropdown-item" href="/nationals">ACF Nationals</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">General Information</h6>
-              <a class="dropdown-item" href="/distribution">Distribution</a>
+              <a class="dropdown-item" href="/distribution">ACF Distribution</a>
               <a class="dropdown-item" href="/packet-submission-guidelines">Packet Submission Guidelines</a>
+              <div class="dropdown-divider"></div>
+              <h6 class="dropdown-header">ACF Nationals Information</h6>
+              <a class="dropdown-item" href="/nationals-qualification">Nationals Qualification</a>
+              <!-- Nationals website -->
+              <!-- A-values -->
             </div>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownResources" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Resources
             </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownResources">
               <h6 class="dropdown-header">Rules</h6>
               <a class="dropdown-item" href="/eligibility-rules">ACF Eligibility Rules</a>
               <a class="dropdown-item" href="/gameplay-rules">ACF Gameplay Rules</a>
+              <a class="dropdown-item" href="/policies">Miscellaneous Policies</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">Guidelines</h6>
               <a class="dropdown-item" href="/hosting-guidelines">ACF Hosting Guidelines</a>
               <a class="dropdown-item" href="/packet-submission-guidelines">ACF Packet Submission Guidelines</a>
+              <a class="dropdown-item" href="/formats">ACF Tournament Formats</a>
               <div class="dropdown-divider"></div>
-              <h6 class="dropdown-header">Trainings</h6>
+              <h6 class="dropdown-header">Training</h6>
               <a class="dropdown-item" href="/online-moderator-training">Online Moderator Training</a>
               <div class="dropdown-divider"></div>
               <h6 class="dropdown-header">Documents</h6>
-              <a class="dropdown-item" href="/formats">ACF Formats</a>
               <a class="dropdown-item" href="/why-packet-submission">Why Packet Submission?</a>
               <a class="dropdown-item" href="/jerry-guide">Guide to Writing Questions</a>
               <div class="dropdown-divider"></div>
@@ -105,69 +112,92 @@
   </nav>
 </div>
 
+
     <div>
-      <article class="container mx-auto px-2 mt2 mb4">
+      <article class="container mx-auto px-2">
   <header>
-    <h1 class="h0 py-3 mt-3">Packet Submission Guidelines</h1>
+    <h1 class="h0 py-1 mt-3">Packet Submission Guidelines</h1>
     
-    <p style = 'color: #929292'><i>Last Updated: November 12, 2019</i></p>
+    <p class="last-updated">Last updated: February 24, 2021</p>
     
   </header>
-  <div class="col-4 sm-width-full border-top-thin">
-  </div>
-  <div class="prose mb-4 py-3">
+  <div class="prose mb-4 py-1">
     <h1 class="no_toc" id="table-of-contents">Table of Contents</h1>
 <ul id="markdown-toc">
-  <li><a href="#who-needs-to-submit-packets" id="markdown-toc-who-needs-to-submit-packets">Who needs to submit packets?</a></li>
-  <li><a href="#what-counts-as-a-regular-collegiate-academic-quizbowl-tournament" id="markdown-toc-what-counts-as-a-regular-collegiate-academic-quizbowl-tournament">What counts as a “regular, collegiate, academic quizbowl tournament”?</a></li>
+  <li><a href="#who-needs-to-submit-packets" id="markdown-toc-who-needs-to-submit-packets">Who needs to submit packets?</a>    <ul>
+      <li><a href="#for-acf-winter-and-acf-regionals" id="markdown-toc-for-acf-winter-and-acf-regionals">For ACF Winter and ACF Regionals</a></li>
+      <li><a href="#for-acf-fall" id="markdown-toc-for-acf-fall">For ACF Fall</a></li>
+      <li><a href="#what-counts-as-a-mainstream-collegiate-academic-quizbowl-tournament" id="markdown-toc-what-counts-as-a-mainstream-collegiate-academic-quizbowl-tournament">What counts as a “mainstream, collegiate, academic quizbowl tournament”?</a></li>
+    </ul>
+  </li>
   <li><a href="#sample-packet" id="markdown-toc-sample-packet">Sample packet</a></li>
   <li><a href="#packet-submission-checklist" id="markdown-toc-packet-submission-checklist">Packet submission checklist</a></li>
   <li><a href="#how-to-submit-your-packet" id="markdown-toc-how-to-submit-your-packet">How to submit your packet</a></li>
   <li><a href="#distribution" id="markdown-toc-distribution">Distribution</a></li>
-  <li><a href="#question-writing-philosophy" id="markdown-toc-question-writing-philosophy">Question-writing philosophy</a></li>
+  <li><a href="#question-writing-philosophy" id="markdown-toc-question-writing-philosophy">Question-writing philosophy</a>    <ul>
+      <li><a href="#difficulty" id="markdown-toc-difficulty">Difficulty</a></li>
+      <li><a href="#tossups" id="markdown-toc-tossups">Tossups</a></li>
+      <li><a href="#bonuses" id="markdown-toc-bonuses">Bonuses</a></li>
+    </ul>
+  </li>
   <li><a href="#more-guidance-on-writing-questions" id="markdown-toc-more-guidance-on-writing-questions">More guidance on writing questions</a></li>
   <li><a href="#discountspenalties" id="markdown-toc-discountspenalties">Discounts/Penalties</a></li>
   <li><a href="#plagiarism" id="markdown-toc-plagiarism">Plagiarism</a></li>
 </ul>
 
 <h2 id="who-needs-to-submit-packets">Who needs to submit packets?</h2>
-<p>For ACF Winter and ACF Regionals, any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament (either as a college student or as a high school student) the academic year two years prior to the current year, must submit a packet (e.g. any team with two players who played prior to September 1st, 2018 must submit a packet to compete in ACF tournaments in the 2019-2020 academic year.) Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.</p>
 
-<p>ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but are not required to submit in order to play.</p>
+<h3 id="for-acf-winter-and-acf-regionals">For ACF Winter and ACF Regionals</h3>
 
-<h2 id="what-counts-as-a-regular-collegiate-academic-quizbowl-tournament">What counts as a “regular, collegiate, academic quizbowl tournament”?</h2>
-<p>All ACF tournaments, NAQT Division I or Division II SCT, NAQT ICT, and typical academic invitationals and summer opens count as regular collegiate academic tournaments. Novice collegiate events with strict eligiblity requirements do not count as regular collegiate academic tournaments in determining packet requirement.</p>
+<p>Any team with at least two people on it who played a mainstream, collegiate, academic quizbowl tournament prior to September 1 of the previous academic year is required to submit a packet.</p>
 
-<p>Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” questions do not.</p>
+<p><small>For example, any team with two players who played prior to September 1, 2020, must submit a packet in order to compete in ACF tournaments in the 2021–2022 academic year.</small></p>
 
-<p>This test is applied to each individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, then please contact <a href="mailto:eligibility@acf-quizbowl.com">the ACF eligibility committee</a>.</p>
+<p>Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.</p>
+
+<!-- need to add expectation do not discuss submission with anyone until after the tournament is clear/published; or without permission from ACF -->
+
+<h3 id="for-acf-fall">For ACF Fall</h3>
+
+<p>As of 2020, ACF Fall operates on an optional packet submission model. Teams are encouraged to submit packets and receive discounts for submitting, but no team is required to submit a packet in order to play.</p>
+
+<h3 id="what-counts-as-a-mainstream-collegiate-academic-quizbowl-tournament">What counts as a “mainstream, collegiate, academic quizbowl tournament”?</h3>
+
+<p>All ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, typical collegiate academic invitational tournaments, and typical open tournaments count as mainstream collegiate academic quizbowl tournaments.</p>
+
+<p>Playing tournaments either as a college student or as a high school student counts for the packet submission requirement.</p>
+
+<p>Novice collegiate events with strict eligiblity requirements do not count as mainstream collegiate academic tournaments in determining packet submission requirement.
+<!-- as of 2021, needs clarification on whether ACF Fall counts, since it now has eligibility requirements --></p>
+
+<p>Pop culture or “hybrid” tournaments, College Bowl/HCASC, and tournaments played on NAQT “Invitational Series” (IS) questions do not count.</p>
+
+<p>This test is applied to each individual team, not to your school’s contingent as a whole. If you are unsure about whether you are required to write a packet, email <a href="mailto:eligibility@acf-quizbowl.com">ACF’s eligibility committee</a>.</p>
 
 <h2 id="sample-packet">Sample packet</h2>
+
 <p>Want to know what a well-formatted packet looks like? Take a look at this sample packet.</p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRu0cUcpxcLI0wPlCEcZleGhIwyAUIITB-_Zpqr6TdlL2kNDpASIXxs4FLOs6m6ReTYfjFeeJHK3Svi/pub?embedded=true" width="82%" height="600"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRu0cUcpxcLI0wPlCEcZleGhIwyAUIITB-_Zpqr6TdlL2kNDpASIXxs4FLOs6m6ReTYfjFeeJHK3Svi/pub?embedded=true" title="Well-formatted packet" width="82%" height="600"></iframe>
 
 <h2 id="packet-submission-checklist">Packet submission checklist</h2>
-<p>Victor Prieto of Penn State created <a href="https://acf-quizbowl.com/packet-submission-checklist.pdf">a handy checklist</a> of things to keep in mind when writing a packet to submit to an ACF tournament – please make sure your submitted packet checks all these boxes!</p>
+
+<p>Victor Prieto of Penn State created <a href="https://acf-quizbowl.com/packet-submission-checklist.pdf">a handy checklist</a> of things to keep in mind when writing a packet to submit to an ACF tournament. Please make sure your submitted packet checks all these boxes!</p>
 
 <h2 id="how-to-submit-your-packet">How to submit your packet</h2>
 
-<p><strong>Document format</strong></p>
-
-<p>Please submit your packet as a .doc, .docx, or .rtf file. Submit all questions in 10-point Times New Roman font. Your document should have 1-inch margins on all sides. PDFs, .odt, .html, .txt or any other formats are <strong>not acceptable</strong>.</p>
+<p>Submit your packet as a .doc or .docx file. Use 10-point Times New Roman font and 1-inch margins on all sides. PDFs, .odt, .rtf, .html, .txt, or any other formats are not acceptable.</p>
 
 <p><em>If editors cannot open your packet on the first try, they will return your packet to you and have you re-send a fixed version before it is considered submitted for fee purposes.</em></p>
 
-<p><strong>Document Name</strong></p>
+<p>Name your packet using the following scheme:</p>
 
-<p>Please follow the following file-naming scheme when submitting packets:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;Tournament Name&gt; &lt;Year&gt; – &lt;School Name&gt; &lt;Team Name or Letter&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;Year&gt; &lt;Tournament Name&gt; – &lt;School Name&gt; &lt;Team Name or Letter&gt;
 </code></pre></div></div>
 
 <p>For instance, if UC Irvine’s A team is submitting a packet for 2015 ACF Regionals, it should be named:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ACF Regionals 2015 – UC Irvine A
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>2015 ACF Regionals – UC Irvine A
 </code></pre></div></div>
 
 <h2 id="distribution">Distribution</h2>
@@ -175,62 +205,61 @@
 <p>The submitted packet and final packet distributions for ACF tournaments may be found <a href="/distribution">here</a>.</p>
 
 <h2 id="question-writing-philosophy">Question-writing philosophy</h2>
-<p><strong>Difficulty Level</strong></p>
 
-<p>Consult individual tournament announcements for difficulty guidelines.</p>
+<h3 id="difficulty">Difficulty</h3>
 
-<p><strong>Tossups</strong></p>
+<p>Consult individual tournament announcements for guidelines on writing questions of appropriate difficulty.</p>
 
-<p>A simple, two-line description of good tossup writing:</p>
+<h3 id="tossups">Tossups</h3>
 
-<p>Write your tossups on easier topics. Use challenging clues for the leadin, and use progressively easier clues. End your tossups with a giveaway that most in the field would know.</p>
+<p>Write tossups on easier topics. Use challenging clues for the lead-in, and then use progressively easier clues. End your tossups with a giveaway that most players in the tournament should know.</p>
 
-<p>Do NOT write tossups which are:</p>
-
-<ul>
-  <li>Geared towards specific players. You should write your questions for a general audience.</li>
-  <li>Heavy on difficult or easy clues. Make sure you devote appropriate amounts of space to hard, medium, and easy clues.</li>
-  <li>On your pet topics or things which are likely to go unanswered. Dead tossups are the enemy of fun.</li>
-</ul>
-
-<p><strong>Bonuses</strong></p>
-
-<p>Nearly all bonuses should have 3 parts worth 10 points each. Bonuses should have:</p>
+<p>Do not write tossups that:</p>
 
 <ul>
-  <li>An easy part – one which 90% of the field should be able to convert;</li>
-  <li>A ‘medium’ part – one which roughly 50% of the field should be able to convert; and</li>
-  <li>A ‘hard’ part – one which a person well-read in the subject of the should be able to convert.
-If you are unsure about the difficulty of a bonus you are writing, then you should err on the side of easier or write on something else entirely.</li>
+  <li>Are geared towards specific players. You should write your questions for a general audience.</li>
+  <li>Have too many difficult or easy clues. Devote appropriate amounts of space to hard, medium, and easy clues.</li>
+  <li>Are on your pet topics or on things which are likely to go unanswered. Dead tossups are the enemy of fun.</li>
 </ul>
 
-<p>You may, very occasionally, write a bonus with four parts, two worth 5 and two worth 10.</p>
+<h3 id="bonuses">Bonuses</h3>
 
-<p>We prohibit specific types of bonuses and levy penalties on teams that submit packets with prohibited formats. For more information, see the “Discounts/Penalties” section of these guidelines.</p>
+<p>All bonuses should have 3 parts, worth 10 points each. Bonuses should have one easy part, one medium part, and one hard part. Rules of thumb:</p>
+
+<ul>
+  <li>The easy part: 90% of the field should be able to correctly answer</li>
+  <li>The medium part: roughly 50% of the field should be able to correctly answer</li>
+  <li>The hard part: a person who is well-read in the subject should be able to correctly answer</li>
+</ul>
+
+<p>If you are unsure about the difficulty of a bonus you are writing, then you should err on the easier side, or write on something else entirely.</p>
+
+<p>We prohibit specific types of bonuses and levy penalties on teams that submit packets with prohibited formats. For more information, see <a href="#discountspenalties">Discounts/Penalties</a>.</p>
 
 <h2 id="more-guidance-on-writing-questions">More guidance on writing questions</h2>
 
 <p>Please follow ACF formatting guidelines when formatting your packet.</p>
 
-<p>Several ACF editors have provided tips on how to write good questions. Please consult the following guides:</p>
-
-<p><a href="/jerry-guide">Jerry Vinokurov’s Guide to Writing Questions</a> is intended for newcomers and has guides on basic principles of good writing.
-<a href="/subash-guide">Subash Maddipotti’s Tips on Question Writing</a> provide excellent advice on what to avoid when writing questions.
-<a href="/andrew-hart-regular-difficulty">Andrew Hart’s Primer on Regular Difficulty</a> is an excellent resource for teams writing questions for ACF Regionals (or a “regular difficulty” tournament.)</p>
-
-<p>In addition to the above question-writing guides, we encourage you to consult old ACF events as writing models.</p>
-
-<p>We recommend:</p>
+<p>Several past ACF editors have provided tips on how to write good questions. Please consult the following guides:</p>
 
 <ul>
-  <li>For ACF Fall-level difficulty – ACF Fall 2017, ACF Fall 2018, and ACF Fall 2020</li>
-  <li>For ACF Regionals-level difficulty – ACF Regionals 2010 and ACF Regionals 2019</li>
-  <li>For ACF Nationals-level difficulty – ACF Nationals 2017, ACF Nationals 2018, and ACF Nationals 2019</li>
+  <li><a href="/jerry-guide">Jerry Vinokurov’s Guide to Writing Questions</a> is helpful for newcomers and teaches basic principles of good writing.</li>
+  <li><a href="/subash-guide">Subash Maddipotti’s Tips on Question Writing</a> provide excellent advice on what to avoid when writing questions.</li>
+  <li><a href="/andrew-hart-regular-difficulty">Andrew Hart’s Primer on Regular Difficulty</a> is an excellent resource for teams writing questions for ACF Regionals (or a “regular difficulty” tournament).</li>
+</ul>
+
+<p>In addition to the above guides, we recommend that you consult past ACF sets as models of question writing.</p>
+
+<ul>
+  <li>For ACF Fall-level difficulty: 2017 ACF Fall, 2018 ACF Fall, and 2020 ACF Fall</li>
+  <li>For ACF Winter-level difficulty: 2020 ACF Winter</li>
+  <li>For ACF Regionals-level difficulty: 2010 ACF Regionals and 2019 ACF Regionals</li>
+  <li>For ACF Nationals-level difficulty: 2017 ACF Nationals, 2018 ACF Nationals, and 2019 ACF Nationals</li>
 </ul>
 
 <h2 id="discountspenalties">Discounts/Penalties</h2>
 
-<p>We offer discounts for early submission of packets, and levy a penalty for late packet submissions. The exact schedule will be set in each tournament’s announcement.</p>
+<p>We offer discounts for packets submitted early, and levy penalties for packets submitted late. The timeline and the amounts of discounts and penalties is listed in each tournament’s announcement.</p>
 
 <p><strong>Gross deviation from packet-formatting guidelines:</strong> $50 penalty</p>
 
@@ -240,12 +269,15 @@ If you are unsure about the difficulty of a bonus you are writing, then you shou
 
 <ul>
   <li>Spelling questions, i.e. questions for which the answer involves spelling a word.</li>
-  <li>Binary matching questions, i.e. questions of the form “Given X, name Y” which do not have prose clues.</li>
-  <li>5-10-15 bonuses, i.e. bonuses whose hard-parts are worth 15 points. These questions should instead be changed to 10-10-10 bonuses.</li>
+  <li>Binary matching questions, i.e. questions of the form “Given X, name Y” that do not have prose clues.</li>
+  <li>5-10-15 bonuses. These questions should instead be changed to 10-10-10 bonuses.</li>
 </ul>
 
+<p>See also <a href="/hosting-guidelines#penalties-for-egregious-hosting-violations">Penalties</a> in the Hosting Guidelines.</p>
+
 <h2 id="plagiarism">Plagiarism</h2>
-<p>We do not tolerate plagiarism, and there will be consequences for any instances of plagiarism. Please refer to ACF’s policy on plagiarism.</p>
+
+<p>Plagiarism is not tolerated. There will be consequences for any instances of plagiarism.</p>
 
   </div>
 </article>
