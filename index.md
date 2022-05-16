@@ -3,50 +3,53 @@ layout: home
 ---
 
 <table>
-  <tr>
-    <th>
-      <h4 style="margin-bottom:0px">Tournament</h4>
-    </th>
-    <th>
-      <h4 style="margin-bottom:0px">Date</h4>
-    </th>
-    <th>
-      <h4 style="margin-bottom:0px">Head Editor</h4>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      2022 ACF Fall
-    </td>
-    <td>
-      2022 ACF Winter
-    </td>
-    <td>
-      2023 ACF Regionals
-    </td>
-  </tr>
-  <tr>
-    <td>
-      October 15, 2022
-    </td>
-    <td>
-      November 5, 2022
-    </td>
-    <td>
-      January 28, 2023
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Arjun Nageswaran <br>and Steven Liu
-    </td>
-    <td>
-      Joseph Krol
-    </td>
-    <td>
-      Nick Jensen
-    </td>
-  </tr>
+<tr>
+<td>
+Tournament
+</td>
+<td>
+Date
+</td>
+<td>
+Head Editor
+</td>
+</tr>
+
+<tr>
+<td>
+2022 ACF Fall
+</td>
+<td>
+2022 ACF Winter
+</td>
+<td>
+2023 ACF Regionals
+</td>
+</tr>
+
+<tr>
+<td>
+October 15, 2022
+</td>
+<td>
+November 5, 2022
+</td>
+<td>
+January 28, 2023
+</td>
+</tr>
+
+<tr>
+<td>
+Arjun Nageswaran and Steven Liu
+</td>
+<td>
+Joseph Krol
+</td>
+<td>
+Nick Jensen
+</td>
+</tr>
 </table>
 
 <p style="width:620px;">ACF is now accepting subject editor applications for Fall, Winter, and Regionals until <b>June 5, 2022.</b> More information <a href="https://hsquizbowl.org/forums/viewtopic.php?p=390077#p390077">about editor applications</a>.</p>
