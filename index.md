@@ -3,16 +3,17 @@ layout: home
 ---
 
 <table>
+
 <tr>
-<td>
+<th>
 Tournament
-</td>
-<td>
+</th>
+<th>
 Date
-</td>
-<td>
+</th>
+<th>
 Head Editor
-</td>
+</th>
 </tr>
 
 <tr>
@@ -20,31 +21,31 @@ Head Editor
 2022 ACF Fall
 </td>
 <td>
-2022 ACF Winter
+October 15, 2022
 </td>
 <td>
-2023 ACF Regionals
+Arjun Nageswaran and Steven Liu
 </td>
 </tr>
 
 <tr>
 <td>
-October 15, 2022
+2022 ACF Winter
 </td>
 <td>
 November 5, 2022
 </td>
 <td>
-January 28, 2023
+Joseph Krol
 </td>
 </tr>
 
 <tr>
 <td>
-Arjun Nageswaran and Steven Liu
+2023 ACF Regionals
 </td>
 <td>
-Joseph Krol
+January 28, 2023
 </td>
 <td>
 Nick Jensen
