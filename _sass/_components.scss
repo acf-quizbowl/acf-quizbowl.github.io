@@ -14,7 +14,6 @@ code {
     padding: 1px 0px;
 }
 
-
 .prose {
 
   a {
@@ -175,6 +174,29 @@ code {
       }
     }
   }
+
+  // specific to pages with table of contents
+  .toc {
+    background-color:$blue-1;
+    padding:20px;
+    position:sticky;
+    box-sizing:border-box;
+    top:20px;
+    border-radius:$border-radius;
+    height:auto;
+    width:250px;
+    margin-top:-95px;
+
+    li { list-style-type: none; }
+    ul { padding:0; margin:0; max-width:100%; }
+    h2 { padding:0; margin:0px 0px 10px 0px; }
+    a, h2 {
+      color:$blue-dark;
+    }
+  }
+  article {
+    width:700px;
+}
 }
 
 nav {
