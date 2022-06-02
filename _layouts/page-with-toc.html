@@ -5,22 +5,35 @@ layout: default
   /* smooth scrolling */
   html {
     scroll-behavior: smooth;
+    @media screen and (prefers-reduced-motion: reduce) { scroll-behavior: auto; }
   }
-  /* alignment to account for toc + article elements */
-  .prose { 
-    width:1000px;
-    display:flex;
-    gap:50px;
-    justify-content:space-between;
-    margin-left: calc(50% - 150px); /* offsets toc */
-    transform: translateX(-50%);
-    align-items:flex-start;
+  .navbar-brand {
+    margin-left:300px;
   }
-
   header {
     width:700px;
-    margin:auto;
+    position:absolute;
+    left:400px;
   }
+
+  @media only screen and (max-width: 1200px) {
+    header {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
+
+  /* alignment to account for toc + article elements */
+   .prose { 
+    /* width:1000px; */
+    /* display:flex; */
+    /* gap:50px; */
+    /* justify-content:space-between; */
+    /* margin-left: calc(50% - 150px); */
+    /* transform: translateX(-50%); */
+    /* align-items:flex-start; */
+  }
+
 </style>
 <article class="container mx-auto px-2">
   <header>

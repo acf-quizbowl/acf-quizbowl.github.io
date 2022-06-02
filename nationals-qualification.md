@@ -5,17 +5,11 @@ permalink: /nationals-qualification/
 last_updated: March 22, 2022
 ---
 
-<!-- style the table of contents to the side as needed -->
-
-<!-- # Table of Contents -->
-<!-- {: .no_toc class="toc_header"} -->
-<!-- <div class="toc_container" markdown="1"> -->
 <div class="toc" markdown="1">
 <h2>Table of Contents</h2>
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc class="toc"}
 </div>
-<!-- </div> -->
 
 <article markdown="1">
 *A-values for 2022 ACF Nationals qualification are [here](/a-values).*

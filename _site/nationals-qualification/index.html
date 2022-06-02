@@ -118,22 +118,35 @@
   /* smooth scrolling */
   html {
     scroll-behavior: smooth;
+    @media screen and (prefers-reduced-motion: reduce) { scroll-behavior: auto; }
   }
-  /* alignment to account for toc + article elements */
-  .prose { 
-    width:1000px;
-    display:flex;
-    gap:50px;
-    justify-content:space-between;
-    margin-left: calc(50% - 150px); /* offsets toc */
-    transform: translateX(-50%);
-    align-items:flex-start;
+  .navbar-brand {
+    margin-left:300px;
   }
-
   header {
     width:700px;
-    margin:auto;
+    position:absolute;
+    left:400px;
   }
+
+  @media only screen and (max-width: 1200px) {
+    header {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
+
+  /* alignment to account for toc + article elements */
+   .prose { 
+    /* width:1000px; */
+    /* display:flex; */
+    /* gap:50px; */
+    /* justify-content:space-between; */
+    /* margin-left: calc(50% - 150px); */
+    /* transform: translateX(-50%); */
+    /* align-items:flex-start; */
+  }
+
 </style>
 <article class="container mx-auto px-2">
   <header>
@@ -143,12 +156,7 @@
     
   </header>
   <div class="prose mb-4 py-1">
-    <!-- style the table of contents to the side as needed -->
-
-<!-- # Table of Contents -->
-<!-- {: .no_toc class="toc_header"} -->
-<!-- <div class="toc_container" markdown="1"> -->
-<div class="toc">
+    <div class="toc">
   <h2>Table of Contents</h2>
 <ul class="toc" id="markdown-toc">
   <li><a href="#qualification-methods" id="markdown-toc-qualification-methods">Qualification methods</a></li>
@@ -158,7 +166,6 @@
 </ul>
 
 </div>
-<!-- </div> -->
 
 <article>
   <p><em>A-values for 2022 ACF Nationals qualification are <a href="/a-values">here</a>.</em></p>
@@ -206,7 +213,6 @@
 
   </div>
 </article>
-
     </div>
   </body>
 

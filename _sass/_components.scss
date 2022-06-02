@@ -176,16 +176,24 @@ code {
   }
 
   // specific to pages with table of contents
+  // .toc-con {
+  //   position:absolute;
+  //   top:0px;
+  //   height:100%;
+  //   left:0px;
+  // }
   .toc {
     background-color:$blue-1;
-    padding:20px;
-    position:sticky;
+    padding:50px;
+    // position:sticky;
+    position:fixed;
     box-sizing:border-box;
-    top:20px;
-    border-radius:$border-radius;
-    height:auto;
-    width:250px;
-    margin-top:-95px;
+    top:0px;
+    // border-radius:$border-radius;
+    height:100%;
+    width:300px;
+    // margin-top:-95px;
+    left:0px;
 
     li { list-style-type: none; }
     ul { padding:0; margin:0; max-width:100%; }
@@ -194,9 +202,29 @@ code {
       color:$blue-dark;
     }
   }
+
   article {
     width:700px;
-}
+    position:absolute;
+    left:400px;
+    top:200px;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    article {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
+
+  // @media only screen and (max-width: 1000px) {
+  //   // .toc {
+  //   //   width:25vw;
+  //   // }
+  //   article {
+  //     width:70vw;
+  //   }
+  // }
 }
 
 nav {
