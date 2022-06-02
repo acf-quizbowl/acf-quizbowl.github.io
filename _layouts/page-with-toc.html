@@ -30,6 +30,10 @@ layout: default
     top:200px;
   }
 
+  .menu { 
+    display:none;
+  }
+
   @media only screen and (max-width: 1200px) {
     header, .toc-article {
       width:calc(100vw - 400px);
@@ -46,18 +50,16 @@ layout: default
       width:80vw;
       left:10vw;
       margin:auto;
-      /* position:absolute; */
-      /* left:10vw; */
     }
 
     .navbar-brand {
-      margin-left:0.5rem;
+      margin-left:0.5rem; /* TODO not quite accurate and has spacing variable - fix */
     }
   }
 </style>
 <article class="container mx-auto px-2">
   <header>
-    <h1 class="h0 py-1 mt-3">{{ page.title }}</h1>
+    <h1 class="h0 py-1 mt-3">{{ page.title }}</h1><span class="menu">CLICK</span>
     {% if page.last_updated %}
     <p class="last-updated">Last updated: {{ page.last_updated }}</p>
     {% endif %}
@@ -66,3 +68,18 @@ layout: default
     {{ content }}
   </div>
 </article>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+// $('.menu').toggle(
+// function() {
+//     $('.toc').css('left', '0')
+// }, function() {
+//     $('.toc').css('left', '200')
+// })
+$( ".menu" ).click(function() {
+  $( ".toc" ).toggle( "slow", function() {
+    // Animation complete.
+  });
+});
+</script>

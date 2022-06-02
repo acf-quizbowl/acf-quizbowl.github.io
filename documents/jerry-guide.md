@@ -1,14 +1,15 @@
 ---
-layout: page
+layout: page-with-toc
 title: Jerry Vinokurov’s Guide to Writing Questions
 permalink: /jerry-guide/
 ---
 
-# Table of Contents
-{: .no_toc}
+<div class="toc" markdown="1">
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+{:toc class="toc"}
+</div>
 
+<article class="toc-article" markdown="1">
 *If you have any questions regarding this guide, please contact [Jerry](mailto:grapesmoker@gmail.com).*
 
 Now that the discussion of the various tournaments has finally petered out, I thought I’d promulgate some dogma on question writing, seeing as how I’m always yelling really loudly about question quality and such. I encourage other players to contribute, and I’ll incorporate good suggestions into the original post. Before I get going, I’d like to point out that many of the things I’ll be writing about are settled issues with respect to question writing, but many others reflect my own stylistic preferences, and I’ll be sure to try and point out which are my own biases. To begin:
@@ -114,3 +115,4 @@ I’ve done my best to cover how questions ought to be written; now I’ll point
 Ok, this has been long for me to write and for you to read, so I’ll wrap it up right here. Some closing comments: contrary to what you may have heard, standards are not “optional” and while there remain debates about specific things in question writing, most of the core issues really are settled in good tournaments. The outstanding debates are like the outstanding debates about evolution: no one with any expertise in the subject disagrees on the core, though they may debate the specific mechanisms. I hate to make it seem like I’m some sort of quizbowl pope speaking ex cathedra, but it’s pretty much true. These issues have been hashed out over the years by experienced players and a lot of thought has gone into making quizbowl questions good. If you are a new player, do not ignore these guidelines and attempt to reinvent the wheel. Rather, take note of these rules, read them once, maybe twice, and then read them again when you feel compelled to write a crappy question.
 
 I welcome everyone’s comments on this document, including any suggestions for things I might have missed. I will incorporate good ideas into this original post, which will hopefully be stickied for future reference. If it occurs to me to add something, I’ll do so (I plan a little addendum on time management in editing in the future). I also plan to do a dissection of good questions and bad questions somewhere down the line in this thread to give people an idea of what distinguishes one from the other. If other experienced players would care to pitch in with their own ideas, I’m sure that working together we can make this quizbowling world a better place.
+</article>

@@ -114,16 +114,72 @@
 
 
     <div>
-      <article class="container mx-auto px-2">
+      <style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+    @media screen and (prefers-reduced-motion: reduce) { scroll-behavior: auto; }
+  }
+  .navbar-brand {
+    margin-left:300px;
+  }
+  header {
+    width:700px;
+    position:absolute;
+    left:400px;
+  }
+
+  /* @media only screen and (max-width: 1200px) {
+    header {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  } */
+
+  .toc-article {
+    width:700px;
+    position:absolute;
+    left:400px;
+    top:200px;
+  }
+
+  .menu { 
+    display:none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    header, .toc-article {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display:none;
+    }
+
+    header, .toc-article {
+      width:80vw;
+      left:10vw;
+      margin:auto;
+    }
+
+    .navbar-brand {
+      margin-left:0.5rem; /* TODO not quite accurate and has spacing variable - fix */
+    }
+  }
+</style>
+<article class="container mx-auto px-2">
   <header>
-    <h1 class="h0 py-1 mt-3">Formats for ACF Tournaments</h1>
+    <h1 class="h0 py-1 mt-3">Formats for ACF Tournaments</h1><span class="menu">CLICK</span>
     
     <p class="last-updated">Last updated: October 29, 2019</p>
     
   </header>
   <div class="prose mb-4 py-1">
-    <h1 class="no_toc" id="table-of-contents">Table of Contents</h1>
-<ul id="markdown-toc">
+    <div class="toc">
+<ul class="toc" id="markdown-toc">
   <li><a href="#table-of-formats" id="markdown-toc-table-of-formats">Table of Formats</a></li>
   <li><a href="#round-robin-schedules" id="markdown-toc-round-robin-schedules">Round-robin schedules</a></li>
   <li><a href="#determining-winloss-records" id="markdown-toc-determining-winloss-records">Determining win–loss records</a></li>
@@ -135,8 +191,11 @@
   </li>
 </ul>
 
-<h1 id="table-of-formats">Table of Formats</h1>
-<table>
+</div>
+
+<article class="toc-article">
+  <h1 id="table-of-formats">Table of Formats</h1>
+  <table>
  <thead>
   <tr>
    <th style="width: 6em;"># teams</th>
@@ -343,11 +402,11 @@
 </tbody>
 </table>
 
-<h1 id="round-robin-schedules">Round-robin schedules</h1>
+  <h1 id="round-robin-schedules">Round-robin schedules</h1>
 
-<h2 class="no_toc" id="3-teams">3 teams</h2>
+  <h2 class="no_toc" id="teams">3 teams</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -374,9 +433,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="4-teams">4 teams</h2>
+  <h2 class="no_toc" id="teams-1">4 teams</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -403,9 +462,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="5-teams">5 teams</h2>
+  <h2 class="no_toc" id="teams-2">5 teams</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -448,9 +507,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="6-teams-no-byes">6 teams, no byes</h2>
+  <h2 class="no_toc" id="teams-no-byes">6 teams, no byes</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -493,9 +552,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="6-teams-limited-single-bye">6 teams, limited single bye</h2>
+  <h2 class="no_toc" id="teams-limited-single-bye">6 teams, limited single bye</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -551,9 +610,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="7-teams">7 teams</h2>
+  <h2 class="no_toc" id="teams-3">7 teams</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -616,9 +675,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="8-teams-no-byes">8 teams, no byes</h2>
+  <h2 class="no_toc" id="teams-no-byes-1">8 teams, no byes</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -681,9 +740,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="8-teams-limited-single-bye">8 teams, limited single bye</h2>
+  <h2 class="no_toc" id="teams-limited-single-bye-1">8 teams, limited single bye</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -762,9 +821,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="9-teams">9 teams</h2>
+  <h2 class="no_toc" id="teams-4">9 teams</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -851,11 +910,11 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="10-teams-no-byes">10 teams, no byes</h2>
+  <h2 class="no_toc" id="teams-no-byes-2">10 teams, no byes</h2>
 
-<p><em>Taken from “Designing Schedules for Leagues and Tournaments” by Jeffrey H. Dinitz</em></p>
+  <p><em>Taken from “Designing Schedules for Leagues and Tournaments” by Jeffrey H. Dinitz</em></p>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -942,9 +1001,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="10-teams-limited-single-bye">10 teams, limited single bye</h2>
+  <h2 class="no_toc" id="teams-limited-single-bye-2">10 teams, limited single bye</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -1050,9 +1109,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="11-teams">11 teams</h2>
+  <h2 class="no_toc" id="teams-5">11 teams</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -1167,9 +1226,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="12-teams-no-byes">12 teams, no byes</h2>
+  <h2 class="no_toc" id="teams-no-byes-3">12 teams, no byes</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -1284,9 +1343,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="12-teams-limited-single-bye">12 teams, limited single bye</h2>
+  <h2 class="no_toc" id="teams-limited-single-bye-3">12 teams, limited single bye</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -1423,9 +1482,9 @@
 </tbody>
 </table>
 
-<h2 class="no_toc" id="13-teams">13 teams</h2>
+  <h2 class="no_toc" id="teams-6">13 teams</h2>
 
-<table class="table table-striped schedule">
+  <table class="table table-striped schedule">
  <thead>
   <tr>
    <th>Round</th>
@@ -1572,41 +1631,56 @@
 </tbody>
 </table>
 
-<h1 id="determining-winloss-records">Determining win–loss records</h1>
+  <h1 id="determining-winloss-records">Determining win–loss records</h1>
 
-<p>If all teams in a given playoff bracket have played the same pool of preliminary opponents, their preliminary win–loss records carry over to playoffs. This is usually the case when a large preliminary field is broken down into smaller playoff brackets.</p>
+  <p>If all teams in a given playoff bracket have played the same pool of preliminary opponents, their preliminary win–loss records carry over to playoffs. This is usually the case when a large preliminary field is broken down into smaller playoff brackets.</p>
 
-<p>If multiple preliminary brackets feed into each playoff bracket, the only games that carry over to playoffs are any preliminary games played against opponents placed in the same playoff bracket. This is usually the case when a very large preliminary field is broken into multiple preliminary brackets, followed by crossover playoff games.</p>
+  <p>If multiple preliminary brackets feed into each playoff bracket, the only games that carry over to playoffs are any preliminary games played against opponents placed in the same playoff bracket. This is usually the case when a very large preliminary field is broken into multiple preliminary brackets, followed by crossover playoff games.</p>
 
-<h1 id="finals-procedures">Finals procedures</h1>
+  <h1 id="finals-procedures">Finals procedures</h1>
 
-<p>The procedures below should be used for overall finals.</p>
+  <p>The procedures below should be used for overall finals.</p>
 
-<h2 id="undergraduate-and-division-ii">Undergraduate and Division II</h2>
+  <h2 id="undergraduate-and-division-ii">Undergraduate and Division II</h2>
 
-<p>If there are at least four Undergraduate teams and/or four Division II teams, but the field is not <em>entirely</em> comprised of those teams (see ACF’s <a href="/hosting-guidelines#trophies">trophy policies</a>, these procedures should also be used for those titles.</p>
+  <p>If there are at least four Undergraduate teams and/or four Division II teams, but the field is not <em>entirely</em> comprised of those teams (see ACF’s <a href="/hosting-guidelines#trophies">trophy policies</a>, these procedures should also be used for those titles.</p>
 
-<p>If the field composition merits awarding Undergraduate and/or Division II titles and the tournament format involves rebracketing, and only one Undergraduate and/or Division II team is in the top bracket, they automatically win that title. If an Undergraduate and/or Division II team finishes one game ahead of another Undergraduate and/or Division II team, but the team with the higher placement is involved with finals procedures, they automatically win that title.</p>
+  <p>If the field composition merits awarding Undergraduate and/or Division II titles and the tournament format involves rebracketing, and only one Undergraduate and/or Division II team is in the top bracket, they automatically win that title. If an Undergraduate and/or Division II team finishes one game ahead of another Undergraduate and/or Division II team, but the team with the higher placement is involved with finals procedures, they automatically win that title.</p>
 
-<h2 id="two-teams">Two teams</h2>
+  <h2 id="two-teams">Two teams</h2>
 
-<p>At the end of normal phases of play, if the top team is two or more games ahead of the second-place team, no final is played. The phrases “games ahead” or “games behind” is defined <a href="https://en.wikipedia.org/wiki/Games_behind">here</a>.</p>
+  <p>At the end of normal phases of play, if the top team is two or more games ahead of the second-place team, no final is played. The phrases “games ahead” or “games behind” is defined <a href="https://en.wikipedia.org/wiki/Games_behind">here</a>.</p>
 
-<p>If the top team is one game ahead of the second-place team, the two teams play a disadvantaged final series of up to two games. If the top team wins the first final game, they are declared the tournament winner. If the second-place team wins the first final game, the teams play a second final game, the winner of which is declared the tournament winner.</p>
+  <p>If the top team is one game ahead of the second-place team, the two teams play a disadvantaged final series of up to two games. If the top team wins the first final game, they are declared the tournament winner. If the second-place team wins the first final game, the teams play a second final game, the winner of which is declared the tournament winner.</p>
 
-<p>If the top two teams have the same record, they play a single game to determine the tournament winner.</p>
+  <p>If the top two teams have the same record, they play a single game to determine the tournament winner.</p>
 
-<h2 id="more-than-two-teams">More than two teams</h2>
+  <h2 id="more-than-two-teams">More than two teams</h2>
 
-<p>If two teams are tied for second place, with records that put them one game behind a team in first place, the tied teams play a single game (a “play-in” game). The winner of the play-in game then plays a disadvantaged final against the top team, in a standard final series of up to two games.</p>
+  <p>If two teams are tied for second place, with records that put them one game behind a team in first place, the tied teams play a single game (a “play-in” game). The winner of the play-in game then plays a disadvantaged final against the top team, in a standard final series of up to two games.</p>
 
-<p>If three teams are tied for first place, they are seeded statistically by points per game by common games. This may include both carried-over preliminary games and playoff games, see the <a href="/stats-guide">Statistics guidelines</a>. The second- and third-seeded teams play a play-in game, the winner of which plays a single-game final against the first-seeded team.</p>
+  <p>If three teams are tied for first place, they are seeded statistically by points per game by common games. This may include both carried-over preliminary games and playoff games, see the <a href="/stats-guide">Statistics guidelines</a>. The second- and third-seeded teams play a play-in game, the winner of which plays a single-game final against the first-seeded team.</p>
 
-<p>If four teams are tied for first place, they are seeded statistically by points per game by common games. The first- and fourth-seeded teams and the second- and third-seeded teams play a semi-finals game. The winners of those two games play a single-game final.</p>
+  <p>If four teams are tied for first place, they are seeded statistically by points per game by common games. The first- and fourth-seeded teams and the second- and third-seeded teams play a semi-finals game. The winners of those two games play a single-game final.</p>
+</article>
 
   </div>
 </article>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+// $('.menu').toggle(
+// function() {
+//     $('.toc').css('left', '0')
+// }, function() {
+//     $('.toc').css('left', '200')
+// })
+$( ".menu" ).click(function() {
+  $( ".toc" ).toggle( "slow", function() {
+    // Animation complete.
+  });
+});
+</script>
     </div>
   </body>
 

@@ -114,9 +114,65 @@
 
 
     <div>
-      <article class="container mx-auto px-2">
+      <style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+    @media screen and (prefers-reduced-motion: reduce) { scroll-behavior: auto; }
+  }
+  .navbar-brand {
+    margin-left:300px;
+  }
+  header {
+    width:700px;
+    position:absolute;
+    left:400px;
+  }
+
+  /* @media only screen and (max-width: 1200px) {
+    header {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  } */
+
+  .toc-article {
+    width:700px;
+    position:absolute;
+    left:400px;
+    top:200px;
+  }
+
+  .menu { 
+    display:none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    header, .toc-article {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display:none;
+    }
+
+    header, .toc-article {
+      width:80vw;
+      left:10vw;
+      margin:auto;
+    }
+
+    .navbar-brand {
+      margin-left:0.5rem; /* TODO not quite accurate and has spacing variable - fix */
+    }
+  }
+</style>
+<article class="container mx-auto px-2">
   <header>
-    <h1 class="h0 py-1 mt-3">2022 ACF Nationals A-values</h1>
+    <h1 class="h0 py-1 mt-3">2022 ACF Nationals A-values</h1><span class="menu">CLICK</span>
     
     <p class="last-updated">Last updated: March 22, 2022</p>
     
@@ -124,53 +180,71 @@
   <div class="prose mb-4 py-1">
     <!-- probably move under /nationals/ -->
 
-<h1 class="no_toc" id="table-of-contents">Table of Contents</h1>
-<ul id="markdown-toc">
+<div class="toc">
+<ul class="toc" id="markdown-toc">
   <li><a href="#a-values" id="markdown-toc-a-values">A-values</a></li>
   <li><a href="#bid-acceptance" id="markdown-toc-bid-acceptance">Bid acceptance</a></li>
   <li><a href="#waitlist" id="markdown-toc-waitlist">Waitlist</a></li>
   <li><a href="#standby" id="markdown-toc-standby">Standby</a></li>
 </ul>
 
-<h2 id="a-values">A-values</h2>
+</div>
 
-<p><em>For an explanation of how A-values and qualifications are determined, see <a href="/nationals-qualification">here</a>.</em></p>
+<article class="toc-article">
+  <h2 id="a-values">A-values</h2>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMX61yMsz8Zg5HVKySWrAhZAliMtKxbmlRvdBlLqGiwRzEfEmHa6hKYkANuGJp-tDftBIhrsiqreu3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" class="a-values"></iframe>
+  <p><em>For an explanation of how A-values and qualifications are determined, see <a href="/nationals-qualification">here</a>.</em></p>
 
-<h2 id="bid-acceptance">Bid acceptance</h2>
-<ol>
-  <li>
-    <p>All teams that qualify via A-value or autobid must inform ACF of the acceptance of their bid by <strong>February 15, 2022</strong>. Bid responses should be submitted using the <a href="https://forms.gle/Quwdu5a5MfzT6b8ZA">ACF bid response form</a>.</p>
-  </li>
-  <li>
-    <p>If the field does not fill once the bid acceptance deadline is reached, then all available bids will be awarded in order of descending A-value.</p>
-  </li>
-</ol>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMX61yMsz8Zg5HVKySWrAhZAliMtKxbmlRvdBlLqGiwRzEfEmHa6hKYkANuGJp-tDftBIhrsiqreu3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" class="a-values"></iframe>
 
-<h2 id="waitlist">Waitlist</h2>
-<ol>
-  <li>
-    <p>Teams that have not received a bid to ACF Nationals are invited to sign up for the waitlist. The deadline to sign up for the ACF Nationals waitlist is <strong>February 15, 2022</strong>. To sign up for the waitlist, please fill out the <a href="https://forms.gle/Quwdu5a5MfzT6b8ZA">ACF bid response form</a>, entering “Other” for your team name and entering your team name in the waitlist team name field.</p>
-  </li>
-  <li>
-    <p>If a team declines a bid, that bid will be offered to the teams on the waitlist, in order of descending A-value.</p>
-  </li>
-</ol>
+  <h2 id="bid-acceptance">Bid acceptance</h2>
+  <ol>
+    <li>
+      <p>All teams that qualify via A-value or autobid must inform ACF of the acceptance of their bid by <strong>February 15, 2022</strong>. Bid responses should be submitted using the <a href="https://forms.gle/Quwdu5a5MfzT6b8ZA">ACF bid response form</a>.</p>
+    </li>
+    <li>
+      <p>If the field does not fill once the bid acceptance deadline is reached, then all available bids will be awarded in order of descending A-value.</p>
+    </li>
+  </ol>
 
-<h2 id="standby">Standby</h2>
-<ol>
-  <li>
-    <p>ACF is also looking for teams willing to serve as standby teams in case of last-minute drops. Standby teams must commit to showing up to the tournament day-of; if there are any open spots, they will be able to play ACF Nationals for no entry fee. Otherwise, they are free to staff or explore the Twin Cities.</p>
-  </li>
-  <li>
-    <p>To sign up as a standby team, please email Tournament Director Ryan Rosenberg at <a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a>.</p>
-  </li>
-</ol>
+  <h2 id="waitlist">Waitlist</h2>
+  <ol>
+    <li>
+      <p>Teams that have not received a bid to ACF Nationals are invited to sign up for the waitlist. The deadline to sign up for the ACF Nationals waitlist is <strong>February 15, 2022</strong>. To sign up for the waitlist, please fill out the <a href="https://forms.gle/Quwdu5a5MfzT6b8ZA">ACF bid response form</a>, entering “Other” for your team name and entering your team name in the waitlist team name field.</p>
+    </li>
+    <li>
+      <p>If a team declines a bid, that bid will be offered to the teams on the waitlist, in order of descending A-value.</p>
+    </li>
+  </ol>
+
+  <h2 id="standby">Standby</h2>
+  <ol>
+    <li>
+      <p>ACF is also looking for teams willing to serve as standby teams in case of last-minute drops. Standby teams must commit to showing up to the tournament day-of; if there are any open spots, they will be able to play ACF Nationals for no entry fee. Otherwise, they are free to staff or explore the Twin Cities.</p>
+    </li>
+    <li>
+      <p>To sign up as a standby team, please email Tournament Director Ryan Rosenberg at <a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a>.</p>
+    </li>
+  </ol>
+</article>
 
   </div>
 </article>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+// $('.menu').toggle(
+// function() {
+//     $('.toc').css('left', '0')
+// }, function() {
+//     $('.toc').css('left', '200')
+// })
+$( ".menu" ).click(function() {
+  $( ".toc" ).toggle( "slow", function() {
+    // Animation complete.
+  });
+});
+</script>
     </div>
   </body>
 

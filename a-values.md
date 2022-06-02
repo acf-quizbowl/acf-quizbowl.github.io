@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-toc
 title: 2022 ACF Nationals A-values
 permalink: /a-values/
 last_updated: March 22, 2022
@@ -7,11 +7,12 @@ last_updated: March 22, 2022
 
 <!-- probably move under /nationals/ -->
 
-# Table of Contents
-{: .no_toc}
+<div class="toc" markdown="1">
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+{:toc class="toc"}
+</div>
 
+<article class="toc-article" markdown="1">
 ## A-values
 
 *For an explanation of how A-values and qualifications are determined, see [here](/nationals-qualification).*
@@ -32,3 +33,4 @@ last_updated: March 22, 2022
 1. ACF is also looking for teams willing to serve as standby teams in case of last-minute drops. Standby teams must commit to showing up to the tournament day-of; if there are any open spots, they will be able to play ACF Nationals for no entry fee. Otherwise, they are free to staff or explore the Twin Cities.
 
 2. To sign up as a standby team, please email Tournament Director Ryan Rosenberg at [td@acf-quizbowl.com](mailto:td@acf-quizbowl.com).
+</article>

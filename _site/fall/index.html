@@ -114,9 +114,65 @@
 
 
     <div>
-      <article class="container mx-auto px-2">
+      <style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+    @media screen and (prefers-reduced-motion: reduce) { scroll-behavior: auto; }
+  }
+  .navbar-brand {
+    margin-left:300px;
+  }
+  header {
+    width:700px;
+    position:absolute;
+    left:400px;
+  }
+
+  /* @media only screen and (max-width: 1200px) {
+    header {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  } */
+
+  .toc-article {
+    width:700px;
+    position:absolute;
+    left:400px;
+    top:200px;
+  }
+
+  .menu { 
+    display:none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    header, .toc-article {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display:none;
+    }
+
+    header, .toc-article {
+      width:80vw;
+      left:10vw;
+      margin:auto;
+    }
+
+    .navbar-brand {
+      margin-left:0.5rem; /* TODO not quite accurate and has spacing variable - fix */
+    }
+  }
+</style>
+<article class="container mx-auto px-2">
   <header>
-    <h1 class="h0 py-1 mt-3">ACF Fall</h1>
+    <h1 class="h0 py-1 mt-3">ACF Fall</h1><span class="menu">CLICK</span>
     
     <p class="last-updated">Last updated: October 31, 2021</p>
     
@@ -129,11 +185,9 @@ are HS mirror bids from high schoolers accepted?
 number the sections.
 -->
 
-<p><strong>ACF Fall</strong> is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.</p>
-
-<h1 class="no_toc" id="table-of-contents">Table of Contents</h1>
-<ul id="markdown-toc">
-  <li><a href="#2021-acf-fall" id="markdown-toc-2021-acf-fall">2021 ACF Fall</a>    <ul>
+<div class="toc">
+<ul class="toc" id="markdown-toc">
+  <li><a href="#acf-fall" id="markdown-toc-acf-fall">2021 ACF Fall</a>    <ul>
       <li><a href="#editors" id="markdown-toc-editors">Editors</a></li>
       <li><a href="#online-format" id="markdown-toc-online-format">Online format</a></li>
       <li><a href="#rules" id="markdown-toc-rules">Rules</a></li>
@@ -153,304 +207,326 @@ number the sections.
   </li>
 </ul>
 
-<h1 id="2021-acf-fall">2021 ACF Fall</h1>
-<p><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25261">2021 ACF Fall</a> was held on October 16, 2021.</p>
+</div>
 
-<h2 id="editors">Editors</h2>
-<p>2021 ACF Fall is head-edited by Katherine Lei and edited by Sarah Benner, Justin Duffy, Karan Gurazada, Mitch McCullar, Gov Prabhakar, Ethan Strombeck, and Ned Tagtmeier. Justin Duffy, Matthew Lehmann, Matthew Bollinger, and other ACF members are offering oversight.</p>
+<article class="toc-article">
 
-<!-- add editors breakdown table -->
+  <p><strong>ACF Fall</strong> is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.</p>
 
-<h2 id="online-format">Online format</h2>
-<p>We hope that ACF Fall can be held in person. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Fall will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.</p>
+  <h1 id="acf-fall">2021 ACF Fall</h1>
+  <p><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25261">2021 ACF Fall</a> was held on October 16, 2021.</p>
 
-<h2 id="rules">Rules</h2>
-<p>This tournament will follow <a href="/gameplay-rules">ACF’s official gameplay rules</a>. Rules specifically pertaining to online tournaments are in blue.</p>
+  <h2 id="editors">Editors</h2>
+  <p>2021 ACF Fall is head-edited by Katherine Lei and edited by Sarah Benner, Justin Duffy, Karan Gurazada, Mitch McCullar, Gov Prabhakar, Ethan Strombeck, and Ned Tagtmeier. Justin Duffy, Matthew Lehmann, Matthew Bollinger, and other ACF members are offering oversight.</p>
 
-<h2 id="registration">Registration</h2>
-<p>To register for 2021 ACF Fall, fill out the central <a href="https://forms.gle/kG9b7Rj4zo49zKtf8">2021 ACF Fall registration form</a> with all relevant information.</p>
+  <!-- add editors breakdown table -->
 
-<p>If possible, teams should register for the site that is geographically closest to them and/or is in the region they would normally attend.</p>
+  <h2 id="online-format">Online format</h2>
+  <p>We hope that ACF Fall can be held in person. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Fall will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.</p>
 
-<h2 id="field">Field</h2>
-<p>The field (list of registered teams) for each site can be found <a href="https://docs.google.com/spreadsheets/d/1P4tdvLOAb_yQhPQqkl6PMsTyxn-Y1L2Ae25EzY6H3EU/edit">here</a>.</p>
+  <h2 id="rules">Rules</h2>
+  <p>This tournament will follow <a href="/gameplay-rules">ACF’s official gameplay rules</a>. Rules specifically pertaining to online tournaments are in blue.</p>
 
-<h2 id="fees">Fees</h2>
+  <h2 id="registration">Registration</h2>
+  <p>To register for 2021 ACF Fall, fill out the central <a href="https://forms.gle/kG9b7Rj4zo49zKtf8">2021 ACF Fall registration form</a> with all relevant information.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Team entry fee or discount</th>
-      <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Base fee per team</td>
-      <td>$120</td>
-    </tr>
-    <tr>
-      <td>New to quizbowl discount</td>
-      <td>−$80</td>
-    </tr>
-    <tr>
-      <td>Shorthanded discount (1–2 players)</td>
-      <td>−$60</td>
-    </tr>
-    <tr>
-      <td>Travel discount</td>
-      <td>−$10 per 200 miles traveled one-way</td>
-    </tr>
-    <tr>
-      <td>Buzzers</td>
-      <td>−$10 per functional buzzer system</td>
-    </tr>
-    <tr>
-      <td>Staffers (in-person)</td>
-      <td>−$15 per staffer with functional laptop. Staffers must register with ACF in advance.</td>
-    </tr>
-    <tr>
-      <td>Staffers (online)</td>
-      <td>−$25 per staffer with functional laptop. Staffers must register with ACF in advance.</td>
-    </tr>
-  </tbody>
-</table>
+  <p>If possible, teams should register for the site that is geographically closest to them and/or is in the region they would normally attend.</p>
 
-<p>The “new to quizbowl” discount is for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September 2020, and which have no players who competed in non-novice collegiate tournaments during that same period.</p>
+  <h2 id="field">Field</h2>
+  <p>The field (list of registered teams) for each site can be found <a href="https://docs.google.com/spreadsheets/d/1P4tdvLOAb_yQhPQqkl6PMsTyxn-Y1L2Ae25EzY6H3EU/edit">here</a>.</p>
 
-<p>Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, cash, or PayPal.</p>
+  <h2 id="fees">Fees</h2>
 
-<p>See below for packet submission discounts.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Team entry fee or discount</th>
+        <th> </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Base fee per team</td>
+        <td>$120</td>
+      </tr>
+      <tr>
+        <td>New to quizbowl discount</td>
+        <td>−$80</td>
+      </tr>
+      <tr>
+        <td>Shorthanded discount (1–2 players)</td>
+        <td>−$60</td>
+      </tr>
+      <tr>
+        <td>Travel discount</td>
+        <td>−$10 per 200 miles traveled one-way</td>
+      </tr>
+      <tr>
+        <td>Buzzers</td>
+        <td>−$10 per functional buzzer system</td>
+      </tr>
+      <tr>
+        <td>Staffers (in-person)</td>
+        <td>−$15 per staffer with functional laptop. Staffers must register with ACF in advance.</td>
+      </tr>
+      <tr>
+        <td>Staffers (online)</td>
+        <td>−$25 per staffer with functional laptop. Staffers must register with ACF in advance.</td>
+      </tr>
+    </tbody>
+  </table>
 
-<p>The minimum fee is $0 per team.</p>
+  <p>The “new to quizbowl” discount is for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September 2020, and which have no players who competed in non-novice collegiate tournaments during that same period.</p>
 
-<h2 id="packet-submission">Packet submission</h2>
-<p>Like 2020 ACF Fall, no teams are required to submit questions in order to play the tournament. However, ACF still needs high-quality, half-packet submissions from teams to complete the set.</p>
+  <p>Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, cash, or PayPal.</p>
 
-<p>Below is the submission schedule for ACF Fall. All deadlines are at 11:59 p.m. Pacific Time. All submitting teams are eligible for an additional −$20 quality discount if their questions are particularly polished and usable, up to a maximum discount of −$60. Teams may submit a maximum of one half-packet.</p>
+  <p>See below for packet submission discounts.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Submission deadline</th>
-      <th>Packet discount</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>August 21, 2021</td>
-      <td>−$50</td>
-    </tr>
-    <tr>
-      <td>August 28, 2021</td>
-      <td>−$40</td>
-    </tr>
-    <tr>
-      <td>September 4, 2021</td>
-      <td>−$30</td>
-    </tr>
-    <tr>
-      <td>September 11, 2021</td>
-      <td>−$20</td>
-    </tr>
-    <tr>
-      <td>September 18, 2021</td>
-      <td>−$10</td>
-    </tr>
-  </tbody>
-</table>
+  <p>The minimum fee is $0 per team.</p>
 
-<p>If you would like to submit a half-packet, fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScUin-wIZeG1dJa-8JRtfKhhzhSbN924JHDuIU6GZxJHZcpCA/viewform">this form</a>. ACF will respond with a half-packet template specifying which categories you are assigned to write.</p>
+  <h2 id="packet-submission">Packet submission</h2>
+  <p>Like 2020 ACF Fall, no teams are required to submit questions in order to play the tournament. However, ACF still needs high-quality, half-packet submissions from teams to complete the set.</p>
 
-<p>Each submission consists of 12 tossups and 12 bonuses. Before writing, please review <a href="/packet-submission-guidelines">ACF’s packet submission guidelines</a> and stick to the format provided. Answers should generally emphasize playability over creativity – aim for creative and interesting clues with straightforward answerlines. These <a href="https://docs.google.com/document/d/1mokTuDeyDDSb4J1yQG6BWeGsee4x-RFsqf-lmvfBXjc/edit">5 model tossups</a> reflect the difficulty and style to aim for. When finished, submit your half-packet by emailing it to <a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a>.</p>
+  <p>Below is the submission schedule for ACF Fall. All deadlines are at 11:59 p.m. Pacific Time. All submitting teams are eligible for an additional −$20 quality discount if their questions are particularly polished and usable, up to a maximum discount of −$60. Teams may submit a maximum of one half-packet.</p>
 
-<p>Your assigned half-packet may ask you to write questions from specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on a 20th-century American poem, or an Economics bonus instead of “Social Science/Philosophy.” This should reduce redundancy in submissions and maximize the number of submitted questions we can use, without being too constraining. The submission form offers space to indicate your writing interests in each category, which we will do our best to accommodate.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Submission deadline</th>
+        <th>Packet discount</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>August 21, 2021</td>
+        <td>−$50</td>
+      </tr>
+      <tr>
+        <td>August 28, 2021</td>
+        <td>−$40</td>
+      </tr>
+      <tr>
+        <td>September 4, 2021</td>
+        <td>−$30</td>
+      </tr>
+      <tr>
+        <td>September 11, 2021</td>
+        <td>−$20</td>
+      </tr>
+      <tr>
+        <td>September 18, 2021</td>
+        <td>−$10</td>
+      </tr>
+    </tbody>
+  </table>
 
-<h2 id="distribution">Distribution</h2>
-<p>ACF Fall uses the <a href="/distribution">standard ACF distribution</a>.</p>
+  <p>If you would like to submit a half-packet, fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScUin-wIZeG1dJa-8JRtfKhhzhSbN924JHDuIU6GZxJHZcpCA/viewform">this form</a>. ACF will respond with a half-packet template specifying which categories you are assigned to write.</p>
 
-<h2 id="eligibility">Eligibility</h2>
-<p>To make this tournament more accessible to new teams and players, ACF is enforcing eligibility guidelines for ACF Fall (new as of 2021). Players are not eligible to compete at 2021 ACF Fall if, <em>at any point</em>, they:</p>
-<ul>
-  <li>Scored more than 50 PPG in the prelims of a college mirror of ACF Fall, OR</li>
-  <li>Were the top scorer (highest overall PPG) on a team that finished in the top 15% of the field, rounded up, at ACF Fall, OR</li>
-  <li>Scored more than 40 PP20TUH in the prelims of HSNCT or 60 PPG in the prelims of PACE NSC, OR</li>
-  <li>Were the top scorer (highest overall PPG) on a team that finished in the top 30 at HSNCT or top 10 at PACE NSC, OR</li>
-  <li>Finished in the top 12 in IPNCT</li>
-</ul>
+  <p>Each submission consists of 12 tossups and 12 bonuses. Before writing, please review <a href="/packet-submission-guidelines">ACF’s packet submission guidelines</a> and stick to the format provided. Answers should generally emphasize playability over creativity – aim for creative and interesting clues with straightforward answerlines. These <a href="https://docs.google.com/document/d/1mokTuDeyDDSb4J1yQG6BWeGsee4x-RFsqf-lmvfBXjc/edit">5 model tossups</a> reflect the difficulty and style to aim for. When finished, submit your half-packet by emailing it to <a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a>.</p>
 
-<p>The eligibility restrictions do not apply to high-school-only mirrors.</p>
+  <p>Your assigned half-packet may ask you to write questions from specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on a 20th-century American poem, or an Economics bonus instead of “Social Science/Philosophy.” This should reduce redundancy in submissions and maximize the number of submitted questions we can use, without being too constraining. The submission form offers space to indicate your writing interests in each category, which we will do our best to accommodate.</p>
 
-<p><strong>Players are responsible for determining their own eligibility.</strong> If you have questions, email <a href="mailto:eligibility@acf-quizbowl.com">eligibility@acf-quizbowl.com</a>. Failure to abide by these eligibility guidelines may result in disqualification from ACF Fall and/or future ACF tournaments.</p>
+  <h2 id="distribution">Distribution</h2>
+  <p>ACF Fall uses the <a href="/distribution">standard ACF distribution</a>.</p>
 
-<h2 id="staffing">Staffing</h2>
-<p>To staff ACF Fall, please fill out <a href="https://forms.gle/EFqZKtLk89iQc4C67">the staffer registration form</a>.</p>
+  <h2 id="eligibility">Eligibility</h2>
+  <p>To make this tournament more accessible to new teams and players, ACF is enforcing eligibility guidelines for ACF Fall (new as of 2021). Players are not eligible to compete at 2021 ACF Fall if, <em>at any point</em>, they:</p>
+  <ul>
+    <li>Scored more than 50 PPG in the prelims of a college mirror of ACF Fall, OR</li>
+    <li>Were the top scorer (highest overall PPG) on a team that finished in the top 15% of the field, rounded up, at ACF Fall, OR</li>
+    <li>Scored more than 40 PP20TUH in the prelims of HSNCT or 60 PPG in the prelims of PACE NSC, OR</li>
+    <li>Were the top scorer (highest overall PPG) on a team that finished in the top 30 at HSNCT or top 10 at PACE NSC, OR</li>
+    <li>Finished in the top 12 in IPNCT</li>
+  </ul>
 
-<h2 id="hosting">Hosting</h2>
-<p>If you are interested in hosting a mirror of ACF Fall, fill out <a href="https://forms.gle/ArXGL6gSVFCbeh1v7">this form</a>. If you have any questions about hosting or about the form, email ACF’s Site Coordinator at <a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a> and CC <a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a>. Hosts must abide by <a href="/hosting-guidelines">ACF’s Hosting Guidelines</a>.</p>
+  <p>The eligibility restrictions do not apply to high-school-only mirrors.</p>
 
-<h2 id="sites">Sites</h2>
-<p>Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Fall in the following <a href="/hosting-guidelines#regions-according-to-acf">regions</a>:</p>
+  <p><strong>Players are responsible for determining their own eligibility.</strong> If you have questions, email <a href="mailto:eligibility@acf-quizbowl.com">eligibility@acf-quizbowl.com</a>. Failure to abide by these eligibility guidelines may result in disqualification from ACF Fall and/or future ACF tournaments.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Region</th>
-      <th>Site</th>
-      <th>Type</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Northeast</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25359">MIT</a></td>
-      <td>in person</td>
-    </tr>
-    <tr>
-      <td>Upstate New York</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25366">RIT</a></td>
-      <td>in person</td>
-    </tr>
-    <tr>
-      <td>Upper Mid-Atlantic</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25368">UMD</a></td>
-      <td>in person</td>
-    </tr>
-    <tr>
-      <td>Upper Mid-Atlantic Overflow</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25465">NYU</a></td>
-      <td>online</td>
-    </tr>
-    <tr>
-      <td>Lower Mid-Atlantic</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25362">Duke</a></td>
-      <td>in person</td>
-    </tr>
-    <tr>
-      <td>Southeast</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25374">Georgia Tech</a></td>
-      <td>in person</td>
-    </tr>
-    <tr>
-      <td>Florida</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Great Lakes</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25363">Case Western</a></td>
-      <td>in person</td>
-    </tr>
-    <tr>
-      <td>Midwest</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25360">UIUC</a></td>
-      <td>in person</td>
-    </tr>
-    <tr>
-      <td>North</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25358">Minnesota</a></td>
-      <td>in person</td>
-    </tr>
-    <tr>
-      <td>South Central</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25376">UT-Austin</a></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Mountain West</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>California and Northwest</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25369">Berkeley</a></td>
-      <td>online</td>
-    </tr>
-    <tr>
-      <td>Eastern Canada</td>
-      <td><a href="https://www.hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25380">McGill</a></td>
-      <td>online</td>
-    </tr>
-    <tr>
-      <td>United Kingdom</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25382">Warwick</a></td>
-      <td>online</td>
-    </tr>
-    <tr>
-      <td>High-school-only</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=1&amp;t=25378">California and Georgia</a></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>High-school-only</td>
-      <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=1&amp;t=25389">National</a></td>
-      <td>online</td>
-    </tr>
-  </tbody>
-</table>
+  <h2 id="staffing">Staffing</h2>
+  <p>To staff ACF Fall, please fill out <a href="https://forms.gle/EFqZKtLk89iQc4C67">the staffer registration form</a>.</p>
 
-<h2 id="high-school-teams-and-high-school-only-mirrors">High school teams and high-school-only mirrors</h2>
-<p>ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2021 ACF Fall, email <a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a> and CC <a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a>. However, we do not plan to offer mixed mirrors that include high school and college teams.</p>
+  <h2 id="hosting">Hosting</h2>
+  <p>If you are interested in hosting a mirror of ACF Fall, fill out <a href="https://forms.gle/ArXGL6gSVFCbeh1v7">this form</a>. If you have any questions about hosting or about the form, email ACF’s Site Coordinator at <a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a> and CC <a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a>. Hosts must abide by <a href="/hosting-guidelines">ACF’s Hosting Guidelines</a>.</p>
 
-<p>If you have any questions, email <a href="fall@acf-quizbowl.com">fall@acf-quizbowl.com</a>.</p>
+  <h2 id="sites">Sites</h2>
+  <p>Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Fall in the following <a href="/hosting-guidelines#regions-according-to-acf">regions</a>:</p>
 
-<h2 id="past-tournaments">Past tournaments</h2>
-<p>Sample questions from previous iterations of ACF Fall are on the <a href="http://hsquizbowl.org/db/questionsets/search/?name=ACF+Fall&amp;col=1&amp;season=&amp;archived=y">Collegiate Quizbowl Packet Archive</a>.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Region</th>
+        <th>Site</th>
+        <th>Type</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Northeast</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25359">MIT</a></td>
+        <td>in person</td>
+      </tr>
+      <tr>
+        <td>Upstate New York</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25366">RIT</a></td>
+        <td>in person</td>
+      </tr>
+      <tr>
+        <td>Upper Mid-Atlantic</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25368">UMD</a></td>
+        <td>in person</td>
+      </tr>
+      <tr>
+        <td>Upper Mid-Atlantic Overflow</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25465">NYU</a></td>
+        <td>online</td>
+      </tr>
+      <tr>
+        <td>Lower Mid-Atlantic</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25362">Duke</a></td>
+        <td>in person</td>
+      </tr>
+      <tr>
+        <td>Southeast</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25374">Georgia Tech</a></td>
+        <td>in person</td>
+      </tr>
+      <tr>
+        <td>Florida</td>
+        <td> </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>Great Lakes</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25363">Case Western</a></td>
+        <td>in person</td>
+      </tr>
+      <tr>
+        <td>Midwest</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25360">UIUC</a></td>
+        <td>in person</td>
+      </tr>
+      <tr>
+        <td>North</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25358">Minnesota</a></td>
+        <td>in person</td>
+      </tr>
+      <tr>
+        <td>South Central</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25376">UT-Austin</a></td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>Mountain West</td>
+        <td> </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>California and Northwest</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25369">Berkeley</a></td>
+        <td>online</td>
+      </tr>
+      <tr>
+        <td>Eastern Canada</td>
+        <td><a href="https://www.hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25380">McGill</a></td>
+        <td>online</td>
+      </tr>
+      <tr>
+        <td>United Kingdom</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=25382">Warwick</a></td>
+        <td>online</td>
+      </tr>
+      <tr>
+        <td>High-school-only</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=1&amp;t=25378">California and Georgia</a></td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>High-school-only</td>
+        <td><a href="https://hsquizbowl.org/forums/viewtopic.php?f=1&amp;t=25389">National</a></td>
+        <td>online</td>
+      </tr>
+    </tbody>
+  </table>
 
-<p>Announcements and information about previous iterations of ACF Fall are archived below:</p>
+  <h2 id="high-school-teams-and-high-school-only-mirrors">High school teams and high-school-only mirrors</h2>
+  <p>ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2021 ACF Fall, email <a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a> and CC <a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a>. However, we do not plan to offer mixed mirrors that include high school and college teams.</p>
 
-<ul>
-  <li><a href="/tournaments/archive/2020/ACF%20Fall">2020 ACF Fall announcement</a></li>
-</ul>
+  <p>If you have any questions, email <a href="fall@acf-quizbowl.com">fall@acf-quizbowl.com</a>.</p>
 
-<h2 id="dates-of-note">Dates of note</h2>
+  <h2 id="past-tournaments">Past tournaments</h2>
+  <p>Sample questions from previous iterations of ACF Fall are on the <a href="http://hsquizbowl.org/db/questionsets/search/?name=ACF+Fall&amp;col=1&amp;season=&amp;archived=y">Collegiate Quizbowl Packet Archive</a>.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th>Date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ACF dates announced</td>
-      <td>June 7, 2021</td>
-    </tr>
-    <tr>
-      <td>ACF Fall announced</td>
-      <td>August 13, 2021</td>
-    </tr>
-    <tr>
-      <td>Bidding opened</td>
-      <td>September 10, 2021</td>
-    </tr>
-    <tr>
-      <td>Bidding closed</td>
-      <td>September 17, 2021</td>
-    </tr>
-    <tr>
-      <td>Host sites announced</td>
-      <td>September 17, 2021</td>
-    </tr>
-    <tr>
-      <td>Registration opened</td>
-      <td>September 17, 2021</td>
-    </tr>
-    <tr>
-      <td>Registration closed</td>
-      <td>October 11, 2021</td>
-    </tr>
-    <tr>
-      <td>ACF Fall held</td>
-      <td>October 16, 2021</td>
-    </tr>
-  </tbody>
-</table>
+  <p>Announcements and information about previous iterations of ACF Fall are archived below:</p>
+
+  <ul>
+    <li><a href="/tournaments/archive/2020/ACF%20Fall">2020 ACF Fall announcement</a></li>
+  </ul>
+
+  <h2 id="dates-of-note">Dates of note</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Event</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ACF dates announced</td>
+        <td>June 7, 2021</td>
+      </tr>
+      <tr>
+        <td>ACF Fall announced</td>
+        <td>August 13, 2021</td>
+      </tr>
+      <tr>
+        <td>Bidding opened</td>
+        <td>September 10, 2021</td>
+      </tr>
+      <tr>
+        <td>Bidding closed</td>
+        <td>September 17, 2021</td>
+      </tr>
+      <tr>
+        <td>Host sites announced</td>
+        <td>September 17, 2021</td>
+      </tr>
+      <tr>
+        <td>Registration opened</td>
+        <td>September 17, 2021</td>
+      </tr>
+      <tr>
+        <td>Registration closed</td>
+        <td>October 11, 2021</td>
+      </tr>
+      <tr>
+        <td>ACF Fall held</td>
+        <td>October 16, 2021</td>
+      </tr>
+    </tbody>
+  </table>
+
+</article>
 
   </div>
 </article>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+// $('.menu').toggle(
+// function() {
+//     $('.toc').css('left', '0')
+// }, function() {
+//     $('.toc').css('left', '200')
+// })
+$( ".menu" ).click(function() {
+  $( ".toc" ).toggle( "slow", function() {
+    // Animation complete.
+  });
+});
+</script>
     </div>
   </body>
 

@@ -6,11 +6,8 @@ last_updated: March 22, 2022
 ---
 
 <div class="toc" markdown="1">
-<h2>Table of Contents</h2>
-shdhahdhshfhfhdd
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc class="toc"}
-<h3>hewwo</h3>
 </div>
 
 <article class="toc-article" markdown="1">
