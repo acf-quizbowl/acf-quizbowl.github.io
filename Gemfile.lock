@@ -285,6 +285,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-redirect-from
+  jekyll-remote-theme
 
 BUNDLED WITH
    2.1.4
