@@ -16,12 +16,12 @@ layout: default
     left:400px;
   }
 
-  @media only screen and (max-width: 1200px) {
+  /* @media only screen and (max-width: 1200px) {
     header {
       width:calc(100vw - 400px);
       left:350px;
     }
-  }
+  } */
 
   .toc-article {
     width:700px;
@@ -31,9 +31,27 @@ layout: default
   }
 
   @media only screen and (max-width: 1200px) {
-    .toc-article {
+    header, .toc-article {
       width:calc(100vw - 400px);
       left:350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display:none;
+    }
+
+    header, .toc-article {
+      width:80vw;
+      left:10vw;
+      margin:auto;
+      /* position:absolute; */
+      /* left:10vw; */
+    }
+
+    .navbar-brand {
+      margin-left:0.5rem;
     }
   }
 </style>
