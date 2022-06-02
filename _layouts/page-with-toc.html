@@ -23,17 +23,19 @@ layout: default
     }
   }
 
-  /* alignment to account for toc + article elements */
-   .prose { 
-    /* width:1000px; */
-    /* display:flex; */
-    /* gap:50px; */
-    /* justify-content:space-between; */
-    /* margin-left: calc(50% - 150px); */
-    /* transform: translateX(-50%); */
-    /* align-items:flex-start; */
+  .toc-article {
+    width:700px;
+    position:absolute;
+    left:400px;
+    top:200px;
   }
 
+  @media only screen and (max-width: 1200px) {
+    .toc-article {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
 </style>
 <article class="container mx-auto px-2">
   <header>

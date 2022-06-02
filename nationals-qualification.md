@@ -7,11 +7,13 @@ last_updated: March 22, 2022
 
 <div class="toc" markdown="1">
 <h2>Table of Contents</h2>
+shdhahdhshfhfhdd
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc class="toc"}
+<h3>hewwo</h3>
 </div>
 
-<article markdown="1">
+<article class="toc-article" markdown="1">
 *A-values for 2022 ACF Nationals qualification are [here](/a-values).*
 ## Qualification methods
 1. Clubs who are hosting ACF Regionals: Each host may apply for one host bid, which will be evaluated by an ACF committee after the fall semester of tournaments has concluded. In their bid, teams must specify a roster of up to four players. The task of the committee will be to determine if this roster would be likely to qualify for Nationals based on the below criteria, using its performance at fall tournaments as the primary factor. If the team’s host bid is denied, then the club must play a house team to qualify. Clubs are responsible for making necessary arrangements to properly staff their ACF Regionals events in the event that they play house teams for any reason, including but not limited to host bids being denied or seeking to qualify a second team. Playing or qualifying additional teams at Regionals has no impact on the host bid decision or status. However, the team members listed in the bid roster may not play Regionals; experienced players should be used as tournament staffers.

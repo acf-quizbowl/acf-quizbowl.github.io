@@ -60,13 +60,11 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose table.distribution tr.category td { font-weight: bold; background-color: #dbdcde; border-top: 1px solid #023B7F; }
 .prose table.distribution tr.subcategory td:first-child { padding-left: 2em; }
 .prose table.distribution thead th:nth-child(n+2), .prose table.distribution thead td:nth-child(n+2), .prose table.distribution tbody th:nth-child(n+2), .prose table.distribution tbody td:nth-child(n+2) { text-align: center; }
-.prose .toc { background-color: #E7F2FF; padding: 50px; position: fixed; box-sizing: border-box; top: 0px; height: 100%; width: 300px; left: 0px; }
-.prose .toc li { list-style-type: none; }
-.prose .toc ul { padding: 0; margin: 0; max-width: 100%; }
-.prose .toc h2 { padding: 0; margin: 0px 0px 10px 0px; }
-.prose .toc a, .prose .toc h2 { color: #023B7F; }
-.prose article { width: 700px; position: absolute; left: 400px; top: 200px; }
-@media only screen and (max-width: 1200px) { .prose article { width: calc(100vw - 400px); left: 350px; } }
+.prose .toc { background-color: #E7F2FF; padding: 30px; position: fixed; box-sizing: border-box; top: 0px; height: 100%; width: 300px; left: 0px; }
+.prose .toc li { list-style-type: none; margin-bottom: 6px; }
+.prose .toc li:first-child { margin-top: 20px; }
+.prose .toc a { color: #023B7F; }
+.prose .toc:before { content: "Table of Contents"; color: #023B7F; font-weight: bold; font-size: 1.3em; }
 
 nav { width: 100%; height: 60px; margin: 0 auto; position: sticky; }
 

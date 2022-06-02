@@ -136,17 +136,19 @@
     }
   }
 
-  /* alignment to account for toc + article elements */
-   .prose { 
-    /* width:1000px; */
-    /* display:flex; */
-    /* gap:50px; */
-    /* justify-content:space-between; */
-    /* margin-left: calc(50% - 150px); */
-    /* transform: translateX(-50%); */
-    /* align-items:flex-start; */
+  .toc-article {
+    width:700px;
+    position:absolute;
+    left:400px;
+    top:200px;
   }
 
+  @media only screen and (max-width: 1200px) {
+    .toc-article {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
 </style>
 <article class="container mx-auto px-2">
   <header>
@@ -158,16 +160,17 @@
   <div class="prose mb-4 py-1">
     <div class="toc">
   <h2>Table of Contents</h2>
+  <p>shdhahdhshfhfhdd</p>
 <ul class="toc" id="markdown-toc">
   <li><a href="#qualification-methods" id="markdown-toc-qualification-methods">Qualification methods</a></li>
   <li><a href="#a-values" id="markdown-toc-a-values">A-values</a></li>
   <li><a href="#bid-acceptance" id="markdown-toc-bid-acceptance">Bid acceptance</a></li>
   <li><a href="#notes" id="markdown-toc-notes">Notes</a></li>
 </ul>
-
+  <h3>hewwo</h3>
 </div>
 
-<article>
+<article class="toc-article">
   <p><em>A-values for 2022 ACF Nationals qualification are <a href="/a-values">here</a>.</em></p>
   <h2 id="qualification-methods">Qualification methods</h2>
   <ol>
