@@ -250,6 +250,7 @@ GEM
     rubyzip (2.3.2)
     safe_yaml (1.0.5)
     sass (3.7.4)
+      sass-listen (~> 4.0.0)
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
