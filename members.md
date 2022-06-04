@@ -256,7 +256,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Ganon Evans</td>
 <td>
 <ul>
-<li>University of Iowa</li>
+<li>Alumnus, University of Iowa</li>
 </ul>
 </td>
 <td>
@@ -312,7 +312,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Nick Jensen</td>
 <td>
 <ul>
-<li>PhD Student, University of California - Davis</li>
+<li>PhD Student, University of California, Davis</li>
 <li>Alumnus, Dartmouth College</li>
 </ul>
 </td>
@@ -348,7 +348,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Rahul Keyal</td>
 <td>
 <ul>
-<li>University of California, Berkeley</li>
+<li>Alumnus, University of California, Berkeley</li>
 </ul>
 </td>
 <td>
@@ -377,7 +377,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>John Lawrence</td>
 <td>
 <ul>
-<li>PhD Candidate, University of Chicago</li>
+<li>PhD, University of Chicago</li>
 <li>Alumnus, Yale University</li>
 </ul>
 </td>
@@ -574,7 +574,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Margaret Tebbe</td>
 <td>
 <ul>
-<li>University of Pennsylvania</li>
+<li>Alumna, University of Pennsylvania</li>
 </ul>
 </td>
 <td>
@@ -643,7 +643,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Jennie Yang</td>
 <td>
 <ul>
-<li>Stanford University</li>
+<li>Alumna, Stanford University</li>
 </ul>
 </td>
 <td>
@@ -851,8 +851,7 @@ Provisional members are community members who have ably assisted ACF in the past
 
 <tr>
 <td>Natan Holtzman</td>
-<td>
-</td>
+<td>Stanford University</td>
 <td>
 <ul>
 <li>2021 ACF Regionals Editor</li>
@@ -1054,7 +1053,8 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Will Alston</td>
 <td>
 <ul>
-<li>MBA, Columbia University</li>
+<li>M.B.A, Columbia University</li>
+<li>Alumnus, Dartmouth College</li>
 </ul>
 </td>
 <td>
