@@ -238,7 +238,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>PhD, Yale University</li>
-<li>Alumnus, Massachusetts Institute of Technology</li>
+<li>Alumnus, MIT</li>
 </ul>
 </td>
 <td>
@@ -930,7 +930,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Angela Lin</td>
 <td>
 <ul>
-<li>UC Berkeley</li>
+<li>University of California, Berkeley</li>
 </ul>
 </td>
 <td>
@@ -1444,7 +1444,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>Jeff Hoppes</td>
 <td>
 <ul>
-<li>M.A., History, University of California-Berkeley</li>
+<li>M.A., History, University of California, Berkeley</li>
 <li>Alumnus, Princeton University</li>
 </ul>
 </td>
@@ -1767,7 +1767,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>
 <ul>
 <li>PhD, Astrophysics, University of Chicago</li>
-<li>Alumnus, University of California-Berkeley</li>
+<li>Alumnus, University of California, Berkeley</li>
 </ul>
 </td>
 <td>
@@ -1782,7 +1782,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>Jerry Vinokurov</td>
 <td>
 <ul>
-<li>Alumnus, University of California-Berkeley</li>
+<li>Alumnus, University of California, Berkeley</li>
 <li>PhD, Brown University</li>
 </ul>
 </td>
