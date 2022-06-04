@@ -223,7 +223,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Justin Duffy</td>
 <td>
 <ul>
-<li>Harvard University</li>
+<li>Harvard Law School</li>
+<li>Alumnus, Harvard College</li>
 </ul>
 </td>
 <td>
@@ -1720,7 +1721,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>Adam Silverman</td>
 <td>
 <ul>
-<li>PhD Candidate, Northwestern University</li>
+<li>PhD, Northwestern University</li>
 <li>Alumnus, Georgia Tech</li>
 </ul>
 </td>
