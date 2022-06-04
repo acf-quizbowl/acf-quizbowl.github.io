@@ -1,16 +1,17 @@
 ---
-layout: page
+layout: page-with-toc
 title: Hosting Guidelines
 permalink: /hosting-guidelines/
 last_updated: September 18, 2021
 ---
 <!-- need to rewrite so "host team" is not ambiguous with club vs. competing house team -->
 
-# Table of Contents
-{: .no_toc}
+<div class="toc" markdown="1">
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+{:toc class="toc"}
+</div>
 
+<article class="toc-article" markdown="1">
 # Bidding to host ACF tournaments
 If you would like to host an ACF tournament in your region, email the [Site Coordinator](mailto:hosting@acf-quizbowl.com).
 
@@ -391,3 +392,4 @@ ACF’s mission is to provide the best possible experience for players, coaches,
 ACF strongly recommends that hosts explicitly designate one or more individuals to whom players, coaches, or staff can confidentially address any concerns about safety and misconduct during the tournament, and make the process for doing so clear at the opening meeting. (The designated person or people could simply be the tournament director(s), though ACF recommends having one male and one female person in the role.)
 
 Hosts should, of course, be familiar with the official [ACF rules](/gameplay-rules), but they should pay particular attention to Section I, “Ethics and Conduct.” In particular, note that “the use of malicious or disrespectful language toward another participant in the match, or the use of epithets insulting a participant’s race, gender identity, sexual orientation, nationality, etc.” constitutes misconduct, for which you are empowered to eject players from a match. If you encounter a case of misconduct serious enough that ACF should be made aware of it (if, for example, there are indications of a pattern of behavior that might be repeated at other tournaments), you may wish to let the victim know they can fill out the [Misconduct Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSfndx3DUXgSwpzpweSRLxkErgPlQg4XATE2UaQDJ3EpbpCMPQ/viewform), and/or you can fill it out yourself. Questions or concerns about misconduct can also be addressed to Olivia Murton ([omurton@gmail.com](mailto:omurton@gmail.com)) or Matthew Bollinger ([mlybollinger@gmail.com](mailto:mlybollinger@gmail.com)).
+</article>

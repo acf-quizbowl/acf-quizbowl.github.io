@@ -1,0 +1,85 @@
+---
+layout: default
+---
+<style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+    @media screen and (prefers-reduced-motion: reduce) { scroll-behavior: auto; }
+  }
+  .navbar-brand {
+    margin-left:300px;
+  }
+  header {
+    width:700px;
+    position:absolute;
+    left:400px;
+  }
+
+  /* @media only screen and (max-width: 1200px) {
+    header {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  } */
+
+  .toc-article {
+    width:700px;
+    position:absolute;
+    left:400px;
+    top:200px;
+  }
+
+  .menu { 
+    display:none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    header, .toc-article {
+      width:calc(100vw - 400px);
+      left:350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display:none;
+    }
+
+    header, .toc-article {
+      width:80vw;
+      left:10vw;
+      margin:auto;
+    }
+
+    .navbar-brand {
+      margin-left:0.5rem; /* TODO not quite accurate and has spacing variable - fix */
+    }
+  }
+</style>
+<article class="container mx-auto px-2">
+  <header>
+    <h1 class="h0 py-1 mt-3">{{ page.title }}</h1><span class="menu">CLICK</span>
+    {% if page.last_updated %}
+    <p class="last-updated">Last updated: {{ page.last_updated }}</p>
+    {% endif %}
+  </header>
+  <div class="prose mb-4 py-1">
+    {{ content }}
+  </div>
+</article>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+// $('.menu').toggle(
+// function() {
+//     $('.toc').css('left', '0')
+// }, function() {
+//     $('.toc').css('left', '200')
+// })
+$( ".menu" ).click(function() {
+  $( ".toc" ).toggle( "slow", function() {
+    // Animation complete.
+  });
+});
+</script>

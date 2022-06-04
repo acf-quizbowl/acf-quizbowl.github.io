@@ -1,14 +1,16 @@
 ---
-layout: page
+layout: page-with-toc
 title: Formats for ACF Tournaments
 permalink: /formats/
 last_updated: October 29, 2019
 ---
-# Table of Contents
-{: .no_toc}
-* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
 
+<div class="toc" markdown="1">
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc class="toc"}
+</div>
+
+<article class="toc-article" markdown="1">
 # Table of Formats
 <table>
  <thead>
@@ -1492,3 +1494,4 @@ If two teams are tied for second place, with records that put them one game behi
 If three teams are tied for first place, they are seeded statistically by points per game by common games. This may include both carried-over preliminary games and playoff games, see the [Statistics guidelines](/stats-guide). The second- and third-seeded teams play a play-in game, the winner of which plays a single-game final against the first-seeded team.
 
 If four teams are tied for first place, they are seeded statistically by points per game by common games. The first- and fourth-seeded teams and the second- and third-seeded teams play a semi-finals game. The winners of those two games play a single-game final.
+</article>

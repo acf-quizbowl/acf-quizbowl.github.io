@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-toc
 title: ACF Fall
 permalink: /fall/
 nav_order: 2
@@ -13,12 +13,14 @@ are HS mirror bids from high schoolers accepted?
 number the sections.
 -->
 
-**ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
-
-# Table of Contents
-{: .no_toc}
+<div class="toc" markdown="1">
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+{:toc class="toc"}
+</div>
+
+<article class="toc-article" markdown="1">
+
+**ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
 
 # 2021 ACF Fall
 [2021 ACF Fall](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25261) was held on October 16, 2021.
@@ -149,3 +151,5 @@ Host sites announced | September 17, 2021
 Registration opened  | September 17, 2021
 Registration closed  | October 11, 2021
 ACF Fall held        | October 16, 2021
+
+</article>

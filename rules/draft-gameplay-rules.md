@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-toc
 title: DRAFT ACF Gameplay Rules
 permalink: /draft-gameplay-rules/
 redirect-from: 
@@ -10,11 +10,12 @@ last_updated: September 29, 2020
 
 <!-- delete this page? -->
 
-# Table of Contents
-{: .no_toc}
+<div class="toc" markdown="1">
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+{:toc class="toc"}
+</div>
 
+<article class="toc-article" markdown="1">
 ## About These Rules
 *This is the official set of gameplay rules of the Academic Competition Federation, put forward for use at all official ACF events and at other applicable collegiate or collegiate-style quizbowl events. Eligibility information specifically pertaining to ACF events now exists as the ACF Official Eligibility Rules, and is no longer covered by this document.*
 
@@ -321,3 +322,4 @@ The following rules are designed to adapt ACF rules to online quizbowl; they are
 - Section E.4.A: "For an online tournament, a team shall direct a response to the moderator by prepending "Our answer is" to their answer. Moderators should only consider responses preceded by "Our answer is." (For example, for a bonus part on Sextus Empiricus, the answering team should say "Our answer is Sextus Empiricus" to have their answer ruled upon.)"
 - Section E.5.A: Specify that moderators should prompt for an answer to a bonus part after seven seconds for an online tournament.
 - Section G.19: Typed responses will be held to the same correctness guidelines as spoken responses.
+</article>

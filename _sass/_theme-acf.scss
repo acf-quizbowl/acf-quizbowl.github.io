@@ -9,6 +9,9 @@ $gray:       #929292;
 $gray-light: #C8C8C8;
 $white:      #fff;
 
+// Secondary colors
+$blue-1: #E7F2FF;
+
 // Config
 $color-background:   $white      !default;
 $color-dot-accent:   $blue-light !default;
@@ -19,6 +22,9 @@ $color-text-accent:  $blue       !default;
 $color-code:         $blue       !default;
 $color-nav-link:     $blue-light !default;
 $color-primary-link: $blue-light !default;
+
+// Other
+$border-radius:5px;
 
 
 // Import sass partials (used in all themes)

@@ -1,17 +1,16 @@
 ---
-layout: page
+layout: page-with-toc
 title: Miscellaneous Policies
 permalink: /policies/
 last_updated: March 22, 2022
 ---
 
-<div class="toc-lvl-1-only" markdown="1">
-# Table of Contents
-{: .no_toc}
+<div class="toc toc-lvl-1-only" markdown="1">
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+{:toc class="toc"}
 </div>
 
+<article class="toc-article" markdown="1">
 # Pseudonyms
 Teams at ACF tournaments may consist of individuals from only one school or institution (see [eligibility rules](/eligibility-rules)) and, in general, must use the name of that school or institution. Teams may use pseudonyms in unusual legitimate circumstances only. Team pseudonyms must first be approved by ACF’s Site Coordinator and the TD of the tournament. Pseudonyms must be appropriate and neutral in tone (e.g. “\[City] Scholars”) and may not be offensive or confusing. Pseudonyms must be clearly indicated (e.g. within quotation marks) in all official team lists, including schedules and statistics reports.
 
@@ -47,3 +46,4 @@ ACF's [Gameplay Rules](/gameplay-rules/#i-ethics-and-conduct) define two types o
 * ACF will announce player bans as a general policy, but will make exceptions in unusual circumstances, including at the request of the reporter. Reporters who wish to pursue an unreported player ban should discuss the situation with the ACF representative who contacts them about their report.
 * Warnings given for first instances of minor misconduct will not be reported.
 * Time-limited bans that have expired will not be reported.
+</article>

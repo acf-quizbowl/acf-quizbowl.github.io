@@ -1,15 +1,16 @@
 ---
-layout: page
+layout: page-with-toc
 title: Packet Submission Guidelines
 permalink: /packet-submission-guidelines/
 last_updated: February 24, 2021
 ---
 
-# Table of Contents
-{: .no_toc}
+<div class="toc" markdown="1">
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+{:toc class="toc"}
+</div>
 
+<article class="toc-article" markdown="1">
 ## Who needs to submit packets?
 
 ### For ACF Winter and ACF Regionals
@@ -131,3 +132,4 @@ See also [Penalties](/hosting-guidelines#penalties-for-egregious-hosting-violati
 ## Plagiarism
 
 Plagiarism is not tolerated. There will be consequences for any instances of plagiarism.
+</article>

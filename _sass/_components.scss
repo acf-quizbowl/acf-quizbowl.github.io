@@ -14,7 +14,6 @@ code {
     padding: 1px 0px;
 }
 
-
 .prose {
 
   a {
@@ -174,6 +173,32 @@ code {
         }
       }
     }
+  }
+
+  // specific to pages with table of contents
+  .toc {
+    background-color:$blue-1;
+    padding:30px;
+    position:fixed;
+    box-sizing:border-box;
+    top:0px;
+    height:100%;
+    width:300px;
+    left:0px;
+
+    li { list-style-type: none; margin-bottom:6px; }
+    li:first-child { margin-top:20px; }
+    a {
+      color:$blue-dark;
+    }
+  }
+
+  // automatically adds "Table of Contents" title
+  .toc:before {
+    content:"Table of Contents";
+    color:$blue-dark;
+    font-weight:bold;
+    font-size: $h2-size;
   }
 }
 

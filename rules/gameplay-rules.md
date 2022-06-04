@@ -1,17 +1,20 @@
 ---
-layout: page
+layout: page-with-toc
 title: ACF Gameplay Rules
 permalink: /gameplay-rules/
 redirect-from: 
   - /official-acf-gameplay-rules/
 last_updated: September 3, 2021
 ---
-[Rules in PDF format](/official-gameplay-rules.pdf)
 
-# Table of Contents
-{: .no_toc}
+<div class="toc" markdown="1">
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+{:toc class="toc"}
+</div>
+
+<article class="toc-article" markdown="1">
+
+[Rules in PDF format](/official-gameplay-rules.pdf)
 
 ## About these rules
 *This is the official set of gameplay rules of the Academic Competition Federation, put forward for use at all official ACF events and at other applicable collegiate or collegiate-style quizbowl events. Eligibility information specifically pertaining to ACF events now exists as the [ACF Eligibility Rules](/eligibility-rules), and is no longer covered by this document.*
@@ -335,3 +338,4 @@ The following rules are designed to adapt ACF rules to online quizbowl; they are
 - Section E.4.A: “In addition to the above rule about teams directing answers, during online tournaments moderators shall consider directed the first answer given by a team after the moderator prompts them for an answer at the six-second mark, regardless of if the answer is preceded by a directing phrase or not. This does not apply to prompts given for the correctness of an answer, but only to prompts given for reasons of time.”
 - Section E.5: Specify that moderators should prompt for an answer to a bonus part after six seconds for an online tournament, and give two seconds thereafter to respond.
 - Section G.20: Typed responses will be held to the same correctness guidelines as spoken responses.
+</article>
