@@ -137,8 +137,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>2021 ACF Nationals co-Head Editor</li>
-<li>2020–2021 Editor-in-Chief</li>
-<li>2019–2020 Communications Officer</li>
+<li>Editor-in-Chief, 2020-21</li>
+<li>Communications Officer, 2019-20</li>
 <li>2019 ACF Nationals Editor</li>
 <li>2017 ACF Nationals Head Editor</li>
 <li>2012 ACF Fall Head Editor</li>
@@ -172,8 +172,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2019–2020 President</li>
-<li>2018–2019 Meeting Chair</li>
+<li>President, 2019-20</li>
+<li>2020 ACF Regionals Science Oversight</li>
+<li>Meeting Chair, 2018-19</li>
 <li>2016 ACF Nationals Editor</li>
 <li>2015 ACF Nationals Editor</li>
 </ul>
@@ -188,6 +189,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Nationals Staff Coordinator, 2019-22</li>
 <li>2019 ACF Regionals Editor</li>
 <li>2018 ACF Nationals Logistics</li>
 <li>2016 ACF Nationals co-Head Editor</li>
@@ -209,9 +211,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2020–2021 President</li>
-<li>2019–2020 Site Coordinator</li>
-<li>2018–2019 Treasurer</li>
+<li>President, 2020-21</li>
+<li>Site Coordinator, 2019-20</li>
+<li>Treasurer, 2018-19</li>
 <li>2019 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Logistics</li>
 </ul>
@@ -241,9 +243,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2022 ACF Nationals Editor</li>
 <li>2021 ACF Regionals Editor</li>
 <li>2018 ACF Regionals Editor</li>
-<li>2014–2017 Communications Officer</li>
+<li>Communications Officer, 2014-17</li>
 <li>2013 ACF Fall Editor</li>
 </ul>
 </td>
@@ -257,7 +260,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2021 ACF Nationals Qualifier Logistics</li>
+<li>Treasurer, 2021-23</li>
+<li>2022 ACF Regionals Editor</li>
+<li>2021 ACF Nationals Qualifier Tournament Director</li>
 <li>2020 ACF Winter Editor</li>
 <li>2019 ACF Fall Editor</li>
 </ul>
@@ -273,6 +278,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Treasurer, 2019-19</li>
 <li>2019 ACF Nationals Stats Director</li>
 <li>2018 ACF Nationals Stats Director</li>
 </ul>
@@ -288,10 +294,11 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Carper Committee Chair, 2019-present</li>
 <li>2019 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Head Editor</li>
 <li>2017 ACF Regionals Head Editor</li>
-<li>2010–2015 Meeting Chair</li>
+<li>Meeting Chair, 2010-15</li>
 <li>2013 ACF Fall Editor</li>
 <li>2010 ACF Winter Head Editor</li>
 <li>2008 ACF Fall Head Editor</li>
@@ -299,20 +306,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
-<tr>
-<td>Will Holub-Moorman</td>
-<td>
-<ul>
-<li>Alumnus, Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Regionals Editor</li>
-<li>2018 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Nick Jensen</td>
 <td>
@@ -323,6 +317,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Editor-in-Chief, 2022-23</li>
+<li>2022 ACF Regionals Editor</li>
+<li>2021 ACF Winter Editor</li>
 <li>2020 ACF Winter Editor</li>
 <li>2020 ACF Regionals Editor</li>
 </ul>
@@ -337,7 +334,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2021 Site Coordinator (interim)</li>
+<li>President, 2022-23</li>
+<li>2022 ACF Nationals Tournament Director</li>
+<li>2021 Interim Site Coordinator</li>
 <li>2021 ACF Regionals Editor</li>
 <li>2020 ACF Fall and Regionals Site Tournament Director</li>
 </ul>
@@ -347,7 +346,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Rahul Keyal</td>
 <td>
 <ul>
-<li>University of Californa, Berkeley</li>
+<li>University of California, Berkeley</li>
 </ul>
 </td>
 <td>
@@ -366,7 +365,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2020–2021 Treasurer</li>
+<li>Treasurer, 2020-21</li>
 <li>2020 ACF Regionals Head Editor</li>
 <li>2019 ACF Nationals Editor</li>
 </ul>
@@ -383,7 +382,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>2022 ACF Nationals Head Editor</li>
-<li>2021 ACF Nationals Qualifier Editor</li>
+<li>2021 ACF Nationals Qualifier Head Editor</li>
 <li>2016 ACF Regionals Head Editor</li>
 <li>2013 ACF Regionals Editor</li>
 <li>2013 ACF Fall Editor</li>
@@ -415,47 +414,15 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2020 ACF Regionals Oversight</li>
-<li>2020 ACF Regionals Logistics and Advanced Statistics</li>
-<li>2019 ACF Fall Proofreading/Packetizing</li>
-<li>2019 ACF Regionals Logistics and Advanced Statistics</li>
-<li>2018 ACF Regionals Logistics and Advanced Statistics</li>
+<li>Webmaster, 2021-22</li>
+<li>2020 ACF Regionals Oversight, Logistics, and Advanced Stats</li>
+<li>2019 ACF Fall Proofreading and Packetizing</li>
+<li>2019 ACF Regionals Logistics and Advanced Stats</li>
+<li>2018 ACF Regionals Logistics and Advanced Stats</li>
 </ul>
 </td>
 </tr>
-<tr>
-<td>Bruce Lou</td>
-<td>
-<ul>
-<li>Alumnus, University of California, Berkeley</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Regionals Editor</li>
-<li>2017 ACF Fall Editor</li>
-<li>2016 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Sam Luongo</td>
-<td>
-<ul>
-<li>Alum, Virginia Commonwealth University School of Education</li>
-<li>Alum, University of Virginia</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2018–2019 Webmaster</li>
-<li>2017–2018 Meeting Chair</li>
-<li>2018 ACF Nationals Tournament Director</li>
-<li>2015 ACF Regionals Editor and Logistics Coordinator</li>
-<li>2011 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Evan Lynch</td>
 <td>
@@ -481,7 +448,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2020–2021 Communications Director</li>
+<li>Webmaster, 2022-23</li>
+<li>2021-22 ACF Nationals Program Designer</li>
+<li>Communications Officer, 2020-21</li>
 <li>2019 ACF Fall Editor</li>
 </ul>
 </td>
@@ -524,26 +493,15 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>ACF Moderator Training</li>
+<li>2022 ACF Nationals Proofreader</li>
+<li>Communications Officer, 2021-22</li>
+<li>2021 ACF Nationals Proofreader</li>
+<li>2021 ACF Online Moderator Training</li>
+<li>2021 ACF Regionals Logistics Support & Proofreader</li>
 </ul>
 </td>
 </tr>
-<tr>
-<td>Will Nediger</td>
-<td>
-<ul>
-<li>PhD, University of Michigan</li>
-<li>Alumnus, University of Western Ontario</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Regionals Head Editor</li>
-<li>2014 ACF Regionals Editor</li>
-<li>2009 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Nitin Rao</td>
 <td>
@@ -568,7 +526,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2019–2021 Webmaster</li>
+<li>2023 ACF Nationals Tournament Director</li>
+<li>President, 2021-22</li>
+<li>Webmaster, 2019-21</li>
 <li>2019 ACF Nationals Tournament Director</li>
 <li>2018 ACF Nationals Assistant Tournament Director</li>
 <li>2017 ACF Fall Editor</li>
@@ -600,6 +560,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2022 ACF Nationals Travel Logistics</li>
+<li>2021 ACF Nationals Travel Logistics</li>
 <li>2019 ACF Nationals Travel Logistics</li>
 <li>2018 ACF Nationals Travel Logistics</li>
 <li>2017 ACF Nationals Travel Logistics</li>
@@ -615,7 +577,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2020–2021 Site Coordinator</li>
+<li>Site Coordinator, 2020-21</li>
 <li>2019 ACF Nationals Host Logistics Contact</li>
 </ul>
 </td>
@@ -629,8 +591,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2020–2021 ACF Nationals Tournament Director</li>
-<li>2019–2020 Treasurer</li>
+<li>2021 ACF Nationals Tournament Director</li>
+<li>Treasurer, 2019-20</li>
 <li>2017 ACF Regionals Editor</li>
 <li>2016 ACF Nationals Stats Director</li>
 <li>2015 ACF Nationals Assistant Tournament Director</li>
@@ -647,7 +609,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2020 ACF Winter Editor</li>
+<li>2020 ACF Winter Science Oversight</li>
 <li>2019 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Editor</li>
 <li>2015 ACF Fall Editor</li>
@@ -684,11 +646,106 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2021 ACF Nationals Editor</li>
 <li>2019 ACF Regionals Editor</li>
 <li>2017 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Alex Hardwick</td>
+<td>
+<ul>
+<li>Oxford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Regionals Editor</li>
+<li>2020 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Taylor Harvey</td>
+<td>
+<ul>
+<li>Alumnus, University of Florida</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Editor-in-Chief, 2021-22</li>
+<li>2022 ACF Regionals Head Editor</li>
+<li>2020 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Arjun Nageswaran</td>
+<td>
+<ul>
+<li>Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Regionals Editor</li>
+<li>2020 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Theresa Nyowheoma</td>
+<td>
+<ul>
+<li>Alumna, New York University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Site Coordinator, 2021-22</li>
+<li>2021 ACF Regionals Tournament Director</li>
+<li>2020 ACF Fall Tournament Director</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Chandler West</td>
+<td>
+<ul>
+<li>MEd Student, Vanderbilt University</li>
+<li>Alumnus, Auburn University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Regionals Editor</li>
+<li>2020 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Annabelle Yang</td>
+<td>
+<ul>
+<li>MD Candidate, Washington University in St. Louis</li>
+<li>Alumna, Duke University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Regionals Editor</li>
+<li>2021 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -745,6 +802,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>William Golden</td>
 <td>
@@ -758,6 +816,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Karan Gurazada</td>
 <td>
@@ -771,33 +830,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
-<tr>
-<td>Alex Hardwick</td>
-<td>
-<ul>
-<li>Oxford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Taylor Harvey</td>
-<td>
-<ul>
-<li>Alumnus, University of Florida</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Regionals Head Editor</li>
-<li>2020 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Natan Holtzman</td>
 <td>
@@ -808,6 +841,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Wonyoung Jang</td>
 <td>
@@ -860,19 +894,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
-<tr>
-<td>Olivia Lamberti</td>
-<td>
-<ul>
-<li>Stanford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2018 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Matthew Lehmann</td>
 <td>
@@ -882,7 +904,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
-<li>2020 ACF Fall Editor</li>
+<li>2020 ACF Fall Oversight and Editor</li>
 </ul>
 </td>
 </tr>
@@ -951,33 +973,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
-<tr>
-<td>Arjun Nageswaran</td>
-<td>
-<ul>
-<li>Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Theresa Nyowheoma</td>
-<td>
-<ul>
-<li>Alumna, New York University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Regionals Tournament Director</li>
-<li>2020 ACF Fall Tournament Director</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Hari Parameswaran</td>
 <td>
@@ -991,19 +987,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
-<tr>
-<td>Rebecca Rosenthal</td>
-<td>
-<ul>
-<li>Swarthmore College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Nationals Assistant Tournament Director</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Bryanna Shao</td>
 <td>
@@ -1017,19 +1001,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
-<tr>
-<td>Kenji Shimizu</td>
-<td>
-<ul>
-<li>Alumnus, University of Michigan</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2018 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Ethan Strombeck</td>
 <td>
@@ -1043,6 +1015,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Ned Tagtmeier</td>
 <td>
@@ -1056,34 +1029,136 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
-<td>Chandler West</td>
+<td>Will Alston</td>
 <td>
 <ul>
-<li>MEd Student, Vanderbilt University</li>
-<li>Alumnus, Auburn University</li>
+<li>MBA, Columbia University</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>2020 ACF Winter Editor</li>
+<li>2022 ACF Nationals Editor</li>
 </ul>
 </td>
 </tr>
+
 <tr>
-<td>Annabelle Yang</td>
+<td>Zac Bennett</td>
 <td>
 <ul>
-<li>MD Candidate, Washington University in St. Louis</li>
-<li>Alumna, Duke University</li>
+<li>Ohio State University</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>2021 ACF Regionals Editor</li>
+<li>2021 ACF Winter Tournament Director</li>
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Jordan Davidsen</td>
+<td>
+<ul>
+<li>Yale University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Nationals Assistant Tournament Director</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Jacob Egol</td>
+<td>
+<ul>
+<li>Duke University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Fall Logistics</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Mia McGill</td>
+<td>
+<ul>
+<li>Coach, Irondale High School</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Communications Officer, 2022-23</li>
+<li>2022 ACF Nationals Logistics Coordinator</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>John Nienajadlo</td>
+<td>
+<ul>
+<li>University of Florida</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Site Coordinator, 2022-23</li>
+<li>2022 ACF Regionals Tournament Director</li>
+<li>2021 ACF Winter Tournament Director</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Grant Peet</td>
+<td>
+<ul>
+<li>University of North Carolina, Chapel Hill</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Jonathen Settle</td>
+<td>
+<ul>
+<li>Alumnus, University of Florida</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Harry White</td>
+<td>
+<ul>
+<li>Alumnus, Virginia Tech</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Regionals Nationals Live Stats</li>
+</ul>
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -1100,6 +1175,73 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td>Will Nediger</td>
+<td>
+<ul>
+<li>PhD, University of Michigan</li>
+<li>Alumnus, University of Western Ontario</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Head Editor</li>
+<li>2014 ACF Regionals Editor</li>
+<li>2009 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Bruce Lou</td>
+<td>
+<ul>
+<li>Alumnus, University of California, Berkeley</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Editor</li>
+<li>2017 ACF Fall Editor</li>
+<li>2016 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Sam Luongo</td>
+<td>
+<ul>
+<li>Alum, Virginia Commonwealth University School of Education</li>
+<li>Alum, University of Virginia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Webmaster, 2018-19</li>
+<li>Meeting Chair, 2017-18</li>
+<li>2018 ACF Nationals Tournament Director</li>
+<li>2015 ACF Regionals Editor and Logistics Coordinator</li>
+<li>2011 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Will Holub-Moorman</td>
+<td>
+<ul>
+<li>Alumnus, Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2019 ACF Regionals Editor</li>
+<li>2018 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Evan Adams</td>
 <td>
@@ -1207,7 +1349,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
-<li>2011–2014 Communications Officer</li>
+<li>Communications Officer, 2011-14</li>
 <li>2012 ACF Nationals Editor</li>
 <li>2011 ACF Nationals Editor</li>
 <li>2010 ACF Nationals Editor</li>
@@ -1252,7 +1394,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>
 <ul>
 <li>Fellow, Casualty Actuarial Society</li>
-<li>M.B.A., Elon University Love School of Business</li>
+<li>M.B.A, Elon University Love School of Business</li>
 <li>Alumnus, University of Maryland</li>
 </ul>
 </td>
@@ -1261,6 +1403,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <li>2001 ACF Nationals Editor</li>
 <li>2000 ACF Nationals Editor</li>
 <li>1999 ACF Regionals Editor</li>
+<li>Co-founder</li>
 </ul>
 </td>
 </tr>
@@ -1287,7 +1430,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
-<li>2016 Lead writer, August ACF rules revision</li>
+<li>Lead writer, August 2016 ACF rules revision</li>
 <li>2015 ACF Nationals Assistant Tournament Director</li>
 <li>2015 ACF Regionals Head Editor</li>
 <li>2014 ACF Regionals Editor</li>
@@ -1305,7 +1448,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <ul>
 <li>2010 ACF Winter Editor</li>
 <li>2009 ACF Winter Editor</li>
-<li>2008 ACF Fall Editor</li>
+<li>2007 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -1335,7 +1478,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
-<li>2015–2017 Treasurer</li>
+<li>Treasurer, 2015-17</li>
 <li>2014 ACF Fall co-Head Editor</li>
 <li>2009 ACF Fall Head Editor</li>
 <li>2008 ACF Fall Editor</li>
@@ -1352,6 +1495,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>
 <ul>
 <li>2008 ACF Regionals Editor</li>
+<li>2006 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -1408,6 +1552,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
+<li>2022 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Editor</li>
 <li>2017 ACF Regionals Editor</li>
 <li>2015 ACF Regionals Editor</li>
@@ -1425,6 +1570,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
+<li>2004 ACF Fall Head Editor</li>
 <li>2001 ACF Nationals Editor</li>
 </ul>
 </td>
@@ -1438,7 +1584,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
-<li>2018 Meeting Chair</li>
+<li>2021 ACF Online Moderator Training</li>
+<li>Meeting Chair, 2018</li>
 <li>2017 ACF Fall Head Editor</li>
 <li>2013 ACF Nationals Head Editor</li>
 <li>2012 ACF Nationals Head Editor</li>
@@ -1546,6 +1693,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
+<li>2022 ACF Nationals Editor</li>
 <li>2017 ACF Regionals Editor</li>
 <li>2014 ACF Regionals Editor</li>
 <li>2013 ACF Fall Editor</li>
@@ -1608,7 +1756,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>
 <ul>
 <li>2015–2017 ACF Nationals Tournament Director</li>
-<li>2010–2015 Treasurer</li>
+<li>Treasurer, 2010-15</li>
 <li>2014 ACF Nationals Head Editor</li>
 <li>2012 ACF Nationals Editor</li>
 <li>2011 ACF Nationals Head Editor / Tournament Director</li>
@@ -1661,13 +1809,13 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
+<li>2007 ACF Fall Head Editor</li>
 <li>2007 ACF Nationals Head Editor</li>
 <li>2006 ACF Nationals Head Editor</li>
 <li>2005 ACF Nationals Head Editor</li>
 <li>2005 ACF Regionals Head Editor</li>
-<li>2000 ACF Regionals Head Editor</li>
-<li>2007 ACF Fall Head Editor</li>
 <li>2001 ACF Nationals Editor</li>
+<li>2000 ACF Regionals Head Editor</li>
 </ul>
 </td>
 </tr>
