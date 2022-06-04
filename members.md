@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: May 14, 2022
+last_updated: June 4, 2022
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -155,8 +155,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>2021 ACF Nationals Editor</li>
 <li>2021 ACF Regionals Editor</li>
+<li>2020 ACF Regionals Editor</li>
 <li>2019 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Editor</li>
 <li>2014 ACF Fall Editor</li>
@@ -746,6 +746,21 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 </tr>
 
+<tr>
+<td>Graham Reid</td>
+<td>
+<ul>
+<li>PhD, University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Regionals Editor</li>
+<li>2019 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -864,7 +879,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
-<li>2021 ACF Nationals Host Contact</li>
+<li>2021 ACF Nationals Host Logistics Contact</li>
 </ul>
 </td>
 </tr>
@@ -1174,6 +1189,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <th class="contributions">Contributions</th>
 </tr>
 </thead>
+
 <tbody>
 
 <tr>
@@ -1189,6 +1205,19 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <li>2019 ACF Regionals Head Editor</li>
 <li>2014 ACF Regionals Editor</li>
 <li>2009 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Jonathan Pinyan</td>
+<td>
+</td>
+<td>
+<ul>
+<li>2019 ACF Nationals Stats Director</li>
+<li>2015 ACF Nationals Stats Director</li>
+<li>2014 ACF Nationals Stats Director</li>
 </ul>
 </td>
 </tr>
