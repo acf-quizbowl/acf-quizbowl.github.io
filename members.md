@@ -318,6 +318,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>Editor-in-Chief, 2022-23</li>
+<li>2023 ACF Regionals Head Editor</li>
 <li>2022 ACF Regionals Editor</li>
 <li>2021 ACF Winter Editor</li>
 <li>2020 ACF Winter Editor</li>
@@ -692,6 +693,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2022 ACF Fall co-Head Editor</li>
 <li>2022 ACF Regionals Editor</li>
 <li>2020 ACF Fall Editor</li>
 </ul>
@@ -905,6 +907,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
+<li>2022 ACF Winter co-Head Editor</li>
 <li>2021 ACF Winter Editor</li>
 </ul>
 </td>
@@ -945,6 +948,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
+<li>2022 ACF Fall co-Head Editor</li>
 <li>2021 ACF Winter Editor</li>
 </ul>
 </td>
