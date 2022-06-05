@@ -461,7 +461,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Ben Miller</td>
 <td>
 <ul>
-<li>University of Chicago</li>
+<li>Alumnus, University of Chicago</li>
 </ul>
 </td>
 <td>
@@ -1053,7 +1053,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Will Alston</td>
 <td>
 <ul>
-<li>M.B.A, Columbia University</li>
+<li>M.B.A., Columbia University</li>
 <li>Alumnus, Dartmouth College</li>
 </ul>
 </td>
@@ -1068,7 +1068,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Zac Bennett</td>
 <td>
 <ul>
-<li>Ohio State University</li>
+<li>University of Oklahoma</li>
 </ul>
 </td>
 <td>
