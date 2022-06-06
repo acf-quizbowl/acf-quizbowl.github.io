@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: June 5, 2022
+last_updated: June 6, 2022
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -721,7 +721,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Chandler West</td>
 <td>
 <ul>
-<li>MEd Student, Vanderbilt University</li>
+<li>M.Ed., Vanderbilt University</li>
 <li>Alumnus, Auburn University</li>
 </ul>
 </td>
