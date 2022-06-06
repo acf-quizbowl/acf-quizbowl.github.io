@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: June 4, 2022
+last_updated: June 5, 2022
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -1217,6 +1217,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <tr>
 <td>Jonathan Pinyan</td>
 <td>
+Alumnus, Washington University in St. Louis
 </td>
 <td>
 <ul>
