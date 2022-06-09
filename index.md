@@ -57,7 +57,7 @@ Nick Jensen
 
 ## Recent updates
 
-### June 5, 2022
+#### June 5, 2022
 [Editor applications closed](https://hsquizbowl.org/forums/viewtopic.php?p=390077#p390077)
 : Subject editor applications for Fall, Winter, and Regionals are now closed. Thank you to everyone who applied!
 
