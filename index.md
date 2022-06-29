@@ -57,6 +57,10 @@ Nick Jensen
 
 ## Recent updates
 
+#### June 28, 2022
+[ACF Nationals assistant TD applications open](https://hsquizbowl.org/forums/viewtopic.php?p=390629#p390629)
+: We're seeking assistant tournament directors for 2023 ACF Nationals. Applications close on July 17, 2022.
+
 #### June 5, 2022
 [Editor applications closed](https://hsquizbowl.org/forums/viewtopic.php?p=390077#p390077)
 : Subject editor applications for Fall, Winter, and Regionals are now closed. Thank you to everyone who applied!
