@@ -59,7 +59,7 @@ Nick Jensen
 
 #### July 3, 2022
 [ACF Fall, Winter, and Regionals editors announced](https://hsquizbowl.org/forums/viewtopic.php?t=26013&p=390665#p390665)
-Subject editors for 2022 ACF Fall, 2022 ACF Winter, and 2023 ACF Regionals have now been announced. Thank you to everyone who applied and congratulations to the editors!
+: Subject editors for 2022 ACF Fall, 2022 ACF Winter, and 2023 ACF Regionals have now been announced. Thank you to everyone who applied and congratulations to the editors!
 
 #### June 28, 2022
 [ACF Nationals assistant TD applications open](https://hsquizbowl.org/forums/viewtopic.php?p=390629#p390629)
