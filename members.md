@@ -85,7 +85,7 @@ ACF’s officers also serve as ACF’s board of directors.
 <td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td></td>
+<td>Taylor Harvey</td>
 <td>2023 ACF Nationals</td>
 <td><a href="mailto:nationals@acf-quizbowl.com">nationals@acf-quizbowl.com</a></td>
 </tr>
@@ -678,6 +678,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2023 ACF Nationals Head Editor</li>
 <li>Editor-in-Chief, 2021-22</li>
 <li>2022 ACF Regionals Head Editor</li>
 <li>2020 ACF Regionals Editor</li>

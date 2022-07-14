@@ -51,11 +51,27 @@ January 28, 2023
 Nick Jensen
 </td>
 </tr>
+
+<tr>
+<td>
+2023 ACF Nationals
+</td>
+<td>
+TBD during host bid process
+</td>
+<td>
+Taylor Harvey
+</td>
+</tr>
 </table>
 
 <!-- Set title and description in config.yml -->
 
 ## Recent updates
+
+#### July 14, 2022
+[2022-23 ACF tournament dates announced](https://hsquizbowl.org/forums/viewtopic.php?t=26100)
+: Tournament dates for 2022 ACF Fall, 2022 ACF Winter, 2023 ACF Regionals, and 2023 ACF Nationals have now been announced, as well as all head editors.
 
 #### July 3, 2022
 [ACF Fall, Winter, and Regionals editors announced](https://hsquizbowl.org/forums/viewtopic.php?t=26013&p=390665#p390665)
