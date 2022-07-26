@@ -294,6 +294,12 @@ p a[href^="mailto:"] { background: url('data:image/svg+xml,%3Csvg width="20" hei
 
 .toc-lvl-1-only ul ul { display: none; }
 
+.paginate_button { padding: .5em 1em .25em 1em !important; color: black !important; }
+
+.paginate_button.current { border: 0px !important; border-bottom: 2px solid #023B7F !important; background: white !important; }
+
+.paginate_button:hover { border: 0px !important; border-bottom: 2px solid #7EB7FD !important; background: white !important; color: black !important; }
+
 /* Team Career Table */
 th.year-team-career { width: 5%; }
 
