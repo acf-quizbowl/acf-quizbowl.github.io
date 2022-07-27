@@ -69,6 +69,10 @@ Taylor Harvey
 
 ## Recent updates
 
+#### July 26, 2022
+[ACF Nationals assistant TDs](https://hsquizbowl.org/forums/viewtopic.php?t=26075)
+: ACF Nationals assistant tournament directors have been chosen. Thank you to everyone who applied!
+
 #### July 14, 2022
 [2022-23 ACF tournament dates announced](https://hsquizbowl.org/forums/viewtopic.php?t=26100)
 : Tournament dates for 2022 ACF Fall, 2022 ACF Winter, 2023 ACF Regionals, and 2023 ACF Nationals have now been announced, as well as all head editors.
