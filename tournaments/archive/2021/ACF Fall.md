@@ -44,7 +44,7 @@ The field (list of registered teams) for each site can be found [here](https://d
 
 ## Fees
 
-Team entry fee or discount         |
+Team entry fee or discount         | 
 -                                  | -
 Base fee per team                  | $120
 New to quizbowl discount           | −$80
@@ -113,12 +113,12 @@ Upper Mid-Atlantic              | [UMD](https://hsquizbowl.org/forums/viewtopic.
 Upper Mid-Atlantic Overflow     | [NYU](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25465) | online
 Lower Mid-Atlantic              | [Duke](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25362) | in person
 Southeast                       | [Georgia Tech](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25374) | in person
-Florida                         |
+Florida                         | 
 Great Lakes                     | [Case Western](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25363) | in person
 Midwest                         | [UIUC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25360) | in person
 North                           | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25358) | in person
 South Central                   | [UT-Austin](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25376)
-Mountain West                   |
+Mountain West                   | 
 California and Northwest        | [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25369) | online
 Eastern Canada                  | [McGill](https://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=25380) | online
 United Kingdom                  | [Warwick](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25382) | online
