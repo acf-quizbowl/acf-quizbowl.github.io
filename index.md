@@ -18,7 +18,7 @@ Head Editor
 
 <tr>
 <td>
-2022 ACF Fall
+[2022 ACF Fall](/fall)
 </td>
 <td>
 October 15, 2022
@@ -68,6 +68,10 @@ Taylor Harvey
 <!-- Set title and description in config.yml -->
 
 ## Recent updates
+
+#### August 4, 2022
+[2022 ACF Fall announced](/fall)
+: See the forum post [here](https://hsquizbowl.org/forums/viewtopic.php?p=391070).
 
 #### July 26, 2022
 [ACF Nationals assistant TDs](https://hsquizbowl.org/forums/viewtopic.php?t=26075)
