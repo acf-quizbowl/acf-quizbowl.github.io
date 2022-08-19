@@ -3,7 +3,7 @@ layout: page
 title: ACF Fall
 permalink: /fall/
 nav_order: 2
-last_updated: October 31, 2021
+last_updated: August 19, 2022
 ---
 
 <!--
@@ -20,27 +20,36 @@ number the sections.
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-# 2021 ACF Fall
-[2021 ACF Fall](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25261) was held on October 16, 2021.
+# 2022 ACF Fall
+[2022 ACF Fall](https://hsquizbowl.org/forums/viewtopic.php?p=391070) will be held on October 15, 2022.
 
 ## Editors
-2021 ACF Fall is head-edited by Katherine Lei and edited by Sarah Benner, Justin Duffy, Karan Gurazada, Mitch McCullar, Gov Prabhakar, Ethan Strombeck, and Ned Tagtmeier. Justin Duffy, Matthew Lehmann, Matthew Bollinger, and other ACF members are offering oversight.
+2022 ACF Fall is head-edited by Arjun Nageswaran and Steven Liu, and edited by:
+- Dean Ah Now (World History, European History),
+- Raymond Chen (British Literature, World Literature),
+- Jim Fan (American Literature, European Literature),
+- Sean Farrell (Non-Abrahamic Religion, Mythology, Visual Fine Arts),
+- Evan Knox (Abrahamic Religion, Current Events, Pop Culture),
+- Daniel Ma (Other History, Auditory Fine Arts),
+- Ned Tagtmeier (Philosophy, Social Science),
+- Eric Yin (Biology, Chemistry, Physics, Other Science excluding Math/CS),
+- and Walter Zhang (American History, Math/CS, Geography).
 
 <!-- add editors breakdown table -->
 
-## Online format
+## Format
 We hope that ACF Fall can be held in person. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Fall will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.
 
 ## Rules
 This tournament will follow [ACF’s official gameplay rules](/gameplay-rules). Rules specifically pertaining to online tournaments are in blue.
 
-## Registration
+<!--## Registration
 To register for 2021 ACF Fall, fill out the central [2021 ACF Fall registration form](https://forms.gle/kG9b7Rj4zo49zKtf8) with all relevant information.
 
 If possible, teams should register for the site that is geographically closest to them and/or is in the region they would normally attend.
 
 ## Field
-The field (list of registered teams) for each site can be found [here](https://docs.google.com/spreadsheets/d/1P4tdvLOAb_yQhPQqkl6PMsTyxn-Y1L2Ae25EzY6H3EU/edit).
+The field (list of registered teams) for each site can be found [here](https://docs.google.com/spreadsheets/d/1P4tdvLOAb_yQhPQqkl6PMsTyxn-Y1L2Ae25EzY6H3EU/edit).-->
 
 ## Fees
 
@@ -49,33 +58,32 @@ Team entry fee or discount         |
 Base fee per team                  | $120
 New to quizbowl discount           | −$80
 Shorthanded discount (1–2 players) | −$60
-Travel discount                    | −$10 per 200 miles traveled one-way
-Buzzers                            | −$10 per functional buzzer system
-Staffers (in-person)               | −$15 per staffer with functional laptop. Staffers must register with ACF in advance.
-Staffers (online)                  | −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
+Staffers                           | −$25 per staffer with functional laptop. Staffers must register with ACF in advance.
 
-The "new to quizbowl" discount is for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September 2020, and which have no players who competed in non-novice collegiate tournaments during that same period.
+The minimum fee is $0 per team.
+
+The "new to quizbowl" discount is for schools that did not send a team to any regular collegiate academic tournament (not counting exclusively novice tournaments) since September 2021, and which have no players who competed in non-novice collegiate tournaments during that same period.
 
 Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, cash, or PayPal.
 
 See below for packet submission discounts.
 
-The minimum fee is $0 per team.
-
 ## Packet submission
-Like 2020 ACF Fall, no teams are required to submit questions in order to play the tournament. However, ACF still needs high-quality, half-packet submissions from teams to complete the set.
+Like the 2021 edition of ACF Fall, no teams are required to submit questions in order to play the tournament. However, ACF still needs high-quality half-packet submissions from teams to complete the set.
 
-Below is the submission schedule for ACF Fall. All deadlines are at 11:59 p.m. Pacific Time. All submitting teams are eligible for an additional −$20 quality discount if their questions are particularly polished and usable, up to a maximum discount of −$60. Teams may submit a maximum of one half-packet.
+**If a team wishes to outsource part of its packet to a player not expected to play on that team (e.g., a student who has graduated), it must first receive approval from the head editors. Non-playing students are welcome and encouraged to help their newer club members write, especially for Fall, but it's useful to know the contributors for both credit and logistical reasons.**
+
+Below is the submission schedule for ACF Fall. All deadlines are at 11:59 p.m. PT. The maximum packet discounts have increased since last year; furthermore, all submitting teams are eligible for an additional −$20 quality discount if their questions are particularly polished and usable, up to a maximum discount of −$60. Teams may submit a maximum of one half-packet.
 
 Submission deadline | Packet discount
 - | -
-August 21, 2021    | −$50
-August 28, 2021    | −$40
-September 4, 2021  | −$30
-September 11, 2021 | −$20
-September 18, 2021 | −$10
+August 21, 2022    | −$50
+August 28, 2022    | −$40
+September 4, 2022  | −$30
+September 11, 2022 | −$20
+September 18, 2022 | −$10
 
-If you would like to submit a half-packet, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScUin-wIZeG1dJa-8JRtfKhhzhSbN924JHDuIU6GZxJHZcpCA/viewform). ACF will respond with a half-packet template specifying which categories you are assigned to write.
+If you would like to submit a half-packet, fill out [this form](https://forms.gle/XwNLS2FaY6BtTzM59). ACF will respond with a half-packet template specifying which categories you are assigned to write.
 
 Each submission consists of 12 tossups and 12 bonuses. Before writing, please review [ACF's packet submission guidelines](/packet-submission-guidelines) and stick to the format provided. Answers should generally emphasize playability over creativity – aim for creative and interesting clues with straightforward answerlines. These [5 model tossups](https://docs.google.com/document/d/1mokTuDeyDDSb4J1yQG6BWeGsee4x-RFsqf-lmvfBXjc/edit) reflect the difficulty and style to aim for. When finished, submit your half-packet by emailing it to [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com).
 
@@ -85,48 +93,48 @@ Your assigned half-packet may ask you to write questions from specific categorie
 ACF Fall uses the [standard ACF distribution](/distribution).
 
 ## Eligibility
-To make this tournament more accessible to new teams and players, ACF is enforcing eligibility guidelines for ACF Fall (new as of 2021). Players are not eligible to compete at 2021 ACF Fall if, _at any point_, they:
-- Scored more than 50 PPG in the prelims of a college mirror of ACF Fall, OR
-- Were the top scorer (highest overall PPG) on a team that finished in the top 15% of the field, rounded up, at ACF Fall, OR
-- Scored more than 40 PP20TUH in the prelims of HSNCT or 60 PPG in the prelims of PACE NSC, OR
-- Were the top scorer (highest overall PPG) on a team that finished in the top 30 at HSNCT or top 10 at PACE NSC, OR
+To make this tournament more accessible to new teams and players, ACF is enforcing eligibility guidelines for ACF Fall. Players are not eligible to compete at 2022 ACF Fall if, _at any point_, they met any of the following exclusion criteria:
+- Scored more than 50 PPG in the prelims of a college mirror of ACF Fall
+- Were the top scorer (highest overall PPG) on a team that finished in the top 15% of the field, rounded up, at ACF Fall
+- Scored more than 40 PP20TUH in the prelims of HSNCT or 60 PPG in the prelims of PACE NSC
+- Were the top scorer (highest overall PPG) on a team that finished in the top 30 at HSNCT or top 10 at PACE NSC
 - Finished in the top 12 in IPNCT
+- Scored more than 20 PPG in the prelims of ACF Nationals
 
 The eligibility restrictions do not apply to high-school-only mirrors.
 
-**Players are responsible for determining their own eligibility.** If you have questions, email [eligibility@acf-quizbowl.com](mailto:eligibility@acf-quizbowl.com). Failure to abide by these eligibility guidelines may result in disqualification from ACF Fall and/or future ACF tournaments.
-
-## Staffing
-To staff ACF Fall, please fill out [the staffer registration form](https://forms.gle/EFqZKtLk89iQc4C67).
+**Players are responsible for determining their own eligibility. If you have questions, email [eligibility@acf-quizbowl.com](mailto:eligibility@acf-quizbowl.com). Failure to abide by these eligibility guidelines may result in disqualification from ACF Fall and/or future ACF tournaments.**
 
 ## Hosting
-If you are interested in hosting a mirror of ACF Fall, fill out [this form](https://forms.gle/ArXGL6gSVFCbeh1v7). If you have any questions about hosting or about the form, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
+If you are interested in hosting a mirror of ACF Fall, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdksGmPdT44G_rsKyAN5ovMYVZLQwbXuoSzrTJk3IrXeKgU2Q/viewform). If you have any questions about hosting, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
 
 ## Sites
-Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
+Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2022 ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
-Region                          | Site | Type
+Region                          | Site
 -                               | -    | -
-Northeast                       | [MIT](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25359) | in person
-Upstate New York                | [RIT](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25366) | in person
-Upper Mid-Atlantic              | [UMD](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25368) | in person
-Upper Mid-Atlantic Overflow     | [NYU](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25465) | online
-Lower Mid-Atlantic              | [Duke](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25362) | in person
-Southeast                       | [Georgia Tech](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25374) | in person
-Florida                         |
-Great Lakes                     | [Case Western](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25363) | in person
-Midwest                         | [UIUC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25360) | in person
-North                           | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25358) | in person
-South Central                   | [UT-Austin](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25376)
-Mountain West                   |
-California and Northwest        | [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25369) | online
-Eastern Canada                  | [McGill](https://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=25380) | online
-United Kingdom                  | [Warwick](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25382) | online
-High-school-only                | [California and Georgia](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=25378)
-High-school-only                | [National](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=25389) | online
+Northeast                       | Harvard
+Upstate New York                |
+Upper Mid-Atlantic              |
+Lower Mid-Atlantic              |
+Southeast                       | Georgia Tech
+Florida                         | University of Florida
+Great Lakes                     | Michigan
+Midwest                         | Missouri-Columbia
+North                           | Minnesota
+South Central                   | Oklahoma
+Northwest                       | Washington
+California and Northwest        | Berkeley
+Southern California             | Claremont Colleges
+Eastern Canada                  |
+United Kingdom                  |
+Asia                            | Asian Quizbowl Alliance
+High-school-only                | Auburn High School (Rockford, IL)
+
+Current sites with no bids: Eastern Canada, UK, Upstate NY
 
 ## High school teams and high-school-only mirrors
-ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2021 ACF Fall, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). However, we do not plan to offer mixed mirrors that include high school and college teams.
+ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2022 ACF Fall, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). However, we do not plan to offer mixed mirrors that include high school and college teams.
 
 If you have any questions, email [fall@acf-quizbowl.com](fall@acf-quizbowl.com).
 
@@ -135,17 +143,5 @@ Sample questions from previous iterations of ACF Fall are on the [Collegiate Qui
 
 Announcements and information about previous iterations of ACF Fall are archived below:
 
+* [2021 ACF Fall announcement](/tournaments/archive/2021/ACF%20Fall)
 * [2020 ACF Fall announcement](/tournaments/archive/2020/ACF%20Fall)
-
-## Dates of note
-
-Event | Date
-- | -
-ACF dates announced  | June 7, 2021
-ACF Fall announced   | August 13, 2021
-Bidding opened       | September 10, 2021
-Bidding closed       | September 17, 2021
-Host sites announced | September 17, 2021
-Registration opened  | September 17, 2021
-Registration closed  | October 11, 2021
-ACF Fall held        | October 16, 2021

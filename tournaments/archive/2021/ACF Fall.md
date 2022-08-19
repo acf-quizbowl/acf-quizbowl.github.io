@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ACF Fall
-permalink: /fall/
 nav_order: 2
 last_updated: October 31, 2021
 ---
@@ -118,7 +117,7 @@ Great Lakes                     | [Case Western](https://hsquizbowl.org/forums/v
 Midwest                         | [UIUC](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25360) | in person
 North                           | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25358) | in person
 South Central                   | [UT-Austin](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25376)
-Mountain West                   | 
+Mountain West                   |
 California and Northwest        | [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25369) | online
 Eastern Canada                  | [McGill](https://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=25380) | online
 United Kingdom                  | [Warwick](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25382) | online
