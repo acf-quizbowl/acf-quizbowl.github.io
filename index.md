@@ -18,7 +18,7 @@ Head Editor
 
 <tr>
 <td>
-[2022 ACF Fall](/fall)
+<a href="/fall">2022 ACF Fall</a>
 </td>
 <td>
 October 15, 2022
