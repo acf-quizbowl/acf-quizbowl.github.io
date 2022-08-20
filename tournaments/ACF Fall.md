@@ -112,7 +112,7 @@ If you are interested in hosting a mirror of ACF Fall, fill out [this form](http
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2022 ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region                          | Site
--                               | -    | -
+-                               | -
 Northeast                       | Harvard
 Upstate New York                |
 Upper Mid-Atlantic              |
