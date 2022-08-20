@@ -124,7 +124,7 @@ Midwest                         | Missouri-Columbia
 North                           | Minnesota
 South Central                   | Oklahoma
 Northwest                       | Washington
-California and Northwest        | Berkeley
+Northern Carolina               | Berkeley
 Southern California             | Claremont Colleges
 Eastern Canada                  |
 United Kingdom                  |
