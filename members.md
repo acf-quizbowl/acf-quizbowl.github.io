@@ -117,7 +117,7 @@ ACF’s officers also serve as ACF’s board of directors.
 
 Full members can vote in all ACF elections and on all constitutional amendments.
 
-<table class="table-ruled member-list" id = 'full-member-table'>
+<table class="table-ruled member-list hover stripe" id = 'full-member-table'>
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -772,7 +772,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 
 Provisional members are community members who have ably assisted ACF in the past and, if they do so again in the future, may be invited to apply for full membership.
 
-<table class="table-ruled member-list" id = 'provisional-member-table'>
+<table class="table-ruled member-list hover stripe" id = 'provisional-member-table'>
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -1187,7 +1187,7 @@ Provisional members are community members who have ably assisted ACF in the past
 
 Emeritus members are former ACF full members who have decided to take a step back from active involvement in ACF.
 
-<table class="table-ruled member-list"  id = 'emeritus-member-table'>
+<table class="table-ruled member-list hover stripe"  id = 'emeritus-member-table'>
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -1876,7 +1876,9 @@ Alumnus, Washington University in St. Louis
 
 <script>
 $(document).ready( function () {
-    $('#full-member-table').DataTable();
+    $('#full-member-table').DataTable({
+      <!-- $(this).css("background-color", "#eeeeee"); -->
+      });
 } );
 
 $(document).ready( function () {

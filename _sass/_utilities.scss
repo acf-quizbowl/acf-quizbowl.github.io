@@ -62,7 +62,7 @@ ol ol ol { list-style-type: lower-roman; }
 .header-social-dark { fill: $color-code; }
 .header-link:hover { color: $color-nav-link !important; } // used for navigation links on homepage
 .text-accent { color: $color-text-accent; } // used for date in post list and home link
-a.active { color: $color-text-accent; } 
+a.active { color: $color-text-accent; }
 
 /* Layout utilities */
 .container { max-width: $container-width; }
@@ -207,10 +207,10 @@ a.active { color: $color-text-accent; }
   }
 
 .game-winning-team {
-    grid-column-start: 2; 
-    grid-column-end: 4; 
-    grid-row-start: 1; 
-    grid-row-end: 2; 
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
   }
 
  .game-winning-team > * {
@@ -220,10 +220,10 @@ a.active { color: $color-text-accent; }
   }
 
  .game-losing-team {
-    grid-column-start: 4; 
-    grid-column-end: 6; 
-    grid-row-start: 1; 
-    grid-row-end: 2; 
+    grid-column-start: 4;
+    grid-column-end: 6;
+    grid-row-start: 1;
+    grid-row-end: 2;
   }
 
  .game-losing-team > * {
@@ -233,26 +233,26 @@ a.active { color: $color-text-accent; }
   }
 
   .game-winning-players {
-    grid-column-start: 2; 
-    grid-column-end: 4; 
-    grid-row-start: 2; 
-    grid-row-end: 3; 
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
   }
 
  .game-losing-players {
-    grid-column-start: 4; 
-    grid-column-end: 6; 
-    grid-row-start: 2; 
-    grid-row-end: 3; 
+    grid-column-start: 4;
+    grid-column-end: 6;
+    grid-row-start: 2;
+    grid-row-end: 3;
   }
 
   .game-bonuses {
-    grid-column-start: 2; 
-    grid-column-end: 6; 
-    grid-row-start: 3; 
-    grid-row-end: 4; 
+    grid-column-start: 2;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 4;
   }
-   
+
   .record-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -261,17 +261,17 @@ a.active { color: $color-text-accent; }
   }
 
   .record-table {
-    grid-column-start: 1; 
-    grid-column-end: 2; 
-    grid-row-start: 1; 
-    grid-row-end: 2; 
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
   }
 
   .record-graph {
-    grid-column-start: 2; 
-    grid-column-end: 3; 
-    grid-row-start: 1; 
-    grid-row-end: 2; 
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
   }
 
 a[href="#top"] {
@@ -298,20 +298,29 @@ p a[href^="mailto:"] {
   display: none;
 }
 
-.paginate_button {
-  padding: .5em 1em .25em 1em !important;
-  color: black !important;
+.paginate_button, .paginate_button.current, .paginate_button:hover, .paginate_button.current:hover, .paginate_button.disabled, .paginate_button.disabled:hover {
+  box-shadow:none;
+  outline:none;
+  transition:all 0.2s ease;
 }
 
-.paginate_button.current {
-  border: 0px !important;
-  border-bottom: 2px solid $blue-dark !important;
-  background: white !important;
+.paginate_button {
+  padding:0.5 1em !important;
+}
+
+.paginate_button.current, .paginate_button.current:hover {
+  // border: 0px !important;
+  border: 1px solid $blue-dark !important;
+  background:white !important;
 }
 
 .paginate_button:hover {
-  border: 0px !important;
-  border-bottom: 2px solid $blue-light !important;
-  background: white !important;
-  color: black !important;
+  border: 1px solid $blue-dark !important;
+  background: $blue-dark !important;
+  color:white !important;
+}
+
+.paginate_button.disabled, .paginate_button.disabled:hover {
+  background:white !important;
+  border:0px !important;
 }

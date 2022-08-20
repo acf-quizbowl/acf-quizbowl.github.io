@@ -21,7 +21,9 @@
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145833236-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -201,7 +203,7 @@
 <td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td></td>
+<td>Taylor Harvey</td>
 <td>2023 ACF Nationals</td>
 <td><a href="mailto:nationals@acf-quizbowl.com">nationals@acf-quizbowl.com</a></td>
 </tr>
@@ -233,7 +235,7 @@
 
 <p>Full members can vote in all ACF elections and on all constitutional amendments.</p>
 
-<table class="table-ruled member-list">
+<table class="table-ruled member-list hover stripe" id="full-member-table">
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -794,6 +796,7 @@
 </td>
 <td>
 <ul>
+<li>2023 ACF Nationals Head Editor</li>
 <li>Editor-in-Chief, 2021-22</li>
 <li>2022 ACF Regionals Head Editor</li>
 <li>2020 ACF Regionals Editor</li>
@@ -887,7 +890,7 @@
 
 <p>Provisional members are community members who have ably assisted ACF in the past and, if they do so again in the future, may be invited to apply for full membership.</p>
 
-<table class="table-ruled member-list">
+<table class="table-ruled member-list hover stripe" id="provisional-member-table">
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -1302,7 +1305,7 @@
 
 <p>Emeritus members are former ACF full members who have decided to take a step back from active involvement in ACF.</p>
 
-<table class="table-ruled member-list">
+<table class="table-ruled member-list hover stripe" id="emeritus-member-table">
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -1988,6 +1991,23 @@ Alumnus, Washington University in St. Louis
 </tbody>
 </table>
 <!--gt table end-->
+
+<script>
+$(document).ready( function () {
+    $('#full-member-table').DataTable({
+      <!-- $(this).css("background-color", "#eeeeee"); -->
+      });
+} );
+
+$(document).ready( function () {
+    $('#provisional-member-table').DataTable();
+} );
+
+$(document).ready( function () {
+    $('#emeritus-member-table').DataTable();
+} );
+</script>
+
 
   </div>
 </article>
