@@ -7,9 +7,24 @@
   /* TODO: make SCSS file */
 
   .about-site {
-    /* display:flex; */
-    /* justify-content:space-between; */
-    /* background-color:#888; */
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    background-color:#888;
+  }
+
+  .site-title {
+    width:40%;
+    /* margin-right:24px; */
+  }
+
+  .header-title {
+    font-size:4em;
+    font-family:'Merriweather', sans-serif;
+  }
+
+  .site-desc {
+    width:50%;
   }
 
   #tournaments {
@@ -18,36 +33,59 @@
   }
 
   .tournament-card {
-    background: #eee;
     /* color:white; */
+    background:#d9eaff;
     padding:1em 1.5em;
     border-radius:4px;
     /* width:50%; */
     width:24%;
     box-sizing: border-box;
-    display:flex;
-    flex-direction:column;
   }
 
   .tournament-card-blue {
-      background: rgb(2,58,107);
-      background: -webkit-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
-      background: -o-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
-      background: linear-gradient(63deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
+      background: rgb(2,58,107) !important;
+      background: -webkit-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
+      background: -o-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
+      background: linear-gradient(63deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
       color:white;
   }
 
-  .tournament-card i {
-    height:1em;
-    vertical-align: middle;
+.tournament-card span {
+  /* display: flex; */
+  /* align-items:center; */
+}
+  .tournament-card span {
+    /* vertical-align: middle; */
   }
   .tournament-card-blue a {
     color:white;
     text-decoration: underline;
+    margin-top:12px;
   }
 
   .tournament-card h2 {
     margin:0px;
+    font-size:1.7em;
+  }
+
+  .tournament-date {
+    text-transform: uppercase;
+    font-size:0.9em;
+    font-weight:500;
+  }
+
+  .tournament-card a {
+    margin-top:24px;
+    background-color:white;
+    border-radius:8px;
+    padding:12px 16px;
+    text-decoration:none;
+    color:black;
+    display:inline-block;
+  }
+
+  .tournament-card a:hover {
+    text-decoration: underline;
   }
 
   .subtitle {
@@ -73,7 +111,11 @@
 
         <div class="container mx-auto px-2 mb-2 clearfix about-site">
 
+          <div id="site-title col-4">
           <h1 class="h0-title inline-block sm-width-full py-2 mt-3 header-title">{{ site.title }}</h1>
+          </div>
+
+          <div id="site-desc col-3">
           <p class="h3 lh-condensed font-weight-bold mt-2">{{ site.tagline}}</p>
           <p class="h4 lh-condensed font-smoothing col-12">{{ site.description }}</p>
           <div class="clearfix py-1">
@@ -91,6 +133,9 @@
               </div>
             </div>
           </div>
+          </div>
+
+
         </div>
 
       </header>
@@ -99,30 +144,35 @@
 
     <div id="tournaments" class="col-12">
     <div class="tournament-card tournament-card-blue">
+      <span class="tournament-date">October 15, 2022</span>
       <h2>2022 ACF Fall</h2>
+      <span class="head-editors">Head edited by <br />Arjun Nageswaran and Steven Liu</span>
+
+        <a href="/fall">Tournament information →</a>
+    </div>
+
+    <div class="tournament-card">
+      <h2>2022 ACF Winter</h2>
       <span class="tournament-date"><i data-feather="calendar"></i>October 15, 2022</span>
-      <span class="subtitle"><i data-feather="users"></i>Head editors</span>
-      <span class="head-editors">Arjun Nageswaran and Steven Liu</span>
-
-      <a href="/fall">Learn more →</a>
+      <!-- <span class="subtitle"><i data-feather="users"></i>Head editors</span> -->
+      <span class="head-editors"><i data-feather="users"></i>Head edited by</span>
+      Joseph Krol
     </div>
 
     <div class="tournament-card">
-      <h2>2022 ACF Fall</h2>
-      October 15, 2022
-      Head edited by Arjun Nageswaran and Steven Liu
+      <h2>2023 ACF Regionals</h2>
+      <span class="tournament-date"><i data-feather="calendar"></i>October 15, 2022</span>
+      <!-- <span class="subtitle"><i data-feather="users"></i>Head editors</span> -->
+      <span class="head-editors"><i data-feather="users"></i>Head edited by</span>
+      Nick Jensen
     </div>
 
     <div class="tournament-card">
-      <h2>2022 ACF Fall</h2>
-      October 15, 2022
-      Head edited by Arjun Nageswaran and Steven Liu
-    </div>
-
-    <div class="tournament-card">
-      <h2>2022 ACF Fall</h2>
-      October 15, 2022
-      Head edited by Arjun Nageswaran and Steven Liu
+      <h2>2023 ACF Nationals</h2>
+      <span class="tournament-date"><i data-feather="calendar"></i>October 15, 2022</span>
+      <!-- <span class="subtitle"><i data-feather="users"></i>Head editors</span> -->
+      <span class="head-editors"><i data-feather="users"></i>Head edited by</span>
+      Taylor Harvey
     </div>
     </div>
 
@@ -133,7 +183,6 @@
 		</div>
 	</article>
 
-  <script>feather.replace()</script>
   </body>
 
 </html>
