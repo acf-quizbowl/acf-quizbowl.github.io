@@ -39,107 +39,7 @@
 </head>
 
 
-  <style type="text/css">
-  /* TODO: make SCSS file */
-
-  .about-site {
-    display:flex;
-    justify-content:space-between;
-    align-items:flex-start;
-    margin-top:60px;
-    margin-bottom:0px;
-  }
-
-  .about-site:hover {
-    background-color:#888;
-  }
-
-  #site-title {
-    /* width:40%; */
-    /* margin-right:24px; */
-    /* line-height:160%; */
-  }
-
-  .header-title {
-    font-size:4em;
-    font-family:'Merriweather', sans-serif;
-    line-height:120%;
-    padding-right:120px;
-    margin:0;
-  }
-
-  #site-desc {
-    /* width:50%; */
-  }
-
-  #tournaments {
-    display:flex;
-    justify-content:space-evenly;
-  }
-
-  .tournament-card {
-    background:#d9eaff;
-    padding:1em 1.5em;
-    border-radius:4px;
-    width:24%;
-    box-sizing: border-box;
-    display:flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-
-  .tournament-card-blue {
-      background: rgb(2,58,107) !important;
-      background: -webkit-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-      background: -o-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-      background: linear-gradient(63deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-      color:white;
-  }
-
-  .tournament-card-blue a {
-    color:white;
-    text-decoration: underline;
-    margin-top:12px;
-  }
-
-  .tournament-card h2 {
-    margin:6px 0px;
-    font-size:1.7em;
-    line-height:110%;
-  }
-
-  .tournament-date {
-    text-transform: uppercase;
-    font-size:0.9em;
-    font-weight:500;
-  }
-
-  .tournament-card a {
-      margin-top:24px;
-      padding:12px 0px;
-      text-decoration:none;
-      color:black;
-      display:inline-block;
-  }
-
-  .tournament-card-blue a {
-    background-color:white;
-    border-radius:8px;
-    padding:12px 16px;
-  }
-
-  .tournament-card-blue a:hover {
-    text-decoration: underline;
-  }
-
-  #updates-heading {
-    /* get rid of this if you only need <2 lines */
-    color:#023B7F;
-    padding-top:15px;
-    text-align:center;
-  }
-
-  </style>
+  <link rel="stylesheet" href="/assets/home.css">
 
   <body>
 
@@ -226,25 +126,23 @@
 
         <div class="mx-auto px-2 mb-2 clearfix about-site col-10">
 
-          <div id="site-title col-4">
+          <div>
           <h1 class="h0-title inline-block sm-width-full py-2 mt-3 header-title" style="z-index:10; position:relative;">Academic Competition Federation</h1>
           <svg style="margin-top:-350px" width="433" height="453" viewBox="0 0 433 453" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_101_8)">
-<path d="M298.451 341.544C391.556 275.556 430.536 170.565 385.514 107.041C340.491 43.5167 228.516 45.5136 135.411 111.501C42.305 177.489 3.32565 282.479 48.3479 346.004C93.3702 409.528 205.345 407.531 298.451 341.544Z" stroke="#ADE9FF" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M328.41 292.336C328.41 292.336 326.537 305.585 330.403 310.561C334.27 315.537 339.052 321.433 343.401 322.525C335.713 324.047 334.226 321.796 325.609 326.6C317.705 330.938 317.017 336.138 314.743 343.746C315.573 335.279 316.823 323.973 309.316 318.535C301.809 313.097 299.368 311.313 297.202 310.739C297.202 310.739 309.601 311.158 313.524 308.719C317.447 306.281 326.004 299.685 328.41 292.336Z" fill="#ADE9FF"/>
-<path d="M121.153 100.04C121.153 100.04 118.791 116.357 123.293 122.42C127.795 128.483 133.461 135.678 138.63 136.962C129.46 138.938 127.754 136.195 117.41 142.1C107.936 147.534 107.055 153.94 104.251 163.32C105.349 152.908 106.986 138.983 98.0982 132.402C89.2108 125.821 86.3275 123.665 83.7503 122.999C83.7503 122.999 98.5271 123.356 103.228 120.305C107.929 117.253 118.184 109.099 121.153 100.04Z" fill="#ADE9FF"/>
-</g>
-<defs>
-<clipPath id="clip0_101_8">
-<rect width="339.86" height="371.04" fill="white" transform="translate(107.254 0.102112) rotate(16.6433)"/>
-</clipPath>
-</defs>
-</svg>
-
-
+          <g clip-path="url(#clip0_101_8)">
+          <path d="M298.451 341.544C391.556 275.556 430.536 170.565 385.514 107.041C340.491 43.5167 228.516 45.5136 135.411 111.501C42.305 177.489 3.32565 282.479 48.3479 346.004C93.3702 409.528 205.345 407.531 298.451 341.544Z" stroke="#ADE9FF" stroke-width="2" stroke-miterlimit="10"/>
+          <path d="M328.41 292.336C328.41 292.336 326.537 305.585 330.403 310.561C334.27 315.537 339.052 321.433 343.401 322.525C335.713 324.047 334.226 321.796 325.609 326.6C317.705 330.938 317.017 336.138 314.743 343.746C315.573 335.279 316.823 323.973 309.316 318.535C301.809 313.097 299.368 311.313 297.202 310.739C297.202 310.739 309.601 311.158 313.524 308.719C317.447 306.281 326.004 299.685 328.41 292.336Z" fill="#ADE9FF"/>
+          <path d="M121.153 100.04C121.153 100.04 118.791 116.357 123.293 122.42C127.795 128.483 133.461 135.678 138.63 136.962C129.46 138.938 127.754 136.195 117.41 142.1C107.936 147.534 107.055 153.94 104.251 163.32C105.349 152.908 106.986 138.983 98.0982 132.402C89.2108 125.821 86.3275 123.665 83.7503 122.999C83.7503 122.999 98.5271 123.356 103.228 120.305C107.929 117.253 118.184 109.099 121.153 100.04Z" fill="#ADE9FF"/>
+          </g>
+          <defs>
+          <clipPath id="clip0_101_8">
+          <rect width="339.86" height="371.04" fill="white" transform="translate(107.254 0.102112) rotate(16.6433)"/>
+          </clipPath>
+          </defs>
+          </svg>
           </div>
 
-          <div id="site-desc col-3">
+          <div>
           <p class="h3 lh-condensed font-weight-bold mt-2">Hi. We’re ACF.</p>
           <p class="h4 lh-condensed font-smoothing col-12">We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.</p>
           <div class="clearfix py-1">
@@ -292,8 +190,8 @@
     </div>
 
     <div id="tournaments" class="col-12">
-    <div class="tournament-card tournament-card-blue">
-      <span class="tournament-date">October 15, 2022</span>
+    <div class="tournament-card blue">
+      <span class="date">October 15, 2022</span>
       <h2>2022 ACF Fall</h2>
       <span class="head-editors">Head edited by <br />Arjun Nageswaran and Steven Liu</span>
 
@@ -301,7 +199,7 @@
     </div>
 
     <div class="tournament-card">
-      <span class="tournament-date">November 16, 2022</span>
+      <span class="date">November 16, 2022</span>
       <h2>2022 ACF Winter</h2>
       <span class="head-editors">Head edited by Joseph Krol</span><br />
 
@@ -309,7 +207,7 @@
     </div>
 
     <div class="tournament-card">
-      <span class="tournament-date">October 15, 2023</span>
+      <span class="date">October 15, 2023</span>
       <h2>2023 ACF Regionals</h2>
       <span class="head-editors">Head edited by Nick Jensen</span><br />
 
@@ -317,7 +215,7 @@
     </div>
 
     <div class="tournament-card">
-      <span class="tournament-date">TBD during host bid process</span>
+      <span class="date">TBD during host bid process</span>
       <h2>2023 ACF Nationals</h2>
       <span class="head-editors">Head edited by Taylor Harvey</span><br />
 
