@@ -115,8 +115,8 @@ Region                          | Site
 -                               | -
 Northeast                       | Harvard
 Upstate New York                |
-Upper Mid-Atlantic              |
-Lower Mid-Atlantic              |
+Upper Mid-Atlantic              | Cornell
+Lower Mid-Atlantic              | UNC Chapel Hill
 Southeast                       | Georgia Tech
 Florida                         | University of Florida
 Great Lakes                     | Michigan
@@ -130,6 +130,8 @@ Eastern Canada                  |
 United Kingdom                  |
 Asia                            | Asian Quizbowl Alliance
 High-school-only                | Auburn High School (Rockford, IL)
+High School (National Online)   | Northfield High School
+Overflow                        | Columbia
 
 Current sites with no bids: Eastern Canada, UK, Upstate NY
 
