@@ -201,3 +201,25 @@ nav {
   font-size: 0.9em;
   color: $gray;
 }
+
+/* used for a large link which spans the width of the content */
+.important-link {
+  // background-color:$blue-light-2;
+  padding:1em 1.5em;
+  border-radius:4px;
+  margin-bottom:16px;
+
+  a:first-child {
+    font-weight:bold;
+    margin-bottom:8px;
+    font-size:1.2em;
+    display:block;
+  }
+
+  &:nth-child(even) {
+    background-color:$blue-light-2;
+  }
+  &:nth-child(odd) {
+    background-color:$blue-light-3;
+  }
+}
