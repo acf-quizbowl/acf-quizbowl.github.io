@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: home
 ---
 
@@ -169,4 +169,4 @@ September 2021
 : ACF [announced new officers and members](https://hsquizbowl.org/forums/viewtopic.php?f=9&t=25323) following the long-awaited 2021 ACF Nationals.
 
 </details>
-{% endcomment %}
+{% endcomment %} -->
