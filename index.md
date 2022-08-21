@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<table>
+<!-- <table>
 
 <tr>
 <th>
@@ -63,11 +63,11 @@ TBD during host bid process
 Taylor Harvey
 </td>
 </tr>
-</table>
+</table> -->
 
 <!-- Set title and description in config.yml -->
 
-## Recent updates
+<h1 id="updates-heading">Recent updates</h1>
 
 #### August 4, 2022
 [2022 ACF Fall announced](/fall)

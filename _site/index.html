@@ -17,10 +17,12 @@
   <link rel="canonical" href="/">
   <link rel="alternate" type="application/rss+xml" title="Academic Competition Federation" href="http://localhost:4000/feed.xml">
 
+  <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
   <script async defer src="https://buttons.github.io/buttons.js"></script>
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145833236-1"></script>
 <script>
@@ -33,6 +35,60 @@
 
 </head>
 
+
+  <style type="text/css">
+  .about-site {
+    /* display:flex; */
+    /* justify-content:space-between; */
+    background-color:#888;
+  }
+
+  #tournaments {
+    display:flex;
+    justify-content:space-evenly;
+  }
+
+  .tournament-card {
+    background: #eee;
+    /* color:white; */
+    padding:1em 1.5em;
+    border-radius:4px;
+    /* width:50%; */
+    width:24%;
+    box-sizing: border-box;
+    display:flex;
+    flex-direction:column;
+  }
+
+  .tournament-card-blue {
+      background: rgb(2,58,107);
+      background: -webkit-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
+      background: -o-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
+      background: linear-gradient(63deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
+      color:white;
+  }
+
+  .tournament-card-blue a {
+    color:white;
+  }
+
+  .tournament-card h2 {
+    margin:0px;
+  }
+
+  .subtitle {
+    text-transform:uppercase;
+    font-size:0.75em;
+  }
+
+  #updates-heading {
+    /* get rid of this if you only need <2 lines */
+    color:#023B7F;
+    padding-top:15px;
+    text-align:center;
+  }
+
+  </style>
 
   <body>
 
@@ -117,10 +173,11 @@
 </div>
 
 
-        <div class="container mx-auto px-2 mb-2 clearfix">
+        <div class="container mx-auto px-2 mb-2 clearfix about-site">
+
           <h1 class="h0-title inline-block sm-width-full py-2 mt-3 header-title">Academic Competition Federation</h1>
           <p class="h3 lh-condensed font-weight-bold mt-2">Hi. We’re ACF.</p>
-          <p class="h4 lh-condensed font-smoothing col-8">We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.</p>
+          <p class="h4 lh-condensed font-smoothing col-12">We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.</p>
           <div class="clearfix py-1">
             <div class="col-8 sm-width-full left">
               <div class="table">
@@ -157,13 +214,44 @@
             </div>
           </div>
         </div>
+
       </header>
 
     </div>
 
+    <div id="tournaments" class="col-12">
+    <div class="tournament-card tournament-card-blue">
+      <h2>2022 ACF Fall</h2>
+      <span class="tournament-date">October 15, 2022</span>
+      <span class="subtitle"><i data-feather="user"></i>Head editors</span>
+      <span class="head-editors">Arjun Nageswaran and Steven Liu</span>
+
+      <a href="/fall">Learn more →</a>
+    </div>
+
+    <div class="tournament-card">
+      <h2>2022 ACF Fall</h2>
+      October 15, 2022
+      Head edited by Arjun Nageswaran and Steven Liu
+    </div>
+
+    <div class="tournament-card">
+      <h2>2022 ACF Fall</h2>
+      October 15, 2022
+      Head edited by Arjun Nageswaran and Steven Liu
+    </div>
+
+    <div class="tournament-card">
+      <h2>2022 ACF Fall</h2>
+      October 15, 2022
+      Head edited by Arjun Nageswaran and Steven Liu
+    </div>
+    </div>
+
 	<article class="container mx-auto px-2">
+
 		<div class="prose mb-4 py-1">
-		  <table>
+		  <!-- <table>
 
 <tr>
 <th>
@@ -224,11 +312,11 @@ TBD during host bid process
 Taylor Harvey
 </td>
 </tr>
-</table>
+</table> -->
 
 <!-- Set title and description in config.yml -->
 
-<h2 id="recent-updates">Recent updates</h2>
+<h1 id="updates-heading">Recent updates</h1>
 
 <h4 id="august-4-2022">August 4, 2022</h4>
 <dl>
@@ -276,6 +364,7 @@ Taylor Harvey
 		</div>
 	</article>
 
+  <script>feather.replace()</script>
   </body>
 
 </html>

@@ -3,6 +3,60 @@
 
   {% include head.html %}
 
+  <style type="text/css">
+  .about-site {
+    /* display:flex; */
+    /* justify-content:space-between; */
+    background-color:#888;
+  }
+
+  #tournaments {
+    display:flex;
+    justify-content:space-evenly;
+  }
+
+  .tournament-card {
+    background: #eee;
+    /* color:white; */
+    padding:1em 1.5em;
+    border-radius:4px;
+    /* width:50%; */
+    width:24%;
+    box-sizing: border-box;
+    display:flex;
+    flex-direction:column;
+  }
+
+  .tournament-card-blue {
+      background: rgb(2,58,107);
+      background: -webkit-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
+      background: -o-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
+      background: linear-gradient(63deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%);
+      color:white;
+  }
+
+  .tournament-card-blue a {
+    color:white;
+  }
+
+  .tournament-card h2 {
+    margin:0px;
+  }
+
+  .subtitle {
+    text-transform:uppercase;
+    font-size:0.75em;
+  }
+
+  #updates-heading {
+    /* get rid of this if you only need <2 lines */
+    color:#023B7F;
+    padding-top:15px;
+    text-align:center;
+  }
+
+  </style>
+
   <body>
 
     <div>
@@ -10,10 +64,11 @@
       <header class="header-background">
         {% include navbar.html %}
 
-        <div class="container mx-auto px-2 mb-2 clearfix">
+        <div class="container mx-auto px-2 mb-2 clearfix about-site">
+
           <h1 class="h0-title inline-block sm-width-full py-2 mt-3 header-title">{{ site.title }}</h1>
           <p class="h3 lh-condensed font-weight-bold mt-2">{{ site.tagline}}</p>
-          <p class="h4 lh-condensed font-smoothing col-8">{{ site.description }}</p>
+          <p class="h4 lh-condensed font-smoothing col-12">{{ site.description }}</p>
           <div class="clearfix py-1">
             <div class="col-8 sm-width-full left">
               <div class="table">
@@ -30,16 +85,48 @@
             </div>
           </div>
         </div>
+
       </header>
 
     </div>
 
+    <div id="tournaments" class="col-12">
+    <div class="tournament-card tournament-card-blue">
+      <h2>2022 ACF Fall</h2>
+      <span class="tournament-date">October 15, 2022</span>
+      <span class="subtitle"><i data-feather="user"></i>Head editors</span>
+      <span class="head-editors">Arjun Nageswaran and Steven Liu</span>
+
+      <a href="/fall">Learn more →</a>
+    </div>
+
+    <div class="tournament-card">
+      <h2>2022 ACF Fall</h2>
+      October 15, 2022
+      Head edited by Arjun Nageswaran and Steven Liu
+    </div>
+
+    <div class="tournament-card">
+      <h2>2022 ACF Fall</h2>
+      October 15, 2022
+      Head edited by Arjun Nageswaran and Steven Liu
+    </div>
+
+    <div class="tournament-card">
+      <h2>2022 ACF Fall</h2>
+      October 15, 2022
+      Head edited by Arjun Nageswaran and Steven Liu
+    </div>
+    </div>
+
 	<article class="container mx-auto px-2">
+
 		<div class="prose mb-4 py-1">
 		  {{ content }}
 		</div>
 	</article>
 
+  <script>feather.replace()</script>
   </body>
 
 </html>
