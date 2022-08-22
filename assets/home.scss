@@ -7,9 +7,6 @@
         "theme-{{ site.theme_color | default: "black" }}.scss"
 ;
 
-// TODO:
-// - responsive/mobile design
-
 .about-site {
   display:flex;
   justify-content:space-between;
@@ -17,22 +14,32 @@
   margin-top:60px;
   margin-bottom:0px;
 
+  .header-title {
+    font-size:4em;
+    font-family:'Merriweather', sans-serif;
+    line-height:120%;
+    margin:0;
+    padding-right:8vw;
+  }
+
+  #site-desc {
+    margin-bottom:40px;
+  }
+
   @media screen and (max-width: $medium-screen) {
     flex-direction: column;
     justify-content: center;
+    margin-top:30px;
 
-    #site-title {
-      // margin:auto;
+    .header-title {
+      font-size:3em;
+      width:100vw;
+    }
+
+    #orbit {
+      display:none;
     }
   }
-}
-
-.header-title {
-  font-size:4em;
-  font-family:'Merriweather', sans-serif;
-  line-height:120%;
-  padding-right:120px;
-  margin:0;
 }
 
 #tournaments {
@@ -52,7 +59,6 @@
   display:flex;
   flex-direction: column;
   justify-content: space-between;
-  flex-wrap:wrap;
   align-items: flex-start;
 
   @media only screen and (max-width: $medium-screen) {
@@ -104,7 +110,6 @@
 }
 
 #updates-heading {
-  /* get rid of this if you only need <2 lines */
   color:$blue-dark;
   padding-top:15px;
   text-align:center;
