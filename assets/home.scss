@@ -1,0 +1,116 @@
+---
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` and set theme here
+@import
+        "theme-{{ site.theme_color | default: "black" }}.scss"
+;
+
+.about-site {
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  margin-top:60px;
+  margin-bottom:0px;
+
+  .header-title {
+    font-size:4em;
+    font-family:'Merriweather', sans-serif;
+    line-height:120%;
+    margin:0;
+    padding-right:8vw;
+  }
+
+  #site-desc {
+    margin-bottom:40px;
+  }
+
+  @media screen and (max-width: $medium-screen) {
+    flex-direction: column;
+    justify-content: center;
+    margin-top:30px;
+
+    .header-title {
+      font-size:3em;
+      width:100vw;
+    }
+
+    #orbit {
+      display:none;
+    }
+  }
+}
+
+#tournaments {
+  display:flex;
+  justify-content:space-evenly;
+  flex-wrap:wrap;
+  width:100vw;
+}
+
+.tournament-card {
+  background:#d9eaff;
+  padding:1em 1.5em;
+  border-radius:4px;
+  width:calc(25% - 20px);
+  box-sizing: border-box;
+  margin-bottom:10px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  @media only screen and (max-width: $medium-screen) {
+    width:48vw;
+  }
+
+  @media only screen and (max-width: $small-screen) {
+    width:100vw;
+  }
+
+  .date {
+    text-transform: uppercase;
+    font-size:0.9em;
+    font-weight:500;
+  }
+
+  h2 { // tournament title
+    margin:6px 0px;
+    font-size:1.7em;
+    line-height:110%;
+  }
+
+  a { // tournament info link
+    margin-top:24px;
+    padding:12px 0px;
+    text-decoration:none;
+    color:black;
+    display:inline-block;
+  }
+}
+
+// for whichever tournament is the soonest
+.blue {
+    background: rgb(2,58,107) !important;
+    background: -webkit-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
+    background: -o-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
+    background: linear-gradient(63deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
+    color:white;
+
+    a {
+      background-color:white;
+      border-radius:8px;
+      padding:12px 16px;
+
+      &:hover {
+        text-decoration:underline;
+      }
+    }
+}
+
+#updates-heading {
+  color:$blue-dark;
+  padding-top:15px;
+  text-align:center;
+}
