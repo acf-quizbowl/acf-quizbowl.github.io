@@ -1,11 +1,12 @@
 /** Reset some basic elements
 */
+@import url("https://rsms.me/inter/inter.css");
 * { box-sizing: border-box !important; }
 
 input, select, textarea, button { font-family: inherit; font-size: inherit; line-height: inherit; }
 
 /** Basic styling */
-body { margin: 0; font-family: sans-serif; font-size: 1.0625em; line-height: 1.5; color: #111; background-color: #fff; }
+body { margin: 0; font-family: "Inter", sans-serif; font-size: 1.0625em; line-height: 1.5; color: #111; background-color: #fff; }
 
 h1, h2, h3, h4, h5, h6 { margin-top: 1.25em; margin-bottom: 0.5em; }
 
@@ -756,3 +757,7 @@ tr.collapse.show { display: table-row; }
 tbody.collapse.show { display: table-row-group; }
 
 .collapsing { position: relative; height: 0; overflow: hidden; background-color: #fff; transition: height 0.35s ease; }
+
+html { font-family: 'Inter', sans-serif; }
+
+@supports (font-variation-settings: normal) { html { font-family: 'Inter var', sans-serif; } }
