@@ -1,8 +1,12 @@
 
 // Font family
-$body-font-family: sans-serif;
+$body-font-family: 'Inter', sans-serif;
 $body-font-size:  1.0625em;
 $prose-font-size: 1em;
+
+// Breakpoints for responsive design
+$medium-screen:876px;
+$small-screen:480px;
 
 
 // Type scale
