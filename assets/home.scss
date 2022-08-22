@@ -9,7 +9,6 @@
 
 // TODO:
 // - responsive/mobile design
-// - button display inline block problem
 
 .about-site {
   display:flex;
@@ -39,23 +38,29 @@
 #tournaments {
   display:flex;
   justify-content:space-evenly;
+  flex-wrap:wrap;
+  width:100vw;
 }
 
 .tournament-card {
   background:#d9eaff;
   padding:1em 1.5em;
   border-radius:4px;
-  width:24vw;
+  width:calc(25% - 20px);
   box-sizing: border-box;
+  margin-bottom:10px;
   display:flex;
   flex-direction: column;
   justify-content: space-between;
   flex-wrap:wrap;
   align-items: flex-start;
 
-  @media screen and (max-width: $medium-screen) {
-    width:49vw;
-    background-color:#000;
+  @media only screen and (max-width: $medium-screen) {
+    width:48vw;
+  }
+
+  @media only screen and (max-width: $small-screen) {
+    width:100vw;
   }
 
   .date {
