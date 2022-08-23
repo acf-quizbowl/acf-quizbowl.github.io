@@ -114,8 +114,8 @@ Mirrors will by default be regional. ACF reserves the right to move teams and st
 Region                          | Site
 -                               | -
 Northeast                       | Harvard
-Upstate New York                |
-Upper Mid-Atlantic              | Cornell
+Upstate New York                | Cornell
+Upper Mid-Atlantic              | Maryland
 Lower Mid-Atlantic              | UNC Chapel Hill
 Southeast                       | Georgia Tech
 Florida                         | University of Florida
