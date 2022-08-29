@@ -126,14 +126,14 @@ South Central                   | Oklahoma
 Northwest                       | Washington
 Northern California             | Berkeley
 Southern California             | Claremont Colleges
-Eastern Canada                  |
+Eastern Canada                  | Ottawa
 United Kingdom                  |
 Asia                            | Asian Quizbowl Alliance
 High-school-only                | Auburn High School (Rockford, IL)
 High School (National Online)   | Northfield High School
 Overflow                        | Columbia
 
-Current sites with no bids: Eastern Canada, UK, Upstate NY
+Current sites with no bids: UK
 
 ## High school teams and high-school-only mirrors
 ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2022 ACF Fall, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). However, we do not plan to offer mixed mirrors that include high school and college teams.
