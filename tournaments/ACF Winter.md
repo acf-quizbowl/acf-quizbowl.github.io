@@ -109,7 +109,7 @@ For information on who is eligible to play ACF tournaments, see [ACF’s officia
 If you are interested in hosting a mirror of ACF Winter, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd2_MdfX2KtlkZ7XL6yNjOt7gtPCKlMJrtR3hnaKR_raXdT2w/viewform). If you have any questions about hosting or about the form, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
 
 ## Sites
-Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Winter in the following [regions](/hosting-guidelines#regions-according-to-acf):
+Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2022 ACF Winter in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region                    | Site
 -                         | -
