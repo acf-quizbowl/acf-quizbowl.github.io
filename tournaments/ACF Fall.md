@@ -24,18 +24,19 @@ number the sections.
 [2022 ACF Fall](https://hsquizbowl.org/forums/viewtopic.php?p=391070) will be held on October 15, 2022.
 
 ## Editors
-2022 ACF Fall is head-edited by Arjun Nageswaran and Steven Liu, and edited by:
-- Dean Ah Now (World History, European History),
-- Raymond Chen (British Literature, World Literature),
-- Jim Fan (American Literature, European Literature),
-- Sean Farrell (Non-Abrahamic Religion, Mythology, Visual Fine Arts),
-- Evan Knox (Abrahamic Religion, Current Events, Pop Culture),
-- Daniel Ma (Other History, Auditory Fine Arts),
-- Ned Tagtmeier (Philosophy, Social Science),
-- Eric Yin (Biology, Chemistry, Physics, Other Science excluding Math/CS),
-- and Walter Zhang (American History, Math/CS, Geography).
+2022 ACF Fall is head-edited by Arjun Nageswaran and Steven Liu. The subject breakdown by editor is:
 
-<!-- add editors breakdown table -->
+Editor | Subjects
+- | -
+Dean Ah Now             | World History, European History
+Raymond Chen             | British Literature, World Literature
+Jim Fan           | American Literature, European Literature
+Sean Farrell               | Non-Abrahamic Religion, Mythology, Visual Fine Arts
+Evan Knox          | Abrahamic Religion, Current Events, Pop Culture
+Daniel Ma             | Other History, Auditory Fine Arts
+Ned Tagtmeier           | Philosophy, Social Science
+Eric Yin          | Biology, Chemistry, Physics, Other Science excluding Math/CS
+Walter Zhang           | American History, Math/CS, Geography
 
 ## Format
 We hope that ACF Fall can be held in person. However, we acknowledge that many schools are uncertain about the possibility of allowing large events due to the ongoing COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Fall will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.
@@ -113,24 +114,25 @@ Mirrors will by default be regional. ACF reserves the right to move teams and st
 
 Region                          | Site
 -                               | -
-Northeast                       | Harvard
-Upstate New York                | Cornell
-Upper Mid-Atlantic              | Maryland
-Lower Mid-Atlantic              | UNC Chapel Hill
+Northeast                       | [Harvard](https://hsquizbowl.org/forums/viewtopic.php?p=391470#p391470)
+Upstate New York                | [Cornell](https://hsquizbowl.org/forums/viewtopic.php?t=26231)
+Upper Mid-Atlantic              | [Maryland](https://hsquizbowl.org/forums/viewtopic.php?t=26233)
+Lower Mid-Atlantic              | [UNC Chapel Hill](https://hsquizbowl.org/forums/viewtopic.php?t=26232)
 Southeast                       | Georgia Tech
-Florida                         | University of Florida
-Great Lakes                     | Michigan
-Midwest                         | Missouri-Columbia
-North                           | Minnesota
-South Central                   | Oklahoma
+Florida                         | [University of Florida](https://hsquizbowl.org/forums/viewtopic.php?t=26247)
+Great Lakes                     | [Michigan](https://hsquizbowl.org/forums/viewtopic.php?t=26264)
+Midwest                         | [Missouri-Columbia](https://hsquizbowl.org/forums/viewtopic.php?t=26242)
+North                           | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?t=26230)
+South Central                   | [Oklahoma](https://hsquizbowl.org/forums/viewtopic.php?t=26238)
 Northwest                       | Washington
-Northern California             | Berkeley
-Southern California             | Claremont Colleges
+Northern California             | [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?p=391619#p391619)
+Southern California             | [Claremont Colleges](https://hsquizbowl.org/forums/viewtopic.php?t=26239)
 Eastern Canada                  | Ottawa
 United Kingdom                  |
-Asia                            | Asian Quizbowl Alliance
-High-school-only                | Auburn High School (Rockford, IL)
-High School (National Online)   | Northfield High School
+Asia                            | [Asian Quizbowl Alliance](https://hsquizbowl.org/forums/viewtopic.php?t=26234)
+High-school-only                | [Auburn High School (Rockford, IL)](https://hsquizbowl.org/forums/viewtopic.php?t=26261)
+High School (National online)   | [Northfield High School](https://hsquizbowl.org/forums/viewtopic.php?t=26266)
+High School (California teams, online) | [Northern California Quizbowl Alliance](https://hsquizbowl.org/forums/viewtopic.php?p=391618#p391618)
 Overflow                        | Columbia
 
 Current sites with no bids: UK
