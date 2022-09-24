@@ -908,7 +908,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
-<li>2022 ACF Winter co-Head Editor</li>
+<li>2022 ACF Winter Head Editor</li>
 <li>2021 ACF Winter Editor</li>
 </ul>
 </td>
