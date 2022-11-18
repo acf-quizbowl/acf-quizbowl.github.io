@@ -485,24 +485,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
-<tr>
-<td>Olivia Murton</td>
-<td>
-<ul>
-<li>PhD, Harvard University</li>
-<li>Alumna, MIT</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Nationals Proofreader</li>
-<li>Communications Officer, 2021-22</li>
-<li>2021 ACF Nationals Proofreader</li>
-<li>2021 ACF Online Moderator Training</li>
-<li>2021 ACF Regionals Logistics Support & Proofreader</li>
-</ul>
-</td>
-</tr>
 
 <tr>
 <td>Nitin Rao</td>
