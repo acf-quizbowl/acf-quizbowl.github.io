@@ -10,8 +10,8 @@
   <title>Members</title>
   <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. Our tournaments reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
 
-
-
+  
+  
   <link rel="stylesheet" href="/assets/style.css">
 
   <link rel="canonical" href="/members/">
@@ -119,9 +119,9 @@
       <article class="container mx-auto px-2">
   <header>
     <h1 class="h0 py-1 mt-3">Members</h1>
-
+    
     <p class="last-updated">Last updated: June 6, 2022</p>
-
+    
   </header>
   <div class="prose mb-4 py-1">
     <p>For information on how to become an ACF member, see the <a href="/about#how-to-become-an-acf-member">About page</a>.</p>
@@ -1994,7 +1994,9 @@ Alumnus, Washington University in St. Louis
 
 <script>
 $(document).ready( function () {
-    $('#full-member-table').DataTable();
+    $('#full-member-table').DataTable({
+      <!-- $(this).css("background-color", "#eeeeee"); -->
+      });
 } );
 
 $(document).ready( function () {
