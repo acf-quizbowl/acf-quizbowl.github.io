@@ -14,7 +14,7 @@ last_updated: September 8, 2022
 {:toc}
 
 ## 2023 ACF Nationals
-[2023 ACF Nationals](https://hsquizbowl.org/forums/viewtopic.php?p=391626) will be held either the weekend of April 15-16 or 22-23 at a site to be named later.
+[2023 ACF Nationals](https://hsquizbowl.org/forums/viewtopic.php?p=391626) will be held on April 22-23, 2023 at the Massachusetts Institute of Technology.
 
 2023 ACF Nationals is head edited by Taylor Harvey. The subject breakdown by editor is:
 
