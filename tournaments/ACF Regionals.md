@@ -49,7 +49,7 @@ The submission schedule is as follows. All deadlines are 11:59 PM Pacific time.
 
 Submission deadline | Packet discount
 - | -
-October 30, 2022  | -$75
+October 30, 2022  | −$75
 November 13, 2022 | −$50
 November 27, 2022 | −$25
 December 11, 2022 | −$0 (no penalty)
