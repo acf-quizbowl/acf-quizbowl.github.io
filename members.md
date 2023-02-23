@@ -747,6 +747,96 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 </tr>
 
+<tr>
+<td>Steven Liu</td>
+<td>
+<ul>
+<li>MIT</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Fall co-Head Editor</li>
+<li>2021 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Ned Tagtmeier</td>
+<td>
+<ul>
+<li>University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Fall Editor</li>
+<li>2021 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Hari Parameswaran</td>
+<td>
+<ul>
+<li>Georgia Institute of Technology</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Winter Editor</li>
+<li>2021 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Bryanna Shao</td>
+<td>
+<ul>
+<li>Vanderbilt University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Fall Proofreader</li>
+<li>2020 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Joseph Krol</td>
+<td>
+<ul>
+<li>University of Cambridge</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Winter Head Editor</li>
+<li>2021 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Ethan Ashbrook</td>
+<td>
+<ul>
+<li>University of Minnesota</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Winter Editor</li>
+<li>2021 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -762,20 +852,8 @@ Provisional members are community members who have ably assisted ACF in the past
 <th class="contributions">Contributions</th>
 </tr>
 </thead>
+
 <tbody>
-<tr>
-<td>Ethan Ashbrook</td>
-<td>
-<ul>
-<li>University of Minnesota</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Winter Editor</li>
-</ul>
-</td>
-</tr>
 <tr>
 <td>Geoffrey Chen</td>
 <td>
@@ -789,6 +867,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Halle Friedman</td>
 <td>
@@ -855,6 +934,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Justin Jasperse</td>
 <td>
@@ -868,6 +948,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Hasna Karim</td>
 <td>
@@ -878,20 +959,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2021 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Joseph Krol</td>
-<td>
-<ul>
-<li>University of Cambridge</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Winter Head Editor</li>
-<li>2021 ACF Winter Editor</li>
 </ul>
 </td>
 </tr>
@@ -909,6 +976,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Angela Lin</td>
 <td>
@@ -922,20 +990,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
-<tr>
-<td>Steven Liu</td>
-<td>
-<ul>
-<li>MIT</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall co-Head Editor</li>
-<li>2021 ACF Winter Editor</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Mitch McCullar</td>
 <td>
@@ -949,6 +1004,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Jack Mehr</td>
 <td>
@@ -962,6 +1018,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </ul>
 </td>
 </tr>
+
 <tr>
 <td>Tracy Mirkin</td>
 <td>
@@ -977,52 +1034,10 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
-<td>Hari Parameswaran</td>
-<td>
-<ul>
-<li>Georgia Institute of Technology</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Bryanna Shao</td>
-<td>
-<ul>
-<li>Vanderbilt University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Winter Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
 <td>Ethan Strombeck</td>
 <td>
 <ul>
 <li>Stanford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Ned Tagtmeier</td>
-<td>
-<ul>
-<li>University of Chicago</li>
 </ul>
 </td>
 <td>
@@ -1162,6 +1177,131 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 </tr>
 
+<tr>
+<td>Ani Perumalla</td>
+<td>
+<ul>
+<li>Penn State University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Daniel Ma</td>
+<td>
+</td>
+<td>
+<ul>
+<li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Eric Mukherjee</td>
+<td>
+<ul>
+<li>MD/PhD, University of Pennsylvania</li>
+<li>Alumnus, Brown University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Evan Knox</td>
+<td>
+<ul>
+<li>M.S., Duke University</li>
+<li>Alumnus, University of Georgia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Eve Fleisig</td>
+<td>
+<ul>
+<li>PhD, University of California, Berkeley</li>
+<li>Alumna, Princeton University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Henry Goff</td>
+<td>
+<ul>
+<li>Alumnus, University of North Carolina, Chapel Hill</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Raymond Chen</td>
+<td>
+<ul>
+<li>University of Toronto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Sean Farrell</td>
+<td>
+<ul>
+<li>University of North Florida</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Walter Zhang</td>
+<td>
+<ul>
+<li>Brown University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 
