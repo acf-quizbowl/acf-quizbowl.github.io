@@ -2,72 +2,15 @@
 layout: home
 ---
 
-<!-- <table>
-
-<tr>
-<th>
-Tournament
-</th>
-<th>
-Date
-</th>
-<th>
-Head Editor
-</th>
-</tr>
-
-<tr>
-<td>
-<a href="/fall">2022 ACF Fall</a>
-</td>
-<td>
-October 15, 2022
-</td>
-<td>
-Arjun Nageswaran and Steven Liu
-</td>
-</tr>
-
-<tr>
-<td>
-2022 ACF Winter
-</td>
-<td>
-November 5, 2022
-</td>
-<td>
-Joseph Krol
-</td>
-</tr>
-
-<tr>
-<td>
-2023 ACF Regionals
-</td>
-<td>
-January 28, 2023
-</td>
-<td>
-Nick Jensen
-</td>
-</tr>
-
-<tr>
-<td>
-2023 ACF Nationals
-</td>
-<td>
-TBD during host bid process
-</td>
-<td>
-Taylor Harvey
-</td>
-</tr>
-</table> -->
-
 <!-- Set title and description in config.yml -->
 
 <h1 id="updates-heading">Recent updates</h1>
+
+#### January 31, 2023
+[2023 ACF Regionals A-values](https://hsquizbowl.org/forums/viewtopic.php?p=393225#p393225)
+: A-values from Regionals and teams who qualified for 2023 ACF Nationals have been posted.
+
+{% comment %}
 
 #### August 4, 2022
 [2022 ACF Fall announced](/fall)
@@ -97,7 +40,6 @@ Taylor Harvey
 [Members](/members)
 : ACF [announced new officers, members, and head editors](https://hsquizbowl.org/forums/viewtopic.php?p=389927#p389927) for the 2022-23 school year.
 
-{% comment %}
 #### November 14, 2021
 [ACF Regionals](/regionals)
 : The bid form is open.
