@@ -155,6 +155,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2021 ACF Nationals Editor</li>
 <li>2021 ACF Regionals Editor</li>
 <li>2020 ACF Regionals Editor</li>
 <li>2019 ACF Nationals Editor</li>
@@ -296,6 +297,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>Carper Committee Chair, 2019-present</li>
+<li>2021 ACF Nationals Editor</li>
 <li>2019 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Head Editor</li>
 <li>2017 ACF Regionals Head Editor</li>
