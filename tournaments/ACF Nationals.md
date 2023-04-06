@@ -28,9 +28,8 @@ Michael Kearney          | European and Other History
 Hasna Karim              | Biology, Religion
 Adam Silverman           | Chemistry
 Jonathen Settle          | Physics, Other Science
-Vivian Malouf            | Painting and Sculpture
 Sameer Apte              | Music
-Taylor Harvey            | Religion, Mythology
+Taylor Harvey            | Religion, Mythology, Painting and Sculpture
 Ganon Evans              | Other
 
 Ryan Rosenberg will be Tournament Director.
