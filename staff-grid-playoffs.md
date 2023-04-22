@@ -1,8 +1,8 @@
 # 2023 ACF Nationals Staff Grid
 
-## Prelims
+## Playoffs
 
-| Bracket | Room   | Staffer.1        | Staffer.2         | Switch |
+| Bracket | Room   | Staffer 1        | Staffer 2         | Switch |
 |:--------|:-------|:-----------------|:------------------|:-------|
 | Top     | 4-145  | Jonathen Settle  | Hasna Karim       | Yes    |
 | Top     | 4-149  | Michael Sorice   | Grant Peet        | —      |
