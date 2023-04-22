@@ -1,3 +1,4 @@
+# 2023 ACF Nationals Schedule
 
 ## Brackets
 
@@ -279,10 +280,13 @@ Framingham
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -292,10 +296,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-b">Minnesota B</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -303,10 +310,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#claremont-colleges-a">Claremont Colleges A</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -314,10 +324,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-b">Georgia Tech B</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -325,10 +338,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -336,10 +352,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -347,10 +366,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#nyu-a">NYU A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -358,10 +380,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -369,10 +394,13 @@ Rm
 8
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 </tbody>
@@ -387,10 +415,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -400,10 +431,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#houston-a">Houston A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -411,10 +445,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-a">Rutgers A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -422,10 +459,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#vanderbilt-a">Vanderbilt A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -433,10 +473,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#penn-b">Penn B</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -444,10 +487,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -455,10 +501,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -466,10 +515,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -477,10 +529,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 </tbody>
@@ -495,10 +550,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -508,10 +566,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -519,10 +580,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -530,10 +594,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -541,10 +608,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#johns-hopkins-a">Johns Hopkins A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -552,10 +622,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -563,10 +636,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#imperial-a">Imperial A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -574,10 +650,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -585,10 +664,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#iowa-state-a">Iowa State A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 </tbody>
@@ -603,10 +685,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -616,10 +701,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#penn-state-a">Penn State A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -627,10 +715,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#michigan-a">Michigan A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -638,10 +729,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -649,10 +743,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -660,10 +757,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#florida-b">Florida B</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -671,10 +771,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -682,10 +785,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#illinois-a">Illinois A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -693,10 +799,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 </tbody>
@@ -711,10 +820,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -724,10 +836,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -735,10 +850,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -746,10 +864,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-b">Minnesota B</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -757,10 +878,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -768,10 +892,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#nyu-a">NYU A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -779,10 +906,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -790,10 +920,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-b">Georgia Tech B</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -801,10 +934,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 </tbody>
@@ -819,10 +955,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -832,10 +971,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-b">Rutgers B</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -843,10 +985,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#mcgill-a">McGill A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -854,10 +999,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -865,10 +1013,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-b">UC Berkeley B</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -876,10 +1027,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -887,10 +1041,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -898,10 +1055,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -909,10 +1069,13 @@ Rm
 8
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 </tbody>
@@ -927,10 +1090,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -940,10 +1106,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#south-carolina-a">South Carolina A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -951,10 +1120,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#yale-b">Yale B</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -962,10 +1134,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -973,10 +1148,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -984,10 +1162,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -995,10 +1176,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1006,10 +1190,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -1017,10 +1204,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#purdue-a">Purdue A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 </tbody>
@@ -1035,10 +1225,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1048,10 +1241,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#iowa-state-a">Iowa State A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -1059,10 +1255,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -1070,10 +1269,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -1081,10 +1283,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -1092,10 +1297,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#johns-hopkins-a">Johns Hopkins A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -1103,10 +1311,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -1114,10 +1325,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1125,10 +1339,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#imperial-a">Imperial A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 </tbody>
@@ -1143,10 +1360,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1156,10 +1376,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-b">Georgia Tech B</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -1167,10 +1390,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-b">Minnesota B</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -1178,10 +1404,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -1189,10 +1418,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#nyu-a">NYU A</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -1200,10 +1432,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1211,10 +1446,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#claremont-colleges-a">Claremont Colleges A</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -1222,10 +1460,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -1233,10 +1474,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 </tbody>
@@ -1251,10 +1495,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1264,10 +1511,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1275,10 +1525,13 @@ Bye
 2
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -1286,10 +1539,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#illinois-a">Illinois A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -1297,10 +1553,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -1308,10 +1567,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -1319,10 +1581,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#penn-state-a">Penn State A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -1330,10 +1595,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#florida-b">Florida B</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -1341,10 +1609,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#michigan-a">Michigan A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 </tbody>
@@ -1359,10 +1630,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1372,10 +1646,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -1383,10 +1660,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#purdue-a">Purdue A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -1394,10 +1674,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1405,10 +1688,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -1416,10 +1702,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-b">Columbia B</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -1427,10 +1716,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -1438,10 +1730,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#yale-b">Yale B</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -1449,10 +1744,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#south-carolina-a">South Carolina A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 </tbody>
@@ -1467,10 +1765,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1480,10 +1781,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -1491,10 +1795,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -1502,10 +1809,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#michigan-a">Michigan A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -1513,10 +1823,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1524,10 +1837,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -1535,10 +1851,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#illinois-a">Illinois A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -1546,10 +1865,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -1557,10 +1879,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#penn-state-a">Penn State A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 </tbody>
@@ -1575,10 +1900,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1588,10 +1916,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#florida-b">Florida B</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -1599,10 +1930,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -1610,10 +1944,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -1621,10 +1958,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -1632,10 +1972,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1643,10 +1986,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#michigan-a">Michigan A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -1654,10 +2000,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#penn-state-a">Penn State A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -1665,10 +2014,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#illinois-a">Illinois A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 </tbody>
@@ -1683,10 +2035,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1696,10 +2051,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -1707,10 +2065,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -1718,10 +2079,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -1729,10 +2093,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-b">Minnesota B</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -1740,10 +2107,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1751,10 +2121,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -1762,10 +2135,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#claremont-colleges-a">Claremont Colleges A</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -1773,10 +2149,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#nyu-a">NYU A</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 </tbody>
@@ -1791,10 +2170,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1804,10 +2186,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#penn-b">Penn B</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -1815,10 +2200,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#vanderbilt-a">Vanderbilt A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -1826,10 +2214,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#houston-a">Houston A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -1837,10 +2228,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -1848,10 +2242,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -1859,10 +2256,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1870,10 +2270,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -1881,10 +2284,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-a">Rutgers A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 </tbody>
@@ -1899,10 +2305,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -1912,10 +2321,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -1923,10 +2335,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -1934,10 +2349,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -1945,10 +2363,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -1956,10 +2377,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-a">Rutgers A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -1967,10 +2391,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -1978,10 +2405,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#penn-b">Penn B</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -1989,10 +2419,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#vanderbilt-a">Vanderbilt A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 </tbody>
@@ -2007,10 +2440,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2020,10 +2456,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -2031,10 +2470,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#penn-state-a">Penn State A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -2042,10 +2484,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -2053,10 +2498,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#michigan-a">Michigan A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -2064,10 +2512,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -2075,10 +2526,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#florida-b">Florida B</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -2086,10 +2540,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -2097,10 +2554,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 </tbody>
@@ -2115,10 +2575,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2128,10 +2591,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#johns-hopkins-a">Johns Hopkins A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -2139,10 +2605,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#iowa-state-a">Iowa State A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -2150,10 +2619,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -2161,10 +2633,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -2172,10 +2647,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -2183,10 +2661,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -2194,10 +2675,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -2205,10 +2689,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 </tbody>
@@ -2223,10 +2710,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2236,10 +2726,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -2247,10 +2740,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -2258,10 +2754,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#yale-b">Yale B</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -2269,10 +2768,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-b">Columbia B</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -2280,10 +2782,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#purdue-a">Purdue A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -2291,10 +2796,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#south-carolina-a">South Carolina A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -2302,10 +2810,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -2313,10 +2824,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 </tbody>
@@ -2331,10 +2845,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2344,10 +2861,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -2355,10 +2875,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#imperial-a">Imperial A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -2366,10 +2889,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -2377,10 +2903,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -2388,10 +2917,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -2399,10 +2931,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#johns-hopkins-a">Johns Hopkins A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -2410,10 +2945,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -2421,10 +2959,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 </tbody>
@@ -2439,10 +2980,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2452,10 +2996,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#imperial-a">Imperial A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -2463,10 +3010,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -2474,10 +3024,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -2485,10 +3038,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -2496,10 +3052,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -2507,10 +3066,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#iowa-state-a">Iowa State A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -2518,10 +3080,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -2529,10 +3094,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 </tbody>
@@ -2547,10 +3115,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2560,10 +3131,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#vanderbilt-a">Vanderbilt A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -2571,10 +3145,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#houston-a">Houston A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -2582,10 +3159,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#penn-b">Penn B</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -2593,10 +3173,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -2604,10 +3187,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -2615,10 +3201,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -2626,10 +3215,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-a">Rutgers A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -2637,10 +3229,13 @@ Rm
 8
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 </tbody>
@@ -2655,10 +3250,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2668,10 +3266,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -2679,10 +3280,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -2690,10 +3294,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-b">Rutgers B</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -2701,10 +3308,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -2712,10 +3322,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -2723,10 +3336,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -2734,10 +3350,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -2745,10 +3364,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-b">UC Berkeley B</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 </tbody>
@@ -2763,10 +3385,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2776,10 +3401,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -2787,10 +3415,13 @@ Bye
 2
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -2798,10 +3429,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#florida-b">Florida B</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -2809,10 +3443,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#illinois-a">Illinois A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -2820,10 +3457,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#penn-state-a">Penn State A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -2831,10 +3471,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -2842,10 +3485,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -2853,10 +3499,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 </tbody>
@@ -2871,10 +3520,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2884,10 +3536,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -2895,10 +3550,13 @@ Bye
 2
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#penn-b">Penn B</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -2906,10 +3564,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-a">Rutgers A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -2917,10 +3578,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#houston-a">Houston A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -2928,10 +3592,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -2939,10 +3606,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#vanderbilt-a">Vanderbilt A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -2950,10 +3620,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -2961,10 +3634,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 </tbody>
@@ -2979,10 +3655,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -2992,10 +3671,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -3003,10 +3685,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -3014,10 +3699,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#claremont-colleges-a">Claremont Colleges A</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -3025,10 +3713,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-b">Georgia Tech B</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -3036,10 +3727,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -3047,10 +3741,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -3058,10 +3755,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#nyu-a">NYU A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -3069,10 +3769,13 @@ Rm
 8
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 </tbody>
@@ -3087,10 +3790,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3100,10 +3806,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#illinois-a">Illinois A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -3111,10 +3820,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#florida-b">Florida B</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -3122,10 +3834,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#penn-state-a">Penn State A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -3133,10 +3848,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -3144,10 +3862,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -3155,10 +3876,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -3166,10 +3890,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#michigan-a">Michigan A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -3177,10 +3904,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 </tbody>
@@ -3195,10 +3925,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3208,10 +3941,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -3219,10 +3955,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#johns-hopkins-a">Johns Hopkins A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -3230,10 +3969,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -3241,10 +3983,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#iowa-state-a">Iowa State A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -3252,10 +3997,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#imperial-a">Imperial A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -3263,10 +4011,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -3274,10 +4025,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -3285,10 +4039,13 @@ Rm
 8
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 </tbody>
@@ -3303,10 +4060,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3316,10 +4076,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#nyu-a">NYU A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -3327,10 +4090,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -3338,10 +4104,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -3349,10 +4118,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -3360,10 +4132,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-b">Minnesota B</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -3371,10 +4146,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-b">Georgia Tech B</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -3382,10 +4160,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -3393,10 +4174,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#claremont-colleges-a">Claremont Colleges A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 </tbody>
@@ -3411,10 +4195,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3424,10 +4211,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -3435,10 +4225,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -3446,10 +4239,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -3457,10 +4253,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -3468,10 +4267,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#claremont-colleges-a">Claremont Colleges A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -3479,10 +4281,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -3490,10 +4295,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-b">Minnesota B</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -3501,10 +4309,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-b">Georgia Tech B</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 </tbody>
@@ -3519,10 +4330,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3532,10 +4346,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -3543,10 +4360,13 @@ Bye
 2
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-b">Rutgers B</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -3554,10 +4374,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -3565,10 +4388,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -3576,10 +4402,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#mcgill-a">McGill A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -3587,10 +4416,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-b">UC Berkeley B</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -3598,10 +4430,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -3609,10 +4444,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 </tbody>
@@ -3627,10 +4465,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3640,10 +4481,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -3651,10 +4495,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -3662,10 +4509,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -3673,10 +4523,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -3684,10 +4537,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#vanderbilt-a">Vanderbilt A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -3695,10 +4551,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-a">Rutgers A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -3706,10 +4565,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#houston-a">Houston A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -3717,10 +4579,13 @@ Rm
 8
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 </tbody>
@@ -3735,10 +4600,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3748,10 +4616,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -3759,10 +4630,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#illinois-a">Illinois A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -3770,10 +4644,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 <tr>
@@ -3781,10 +4658,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -3792,10 +4672,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
 <a href = "#michigan-a">Michigan A</a>
 </td>
 <td style="text-align:left;">
-4-265
+Jonathen Settle, Edward Liu
 </td>
 </tr>
 <tr>
@@ -3803,10 +4686,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+4-257
+</td>
+<td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-4-257
+Rob Carson, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -3814,10 +4700,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-4-261
+Ganon Evans, Pranav Arunandhi
 </td>
 </tr>
 <tr>
@@ -3825,10 +4714,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-231
+</td>
+<td style="text-align:left;">
 <a href = "#florida-b">Florida B</a>
 </td>
 <td style="text-align:left;">
-4-231
+Nick Jensen, Zach Foster
 </td>
 </tr>
 </tbody>
@@ -3843,10 +4735,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3856,10 +4751,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -3867,10 +4765,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -3878,10 +4779,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -3889,10 +4793,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#yale-b">Yale B</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -3900,10 +4807,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -3911,10 +4821,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -3922,10 +4835,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#south-carolina-a">South Carolina A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -3933,10 +4849,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-b">Columbia B</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 </tbody>
@@ -3951,10 +4870,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -3964,10 +4886,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -3975,10 +4900,13 @@ Bye
 2
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -3986,10 +4914,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -3997,10 +4928,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#vanderbilt-a">Vanderbilt A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -4008,10 +4942,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#houston-a">Houston A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -4019,10 +4956,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#penn-b">Penn B</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -4030,10 +4970,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -4041,10 +4984,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 </tbody>
@@ -4059,10 +5005,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4072,10 +5021,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -4083,10 +5035,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -4094,10 +5049,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#mcgill-a">McGill A</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -4105,10 +5063,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -4116,10 +5077,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-b">UC Berkeley B</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -4127,10 +5091,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -4138,10 +5105,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -4149,10 +5119,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 </tbody>
@@ -4167,10 +5140,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4180,10 +5156,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-b">Columbia B</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -4191,10 +5170,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -4202,10 +5184,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -4213,10 +5198,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -4224,10 +5212,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#yale-b">Yale B</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -4235,10 +5226,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -4246,10 +5240,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#purdue-a">Purdue A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -4257,10 +5254,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 </tbody>
@@ -4275,10 +5275,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4288,10 +5291,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#claremont-colleges-a">Claremont Colleges A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -4299,10 +5305,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#georgia-tech-b">Georgia Tech B</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -4310,10 +5319,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+36-372
+</td>
+<td style="text-align:left;">
 <a href = "#nyu-a">NYU A</a>
 </td>
 <td style="text-align:left;">
-36-372
+Jeremy Cummings, Anna Csiki-Fejer
 </td>
 </tr>
 <tr>
@@ -4321,10 +5333,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -4332,10 +5347,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+26-328
+</td>
+<td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-26-328
+Taylor Harvey, Young Lee
 </td>
 </tr>
 <tr>
@@ -4343,10 +5361,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+26-322
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-b">Minnesota B</a>
 </td>
 <td style="text-align:left;">
-26-322
+Emmett Laurie, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -4354,10 +5375,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 <tr>
@@ -4365,10 +5389,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-314
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-26-314
+Michael Sorice, Will Steger
 </td>
 </tr>
 </tbody>
@@ -4383,10 +5410,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4396,10 +5426,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#mcgill-a">McGill A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -4407,10 +5440,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -4418,10 +5454,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-b">UC Berkeley B</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -4429,10 +5468,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -4440,10 +5482,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -4451,10 +5496,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -4462,10 +5510,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-b">Rutgers B</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -4473,10 +5524,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 </tbody>
@@ -4491,10 +5545,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4504,10 +5561,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#purdue-a">Purdue A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -4515,10 +5575,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#south-carolina-a">South Carolina A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -4526,10 +5589,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-b">Columbia B</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -4537,10 +5603,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -4548,10 +5617,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -4559,10 +5631,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#yale-b">Yale B</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -4570,10 +5645,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -4581,10 +5659,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 </tbody>
@@ -4599,10 +5680,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4612,10 +5696,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -4623,10 +5710,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -4634,10 +5724,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#iowa-state-a">Iowa State A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -4645,10 +5738,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#imperial-a">Imperial A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -4656,10 +5752,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -4667,10 +5766,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -4678,10 +5780,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#johns-hopkins-a">Johns Hopkins A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -4689,10 +5794,13 @@ Rm
 8
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 </tbody>
@@ -4707,10 +5815,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4720,10 +5831,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -4731,10 +5845,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -4742,10 +5859,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -4753,10 +5873,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -4764,10 +5887,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-b">Rutgers B</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -4775,10 +5901,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -4786,10 +5915,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -4797,10 +5929,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#mcgill-a">McGill A</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 </tbody>
@@ -4815,10 +5950,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4828,10 +5966,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -4839,10 +5980,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-4-145
+Michael Kearney, Josh Xiong
 </td>
 </tr>
 <tr>
@@ -4850,10 +5994,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -4861,10 +6008,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-a">Rutgers A</a>
 </td>
 <td style="text-align:left;">
-4-149
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -4872,10 +6022,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#penn-b">Penn B</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -4883,10 +6036,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-4-153
+Andrew Wang, Dylan Minarik
 </td>
 </tr>
 <tr>
@@ -4894,10 +6050,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -4905,10 +6064,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
 <a href = "#houston-a">Houston A</a>
 </td>
 <td style="text-align:left;">
-4-159
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 </tbody>
@@ -4923,10 +6085,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -4936,10 +6101,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 <tr>
@@ -4947,10 +6115,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -4958,10 +6129,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -4969,10 +6143,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -4980,10 +6157,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+26-210
+</td>
+<td style="text-align:left;">
 <a href = "#iowa-state-a">Iowa State A</a>
 </td>
 <td style="text-align:left;">
-26-210
+Victor Pavao, Chris Borglum
 </td>
 </tr>
 <tr>
@@ -4991,10 +6171,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-26-168
+Hasna Karim, Joshua Nwakoby
 </td>
 </tr>
 <tr>
@@ -5002,10 +6185,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
 <a href = "#imperial-a">Imperial A</a>
 </td>
 <td style="text-align:left;">
-26-142
+Aidan Mehigan, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -5013,10 +6199,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+26-204
+</td>
+<td style="text-align:left;">
 <a href = "#johns-hopkins-a">Johns Hopkins A</a>
 </td>
 <td style="text-align:left;">
-26-204
+Ophir Lifshitz, Allan Lee
 </td>
 </tr>
 </tbody>
@@ -5031,10 +6220,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -5044,10 +6236,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -5055,10 +6250,13 @@ Bye
 2
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -5066,10 +6264,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#purdue-a">Purdue A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -5077,10 +6278,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#south-carolina-a">South Carolina A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -5088,10 +6292,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -5099,10 +6306,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 <tr>
@@ -5110,10 +6320,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-b">Columbia B</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -5121,10 +6334,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#yale-b">Yale B</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 </tbody>
@@ -5139,10 +6355,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -5152,10 +6371,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -5163,10 +6385,13 @@ Bye
 2
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -5174,10 +6399,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -5185,10 +6413,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -5196,10 +6427,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -5207,10 +6441,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#mcgill-a">McGill A</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -5218,10 +6455,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-b">UC Berkeley B</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -5229,10 +6469,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-b">Rutgers B</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 </tbody>
@@ -5247,10 +6490,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -5260,10 +6506,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#uc-berkeley-b">UC Berkeley B</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -5271,10 +6520,13 @@ Rm
 2
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -5282,10 +6534,13 @@ Rm
 3
 </td>
 <td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-36-153
+JinAh Kim, Jordan Brownstein
 </td>
 </tr>
 <tr>
@@ -5293,10 +6548,13 @@ Rm
 4
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -5304,10 +6562,13 @@ Rm
 5
 </td>
 <td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
 <a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-36-144
+Adam Silverman, NA
 </td>
 </tr>
 <tr>
@@ -5315,10 +6576,13 @@ Rm
 6
 </td>
 <td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
 <a href = "#rutgers-b">Rutgers B</a>
 </td>
 <td style="text-align:left;">
-36-155
+Naveed Chowdhury, Grant Peet
 </td>
 </tr>
 <tr>
@@ -5326,10 +6590,13 @@ Rm
 7
 </td>
 <td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
 <a href = "#mcgill-a">McGill A</a>
 </td>
 <td style="text-align:left;">
-36-112
+Andrew Hart, Kai Smith
 </td>
 </tr>
 <tr>
@@ -5337,10 +6604,13 @@ Rm
 8
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 </tbody>
@@ -5355,10 +6625,13 @@ Bye
 Rd
 </th>
 <th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
 Opponent
 </th>
 <th style="text-align:left;">
-Rm
+staff
 </th>
 </tr>
 </thead>
@@ -5368,10 +6641,13 @@ Rm
 1
 </td>
 <td style="text-align:left;">
+—
+</td>
+<td style="text-align:left;">
 Bye
 </td>
 <td style="text-align:left;">
-—
+NA
 </td>
 </tr>
 <tr>
@@ -5379,10 +6655,13 @@ Bye
 2
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#columbia-b">Columbia B</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -5390,10 +6669,13 @@ Bye
 3
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -5401,10 +6683,13 @@ Bye
 4
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#purdue-a">Purdue A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -5412,10 +6697,13 @@ Bye
 5
 </td>
 <td style="text-align:left;">
+34-301
+</td>
+<td style="text-align:left;">
 <a href = "#south-carolina-a">South Carolina A</a>
 </td>
 <td style="text-align:left;">
-34-301
+Aseem Keyal, Andrew Zhou
 </td>
 </tr>
 <tr>
@@ -5423,10 +6711,13 @@ Bye
 6
 </td>
 <td style="text-align:left;">
+34-303
+</td>
+<td style="text-align:left;">
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-34-303
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -5434,10 +6725,13 @@ Bye
 7
 </td>
 <td style="text-align:left;">
+34-302
+</td>
+<td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-34-302
+Caroline Mao, Rahul Keyal
 </td>
 </tr>
 <tr>
@@ -5445,10 +6739,13 @@ Bye
 8
 </td>
 <td style="text-align:left;">
+34-304
+</td>
+<td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-34-304
+Joe Su, Ashwin Ganesh
 </td>
 </tr>
 </tbody>

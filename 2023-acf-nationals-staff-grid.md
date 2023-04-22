@@ -10,11 +10,11 @@
 | Alewife    | 4-159  | Eric Douglass    | Bryn Douglass     | —      |
 | Braintree  | 4-231  | Nick Jensen      | Zach Foster       | Yes    |
 | Braintree  | 4-257  | Rob Carson       | Jaimie Carlson    | Yes    |
-| Braintree  | 4-261  | John Lawrence    | Kai Smith         | Yes    |
+| Braintree  | 4-261  | Ganon Evans      | Pranav Arunandhi  | —      |
 | Braintree  | 4-265  | Jonathen Settle  | Edward Liu        | —      |
 | Concord    | 26-142 | Aidan Mehigan    | Chloe Spinks      | —      |
 | Concord    | 26-168 | Hasna Karim      | Joshua Nwakoby    | —      |
-| Concord    | 26-204 | Ophir Lifshitz   | Allan Lee         | —      |
+| Concord    | 26-204 | Ophir Lifshitz   | Allan Lee         | Yes    |
 | Concord    | 26-210 | Victor Pavao     | Chris Borglum     | Yes    |
 | Danvers    | 26-314 | Michael Sorice   | Will Steger       | —      |
 | Danvers    | 26-322 | Emmett Laurie    | JJ Tsai           | Yes    |
@@ -24,10 +24,10 @@
 | Everett    | 34-302 | Caroline Mao     | Rahul Keyal       | Yes    |
 | Everett    | 34-303 | Lauren Onel      | Iain Carpenter    | Yes    |
 | Everett    | 34-304 | Joe Su           | Ashwin Ganesh     | Yes    |
-| Framingham | 36-112 | Andrew Hart      | Ganon Evans       | Yes    |
-| Framingham | 36-144 | Adam Silverman   | Pranav Arunandhi  | —      |
+| Framingham | 36-112 | Andrew Hart      | Kai Smith         | Yes    |
+| Framingham | 36-144 | Adam Silverman   | —                 | —      |
 | Framingham | 36-153 | JinAh Kim        | Jordan Brownstein | Yes    |
-| Framingham | 36-156 | Naveed Chowdhury | Grant Peet        | Yes    |
+| Framingham | 36-155 | Naveed Chowdhury | Grant Peet        | Yes    |
 
 The control room is **34-101**. In case you have an urgent situation,
 please text/call Ryan Rosenberg (914-588-3813) or Zac Bennett
