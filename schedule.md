@@ -2,9 +2,9 @@
 
 ## Brackets
 
-<a href="#sched" style="position:fixed; right:10px; bottom:10px; text-decoration:none;">↑</a>
+<a href="#top" style="position:fixed; right:10px; bottom:10px; text-decoration:none;">↑</a>
 
-<table id="sched">
+<table id="top">
 <thead>
 <tr>
 <th style="text-align:left;">
