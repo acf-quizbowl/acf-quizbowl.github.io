@@ -151,10 +151,10 @@ Championship
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#toronto-a">Toronto A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
 <a href = "#rutgers-b">Rutgers B</a>
@@ -165,10 +165,10 @@ Championship
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#uc-berkeley-a">UC Berkeley A</a>
+<a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#virginia-a">Virginia A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 <a href = "#uc-berkeley-b">UC Berkeley B</a>
@@ -179,7 +179,7 @@ Championship
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
 <a href = "#yale-b">Yale B</a>
@@ -210,33 +210,33 @@ Championship
 
 ### 13-24
 
-| 36-112                      | 36-144                       | 36-153                      | 36-155                          | 36-156                    | 26-168                      |
-|:----------------------------|:-----------------------------|:----------------------------|:--------------------------------|:--------------------------|:----------------------------|
-| Toronto A<br>WUSTL B        | A3<br>Columbia A             | Northwestern A<br>Indiana A | C3<br>Cornell B                 | MIT A<br>UC Berkeley A    | A4<br>Chicago C             |
-| MIT A<br>Cornell B          | A4<br>UC Berkeley A          | A3<br>Chicago C             | C3<br>Indiana A                 | Northwestern A<br>WUSTL B | Toronto A<br>Columbia A     |
-| MIT A<br>Indiana A          | Northwestern A<br>Columbia A | C3<br>WUSTL B               | A3<br>Toronto A                 | A4<br>Cornell B           | Chicago C<br>UC Berkeley A  |
-| C3<br>Columbia A            | Chicago C<br>Cornell B       | A4<br>Indiana A             | MIT A<br>WUSTL B                | A3<br>UC Berkeley A       | Toronto A<br>Northwestern A |
-| UC Berkeley A<br>Cornell B  | Toronto A<br>C3              | MIT A<br>Columbia A         | A4<br>WUSTL B                   | Chicago C<br>Indiana A    | A3<br>Northwestern A        |
-| Northwestern A<br>C3        | UC Berkeley A<br>Indiana A   | Chicago C<br>WUSTL B        | A4<br>Columbia A                | Toronto A<br>MIT A        | A3<br>Cornell B             |
-| UC Berkeley A<br>WUSTL B    | Northwestern A<br>MIT A      | Toronto A<br>A4             | Chicago C<br>Columbia A         | A3<br>C3                  | Cornell B<br>Indiana A      |
-| Toronto A<br>Chicago C      | Cornell B<br>WUSTL B         | UC Berkeley A<br>Columbia A | A3<br>Indiana A                 | Northwestern A<br>A4      | C3<br>MIT A                 |
-| Northwestern A<br>Chicago C | C3<br>A4                     | A3<br>MIT A                 | Toronto A<br>UC Berkeley A      | Cornell B<br>Columbia A   | Indiana A<br>WUSTL B        |
-| Indiana A<br>Columbia A     | A3<br>WUSTL B                | Toronto A<br>Cornell B      | Northwestern A<br>UC Berkeley A | C3<br>Chicago C           | MIT A<br>A4                 |
+| 36-112                      | 36-144                     | 36-153                      | 36-155                          | 26-142                       | 26-168                      |
+|:----------------------------|:---------------------------|:----------------------------|:--------------------------------|:-----------------------------|:----------------------------|
+| Toronto A<br>Columbia A     | A3<br>Texas A              | Northwestern A<br>Indiana A | C3<br>Cornell B                 | MIT A<br>UC Berkeley A       | A4<br>Chicago C             |
+| MIT A<br>Cornell B          | A4<br>UC Berkeley A        | A3<br>Chicago C             | C3<br>Indiana A                 | Northwestern A<br>Columbia A | Toronto A<br>Texas A        |
+| MIT A<br>Indiana A          | Northwestern A<br>Texas A  | C3<br>Columbia A            | A3<br>Toronto A                 | A4<br>Cornell B              | Chicago C<br>UC Berkeley A  |
+| C3<br>Texas A               | Chicago C<br>Cornell B     | A4<br>Indiana A             | MIT A<br>Columbia A             | A3<br>UC Berkeley A          | Toronto A<br>Northwestern A |
+| UC Berkeley A<br>Cornell B  | Toronto A<br>C3            | MIT A<br>Texas A            | A4<br>Columbia A                | Chicago C<br>Indiana A       | A3<br>Northwestern A        |
+| Northwestern A<br>C3        | UC Berkeley A<br>Indiana A | Chicago C<br>Columbia A     | A4<br>Texas A                   | Toronto A<br>MIT A           | A3<br>Cornell B             |
+| UC Berkeley A<br>Columbia A | Northwestern A<br>MIT A    | Toronto A<br>A4             | Chicago C<br>Texas A            | A3<br>C3                     | Cornell B<br>Indiana A      |
+| Toronto A<br>Chicago C      | Cornell B<br>Columbia A    | UC Berkeley A<br>Texas A    | A3<br>Indiana A                 | Northwestern A<br>A4         | C3<br>MIT A                 |
+| Northwestern A<br>Chicago C | C3<br>A4                   | A3<br>MIT A                 | Toronto A<br>UC Berkeley A      | Cornell B<br>Texas A         | Indiana A<br>Columbia A     |
+| Indiana A<br>Texas A        | A3<br>Columbia A           | Toronto A<br>Cornell B      | Northwestern A<br>UC Berkeley A | C3<br>Chicago C              | MIT A<br>A4                 |
 
 ### 25-36
 
 | 26-204                         | 26-210                           | 26-314                          | 26-322                         | 26-328                           | 36-372                             |
 |:-------------------------------|:---------------------------------|:--------------------------------|:-------------------------------|:---------------------------------|:-----------------------------------|
-| Yale B<br>Texas A              | Rutgers A<br>McGill A            | Claremont A<br>South Carolina A | Virginia A<br>Georgia Tech B   | Illinois A<br>Iowa State A       | Penn A<br>Penn State A             |
-| Illinois A<br>Georgia Tech B   | Penn A<br>Iowa State A           | Rutgers A<br>Penn State A       | Virginia A<br>South Carolina A | Claremont A<br>Texas A           | Yale B<br>McGill A                 |
-| Illinois A<br>South Carolina A | Claremont A<br>McGill A          | Virginia A<br>Texas A           | Rutgers A<br>Yale B            | Penn A<br>Georgia Tech B         | Penn State A<br>Iowa State A       |
-| Virginia A<br>McGill A         | Penn State A<br>Georgia Tech B   | Penn A<br>South Carolina A      | Illinois A<br>Texas A          | Rutgers A<br>Iowa State A        | Yale B<br>Claremont A              |
-| Iowa State A<br>Georgia Tech B | Yale B<br>Virginia A             | Illinois A<br>McGill A          | Penn A<br>Texas A              | Penn State A<br>South Carolina A | Rutgers A<br>Claremont A           |
-| Claremont A<br>Virginia A      | Iowa State A<br>South Carolina A | Penn State A<br>Texas A         | Penn A<br>McGill A             | Yale B<br>Illinois A             | Rutgers A<br>Georgia Tech B        |
-| Iowa State A<br>Texas A        | Claremont A<br>Illinois A        | Yale B<br>Penn A                | Penn State A<br>McGill A       | Rutgers A<br>Virginia A          | Georgia Tech B<br>South Carolina A |
-| Yale B<br>Penn State A         | Georgia Tech B<br>Texas A        | Iowa State A<br>McGill A        | Rutgers A<br>South Carolina A  | Claremont A<br>Penn A            | Virginia A<br>Illinois A           |
-| Claremont A<br>Penn State A    | Virginia A<br>Penn A             | Rutgers A<br>Illinois A         | Yale B<br>Iowa State A         | Georgia Tech B<br>McGill A       | South Carolina A<br>Texas A        |
-| South Carolina A<br>McGill A   | Rutgers A<br>Texas A             | Yale B<br>Georgia Tech B        | Claremont A<br>Iowa State A    | Virginia A<br>Penn State A       | Illinois A<br>Penn A               |
+| Yale B<br>WUSTL B              | Rutgers A<br>McGill A            | Claremont A<br>South Carolina A | Virginia A<br>Georgia Tech B   | Illinois A<br>Iowa State A       | Penn A<br>Penn State A             |
+| Illinois A<br>Georgia Tech B   | Penn A<br>Iowa State A           | Rutgers A<br>Penn State A       | Virginia A<br>South Carolina A | Claremont A<br>WUSTL B           | Yale B<br>McGill A                 |
+| Illinois A<br>South Carolina A | Claremont A<br>McGill A          | Virginia A<br>WUSTL B           | Rutgers A<br>Yale B            | Penn A<br>Georgia Tech B         | Penn State A<br>Iowa State A       |
+| Virginia A<br>McGill A         | Penn State A<br>Georgia Tech B   | Penn A<br>South Carolina A      | Illinois A<br>WUSTL B          | Rutgers A<br>Iowa State A        | Yale B<br>Claremont A              |
+| Iowa State A<br>Georgia Tech B | Yale B<br>Virginia A             | Illinois A<br>McGill A          | Penn A<br>WUSTL B              | Penn State A<br>South Carolina A | Rutgers A<br>Claremont A           |
+| Claremont A<br>Virginia A      | Iowa State A<br>South Carolina A | Penn State A<br>WUSTL B         | Penn A<br>McGill A             | Yale B<br>Illinois A             | Rutgers A<br>Georgia Tech B        |
+| Iowa State A<br>WUSTL B        | Claremont A<br>Illinois A        | Yale B<br>Penn A                | Penn State A<br>McGill A       | Rutgers A<br>Virginia A          | Georgia Tech B<br>South Carolina A |
+| Yale B<br>Penn State A         | Georgia Tech B<br>WUSTL B        | Iowa State A<br>McGill A        | Rutgers A<br>South Carolina A  | Claremont A<br>Penn A            | Virginia A<br>Illinois A           |
+| Claremont A<br>Penn State A    | Virginia A<br>Penn A             | Rutgers A<br>Illinois A         | Yale B<br>Iowa State A         | Georgia Tech B<br>McGill A       | South Carolina A<br>WUSTL B        |
+| South Carolina A<br>McGill A   | Rutgers A<br>WUSTL B             | Yale B<br>Georgia Tech B        | Claremont A<br>Iowa State A    | Virginia A<br>Penn State A       | Illinois A<br>Penn A               |
 
 ### 37-48
 
@@ -446,7 +446,7 @@ staff
 36-144
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Andrew Hart, Adam Silverman
@@ -485,13 +485,13 @@ Aidan Mehigan, Jaimie Carlson
 4
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -527,13 +527,13 @@ Eric Douglass, Bryn Douglass
 7
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#c3">C3</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -572,7 +572,7 @@ Aseem Keyal, JJ Tsai
 36-144
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Andrew Hart, Adam Silverman
@@ -634,13 +634,13 @@ Andrew Hart, Adam Silverman
 3
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -665,7 +665,7 @@ Aseem Keyal, JJ Tsai
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -679,7 +679,7 @@ Aidan Mehigan, Jaimie Carlson
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -704,13 +704,13 @@ Aseem Keyal, JJ Tsai
 8
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -1126,7 +1126,7 @@ Aidan Mehigan, Jaimie Carlson
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -1140,7 +1140,7 @@ Aseem Keyal, JJ Tsai
 36-112
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Juliet Mayer, Kevin Wang
@@ -1179,13 +1179,13 @@ Juliet Mayer, Kevin Wang
 7
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#a3">A3</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -1221,13 +1221,13 @@ Andrew Hart, Adam Silverman
 10
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 </tbody>
@@ -1640,13 +1640,13 @@ Andrew Hart, Adam Silverman
 5
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -1657,7 +1657,7 @@ Andrew Wang, Nick Jensen
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -1671,7 +1671,7 @@ Aseem Keyal, JJ Tsai
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -1710,13 +1710,13 @@ Juliet Mayer, Kevin Wang
 10
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#c3">C3</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 </tbody>
@@ -1764,7 +1764,7 @@ Dylan Minarik, Naveed Chowdhury
 26-328
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Rahul Keyal, Will Steger
@@ -1910,52 +1910,10 @@ staff
 1
 </td>
 <td style="text-align:left;">
-36-144
-</td>
-<td style="text-align:left;">
-<a href = "#a3">A3</a>
-</td>
-<td style="text-align:left;">
-Andrew Hart, Adam Silverman
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2
-</td>
-<td style="text-align:left;">
-26-168
-</td>
-<td style="text-align:left;">
-<a href = "#toronto-a">Toronto A</a>
-</td>
-<td style="text-align:left;">
-Eric Douglass, Bryn Douglass
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-3
-</td>
-<td style="text-align:left;">
-36-144
-</td>
-<td style="text-align:left;">
-<a href = "#northwestern-a">Northwestern A</a>
-</td>
-<td style="text-align:left;">
-Andrew Hart, Adam Silverman
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-4
-</td>
-<td style="text-align:left;">
 36-112
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
 Juliet Mayer, Kevin Wang
@@ -1963,13 +1921,27 @@ Juliet Mayer, Kevin Wang
 </tr>
 <tr>
 <td style="text-align:left;">
-5
+2
+</td>
+<td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
+<a href = "#northwestern-a">Northwestern A</a>
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
 </td>
 <td style="text-align:left;">
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#mit-a">MIT A</a>
+<a href = "#c3">C3</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -1977,7 +1949,21 @@ Aseem Keyal, JJ Tsai
 </tr>
 <tr>
 <td style="text-align:left;">
-6
+4
+</td>
+<td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
+<a href = "#mit-a">MIT A</a>
+</td>
+<td style="text-align:left;">
+Aidan Mehigan, Jaimie Carlson
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
 </td>
 <td style="text-align:left;">
 36-155
@@ -1991,27 +1977,13 @@ Aidan Mehigan, Jaimie Carlson
 </tr>
 <tr>
 <td style="text-align:left;">
-7
-</td>
-<td style="text-align:left;">
-36-155
-</td>
-<td style="text-align:left;">
-<a href = "#chicago-c">Chicago C</a>
-</td>
-<td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-8
+6
 </td>
 <td style="text-align:left;">
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#uc-berkeley-a">UC Berkeley A</a>
+<a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -2019,16 +1991,44 @@ Aseem Keyal, JJ Tsai
 </tr>
 <tr>
 <td style="text-align:left;">
-9
+7
 </td>
 <td style="text-align:left;">
-36-156
+36-112
+</td>
+<td style="text-align:left;">
+<a href = "#uc-berkeley-a">UC Berkeley A</a>
+</td>
+<td style="text-align:left;">
+Juliet Mayer, Kevin Wang
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+36-144
 </td>
 <td style="text-align:left;">
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+Andrew Hart, Adam Silverman
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
+<a href = "#indiana-a">Indiana A</a>
+</td>
+<td style="text-align:left;">
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -2036,13 +2036,13 @@ Andrew Wang, Nick Jensen
 10
 </td>
 <td style="text-align:left;">
-36-112
+36-144
 </td>
 <td style="text-align:left;">
-<a href = "#indiana-a">Indiana A</a>
+<a href = "#a3">A3</a>
 </td>
 <td style="text-align:left;">
-Juliet Mayer, Kevin Wang
+Andrew Hart, Adam Silverman
 </td>
 </tr>
 </tbody>
@@ -2264,13 +2264,13 @@ Juliet Mayer, Kevin Wang
 3
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#a4">A4</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -2337,7 +2337,7 @@ Eric Douglass, Bryn Douglass
 36-144
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Andrew Hart, Adam Silverman
@@ -2348,13 +2348,13 @@ Andrew Hart, Adam Silverman
 9
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -3152,7 +3152,7 @@ Kai Smith, Chloe Spinks
 26-210
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Victor Pavao
@@ -3422,7 +3422,7 @@ Lauren Onel, Iain Carpenter
 26-322
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Joe Su, Allan Lee
@@ -3759,13 +3759,13 @@ Aseem Keyal, JJ Tsai
 5
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -3818,7 +3818,7 @@ Aidan Mehigan, Jaimie Carlson
 26-168
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Eric Douglass, Bryn Douglass
@@ -3832,7 +3832,7 @@ Eric Douglass, Bryn Douglass
 36-112
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Juliet Mayer, Kevin Wang
@@ -3953,7 +3953,7 @@ Victor Pavao
 26-204
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Lauren Onel, Iain Carpenter
@@ -4681,13 +4681,13 @@ staff
 1
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -4726,7 +4726,7 @@ Juliet Mayer, Kevin Wang
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -4740,7 +4740,7 @@ Aidan Mehigan, Jaimie Carlson
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -4751,13 +4751,13 @@ Aseem Keyal, JJ Tsai
 6
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -4858,13 +4858,13 @@ Aseem Keyal, JJ Tsai
 2
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -4875,7 +4875,7 @@ Andrew Wang, Nick Jensen
 36-144
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Andrew Hart, Adam Silverman
@@ -4942,13 +4942,13 @@ Andrew Hart, Adam Silverman
 8
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#a4">A4</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -5392,7 +5392,7 @@ Dylan Minarik, Naveed Chowdhury
 26-322
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Joe Su, Allan Lee
@@ -5569,7 +5569,7 @@ Rahul Keyal, Will Steger
 26-314
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Dylan Minarik, Naveed Chowdhury
@@ -5951,7 +5951,7 @@ Dylan Minarik, Naveed Chowdhury
 26-210
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Victor Pavao
@@ -6263,7 +6263,7 @@ Joe Su, Allan Lee
 36-372
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Kai Smith, Chloe Spinks
@@ -6474,13 +6474,13 @@ staff
 1
 </td>
 <td style="text-align:left;">
-26-204
+36-144
 </td>
 <td style="text-align:left;">
-<a href = "#yale-b">Yale B</a>
+<a href = "#a3">A3</a>
 </td>
 <td style="text-align:left;">
-Lauren Onel, Iain Carpenter
+Andrew Hart, Adam Silverman
 </td>
 </tr>
 <tr>
@@ -6488,13 +6488,13 @@ Lauren Onel, Iain Carpenter
 2
 </td>
 <td style="text-align:left;">
-26-328
+26-168
 </td>
 <td style="text-align:left;">
-<a href = "#claremont-a">Claremont A</a>
+<a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-Rahul Keyal, Will Steger
+Eric Douglass, Bryn Douglass
 </td>
 </tr>
 <tr>
@@ -6502,13 +6502,13 @@ Rahul Keyal, Will Steger
 3
 </td>
 <td style="text-align:left;">
-26-314
+36-144
 </td>
 <td style="text-align:left;">
-<a href = "#virginia-a">Virginia A</a>
+<a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-Dylan Minarik, Naveed Chowdhury
+Andrew Hart, Adam Silverman
 </td>
 </tr>
 <tr>
@@ -6516,13 +6516,13 @@ Dylan Minarik, Naveed Chowdhury
 4
 </td>
 <td style="text-align:left;">
-26-322
+36-112
 </td>
 <td style="text-align:left;">
-<a href = "#illinois-a">Illinois A</a>
+<a href = "#c3">C3</a>
 </td>
 <td style="text-align:left;">
-Joe Su, Allan Lee
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 <tr>
@@ -6530,13 +6530,13 @@ Joe Su, Allan Lee
 5
 </td>
 <td style="text-align:left;">
-26-322
+36-153
 </td>
 <td style="text-align:left;">
-<a href = "#penn-a">Penn A</a>
+<a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-Joe Su, Allan Lee
+Aseem Keyal, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -6544,13 +6544,13 @@ Joe Su, Allan Lee
 6
 </td>
 <td style="text-align:left;">
-26-314
+36-155
 </td>
 <td style="text-align:left;">
-<a href = "#penn-state-a">Penn State A</a>
+<a href = "#a4">A4</a>
 </td>
 <td style="text-align:left;">
-Dylan Minarik, Naveed Chowdhury
+Aidan Mehigan, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -6558,13 +6558,13 @@ Dylan Minarik, Naveed Chowdhury
 7
 </td>
 <td style="text-align:left;">
-26-204
+36-155
 </td>
 <td style="text-align:left;">
-<a href = "#iowa-state-a">Iowa State A</a>
+<a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-Lauren Onel, Iain Carpenter
+Aidan Mehigan, Jaimie Carlson
 </td>
 </tr>
 <tr>
@@ -6572,13 +6572,13 @@ Lauren Onel, Iain Carpenter
 8
 </td>
 <td style="text-align:left;">
-26-210
+36-153
 </td>
 <td style="text-align:left;">
-<a href = "#georgia-tech-b">Georgia Tech B</a>
+<a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-Victor Pavao
+Aseem Keyal, JJ Tsai
 </td>
 </tr>
 <tr>
@@ -6586,13 +6586,13 @@ Victor Pavao
 9
 </td>
 <td style="text-align:left;">
-36-372
+26-142
 </td>
 <td style="text-align:left;">
-<a href = "#south-carolina-a">South Carolina A</a>
+<a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-Kai Smith, Chloe Spinks
+NA
 </td>
 </tr>
 <tr>
@@ -6600,13 +6600,13 @@ Kai Smith, Chloe Spinks
 10
 </td>
 <td style="text-align:left;">
-26-210
+36-112
 </td>
 <td style="text-align:left;">
-<a href = "#rutgers-a">Rutgers A</a>
+<a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-Victor Pavao
+Juliet Mayer, Kevin Wang
 </td>
 </tr>
 </tbody>
@@ -6640,7 +6640,7 @@ staff
 36-112
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Juliet Mayer, Kevin Wang
@@ -6654,7 +6654,7 @@ Juliet Mayer, Kevin Wang
 26-168
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Eric Douglass, Bryn Douglass
@@ -6707,13 +6707,13 @@ Andrew Hart, Adam Silverman
 6
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -6800,13 +6800,13 @@ staff
 1
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -6842,13 +6842,13 @@ Eric Douglass, Bryn Douglass
 4
 </td>
 <td style="text-align:left;">
-36-156
+26-142
 </td>
 <td style="text-align:left;">
 <a href = "#a3">A3</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+NA
 </td>
 </tr>
 <tr>
@@ -6887,7 +6887,7 @@ Andrew Hart, Adam Silverman
 36-112
 </td>
 <td style="text-align:left;">
-<a href = "#wustl-b">WUSTL B</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 Juliet Mayer, Kevin Wang
@@ -6901,7 +6901,7 @@ Juliet Mayer, Kevin Wang
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -7320,7 +7320,7 @@ Joe Su, Allan Lee
 26-314
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Dylan Minarik, Naveed Chowdhury
@@ -7615,13 +7615,13 @@ staff
 1
 </td>
 <td style="text-align:left;">
-36-112
+26-204
 </td>
 <td style="text-align:left;">
-<a href = "#toronto-a">Toronto A</a>
+<a href = "#yale-b">Yale B</a>
 </td>
 <td style="text-align:left;">
-Juliet Mayer, Kevin Wang
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -7629,13 +7629,13 @@ Juliet Mayer, Kevin Wang
 2
 </td>
 <td style="text-align:left;">
-36-156
+26-328
 </td>
 <td style="text-align:left;">
-<a href = "#northwestern-a">Northwestern A</a>
+<a href = "#claremont-a">Claremont A</a>
 </td>
 <td style="text-align:left;">
-Andrew Wang, Nick Jensen
+Rahul Keyal, Will Steger
 </td>
 </tr>
 <tr>
@@ -7643,13 +7643,13 @@ Andrew Wang, Nick Jensen
 3
 </td>
 <td style="text-align:left;">
-36-153
+26-314
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#virginia-a">Virginia A</a>
 </td>
 <td style="text-align:left;">
-Aseem Keyal, JJ Tsai
+Dylan Minarik, Naveed Chowdhury
 </td>
 </tr>
 <tr>
@@ -7657,13 +7657,13 @@ Aseem Keyal, JJ Tsai
 4
 </td>
 <td style="text-align:left;">
-36-155
+26-322
 </td>
 <td style="text-align:left;">
-<a href = "#mit-a">MIT A</a>
+<a href = "#illinois-a">Illinois A</a>
 </td>
 <td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
+Joe Su, Allan Lee
 </td>
 </tr>
 <tr>
@@ -7671,13 +7671,13 @@ Aidan Mehigan, Jaimie Carlson
 5
 </td>
 <td style="text-align:left;">
-36-155
+26-322
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#penn-a">Penn A</a>
 </td>
 <td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
+Joe Su, Allan Lee
 </td>
 </tr>
 <tr>
@@ -7685,13 +7685,13 @@ Aidan Mehigan, Jaimie Carlson
 6
 </td>
 <td style="text-align:left;">
-36-153
+26-314
 </td>
 <td style="text-align:left;">
-<a href = "#chicago-c">Chicago C</a>
+<a href = "#penn-state-a">Penn State A</a>
 </td>
 <td style="text-align:left;">
-Aseem Keyal, JJ Tsai
+Dylan Minarik, Naveed Chowdhury
 </td>
 </tr>
 <tr>
@@ -7699,13 +7699,13 @@ Aseem Keyal, JJ Tsai
 7
 </td>
 <td style="text-align:left;">
-36-112
+26-204
 </td>
 <td style="text-align:left;">
-<a href = "#uc-berkeley-a">UC Berkeley A</a>
+<a href = "#iowa-state-a">Iowa State A</a>
 </td>
 <td style="text-align:left;">
-Juliet Mayer, Kevin Wang
+Lauren Onel, Iain Carpenter
 </td>
 </tr>
 <tr>
@@ -7713,13 +7713,13 @@ Juliet Mayer, Kevin Wang
 8
 </td>
 <td style="text-align:left;">
-36-144
+26-210
 </td>
 <td style="text-align:left;">
-<a href = "#cornell-b">Cornell B</a>
+<a href = "#georgia-tech-b">Georgia Tech B</a>
 </td>
 <td style="text-align:left;">
-Andrew Hart, Adam Silverman
+Victor Pavao
 </td>
 </tr>
 <tr>
@@ -7727,13 +7727,13 @@ Andrew Hart, Adam Silverman
 9
 </td>
 <td style="text-align:left;">
-26-168
+36-372
 </td>
 <td style="text-align:left;">
-<a href = "#indiana-a">Indiana A</a>
+<a href = "#south-carolina-a">South Carolina A</a>
 </td>
 <td style="text-align:left;">
-Eric Douglass, Bryn Douglass
+Kai Smith, Chloe Spinks
 </td>
 </tr>
 <tr>
@@ -7741,13 +7741,13 @@ Eric Douglass, Bryn Douglass
 10
 </td>
 <td style="text-align:left;">
-36-144
+26-210
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#rutgers-a">Rutgers A</a>
 </td>
 <td style="text-align:left;">
-Andrew Hart, Adam Silverman
+Victor Pavao
 </td>
 </tr>
 </tbody>
@@ -7944,7 +7944,7 @@ staff
 26-204
 </td>
 <td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
+<a href = "#wustl-b">WUSTL B</a>
 </td>
 <td style="text-align:left;">
 Lauren Onel, Iain Carpenter
