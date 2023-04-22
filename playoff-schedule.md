@@ -356,7 +356,7 @@ Jonathen Settle, Hasna Karim
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -370,7 +370,7 @@ NA
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -505,7 +505,7 @@ Ophir Lifshitz, Michael Kearney
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -519,7 +519,7 @@ NA
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -710,7 +710,7 @@ Ophir Lifshitz, Michael Kearney
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -831,7 +831,7 @@ Andrew Hart, Adam Silverman
 <a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -901,7 +901,7 @@ Juliet Mayer, Kevin Wang
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 </tbody>
@@ -1115,7 +1115,7 @@ Juliet Mayer, Kevin Wang
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -1455,7 +1455,7 @@ Michael Sorice, Grant Peet
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -1618,7 +1618,7 @@ Juliet Mayer, Kevin Wang
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -1702,7 +1702,7 @@ Andrew Hart, Adam Silverman
 <a href = "#texas-a">Texas A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -1753,7 +1753,7 @@ staff
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -1781,7 +1781,7 @@ Taylor Harvey, Caroline Mao
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -2000,7 +2000,7 @@ Michael Sorice, Grant Peet
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -2028,7 +2028,7 @@ JinAh Kim, Jordan Brownstein
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -2340,7 +2340,7 @@ Michael Sorice, Grant Peet
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -2368,7 +2368,7 @@ Taylor Harvey, Caroline Mao
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 </tbody>
@@ -2610,7 +2610,7 @@ Aidan Mehigan, Jaimie Carlson
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -2652,7 +2652,7 @@ Eric Douglass, Bryn Douglass
 <a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -3276,7 +3276,7 @@ Aseem Keyal, JJ Tsai
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -3709,7 +3709,7 @@ staff
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -3835,7 +3835,7 @@ Michael Sorice, Grant Peet
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 </tbody>
@@ -4226,7 +4226,7 @@ Andrew Hart, Adam Silverman
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -4296,7 +4296,7 @@ Aseem Keyal, JJ Tsai
 <a href = "#northwestern-a">Northwestern A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -4524,7 +4524,7 @@ staff
 <a href = "#uc-berkeley-a">UC Berkeley A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -4594,7 +4594,7 @@ Aseem Keyal, JJ Tsai
 <a href = "#toronto-a">Toronto A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -4771,7 +4771,7 @@ Juliet Mayer, Kevin Wang
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -4813,7 +4813,7 @@ Andrew Hart, Adam Silverman
 <a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 </tbody>
@@ -4864,7 +4864,7 @@ Aseem Keyal, JJ Tsai
 <a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -4948,7 +4948,7 @@ Andrew Hart, Adam Silverman
 <a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -5288,7 +5288,7 @@ Michael Sorice, Grant Peet
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -6359,7 +6359,7 @@ Michael Sorice, Grant Peet
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -6373,7 +6373,7 @@ NA
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -6592,7 +6592,7 @@ Aseem Keyal, JJ Tsai
 <a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -6713,7 +6713,7 @@ Andrew Hart, Adam Silverman
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -6806,7 +6806,7 @@ staff
 <a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -6848,7 +6848,7 @@ Eric Douglass, Bryn Douglass
 <a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
-NA
+Andrew Wang, Nick Jensen
 </td>
 </tr>
 <tr>
@@ -7472,7 +7472,7 @@ Jonathen Settle, Hasna Karim
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -7500,7 +7500,7 @@ JinAh Kim, Jordan Brownstein
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>
@@ -7798,7 +7798,7 @@ Michael Sorice, Grant Peet
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-NA
+Rob Carson, Ganon Evans
 </td>
 </tr>
 <tr>

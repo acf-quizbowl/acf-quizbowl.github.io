@@ -1,15 +1,15 @@
 # 2023 ACF Nationals Staff Grid
 
-## Playoffs
+## Prelims
 
-| Bracket | Room   | Staffer 1        | Staffer 2         | Switch |
+| Bracket | Room   | Staffer.1        | Staffer.2         | Switch |
 |:--------|:-------|:-----------------|:------------------|:-------|
 | Top     | 4-145  | Jonathen Settle  | Hasna Karim       | Yes    |
 | Top     | 4-149  | Michael Sorice   | Grant Peet        | —      |
 | Top     | 4-153  | Taylor Harvey    | Caroline Mao      | Yes    |
 | Top     | 4-159  | JinAh Kim        | Jordan Brownstein | Yes    |
 | Top     | 4-261  | Ophir Lifshitz   | Michael Kearney   | Yes    |
-| Top     | 4-265  | Rob Carson       | Ganon Evans       | —      |
+| Top     | 4-257  | Rob Carson       | Ganon Evans       | —      |
 | Second  | 36-112 | Juliet Mayer     | Kevin Wang        | Yes    |
 | Second  | 36-144 | Andrew Hart      | Adam Silverman    | Yes    |
 | Second  | 36-153 | Aseem Keyal      | JJ Tsai           | Yes    |
