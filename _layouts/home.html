@@ -5,14 +5,14 @@
 
   <link rel="stylesheet" href="{{ "/assets/home.css" }}">
 
-  <body>
+  <body class="home">
 
     <div>
 
       <header class="header-background">
         {% include navbar.html %}
 
-        <div class="mx-auto px-2 mb-2 clearfix about-site col-10">
+        <div class="mx-auto px-2 mb-2 clearfix about-site col-10 home-body">
 
           <div id="site-title">
           <h1 class="h0-title inline-block sm-width-full py-2 mt-3 header-title" style="z-index:10; position:relative;">{{ site.title }}</h1>
@@ -94,12 +94,13 @@
     </div>
     </div>
 
-	<article class="container mx-auto px-2">
+	<!-- if you want to add to the updates log, uncomment this and add your updates to index.md
+  <article class="container mx-auto px-2">
 
 		<div class="prose mb-4 py-1">
 		  {{ content }}
 		</div>
-	</article>
+	</article> -->
 
   </body>
 
