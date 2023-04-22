@@ -22,10 +22,10 @@ Championship
 <tbody>
 <tr>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#chicago-c">Chicago C</a>
 </td>
 <td style="text-align:left;">
 <a href = "#claremont-a">Claremont A</a>
@@ -36,10 +36,10 @@ Championship
 </tr>
 <tr>
 <td style="text-align:left;">
-<a href = "#brown-a">Brown A</a>
+<a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#columbia-a">Columbia A</a>
 </td>
 <td style="text-align:left;">
 <a href = "#georgia-tech-b">Georgia Tech B</a>
@@ -50,10 +50,10 @@ Championship
 </tr>
 <tr>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#cornell-b">Cornell B</a>
 </td>
 <td style="text-align:left;">
 <a href = "#illinois-a">Illinois A</a>
@@ -64,10 +64,10 @@ Championship
 </tr>
 <tr>
 <td style="text-align:left;">
-<a href = "#chicago-a">Chicago A</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#chicago-c">Chicago C</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 <a href = "#iowa-state-a">Iowa State A</a>
@@ -78,10 +78,10 @@ Championship
 </tr>
 <tr>
 <td style="text-align:left;">
-<a href = "#chicago-b">Chicago B</a>
+<a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
+<a href = "#indiana-a">Indiana A</a>
 </td>
 <td style="text-align:left;">
 <a href = "#mcgill-a">McGill A</a>
@@ -92,10 +92,10 @@ Championship
 </tr>
 <tr>
 <td style="text-align:left;">
-<a href = "#duke-a">Duke A</a>
+<a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#cornell-b">Cornell B</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 <a href = "#penn-a">Penn A</a>
@@ -106,10 +106,10 @@ Championship
 </tr>
 <tr>
 <td style="text-align:left;">
-<a href = "#florida-a">Florida A</a>
+<a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#indiana-a">Indiana A</a>
+<a href = "#mit-a">MIT A</a>
 </td>
 <td style="text-align:left;">
 <a href = "#penn-state-a">Penn State A</a>
@@ -120,10 +120,10 @@ Championship
 </tr>
 <tr>
 <td style="text-align:left;">
-<a href = "#georgia-tech-a">Georgia Tech A</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-<a href = "#mit-a">MIT A</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 <a href = "#rutgers-a">Rutgers A</a>
@@ -195,33 +195,33 @@ Championship
 
 ### Championship
 
-| 4-145                       | 4-149                        | 4-153                       | 4-159                          | 4-261                      | 4-265                       |
-|:----------------------------|:-----------------------------|:----------------------------|:-------------------------------|:---------------------------|:----------------------------|
-| WUSTL A<br>Ohio State A     | Chicago A<br>Yale A          | Stanford A<br>Florida A     | Chicago B<br>Brown A           | Georgia Tech A<br>C2       | A2<br>Duke A                |
-| Georgia Tech A<br>Brown A   | A2<br>C2                     | Chicago A<br>Duke A         | Chicago B<br>Florida A         | Stanford A<br>Ohio State A | WUSTL A<br>Yale A           |
-| Georgia Tech A<br>Florida A | Stanford A<br>Yale A         | Chicago B<br>Ohio State A   | Chicago A<br>WUSTL A           | A2<br>Brown A              | Duke A<br>C2                |
-| Chicago B<br>Yale A         | Duke A<br>Brown A            | A2<br>Florida A             | Georgia Tech A<br>Ohio State A | Chicago A<br>C2            | WUSTL A<br>Stanford A       |
-| C2<br>Brown A               | WUSTL A<br>Chicago B         | Georgia Tech A<br>Yale A    | A2<br>Ohio State A             | Duke A<br>Florida A        | Chicago A<br>Stanford A     |
-| Stanford A<br>Chicago B     | C2<br>Florida A              | Duke A<br>Ohio State A      | A2<br>Yale A                   | WUSTL A<br>Georgia Tech A  | Chicago A<br>Brown A        |
-| C2<br>Ohio State A          | Stanford A<br>Georgia Tech A | WUSTL A<br>A2               | Duke A<br>Yale A               | Chicago A<br>Chicago B     | Brown A<br>Florida A        |
-| WUSTL A<br>Duke A           | Brown A<br>Ohio State A      | C2<br>Yale A                | Chicago A<br>Florida A         | Stanford A<br>A2           | Chicago B<br>Georgia Tech A |
-| Stanford A<br>Duke A        | Chicago B<br>A2              | Chicago A<br>Georgia Tech A | WUSTL A<br>C2                  | Brown A<br>Yale A          | Florida A<br>Ohio State A   |
-| Florida A<br>Yale A         | Chicago A<br>Ohio State A    | WUSTL A<br>Brown A          | Stanford A<br>C2               | Chicago B<br>Duke A        | Georgia Tech A<br>A2        |
+| 4-145                       | 4-149                        | 4-153                       | 4-159                          | 4-261                       | 4-265                        |
+|:----------------------------|:-----------------------------|:----------------------------|:-------------------------------|:----------------------------|:-----------------------------|
+| WUSTL A<br>Ohio State A     | Chicago A<br>Yale A          | Stanford A<br>Florida A     | Chicago B<br>Brown A           | Georgia Tech A<br>Cornell A | Maryland A<br>Duke A         |
+| Georgia Tech A<br>Brown A   | Maryland A<br>Cornell A      | Chicago A<br>Duke A         | Chicago B<br>Florida A         | Stanford A<br>Ohio State A  | WUSTL A<br>Yale A            |
+| Georgia Tech A<br>Florida A | Stanford A<br>Yale A         | Chicago B<br>Ohio State A   | Chicago A<br>WUSTL A           | Maryland A<br>Brown A       | Duke A<br>Cornell A          |
+| Chicago B<br>Yale A         | Duke A<br>Brown A            | Maryland A<br>Florida A     | Georgia Tech A<br>Ohio State A | Chicago A<br>Cornell A      | WUSTL A<br>Stanford A        |
+| Cornell A<br>Brown A        | WUSTL A<br>Chicago B         | Georgia Tech A<br>Yale A    | Maryland A<br>Ohio State A     | Duke A<br>Florida A         | Chicago A<br>Stanford A      |
+| Stanford A<br>Chicago B     | Cornell A<br>Florida A       | Duke A<br>Ohio State A      | Maryland A<br>Yale A           | WUSTL A<br>Georgia Tech A   | Chicago A<br>Brown A         |
+| Cornell A<br>Ohio State A   | Stanford A<br>Georgia Tech A | WUSTL A<br>Maryland A       | Duke A<br>Yale A               | Chicago A<br>Chicago B      | Brown A<br>Florida A         |
+| WUSTL A<br>Duke A           | Brown A<br>Ohio State A      | Cornell A<br>Yale A         | Chicago A<br>Florida A         | Stanford A<br>Maryland A    | Chicago B<br>Georgia Tech A  |
+| Stanford A<br>Duke A        | Chicago B<br>Maryland A      | Chicago A<br>Georgia Tech A | WUSTL A<br>Cornell A           | Brown A<br>Yale A           | Florida A<br>Ohio State A    |
+| Florida A<br>Yale A         | Chicago A<br>Ohio State A    | WUSTL A<br>Brown A          | Stanford A<br>Cornell A        | Chicago B<br>Duke A         | Georgia Tech A<br>Maryland A |
 
 ### 13-24
 
-| 36-112                      | 36-144                     | 36-153                      | 36-155                          | 26-142                       | 26-168                      |
-|:----------------------------|:---------------------------|:----------------------------|:--------------------------------|:-----------------------------|:----------------------------|
-| Toronto A<br>Columbia A     | A3<br>Texas A              | Northwestern A<br>Indiana A | C3<br>Cornell B                 | MIT A<br>UC Berkeley A       | A4<br>Chicago C             |
-| MIT A<br>Cornell B          | A4<br>UC Berkeley A        | A3<br>Chicago C             | C3<br>Indiana A                 | Northwestern A<br>Columbia A | Toronto A<br>Texas A        |
-| MIT A<br>Indiana A          | Northwestern A<br>Texas A  | C3<br>Columbia A            | A3<br>Toronto A                 | A4<br>Cornell B              | Chicago C<br>UC Berkeley A  |
-| C3<br>Texas A               | Chicago C<br>Cornell B     | A4<br>Indiana A             | MIT A<br>Columbia A             | A3<br>UC Berkeley A          | Toronto A<br>Northwestern A |
-| UC Berkeley A<br>Cornell B  | Toronto A<br>C3            | MIT A<br>Texas A            | A4<br>Columbia A                | Chicago C<br>Indiana A       | A3<br>Northwestern A        |
-| Northwestern A<br>C3        | UC Berkeley A<br>Indiana A | Chicago C<br>Columbia A     | A4<br>Texas A                   | Toronto A<br>MIT A           | A3<br>Cornell B             |
-| UC Berkeley A<br>Columbia A | Northwestern A<br>MIT A    | Toronto A<br>A4             | Chicago C<br>Texas A            | A3<br>C3                     | Cornell B<br>Indiana A      |
-| Toronto A<br>Chicago C      | Cornell B<br>Columbia A    | UC Berkeley A<br>Texas A    | A3<br>Indiana A                 | Northwestern A<br>A4         | C3<br>MIT A                 |
-| Northwestern A<br>Chicago C | C3<br>A4                   | A3<br>MIT A                 | Toronto A<br>UC Berkeley A      | Cornell B<br>Texas A         | Indiana A<br>Columbia A     |
-| Indiana A<br>Texas A        | A3<br>Columbia A           | Toronto A<br>Cornell B      | Northwestern A<br>UC Berkeley A | C3<br>Chicago C              | MIT A<br>A4                 |
+| 36-112                             | 36-144                          | 36-153                         | 36-155                          | 26-142                        | 26-168                      |
+|:-----------------------------------|:--------------------------------|:-------------------------------|:--------------------------------|:------------------------------|:----------------------------|
+| Toronto A<br>Columbia A            | Harvard A<br>Texas A            | Northwestern A<br>Indiana A    | North Carolina A<br>Cornell B   | MIT A<br>UC Berkeley A        | Minnesota A<br>Chicago C    |
+| MIT A<br>Cornell B                 | Minnesota A<br>UC Berkeley A    | Harvard A<br>Chicago C         | North Carolina A<br>Indiana A   | Northwestern A<br>Columbia A  | Toronto A<br>Texas A        |
+| MIT A<br>Indiana A                 | Northwestern A<br>Texas A       | North Carolina A<br>Columbia A | Harvard A<br>Toronto A          | Minnesota A<br>Cornell B      | Chicago C<br>UC Berkeley A  |
+| North Carolina A<br>Texas A        | Chicago C<br>Cornell B          | Minnesota A<br>Indiana A       | MIT A<br>Columbia A             | Harvard A<br>UC Berkeley A    | Toronto A<br>Northwestern A |
+| UC Berkeley A<br>Cornell B         | Toronto A<br>North Carolina A   | MIT A<br>Texas A               | Minnesota A<br>Columbia A       | Chicago C<br>Indiana A        | Harvard A<br>Northwestern A |
+| Northwestern A<br>North Carolina A | UC Berkeley A<br>Indiana A      | Chicago C<br>Columbia A        | Minnesota A<br>Texas A          | Toronto A<br>MIT A            | Harvard A<br>Cornell B      |
+| UC Berkeley A<br>Columbia A        | Northwestern A<br>MIT A         | Toronto A<br>Minnesota A       | Chicago C<br>Texas A            | Harvard A<br>North Carolina A | Cornell B<br>Indiana A      |
+| Toronto A<br>Chicago C             | Cornell B<br>Columbia A         | UC Berkeley A<br>Texas A       | Harvard A<br>Indiana A          | Northwestern A<br>Minnesota A | North Carolina A<br>MIT A   |
+| Northwestern A<br>Chicago C        | North Carolina A<br>Minnesota A | Harvard A<br>MIT A             | Toronto A<br>UC Berkeley A      | Cornell B<br>Texas A          | Indiana A<br>Columbia A     |
+| Indiana A<br>Texas A               | Harvard A<br>Columbia A         | Toronto A<br>Cornell B         | Northwestern A<br>UC Berkeley A | North Carolina A<br>Chicago C | MIT A<br>Minnesota A        |
 
 ### 25-36
 
@@ -254,495 +254,6 @@ Championship
 | Columbia B<br>Rutgers B      | Vanderbilt A<br>UC Berkeley B | Purdue A<br>Minnesota B          | NYU A<br>Imperial A            | Johns Hopkins A<br>Florida B    | Michigan A<br>Houston A       |
 
 ## Playoff Schedules by Team
-
-### A2
-
-<table>
-<thead>
-<tr>
-<th style="text-align:left;">
-Rd
-</th>
-<th style="text-align:left;">
-Rm
-</th>
-<th style="text-align:left;">
-Opponent
-</th>
-<th style="text-align:left;">
-staff
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-1
-</td>
-<td style="text-align:left;">
-4-265
-</td>
-<td style="text-align:left;">
-<a href = "#duke-a">Duke A</a>
-</td>
-<td style="text-align:left;">
-Rob Carson, Ganon Evans
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2
-</td>
-<td style="text-align:left;">
-4-149
-</td>
-<td style="text-align:left;">
-<a href = "#c2">C2</a>
-</td>
-<td style="text-align:left;">
-Michael Sorice, Grant Peet
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-3
-</td>
-<td style="text-align:left;">
-4-261
-</td>
-<td style="text-align:left;">
-<a href = "#brown-a">Brown A</a>
-</td>
-<td style="text-align:left;">
-Ophir Lifshitz, Michael Kearney
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-4
-</td>
-<td style="text-align:left;">
-4-153
-</td>
-<td style="text-align:left;">
-<a href = "#florida-a">Florida A</a>
-</td>
-<td style="text-align:left;">
-Taylor Harvey, Caroline Mao
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-5
-</td>
-<td style="text-align:left;">
-4-159
-</td>
-<td style="text-align:left;">
-<a href = "#ohio-state-a">Ohio State A</a>
-</td>
-<td style="text-align:left;">
-JinAh Kim, Jordan Brownstein
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-6
-</td>
-<td style="text-align:left;">
-4-159
-</td>
-<td style="text-align:left;">
-<a href = "#yale-a">Yale A</a>
-</td>
-<td style="text-align:left;">
-JinAh Kim, Jordan Brownstein
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-7
-</td>
-<td style="text-align:left;">
-4-153
-</td>
-<td style="text-align:left;">
-<a href = "#wustl-a">WUSTL A</a>
-</td>
-<td style="text-align:left;">
-Taylor Harvey, Caroline Mao
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-8
-</td>
-<td style="text-align:left;">
-4-261
-</td>
-<td style="text-align:left;">
-<a href = "#stanford-a">Stanford A</a>
-</td>
-<td style="text-align:left;">
-Ophir Lifshitz, Michael Kearney
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-9
-</td>
-<td style="text-align:left;">
-4-149
-</td>
-<td style="text-align:left;">
-<a href = "#chicago-b">Chicago B</a>
-</td>
-<td style="text-align:left;">
-Michael Sorice, Grant Peet
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
-</td>
-<td style="text-align:left;">
-4-265
-</td>
-<td style="text-align:left;">
-<a href = "#georgia-tech-a">Georgia Tech A</a>
-</td>
-<td style="text-align:left;">
-Rob Carson, Ganon Evans
-</td>
-</tr>
-</tbody>
-</table>
-
-### A3
-
-<table>
-<thead>
-<tr>
-<th style="text-align:left;">
-Rd
-</th>
-<th style="text-align:left;">
-Rm
-</th>
-<th style="text-align:left;">
-Opponent
-</th>
-<th style="text-align:left;">
-staff
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-1
-</td>
-<td style="text-align:left;">
-36-144
-</td>
-<td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
-</td>
-<td style="text-align:left;">
-Andrew Hart, Adam Silverman
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2
-</td>
-<td style="text-align:left;">
-36-153
-</td>
-<td style="text-align:left;">
-<a href = "#chicago-c">Chicago C</a>
-</td>
-<td style="text-align:left;">
-Aseem Keyal, JJ Tsai
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-3
-</td>
-<td style="text-align:left;">
-36-155
-</td>
-<td style="text-align:left;">
-<a href = "#toronto-a">Toronto A</a>
-</td>
-<td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-4
-</td>
-<td style="text-align:left;">
-26-142
-</td>
-<td style="text-align:left;">
-<a href = "#uc-berkeley-a">UC Berkeley A</a>
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-5
-</td>
-<td style="text-align:left;">
-26-168
-</td>
-<td style="text-align:left;">
-<a href = "#northwestern-a">Northwestern A</a>
-</td>
-<td style="text-align:left;">
-Eric Douglass, Bryn Douglass
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-6
-</td>
-<td style="text-align:left;">
-26-168
-</td>
-<td style="text-align:left;">
-<a href = "#cornell-b">Cornell B</a>
-</td>
-<td style="text-align:left;">
-Eric Douglass, Bryn Douglass
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-7
-</td>
-<td style="text-align:left;">
-26-142
-</td>
-<td style="text-align:left;">
-<a href = "#c3">C3</a>
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-8
-</td>
-<td style="text-align:left;">
-36-155
-</td>
-<td style="text-align:left;">
-<a href = "#indiana-a">Indiana A</a>
-</td>
-<td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-9
-</td>
-<td style="text-align:left;">
-36-153
-</td>
-<td style="text-align:left;">
-<a href = "#mit-a">MIT A</a>
-</td>
-<td style="text-align:left;">
-Aseem Keyal, JJ Tsai
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
-</td>
-<td style="text-align:left;">
-36-144
-</td>
-<td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
-</td>
-<td style="text-align:left;">
-Andrew Hart, Adam Silverman
-</td>
-</tr>
-</tbody>
-</table>
-
-### A4
-
-<table>
-<thead>
-<tr>
-<th style="text-align:left;">
-Rd
-</th>
-<th style="text-align:left;">
-Rm
-</th>
-<th style="text-align:left;">
-Opponent
-</th>
-<th style="text-align:left;">
-staff
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-1
-</td>
-<td style="text-align:left;">
-26-168
-</td>
-<td style="text-align:left;">
-<a href = "#chicago-c">Chicago C</a>
-</td>
-<td style="text-align:left;">
-Eric Douglass, Bryn Douglass
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2
-</td>
-<td style="text-align:left;">
-36-144
-</td>
-<td style="text-align:left;">
-<a href = "#uc-berkeley-a">UC Berkeley A</a>
-</td>
-<td style="text-align:left;">
-Andrew Hart, Adam Silverman
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-3
-</td>
-<td style="text-align:left;">
-26-142
-</td>
-<td style="text-align:left;">
-<a href = "#cornell-b">Cornell B</a>
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-4
-</td>
-<td style="text-align:left;">
-36-153
-</td>
-<td style="text-align:left;">
-<a href = "#indiana-a">Indiana A</a>
-</td>
-<td style="text-align:left;">
-Aseem Keyal, JJ Tsai
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-5
-</td>
-<td style="text-align:left;">
-36-155
-</td>
-<td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
-</td>
-<td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-6
-</td>
-<td style="text-align:left;">
-36-155
-</td>
-<td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
-</td>
-<td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-7
-</td>
-<td style="text-align:left;">
-36-153
-</td>
-<td style="text-align:left;">
-<a href = "#toronto-a">Toronto A</a>
-</td>
-<td style="text-align:left;">
-Aseem Keyal, JJ Tsai
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-8
-</td>
-<td style="text-align:left;">
-26-142
-</td>
-<td style="text-align:left;">
-<a href = "#northwestern-a">Northwestern A</a>
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-9
-</td>
-<td style="text-align:left;">
-36-144
-</td>
-<td style="text-align:left;">
-<a href = "#c3">C3</a>
-</td>
-<td style="text-align:left;">
-Andrew Hart, Adam Silverman
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
-</td>
-<td style="text-align:left;">
-26-168
-</td>
-<td style="text-align:left;">
-<a href = "#mit-a">MIT A</a>
-</td>
-<td style="text-align:left;">
-Eric Douglass, Bryn Douglass
-</td>
-</tr>
-</tbody>
-</table>
 
 ### Brown A
 
@@ -800,7 +311,7 @@ Jonathen Settle, Hasna Karim
 4-261
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 Ophir Lifshitz, Michael Kearney
@@ -828,7 +339,7 @@ Michael Sorice, Grant Peet
 4-145
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 Jonathen Settle, Hasna Karim
@@ -902,332 +413,6 @@ Ophir Lifshitz, Michael Kearney
 </td>
 <td style="text-align:left;">
 Taylor Harvey, Caroline Mao
-</td>
-</tr>
-</tbody>
-</table>
-
-### C2
-
-<table>
-<thead>
-<tr>
-<th style="text-align:left;">
-Rd
-</th>
-<th style="text-align:left;">
-Rm
-</th>
-<th style="text-align:left;">
-Opponent
-</th>
-<th style="text-align:left;">
-staff
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-1
-</td>
-<td style="text-align:left;">
-4-261
-</td>
-<td style="text-align:left;">
-<a href = "#georgia-tech-a">Georgia Tech A</a>
-</td>
-<td style="text-align:left;">
-Ophir Lifshitz, Michael Kearney
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2
-</td>
-<td style="text-align:left;">
-4-149
-</td>
-<td style="text-align:left;">
-<a href = "#a2">A2</a>
-</td>
-<td style="text-align:left;">
-Michael Sorice, Grant Peet
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-3
-</td>
-<td style="text-align:left;">
-4-265
-</td>
-<td style="text-align:left;">
-<a href = "#duke-a">Duke A</a>
-</td>
-<td style="text-align:left;">
-Rob Carson, Ganon Evans
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-4
-</td>
-<td style="text-align:left;">
-4-261
-</td>
-<td style="text-align:left;">
-<a href = "#chicago-a">Chicago A</a>
-</td>
-<td style="text-align:left;">
-Ophir Lifshitz, Michael Kearney
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-5
-</td>
-<td style="text-align:left;">
-4-145
-</td>
-<td style="text-align:left;">
-<a href = "#brown-a">Brown A</a>
-</td>
-<td style="text-align:left;">
-Jonathen Settle, Hasna Karim
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-6
-</td>
-<td style="text-align:left;">
-4-149
-</td>
-<td style="text-align:left;">
-<a href = "#florida-a">Florida A</a>
-</td>
-<td style="text-align:left;">
-Michael Sorice, Grant Peet
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-7
-</td>
-<td style="text-align:left;">
-4-145
-</td>
-<td style="text-align:left;">
-<a href = "#ohio-state-a">Ohio State A</a>
-</td>
-<td style="text-align:left;">
-Jonathen Settle, Hasna Karim
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-8
-</td>
-<td style="text-align:left;">
-4-153
-</td>
-<td style="text-align:left;">
-<a href = "#yale-a">Yale A</a>
-</td>
-<td style="text-align:left;">
-Taylor Harvey, Caroline Mao
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-9
-</td>
-<td style="text-align:left;">
-4-159
-</td>
-<td style="text-align:left;">
-<a href = "#wustl-a">WUSTL A</a>
-</td>
-<td style="text-align:left;">
-JinAh Kim, Jordan Brownstein
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
-</td>
-<td style="text-align:left;">
-4-159
-</td>
-<td style="text-align:left;">
-<a href = "#stanford-a">Stanford A</a>
-</td>
-<td style="text-align:left;">
-JinAh Kim, Jordan Brownstein
-</td>
-</tr>
-</tbody>
-</table>
-
-### C3
-
-<table>
-<thead>
-<tr>
-<th style="text-align:left;">
-Rd
-</th>
-<th style="text-align:left;">
-Rm
-</th>
-<th style="text-align:left;">
-Opponent
-</th>
-<th style="text-align:left;">
-staff
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-1
-</td>
-<td style="text-align:left;">
-36-155
-</td>
-<td style="text-align:left;">
-<a href = "#cornell-b">Cornell B</a>
-</td>
-<td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2
-</td>
-<td style="text-align:left;">
-36-155
-</td>
-<td style="text-align:left;">
-<a href = "#indiana-a">Indiana A</a>
-</td>
-<td style="text-align:left;">
-Aidan Mehigan, Jaimie Carlson
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-3
-</td>
-<td style="text-align:left;">
-36-153
-</td>
-<td style="text-align:left;">
-<a href = "#columbia-a">Columbia A</a>
-</td>
-<td style="text-align:left;">
-Aseem Keyal, JJ Tsai
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-4
-</td>
-<td style="text-align:left;">
-36-112
-</td>
-<td style="text-align:left;">
-<a href = "#texas-a">Texas A</a>
-</td>
-<td style="text-align:left;">
-Juliet Mayer, Kevin Wang
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-5
-</td>
-<td style="text-align:left;">
-36-144
-</td>
-<td style="text-align:left;">
-<a href = "#toronto-a">Toronto A</a>
-</td>
-<td style="text-align:left;">
-Andrew Hart, Adam Silverman
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-6
-</td>
-<td style="text-align:left;">
-36-112
-</td>
-<td style="text-align:left;">
-<a href = "#northwestern-a">Northwestern A</a>
-</td>
-<td style="text-align:left;">
-Juliet Mayer, Kevin Wang
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-7
-</td>
-<td style="text-align:left;">
-26-142
-</td>
-<td style="text-align:left;">
-<a href = "#a3">A3</a>
-</td>
-<td style="text-align:left;">
-NA
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-8
-</td>
-<td style="text-align:left;">
-26-168
-</td>
-<td style="text-align:left;">
-<a href = "#mit-a">MIT A</a>
-</td>
-<td style="text-align:left;">
-Eric Douglass, Bryn Douglass
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-9
-</td>
-<td style="text-align:left;">
-36-144
-</td>
-<td style="text-align:left;">
-<a href = "#a4">A4</a>
-</td>
-<td style="text-align:left;">
-Andrew Hart, Adam Silverman
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
-</td>
-<td style="text-align:left;">
-26-142
-</td>
-<td style="text-align:left;">
-<a href = "#chicago-c">Chicago C</a>
-</td>
-<td style="text-align:left;">
-NA
 </td>
 </tr>
 </tbody>
@@ -1303,7 +488,7 @@ JinAh Kim, Jordan Brownstein
 4-261
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 Ophir Lifshitz, Michael Kearney
@@ -1536,7 +721,7 @@ Rob Carson, Ganon Evans
 4-149
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 Michael Sorice, Grant Peet
@@ -1587,7 +772,7 @@ staff
 26-168
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 Eric Douglass, Bryn Douglass
@@ -1601,7 +786,7 @@ Eric Douglass, Bryn Douglass
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -1713,7 +898,7 @@ Juliet Mayer, Kevin Wang
 26-142
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 NA
@@ -1941,7 +1126,7 @@ NA
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -1969,7 +1154,7 @@ Aidan Mehigan, Jaimie Carlson
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -2039,7 +1224,7 @@ Eric Douglass, Bryn Douglass
 36-144
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 Andrew Hart, Adam Silverman
@@ -2211,6 +1396,169 @@ Zach Foster, Ashwin Ganesh
 </tbody>
 </table>
 
+### Cornell A
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">
+Rd
+</th>
+<th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
+Opponent
+</th>
+<th style="text-align:left;">
+staff
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
+<a href = "#georgia-tech-a">Georgia Tech A</a>
+</td>
+<td style="text-align:left;">
+Ophir Lifshitz, Michael Kearney
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
+<a href = "#maryland-a">Maryland A</a>
+</td>
+<td style="text-align:left;">
+Michael Sorice, Grant Peet
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
+<a href = "#duke-a">Duke A</a>
+</td>
+<td style="text-align:left;">
+Rob Carson, Ganon Evans
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
+<a href = "#chicago-a">Chicago A</a>
+</td>
+<td style="text-align:left;">
+Ophir Lifshitz, Michael Kearney
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
+<a href = "#brown-a">Brown A</a>
+</td>
+<td style="text-align:left;">
+Jonathen Settle, Hasna Karim
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6
+</td>
+<td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
+<a href = "#florida-a">Florida A</a>
+</td>
+<td style="text-align:left;">
+Michael Sorice, Grant Peet
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+4-145
+</td>
+<td style="text-align:left;">
+<a href = "#ohio-state-a">Ohio State A</a>
+</td>
+<td style="text-align:left;">
+Jonathen Settle, Hasna Karim
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
+<a href = "#yale-a">Yale A</a>
+</td>
+<td style="text-align:left;">
+Taylor Harvey, Caroline Mao
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
+<a href = "#wustl-a">WUSTL A</a>
+</td>
+<td style="text-align:left;">
+JinAh Kim, Jordan Brownstein
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
+<a href = "#stanford-a">Stanford A</a>
+</td>
+<td style="text-align:left;">
+JinAh Kim, Jordan Brownstein
+</td>
+</tr>
+</tbody>
+</table>
+
 ### Cornell B
 
 <table>
@@ -2239,7 +1587,7 @@ staff
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -2267,7 +1615,7 @@ Juliet Mayer, Kevin Wang
 26-142
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 NA
@@ -2309,7 +1657,7 @@ Juliet Mayer, Kevin Wang
 26-168
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 Eric Douglass, Bryn Douglass
@@ -2402,7 +1750,7 @@ staff
 4-265
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 Rob Carson, Ganon Evans
@@ -2430,7 +1778,7 @@ Taylor Harvey, Caroline Mao
 4-265
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 Rob Carson, Ganon Evans
@@ -2607,7 +1955,7 @@ Jonathen Settle, Hasna Karim
 4-153
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 Taylor Harvey, Caroline Mao
@@ -2635,7 +1983,7 @@ Ophir Lifshitz, Michael Kearney
 4-149
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 Michael Sorice, Grant Peet
@@ -2891,7 +2239,7 @@ staff
 4-261
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 Ophir Lifshitz, Michael Kearney
@@ -3017,7 +2365,7 @@ Taylor Harvey, Caroline Mao
 4-265
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 Rob Carson, Ganon Evans
@@ -3184,6 +2532,169 @@ Rahul Keyal, Will Steger
 </td>
 <td style="text-align:left;">
 Dylan Minarik, Naveed Chowdhury
+</td>
+</tr>
+</tbody>
+</table>
+
+### Harvard A
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">
+Rd
+</th>
+<th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
+Opponent
+</th>
+<th style="text-align:left;">
+staff
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
+<a href = "#texas-a">Texas A</a>
+</td>
+<td style="text-align:left;">
+Andrew Hart, Adam Silverman
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
+<a href = "#chicago-c">Chicago C</a>
+</td>
+<td style="text-align:left;">
+Aseem Keyal, JJ Tsai
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
+<a href = "#toronto-a">Toronto A</a>
+</td>
+<td style="text-align:left;">
+Aidan Mehigan, Jaimie Carlson
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
+<a href = "#uc-berkeley-a">UC Berkeley A</a>
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
+<a href = "#northwestern-a">Northwestern A</a>
+</td>
+<td style="text-align:left;">
+Eric Douglass, Bryn Douglass
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6
+</td>
+<td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
+<a href = "#cornell-b">Cornell B</a>
+</td>
+<td style="text-align:left;">
+Eric Douglass, Bryn Douglass
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
+<a href = "#north-carolina-a">North Carolina A</a>
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
+<a href = "#indiana-a">Indiana A</a>
+</td>
+<td style="text-align:left;">
+Aidan Mehigan, Jaimie Carlson
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
+<a href = "#mit-a">MIT A</a>
+</td>
+<td style="text-align:left;">
+Aseem Keyal, JJ Tsai
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
+<a href = "#columbia-a">Columbia A</a>
+</td>
+<td style="text-align:left;">
+Andrew Hart, Adam Silverman
 </td>
 </tr>
 </tbody>
@@ -3720,7 +3231,7 @@ Aseem Keyal, JJ Tsai
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -3748,7 +3259,7 @@ Juliet Mayer, Kevin Wang
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -3804,7 +3315,7 @@ Eric Douglass, Bryn Douglass
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -4167,6 +3678,169 @@ Anna Csiki-Fejer, Jeremy Cummings
 </tbody>
 </table>
 
+### Maryland A
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">
+Rd
+</th>
+<th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
+Opponent
+</th>
+<th style="text-align:left;">
+staff
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
+<a href = "#duke-a">Duke A</a>
+</td>
+<td style="text-align:left;">
+Rob Carson, Ganon Evans
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
+<a href = "#cornell-a">Cornell A</a>
+</td>
+<td style="text-align:left;">
+Michael Sorice, Grant Peet
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
+<a href = "#brown-a">Brown A</a>
+</td>
+<td style="text-align:left;">
+Ophir Lifshitz, Michael Kearney
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
+<a href = "#florida-a">Florida A</a>
+</td>
+<td style="text-align:left;">
+Taylor Harvey, Caroline Mao
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
+<a href = "#ohio-state-a">Ohio State A</a>
+</td>
+<td style="text-align:left;">
+JinAh Kim, Jordan Brownstein
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6
+</td>
+<td style="text-align:left;">
+4-159
+</td>
+<td style="text-align:left;">
+<a href = "#yale-a">Yale A</a>
+</td>
+<td style="text-align:left;">
+JinAh Kim, Jordan Brownstein
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+4-153
+</td>
+<td style="text-align:left;">
+<a href = "#wustl-a">WUSTL A</a>
+</td>
+<td style="text-align:left;">
+Taylor Harvey, Caroline Mao
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+4-261
+</td>
+<td style="text-align:left;">
+<a href = "#stanford-a">Stanford A</a>
+</td>
+<td style="text-align:left;">
+Ophir Lifshitz, Michael Kearney
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+4-149
+</td>
+<td style="text-align:left;">
+<a href = "#chicago-b">Chicago B</a>
+</td>
+<td style="text-align:left;">
+Michael Sorice, Grant Peet
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+4-265
+</td>
+<td style="text-align:left;">
+<a href = "#georgia-tech-a">Georgia Tech A</a>
+</td>
+<td style="text-align:left;">
+Rob Carson, Ganon Evans
+</td>
+</tr>
+</tbody>
+</table>
+
 ### McGill A
 
 <table>
@@ -4493,6 +4167,169 @@ Young Lee, Andrew Zhou
 </tbody>
 </table>
 
+### Minnesota A
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">
+Rd
+</th>
+<th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
+Opponent
+</th>
+<th style="text-align:left;">
+staff
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
+<a href = "#chicago-c">Chicago C</a>
+</td>
+<td style="text-align:left;">
+Eric Douglass, Bryn Douglass
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
+<a href = "#uc-berkeley-a">UC Berkeley A</a>
+</td>
+<td style="text-align:left;">
+Andrew Hart, Adam Silverman
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
+<a href = "#cornell-b">Cornell B</a>
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
+<a href = "#indiana-a">Indiana A</a>
+</td>
+<td style="text-align:left;">
+Aseem Keyal, JJ Tsai
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
+<a href = "#columbia-a">Columbia A</a>
+</td>
+<td style="text-align:left;">
+Aidan Mehigan, Jaimie Carlson
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6
+</td>
+<td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
+<a href = "#texas-a">Texas A</a>
+</td>
+<td style="text-align:left;">
+Aidan Mehigan, Jaimie Carlson
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
+<a href = "#toronto-a">Toronto A</a>
+</td>
+<td style="text-align:left;">
+Aseem Keyal, JJ Tsai
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
+<a href = "#northwestern-a">Northwestern A</a>
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
+<a href = "#north-carolina-a">North Carolina A</a>
+</td>
+<td style="text-align:left;">
+Andrew Hart, Adam Silverman
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
+<a href = "#mit-a">MIT A</a>
+</td>
+<td style="text-align:left;">
+Eric Douglass, Bryn Douglass
+</td>
+</tr>
+</tbody>
+</table>
+
 ### Minnesota B
 
 <table>
@@ -4782,7 +4619,7 @@ Andrew Hart, Adam Silverman
 26-168
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 Eric Douglass, Bryn Douglass
@@ -4796,7 +4633,7 @@ Eric Douglass, Bryn Douglass
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -4810,10 +4647,173 @@ Aseem Keyal, JJ Tsai
 26-168
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 Eric Douglass, Bryn Douglass
+</td>
+</tr>
+</tbody>
+</table>
+
+### North Carolina A
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">
+Rd
+</th>
+<th style="text-align:left;">
+Rm
+</th>
+<th style="text-align:left;">
+Opponent
+</th>
+<th style="text-align:left;">
+staff
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
+<a href = "#cornell-b">Cornell B</a>
+</td>
+<td style="text-align:left;">
+Aidan Mehigan, Jaimie Carlson
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+36-155
+</td>
+<td style="text-align:left;">
+<a href = "#indiana-a">Indiana A</a>
+</td>
+<td style="text-align:left;">
+Aidan Mehigan, Jaimie Carlson
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+36-153
+</td>
+<td style="text-align:left;">
+<a href = "#columbia-a">Columbia A</a>
+</td>
+<td style="text-align:left;">
+Aseem Keyal, JJ Tsai
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
+<a href = "#texas-a">Texas A</a>
+</td>
+<td style="text-align:left;">
+Juliet Mayer, Kevin Wang
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
+<a href = "#toronto-a">Toronto A</a>
+</td>
+<td style="text-align:left;">
+Andrew Hart, Adam Silverman
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6
+</td>
+<td style="text-align:left;">
+36-112
+</td>
+<td style="text-align:left;">
+<a href = "#northwestern-a">Northwestern A</a>
+</td>
+<td style="text-align:left;">
+Juliet Mayer, Kevin Wang
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
+<a href = "#harvard-a">Harvard A</a>
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+26-168
+</td>
+<td style="text-align:left;">
+<a href = "#mit-a">MIT A</a>
+</td>
+<td style="text-align:left;">
+Eric Douglass, Bryn Douglass
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+36-144
+</td>
+<td style="text-align:left;">
+<a href = "#minnesota-a">Minnesota A</a>
+</td>
+<td style="text-align:left;">
+Andrew Hart, Adam Silverman
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+26-142
+</td>
+<td style="text-align:left;">
+<a href = "#chicago-c">Chicago C</a>
+</td>
+<td style="text-align:left;">
+NA
 </td>
 </tr>
 </tbody>
@@ -4903,7 +4903,7 @@ Eric Douglass, Bryn Douglass
 26-168
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 Eric Douglass, Bryn Douglass
@@ -4917,7 +4917,7 @@ Eric Douglass, Bryn Douglass
 36-112
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 Juliet Mayer, Kevin Wang
@@ -4945,7 +4945,7 @@ Andrew Hart, Adam Silverman
 26-142
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 NA
@@ -5229,7 +5229,7 @@ JinAh Kim, Jordan Brownstein
 4-159
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 JinAh Kim, Jordan Brownstein
@@ -5257,7 +5257,7 @@ Taylor Harvey, Caroline Mao
 4-145
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 Jonathen Settle, Hasna Karim
@@ -6412,7 +6412,7 @@ Michael Sorice, Grant Peet
 4-261
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 Ophir Lifshitz, Michael Kearney
@@ -6440,7 +6440,7 @@ Jonathen Settle, Hasna Karim
 4-159
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 JinAh Kim, Jordan Brownstein
@@ -6477,7 +6477,7 @@ staff
 36-144
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 Andrew Hart, Adam Silverman
@@ -6519,7 +6519,7 @@ Andrew Hart, Adam Silverman
 36-112
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 Juliet Mayer, Kevin Wang
@@ -6547,7 +6547,7 @@ Aseem Keyal, JJ Tsai
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -6668,7 +6668,7 @@ Eric Douglass, Bryn Douglass
 36-155
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 Aidan Mehigan, Jaimie Carlson
@@ -6696,7 +6696,7 @@ Eric Douglass, Bryn Douglass
 36-144
 </td>
 <td style="text-align:left;">
-<a href = "#c3">C3</a>
+<a href = "#north-carolina-a">North Carolina A</a>
 </td>
 <td style="text-align:left;">
 Andrew Hart, Adam Silverman
@@ -6724,7 +6724,7 @@ NA
 36-153
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 Aseem Keyal, JJ Tsai
@@ -6817,7 +6817,7 @@ NA
 36-144
 </td>
 <td style="text-align:left;">
-<a href = "#a4">A4</a>
+<a href = "#minnesota-a">Minnesota A</a>
 </td>
 <td style="text-align:left;">
 Andrew Hart, Adam Silverman
@@ -6845,7 +6845,7 @@ Eric Douglass, Bryn Douglass
 26-142
 </td>
 <td style="text-align:left;">
-<a href = "#a3">A3</a>
+<a href = "#harvard-a">Harvard A</a>
 </td>
 <td style="text-align:left;">
 NA
@@ -7539,7 +7539,7 @@ Ophir Lifshitz, Michael Kearney
 4-153
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 Taylor Harvey, Caroline Mao
@@ -7567,7 +7567,7 @@ Jonathen Settle, Hasna Karim
 4-159
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 JinAh Kim, Jordan Brownstein
@@ -7851,7 +7851,7 @@ Taylor Harvey, Caroline Mao
 4-159
 </td>
 <td style="text-align:left;">
-<a href = "#a2">A2</a>
+<a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
 JinAh Kim, Jordan Brownstein
@@ -7879,7 +7879,7 @@ JinAh Kim, Jordan Brownstein
 4-153
 </td>
 <td style="text-align:left;">
-<a href = "#c2">C2</a>
+<a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
 Taylor Harvey, Caroline Mao
