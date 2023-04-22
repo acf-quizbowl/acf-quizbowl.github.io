@@ -2,7 +2,9 @@
 
 ## Brackets
 
-<table>
+<a href="#top" style="position:fixed; right:10px; bottom:10px; text-decoration:none;">↑</a>
+
+<table id="top">
 <thead>
 <tr>
 <th style="text-align:left;">
@@ -286,7 +288,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -421,7 +423,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -556,7 +558,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -691,7 +693,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -826,7 +828,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -961,7 +963,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -1096,7 +1098,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -1231,7 +1233,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -1366,7 +1368,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -1501,7 +1503,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -1636,7 +1638,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -1771,7 +1773,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -1906,7 +1908,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -2041,7 +2043,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -2176,7 +2178,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -2311,7 +2313,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -2446,7 +2448,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -2581,7 +2583,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -2716,7 +2718,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -2851,7 +2853,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -2986,7 +2988,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -3121,7 +3123,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -3256,7 +3258,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -3391,7 +3393,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -3526,7 +3528,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -3661,7 +3663,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -3796,7 +3798,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -3931,7 +3933,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -4066,7 +4068,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -4201,7 +4203,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -4336,7 +4338,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -4471,7 +4473,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -4606,7 +4608,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -4741,7 +4743,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -4876,7 +4878,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -5011,7 +5013,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -5146,7 +5148,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -5281,7 +5283,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -5416,7 +5418,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -5551,7 +5553,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -5686,7 +5688,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -5821,7 +5823,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -5956,7 +5958,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -6091,7 +6093,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -6226,7 +6228,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -6361,7 +6363,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -6496,7 +6498,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
@@ -6631,7 +6633,7 @@ Rm
 Opponent
 </th>
 <th style="text-align:left;">
-staff
+Staff
 </th>
 </tr>
 </thead>
