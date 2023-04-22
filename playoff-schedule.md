@@ -195,7 +195,7 @@ Championship
 
 ### Championship
 
-| 4-145                       | 4-149                        | 4-153                       | 4-159                          | 4-261                       | 4-265                        |
+| 4-145                       | 4-149                        | 4-153                       | 4-159                          | 4-261                       | 4-257                        |
 |:----------------------------|:-----------------------------|:----------------------------|:-------------------------------|:----------------------------|:-----------------------------|
 | WUSTL A<br>Ohio State A     | Chicago A<br>Yale A          | Stanford A<br>Florida A     | Chicago B<br>Brown A           | Georgia Tech A<br>Cornell A | Maryland A<br>Duke A         |
 | Georgia Tech A<br>Brown A   | Maryland A<br>Cornell A      | Chicago A<br>Duke A         | Chicago B<br>Florida A         | Stanford A<br>Ohio State A  | WUSTL A<br>Yale A            |
@@ -350,13 +350,13 @@ Jonathen Settle, Hasna Karim
 6
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -364,13 +364,13 @@ Rob Carson, Ganon Evans
 7
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -499,13 +499,13 @@ Ophir Lifshitz, Michael Kearney
 5
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -513,13 +513,13 @@ Rob Carson, Ganon Evans
 6
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -704,13 +704,13 @@ Ophir Lifshitz, Michael Kearney
 8
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -1449,13 +1449,13 @@ Michael Sorice, Grant Peet
 3
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -1747,13 +1747,13 @@ staff
 1
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -1775,13 +1775,13 @@ Taylor Harvey, Caroline Mao
 3
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#cornell-a">Cornell A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -1994,13 +1994,13 @@ Michael Sorice, Grant Peet
 7
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#brown-a">Brown A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -2022,13 +2022,13 @@ JinAh Kim, Jordan Brownstein
 9
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#ohio-state-a">Ohio State A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -2334,13 +2334,13 @@ Michael Sorice, Grant Peet
 8
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#chicago-b">Chicago B</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -2362,13 +2362,13 @@ Taylor Harvey, Caroline Mao
 10
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#maryland-a">Maryland A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 </tbody>
@@ -3703,13 +3703,13 @@ staff
 1
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#duke-a">Duke A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -3829,13 +3829,13 @@ Michael Sorice, Grant Peet
 10
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#georgia-tech-a">Georgia Tech A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 </tbody>
@@ -5282,13 +5282,13 @@ Michael Sorice, Grant Peet
 9
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#florida-a">Florida A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -6353,13 +6353,13 @@ Michael Sorice, Grant Peet
 4
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -6367,13 +6367,13 @@ Rob Carson, Ganon Evans
 5
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#chicago-a">Chicago A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -7466,13 +7466,13 @@ Jonathen Settle, Hasna Karim
 2
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#yale-a">Yale A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -7494,13 +7494,13 @@ JinAh Kim, Jordan Brownstein
 4
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#stanford-a">Stanford A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
@@ -7792,13 +7792,13 @@ Michael Sorice, Grant Peet
 2
 </td>
 <td style="text-align:left;">
-4-265
+4-257
 </td>
 <td style="text-align:left;">
 <a href = "#wustl-a">WUSTL A</a>
 </td>
 <td style="text-align:left;">
-Rob Carson, Ganon Evans
+NA
 </td>
 </tr>
 <tr>
