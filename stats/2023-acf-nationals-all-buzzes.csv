@@ -2704,6 +2704,30 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 138,13,19,Michigan A,James Stevenson,UC Berkeley B,Science,Other Science,homotopies,175,0
 138,13,20,UC Berkeley B,Vinu Harihar,Michigan A,History,American History,Pentagon Papers,87,-5
 138,13,20,Michigan A,James Stevenson,UC Berkeley B,History,American History,Pentagon Papers,151,10
+415,13,1,Florida A,Tracy Mirkin,Maryland A,Science,Biology,vaginal microbiome,81,-5
+415,13,1,Maryland A,Stevie Miller,Florida A,Science,Biology,vaginal microbiome,125,10
+415,13,2,Florida A,Tracy Mirkin,Maryland A,Arts,Painting/Sculpture,Lee Krasner,81,-5
+415,13,2,Maryland A,Caleb Kendrick,Florida A,Arts,Painting/Sculpture,Lee Krasner,147,10
+415,13,3,Maryland A,Isaac Mammel,Florida A,Literature,World Literature,Latin America,126,10
+415,13,4,Maryland A,Caleb Kendrick,Florida A,Beliefs and Other,Religion,tooth of the Buddha,90,10
+415,13,5,Florida A,Tracy Mirkin,Maryland A,Arts,Other Fine Arts,Ennio Morricone,118,10
+415,13,6,Maryland A,Stevie Miller,Florida A,History,World History,expulsion of Asians from Uganda,107,10
+415,13,7,Florida A,Leah Honsinger,Maryland A,Beliefs and Other,Mythology,helmets,74,10
+415,13,8,Florida A,Tracy Mirkin,Maryland A,Literature,European Literature,The Chairs,119,10
+415,13,9,Maryland A,Caleb Kendrick,Florida A,Thought,Philosophy,knowledge,98,10
+415,13,10,Maryland A,Stevie Miller,Florida A,History,Other History,Acadians,13,-5
+415,13,10,Florida A,Tracy Mirkin,Maryland A,History,Other History,Acadians,150,10
+415,13,11,Florida A,Tracy Mirkin,Maryland A,Literature,British Literature,Jesus Christ,136,10
+415,13,12,Florida A,Tracy Mirkin,Maryland A,Science,Chemistry,metal-ligand bond length,101,10
+415,13,13,Florida A,Tracy Mirkin,Maryland A,History,European History,Wittenberg,110,-5
+415,13,13,Maryland A,Caleb Kendrick,Florida A,History,European History,Wittenberg,146,10
+415,13,14,Maryland A,Caleb Kendrick,Florida A,Thought,Social Science,social structure,95,10
+415,13,15,Florida A,Tracy Mirkin,Maryland A,Arts,Classical Music,William Walton,80,10
+415,13,16,Maryland A,Stevie Miller,Florida A,Beliefs and Other,Current Events,South Africa,109,10
+415,13,18,Florida A,Tracy Mirkin,Maryland A,Literature,American Literature,Hickey,125,-5
+415,13,18,Maryland A,Caleb Kendrick,Florida A,Literature,American Literature,Hickey,165,10
+415,13,19,Maryland A,Isaac Mammel,Florida A,Science,Other Science,homotopies,54,10
+415,13,20,Maryland A,Caleb Kendrick,Florida A,History,American History,Pentagon Papers,84,10
 75,14,1,WUSTL A,Charles Hang,Chicago B,Science,Biology,hyaluronic acid,85,-5
 75,14,1,Chicago B,Daniel Yang,WUSTL A,Science,Biology,hyaluronic acid,124,10
 75,14,2,WUSTL A,Annabelle Yang,Chicago B,Literature,American Literature,Russian,121,10
@@ -7787,17 +7811,6 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 338,4,18,Northwestern A,Christopher Sims,Brown A,History,Other History,Jacob Burckhardt,142,10
 338,4,19,Brown A,Jason Hong,Northwestern A,Science,Other Science,astrophysical jets,121,10
 338,4,20,Brown A,Anson Berns,Northwestern A,Literature,British Literature,Bulwer-Lytton,148,10
-403,4,1,Harvard A,Justin Duffy,Maryland A,Beliefs and Other,Current Events,Ulster loyalism,78,10
-403,4,2,Maryland A,Stevie Miller,Harvard A,Science,Physics,electric field,153,0
-403,4,2,Harvard A,Justin Duffy,Maryland A,Science,Physics,electric field,153,0
-403,4,3,Maryland A,Caleb Kendrick,Harvard A,History,European History,Bedchamber crisis,138,10
-403,4,4,Maryland A,Stevie Miller,Harvard A,Literature,European Literature,Alexandria,143,10
-403,4,5,Maryland A,Caleb Kendrick,Harvard A,Arts,Painting/Sculpture,George Bellows,128,10
-403,4,6,Harvard A,Justin Duffy,Maryland A,Beliefs and Other,Religion,Myanmar,132,10
-403,4,7,Maryland A,Caleb Kendrick,Harvard A,Science,Biology,axolotl,156,10
-403,4,8,Harvard A,Mazin Omer,Maryland A,History,American History,Woodrow Wilson,105,10
-403,4,9,Maryland A,Caleb Kendrick,Harvard A,Literature,American Literature,nautilus,45,10
-403,4,10,Harvard A,Cole Timmerwilke,Maryland A,Thought,Philosophy,Kyōto University,81,10
 414,4,1,Maryland A,Caleb Kendrick,Harvard A,Beliefs and Other,Current Events,Ulster loyalism,78,10
 414,4,2,Harvard A,Arjun Nageswaran,Maryland A,Science,Physics,electric field,151,10
 414,4,3,Maryland A,Caleb Kendrick,Harvard A,History,European History,Bedchamber crisis,110,10
@@ -8880,6 +8893,28 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 393,6,18,Cornell A,Geoffrey Chen,North Carolina A,Science,Biology,Amanita,49,10
 393,6,19,Cornell A,Nathan Zhang,North Carolina A,Arts,Painting/Sculpture,Oscar Wilde,95,10
 393,6,20,North Carolina A,Vittal Bhat,Cornell A,Literature,British Literature,David Mitchell,70,10
+3,7,1,Cornell B,Yared Tadesse,Brown A,Beliefs and Other,Current Events,hijab,94,10
+3,7,2,Brown A,Anson Berns,Cornell B,Literature,World Literature,US–Mexico border,112,-5
+3,7,2,Cornell B,Rosa Xia,Brown A,Literature,World Literature,US–Mexico border,152,10
+3,7,3,Cornell B,Dan Ni,Brown A,Science,Biology,Fallopian tubes,108,10
+3,7,4,Brown A,Walter Zhang,Cornell B,Literature,American Literature,Alison Bechdel &nbsp;,130,10
+3,7,5,Cornell B,Yared Tadesse,Brown A,Beliefs and Other,Religion,Maronite Church,103,-5
+3,7,5,Brown A,Jason Hong,Cornell B,Beliefs and Other,Religion,Maronite Church,148,10
+3,7,6,Brown A,Jason Hong,Cornell B,History,European History,Wallachia,47,10
+3,7,7,Brown A,Walter Zhang,Cornell B,Science,Other Science,fast Fourier transform,65,-5
+3,7,7,Cornell B,Richard Niu,Brown A,Science,Other Science,fast Fourier transform,135,10
+3,7,8,Brown A,Jason Hong,Cornell B,History,World History,Kāifēng,72,10
+3,7,9,Brown A,Jason Hong,Cornell B,Thought,Social Science,criminology,112,10
+3,7,10,Brown A,Walter Zhang,Cornell B,Arts,Other Fine Arts,Brazil,124,10
+3,7,11,Brown A,Walter Zhang,Cornell B,Beliefs and Other,Other Academic,André Malraux,80,10
+3,7,12,Brown A,Jason Hong,Cornell B,Arts,Painting/Sculpture,Leonora Carrington,93,10
+3,7,13,Brown A,Jason Hong,Cornell B,Science,Chemistry,carboxylate,86,10
+3,7,14,Cornell B,Richard Niu,Brown A,Arts,Classical Music,California,94,10
+3,7,15,Brown A,Anson Berns,Cornell B,Science,Physics,linear accelerators,124,-5
+3,7,16,Brown A,Anson Berns,Cornell B,Thought,Philosophy,Martha Nussbaum,104,10
+3,7,18,Brown A,Walter Zhang,Cornell B,History,American History,Underground Railroad,112,10
+3,7,19,Brown A,Anson Berns,Cornell B,Literature,European Literature,Hungary,117,10
+3,7,20,Brown A,Jason Hong,Cornell B,History,Other History,Arabia,62,10
 11,7,1,Georgia Tech B,S. A. Shenoy,Claremont A,Beliefs and Other,Current Events,hijab,92,10
 11,7,2,Claremont A,Tomás Aguilar-Fraga,Georgia Tech B,Literature,World Literature,US–Mexico border,129,10
 11,7,3,Claremont A,Tanis Nielsen,Georgia Tech B,Science,Biology,Fallopian tubes,111,10
@@ -9347,18 +9382,6 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 396,7,18,Maryland A,Stevie Miller,Rutgers A,History,American History,Underground Railroad,73,10
 396,7,19,Maryland A,Caleb Kendrick,Rutgers A,Literature,European Literature,Hungary,134,10
 396,7,20,Maryland A,Stevie Miller,Rutgers A,History,Other History,Arabia,101,10
-404,7,1,Harvard A,Cole Timmerwilke,Minnesota A,Beliefs and Other,Current Events,hijab,134,10
-404,7,2,Minnesota A,Maxwell Ye,Harvard A,Literature,World Literature,US–Mexico border,123,10
-404,7,3,Minnesota A,Joel Miles,Harvard A,Science,Biology,Fallopian tubes,137,10
-404,7,4,Minnesota A,Joel Miles,Harvard A,Literature,American Literature,Alison Bechdel &nbsp;,88,-5
-404,7,4,Harvard A,Mazin Omer,Minnesota A,Literature,American Literature,Alison Bechdel &nbsp;,101,10
-404,7,5,Minnesota A,Ethan Ashbrook,Harvard A,Beliefs and Other,Religion,Maronite Church,76,10
-404,7,6,Harvard A,Arjun Nageswaran,Minnesota A,History,European History,Wallachia,81,10
-404,7,7,Harvard A,Mazin Omer,Minnesota A,Science,Other Science,fast Fourier transform,102,10
-404,7,8,Minnesota A,Shardul Rao,Harvard A,History,World History,Kāifēng,114,-5
-404,7,8,Harvard A,Arjun Nageswaran,Minnesota A,History,World History,Kāifēng,144,10
-404,7,9,Harvard A,Mazin Omer,Minnesota A,Thought,Social Science,criminology,111,10
-404,7,10,Harvard A,Mazin Omer,Minnesota A,Arts,Other Fine Arts,Brazil,88,10
 406,7,1,Rutgers B,Alan Wu,Texas A,Beliefs and Other,Current Events,hijab,97,10
 406,7,2,Rutgers B,Collin Ace,Texas A,Literature,World Literature,US–Mexico border,130,10
 406,7,3,Texas A,Brad MacLaine,Rutgers B,Science,Biology,Fallopian tubes,123,10
@@ -9886,52 +9909,29 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 2,9,19,North Carolina A,Jim Fan,Cornell A,Arts,Other Fine Arts,La fille du régiment,45,-5
 2,9,19,Cornell A,Raymond Wang,North Carolina A,Arts,Other Fine Arts,La fille du régiment,47,10
 2,9,20,Cornell A,Nathan Zhang,North Carolina A,Beliefs and Other,Other Academic,Texas,81,10
-3,9,1,Cornell B,Yared Tadesse,Brown A,Thought,Philosophy,progress,94,10
-3,9,2,Brown A,Anson Berns,Cornell B,Science,Physics,dipoles,112,-5
-3,9,2,Cornell B,Rosa Xia,Brown A,Science,Physics,dipoles,152,10
-3,9,3,Cornell B,Dan Ni,Brown A,Literature,World Literature,“Cogwheels”,108,10
-3,9,4,Brown A,Walter Zhang,Cornell B,Arts,Painting/Sculpture,Poland,130,10
-3,9,5,Cornell B,Yared Tadesse,Brown A,Thought,Social Science,computers,103,-5
-3,9,5,Brown A,Jason Hong,Cornell B,Thought,Social Science,computers,148,10
-3,9,6,Brown A,Jason Hong,Cornell B,History,American History,Georgia,47,10
-3,9,7,Brown A,Walter Zhang,Cornell B,Beliefs and Other,Current Events,pharmaceuticals,65,-5
-3,9,7,Cornell B,Richard Niu,Brown A,Beliefs and Other,Current Events,pharmaceuticals,135,10
-3,9,8,Brown A,Jason Hong,Cornell B,History,World History,Nguyễn dynasty,72,10
-3,9,9,Brown A,Jason Hong,Cornell B,Science,Chemistry,binding,112,10
-3,9,10,Brown A,Walter Zhang,Cornell B,Literature,European Literature,Caucasus Mountains,124,10
-3,9,11,Brown A,Walter Zhang,Cornell B,History,Other History,Anglo-Saxon settlement of Britain,80,10
-3,9,12,Brown A,Jason Hong,Cornell B,Beliefs and Other,Religion,Hachiman,93,10
-3,9,13,Brown A,Jason Hong,Cornell B,Arts,Classical Music,London symphonies,86,10
-3,9,14,Cornell B,Richard Niu,Brown A,History,European History,Florence,94,10
-3,9,15,Brown A,Anson Berns,Cornell B,Literature,American Literature,Rita Dove,124,-5
-3,9,16,Brown A,Anson Berns,Cornell B,Science,Biology,membrane curvature,104,10
-3,9,18,Brown A,Walter Zhang,Cornell B,Science,Other Science,metallicity,112,10
-3,9,19,Brown A,Anson Berns,Cornell B,Arts,Other Fine Arts,La fille du régiment,117,10
-3,9,20,Brown A,Jason Hong,Cornell B,Beliefs and Other,Other Academic,Texas,62,10
-415,9,1,Florida A,Tracy Mirkin,Maryland A,Thought,Philosophy,progress,81,-5
-415,9,1,Maryland A,Stevie Miller,Florida A,Thought,Philosophy,progress,125,10
-415,9,2,Florida A,Tracy Mirkin,Maryland A,Science,Physics,dipoles,81,-5
-415,9,2,Maryland A,Caleb Kendrick,Florida A,Science,Physics,dipoles,147,10
-415,9,3,Maryland A,Isaac Mammel,Florida A,Literature,World Literature,“Cogwheels”,126,10
-415,9,4,Maryland A,Caleb Kendrick,Florida A,Arts,Painting/Sculpture,Poland,90,10
-415,9,5,Florida A,Tracy Mirkin,Maryland A,Thought,Social Science,computers,118,10
-415,9,6,Maryland A,Stevie Miller,Florida A,History,American History,Georgia,107,10
-415,9,7,Florida A,Leah Honsinger,Maryland A,Beliefs and Other,Current Events,pharmaceuticals,74,10
-415,9,8,Florida A,Tracy Mirkin,Maryland A,History,World History,Nguyễn dynasty,119,10
-415,9,9,Maryland A,Caleb Kendrick,Florida A,Science,Chemistry,binding,98,10
-415,9,10,Maryland A,Stevie Miller,Florida A,Literature,European Literature,Caucasus Mountains,13,-5
-415,9,10,Florida A,Tracy Mirkin,Maryland A,Literature,European Literature,Caucasus Mountains,150,10
-415,9,11,Florida A,Tracy Mirkin,Maryland A,History,Other History,Anglo-Saxon settlement of Britain,136,10
-415,9,12,Florida A,Tracy Mirkin,Maryland A,Beliefs and Other,Religion,Hachiman,101,10
-415,9,13,Florida A,Tracy Mirkin,Maryland A,Arts,Classical Music,London symphonies,110,-5
-415,9,13,Maryland A,Caleb Kendrick,Florida A,Arts,Classical Music,London symphonies,146,10
-415,9,14,Maryland A,Caleb Kendrick,Florida A,History,European History,Florence,95,10
-415,9,15,Florida A,Tracy Mirkin,Maryland A,Literature,American Literature,Rita Dove,80,10
-415,9,16,Maryland A,Stevie Miller,Florida A,Science,Biology,membrane curvature,109,10
-415,9,18,Florida A,Tracy Mirkin,Maryland A,Science,Other Science,metallicity,125,-5
-415,9,18,Maryland A,Caleb Kendrick,Florida A,Science,Other Science,metallicity,165,10
-415,9,19,Maryland A,Isaac Mammel,Florida A,Arts,Other Fine Arts,La fille du régiment,54,10
-415,9,20,Maryland A,Caleb Kendrick,Florida A,Beliefs and Other,Other Academic,Texas,84,10
+403,9,1,Harvard A,Justin Duffy,Maryland A,Thought,Philosophy,progress,78,10
+403,9,2,Maryland A,Stevie Miller,Harvard A,Science,Physics,dipoles,153,0
+403,9,2,Harvard A,Justin Duffy,Maryland A,Science,Physics,dipoles,153,0
+403,9,3,Maryland A,Caleb Kendrick,Harvard A,Literature,World Literature,“Cogwheels”,138,10
+403,9,4,Maryland A,Stevie Miller,Harvard A,Arts,Painting/Sculpture,Poland,143,10
+403,9,5,Maryland A,Caleb Kendrick,Harvard A,Thought,Social Science,computers,128,10
+403,9,6,Harvard A,Justin Duffy,Maryland A,History,American History,Georgia,132,10
+403,9,7,Maryland A,Caleb Kendrick,Harvard A,Beliefs and Other,Current Events,pharmaceuticals,156,10
+403,9,8,Harvard A,Mazin Omer,Maryland A,History,World History,Nguyễn dynasty,105,10
+403,9,9,Maryland A,Caleb Kendrick,Harvard A,Science,Chemistry,binding,45,10
+403,9,10,Harvard A,Cole Timmerwilke,Maryland A,Literature,European Literature,Caucasus Mountains,81,10
+404,9,1,Harvard A,Cole Timmerwilke,Minnesota A,Thought,Philosophy,progress,134,10
+404,9,2,Minnesota A,Maxwell Ye,Harvard A,Science,Physics,dipoles,123,10
+404,9,3,Minnesota A,Joel Miles,Harvard A,Literature,World Literature,“Cogwheels”,137,10
+404,9,4,Minnesota A,Joel Miles,Harvard A,Arts,Painting/Sculpture,Poland,88,-5
+404,9,4,Harvard A,Mazin Omer,Minnesota A,Arts,Painting/Sculpture,Poland,101,10
+404,9,5,Minnesota A,Ethan Ashbrook,Harvard A,Thought,Social Science,computers,76,10
+404,9,6,Harvard A,Arjun Nageswaran,Minnesota A,History,American History,Georgia,81,10
+404,9,7,Harvard A,Mazin Omer,Minnesota A,Beliefs and Other,Current Events,pharmaceuticals,102,10
+404,9,8,Minnesota A,Shardul Rao,Harvard A,History,World History,Nguyễn dynasty,114,-5
+404,9,8,Harvard A,Arjun Nageswaran,Minnesota A,History,World History,Nguyễn dynasty,144,10
+404,9,9,Harvard A,Mazin Omer,Minnesota A,Science,Chemistry,binding,111,10
+404,9,10,Harvard A,Mazin Omer,Minnesota A,Literature,European Literature,Caucasus Mountains,88,10
 410,NA,1,Chicago C,Henry Cafaro,Penn State,NA,NA,NA,134,10
 410,NA,2,Chicago C,Robert Condron,Penn State,NA,NA,NA,126,10
 410,NA,3,Penn State A,Ani Perumalla,Penn State,NA,NA,NA,121,-5

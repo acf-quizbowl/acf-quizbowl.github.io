@@ -116,60 +116,60 @@ game_id,round,bonus,team,opponent,category,subcategory,part,answer,diff,value
 2,9,20,Cornell A,North Carolina A,History,World History,part1,Free France,e,10
 2,9,20,Cornell A,North Carolina A,History,World History,part2,Brazzaville,m,10
 2,9,20,Cornell A,North Carolina A,History,World History,part3,évolué,h,0
-3,9,1,Cornell B,Brown A,Literature,World Literature,part1,The Time Regulation Institute,h,0
-3,9,1,Cornell B,Brown A,Literature,World Literature,part2,Ismail Kadare,m,10
-3,9,1,Cornell B,Brown A,Literature,World Literature,part3,Ottoman Empire,e,0
-3,9,2,Cornell B,Brown A,Thought,Philosophy,part1,Marilyn McCord Adams,h,0
-3,9,2,Cornell B,Brown A,Thought,Philosophy,part2,William of Ockham,e,0
-3,9,2,Cornell B,Brown A,Thought,Philosophy,part3,divine command theory,m,10
-3,9,3,Cornell B,Brown A,Arts,Classical Music,part1,John Dowland,m,0
-3,9,3,Cornell B,Brown A,Arts,Classical Music,part2,Georg Philipp Telemann,e,10
-3,9,3,Cornell B,Brown A,Arts,Classical Music,part3,Michael Praetorius,h,0
-3,9,4,Brown A,Cornell B,Science,Chemistry,part1,moiré  superlattice,h,10
-3,9,4,Brown A,Cornell B,Science,Chemistry,part2,hexagonal boron nitride,m,10
-3,9,4,Brown A,Cornell B,Science,Chemistry,part3,Raman spectroscopy,e,0
-3,9,5,Brown A,Cornell B,History,American History,part1,Columbia,e,0
-3,9,5,Brown A,Cornell B,History,American History,part2,travel guide,h,10
-3,9,5,Brown A,Cornell B,History,American History,part3,Charles Dana Gibson,m,10
-3,9,6,Brown A,Cornell B,Beliefs and Other,Geography,part1,Louisiana,m,10
-3,9,6,Brown A,Cornell B,Beliefs and Other,Geography,part2,parishes,e,10
-3,9,6,Brown A,Cornell B,Beliefs and Other,Geography,part3,Whitney Plantation,h,0
-3,9,7,Cornell B,Brown A,Science,Biology,part1,hepatocytes,h,0
-3,9,7,Cornell B,Brown A,Science,Biology,part2,bile,e,0
-3,9,7,Cornell B,Brown A,Science,Biology,part3,multidrug resistant proteins,m,10
-3,9,8,Brown A,Cornell B,History,European History,part1,Tushino,h,0
-3,9,8,Brown A,Cornell B,History,European History,part2,Time of Troubles,e,0
-3,9,8,Brown A,Cornell B,History,European History,part3,bells,m,10
-3,9,9,Brown A,Cornell B,Beliefs and Other,Religion,part1,Israeli settlements in Palestine,m,0
-3,9,9,Brown A,Cornell B,Beliefs and Other,Religion,part2,Gush Emunim,h,0
-3,9,9,Brown A,Cornell B,Beliefs and Other,Religion,part3,Kabbalah,e,0
-3,9,10,Brown A,Cornell B,Literature,European Literature,part1,A True Story,m,10
-3,9,10,Brown A,Cornell B,Literature,European Literature,part2,mimes,h,0
-3,9,10,Brown A,Cornell B,Literature,European Literature,part3,Timon,e,10
-3,9,11,Brown A,Cornell B,Arts,Other Fine Arts,part1,Doric order,e,10
-3,9,11,Brown A,Cornell B,Arts,Other Fine Arts,part2,metopes,m,0
-3,9,11,Brown A,Cornell B,Arts,Other Fine Arts,part3,entablature,h,10
-3,9,12,Brown A,Cornell B,Science,Physics,part1,Enrico Fermi,h,0
-3,9,12,Brown A,Cornell B,Science,Physics,part2,Coulomb  force,e,10
-3,9,12,Brown A,Cornell B,Science,Physics,part3,transition rate,m,0
-3,9,13,Brown A,Cornell B,Literature,American Literature,part1,King Hedley II,m,10
-3,9,13,Brown A,Cornell B,Literature,American Literature,part2,August Wilson,e,10
-3,9,13,Brown A,Cornell B,Literature,American Literature,part3,Ed Bullins,h,0
-3,9,14,Cornell B,Brown A,History,Other History,part1,the Industrious Revolution,h,10
-3,9,14,Cornell B,Brown A,History,Other History,part2,Dutch Republic,e,0
-3,9,14,Cornell B,Brown A,History,Other History,part3,peat moss,m,0
-3,9,15,Brown A,Cornell B,Literature,British Literature,part1,Ian McEwan,h,10
-3,9,15,Brown A,Cornell B,Literature,British Literature,part2,W. Somerset Maugham,m,10
-3,9,15,Brown A,Cornell B,Literature,British Literature,part3,spy fiction,e,0
-3,9,16,Brown A,Cornell B,Arts,Painting/Sculpture,part1,Queen Victoria,e,10
-3,9,16,Brown A,Cornell B,Arts,Painting/Sculpture,part2,pearl necklace,h,0
-3,9,16,Brown A,Cornell B,Arts,Painting/Sculpture,part3,Napoleon III,m,10
-3,9,17,Brown A,Cornell B,Science,Other Science,part1,LASSO,h,0
-3,9,17,Brown A,Cornell B,Science,Other Science,part2,regularization methods,m,10
-3,9,17,Brown A,Cornell B,Science,Other Science,part3,zero,e,0
-3,9,18,Brown A,Cornell B,Thought,Social Science,part1,learning,e,10
-3,9,18,Brown A,Cornell B,Thought,Social Science,part2,James C. Scott,m,0
-3,9,18,Brown A,Cornell B,Thought,Social Science,part3,Karl Weick,h,10
+3,7,1,Cornell B,Brown A,Beliefs and Other,Mythology,part1,giants,e,0
+3,7,1,Cornell B,Brown A,Beliefs and Other,Mythology,part2,Aloadae,m,10
+3,7,1,Cornell B,Brown A,Beliefs and Other,Mythology,part3,Sámi,h,0
+3,7,2,Cornell B,Brown A,Literature,British Literature,part1,Fanny Burney,m,0
+3,7,2,Cornell B,Brown A,Literature,British Literature,part2,Fanny Kemble,h,0
+3,7,2,Cornell B,Brown A,Literature,British Literature,part3,Trollope,e,10
+3,7,3,Cornell B,Brown A,Thought,Philosophy,part1,Timaeus,m,0
+3,7,3,Cornell B,Brown A,Thought,Philosophy,part2,Plato,e,10
+3,7,3,Cornell B,Brown A,Thought,Philosophy,part3,world-soul,h,0
+3,7,4,Brown A,Cornell B,Arts,Other Fine Arts,part1,clogs,e,10
+3,7,4,Brown A,Cornell B,Arts,Other Fine Arts,part2,Morris dance,m,10
+3,7,4,Brown A,Cornell B,Arts,Other Fine Arts,part3,sean-nós,h,0
+3,7,5,Brown A,Cornell B,History,World History,part1,Israeli Air Force,h,0
+3,7,5,Brown A,Cornell B,History,World History,part2,Six-Day War,e,10
+3,7,5,Brown A,Cornell B,History,World History,part3,Osirak reactor,m,10
+3,7,6,Brown A,Cornell B,Literature,World Literature,part1,epic poetry,e,10
+3,7,6,Brown A,Cornell B,Literature,World Literature,part2,Parry–Lord hypothesis,m,10
+3,7,6,Brown A,Cornell B,Literature,World Literature,part3,utenzi,h,0
+3,7,7,Cornell B,Brown A,Science,Biology,part1,tumbling,m,0
+3,7,7,Cornell B,Brown A,Science,Biology,part2,CheY,h,0
+3,7,7,Cornell B,Brown A,Science,Biology,part3,random walk,e,10
+3,7,8,Brown A,Cornell B,Arts,Painting/Sculpture,part1,Vladimir Tretchikoff,h,0
+3,7,8,Brown A,Cornell B,Arts,Painting/Sculpture,part2,South Africa,m,0
+3,7,8,Brown A,Cornell B,Arts,Painting/Sculpture,part3,rain,e,10
+3,7,9,Brown A,Cornell B,Science,Physics,part1,recombination,m,0
+3,7,9,Brown A,Cornell B,Science,Physics,part2,LEDs,e,0
+3,7,9,Brown A,Cornell B,Science,Physics,part3,deep traps,h,0
+3,7,10,Brown A,Cornell B,History,Other History,part1,Thrace,m,10
+3,7,10,Brown A,Cornell B,History,Other History,part2,Iphicrates,h,0
+3,7,10,Brown A,Cornell B,History,Other History,part3,Philip II of Macedon,e,10
+3,7,11,Brown A,Cornell B,Beliefs and Other,Geography,part1,Gabon,m,10
+3,7,11,Brown A,Cornell B,Beliefs and Other,Geography,part2,Franceville Basin,h,0
+3,7,11,Brown A,Cornell B,Beliefs and Other,Geography,part3,hippopotamus,e,10
+3,7,12,Brown A,Cornell B,Science,Chemistry,part1,optimal location of the feed to a distillation column,h,0
+3,7,12,Brown A,Cornell B,Science,Chemistry,part2,volatility,e,10
+3,7,12,Brown A,Cornell B,Science,Chemistry,part3,law of conservation of mass,m,0
+3,7,13,Brown A,Cornell B,Beliefs and Other,Religion,part1,Kalmyks,m,10
+3,7,13,Brown A,Cornell B,Beliefs and Other,Religion,part2,Tibet,e,10
+3,7,13,Brown A,Cornell B,Beliefs and Other,Religion,part3,six,h,0
+3,7,14,Cornell B,Brown A,History,European History,part1,Joseph Goebbels,e,10
+3,7,14,Cornell B,Brown A,History,European History,part2,Christian X of Denmark,m,0
+3,7,14,Cornell B,Brown A,History,European History,part3,Seelow,h,0
+3,7,15,Brown A,Cornell B,Thought,Social Science,part1,Modern Standard Arabic,m,10
+3,7,15,Brown A,Cornell B,Thought,Social Science,part2,code-switching,e,10
+3,7,15,Brown A,Cornell B,Thought,Social Science,part3,Dārija,h,0
+3,7,16,Brown A,Cornell B,Literature,American Literature,part1,Chinatown,h,10
+3,7,16,Brown A,Cornell B,Literature,American Literature,part2,mambo,m,0
+3,7,16,Brown A,Cornell B,Literature,American Literature,part3,autobiography,e,10
+3,7,17,Brown A,Cornell B,History,American History,part1,Thomas Bladen,m,0
+3,7,17,Brown A,Cornell B,History,American History,part2,Iroquois Confederacy,e,10
+3,7,17,Brown A,Cornell B,History,American History,part3,"Lancaster, Pennsylvania",h,0
+3,7,18,Brown A,Cornell B,Arts,Classical Music,part1,ars nova,m,10
+3,7,18,Brown A,Cornell B,Arts,Classical Music,part2,Philippe de Vitry,h,0
+3,7,18,Brown A,Cornell B,Arts,Classical Music,part3,Mass,e,10
 4,11,1,Florida A,Chicago B,Beliefs and Other,Religion,part1,spirituality,h,0
 4,11,1,Florida A,Chicago B,Beliefs and Other,Religion,part2,religious experiences,e,10
 4,11,1,Florida A,Chicago B,Beliefs and Other,Religion,part3,Pierre Teilhard de Chardin,m,10
@@ -20645,63 +20645,63 @@ game_id,round,bonus,team,opponent,category,subcategory,part,answer,diff,value
 402,1,19,Florida B,Georgia Tech A,Science,Biology,part1,oxalate,m,0
 402,1,19,Florida B,Georgia Tech A,Science,Biology,part2,endoplasmic reticulum,e,10
 402,1,19,Florida B,Georgia Tech A,Science,Biology,part3,aluminum,h,10
-403,4,1,Harvard A,Maryland A,Literature,World Literature,part1,panthers,h,0
-403,4,1,Harvard A,Maryland A,Literature,World Literature,part2,Mexico,e,10
-403,4,1,Harvard A,Maryland A,Literature,World Literature,part3,Juan Rulfo,m,0
-403,4,2,Maryland A,Harvard A,Arts,Painting/Sculpture,part1,Alfred Barr’s diagram,h,0
-403,4,2,Maryland A,Harvard A,Arts,Painting/Sculpture,part2,Orphism,m,10
-403,4,2,Maryland A,Harvard A,Arts,Painting/Sculpture,part3,Russia,e,0
-403,4,3,Maryland A,Harvard A,Science,Chemistry,part1,aqua regia,e,0
-403,4,3,Maryland A,Harvard A,Science,Chemistry,part2,frits,h,10
-403,4,3,Maryland A,Harvard A,Science,Chemistry,part3,Birch reduction,m,0
-403,4,4,Maryland A,Harvard A,Beliefs and Other,Religion,part1,Abū Hurayra,h,0
-403,4,4,Maryland A,Harvard A,Beliefs and Other,Religion,part2,Ā’isha,e,10
-403,4,4,Maryland A,Harvard A,Beliefs and Other,Religion,part3,prostration to their husbands,m,10
-403,4,5,Harvard A,Maryland A,History,American History,part1,Puerto Rican,m,0
-403,4,5,Harvard A,Maryland A,History,American History,part2,Garbage Offensive,h,0
-403,4,5,Harvard A,Maryland A,History,American History,part3,Black Panther Party,e,10
-403,4,6,Maryland A,Harvard A,Science,Physics,part1,Foucault,m,10
-403,4,6,Maryland A,Harvard A,Science,Physics,part2,Coriolis force,e,0
-403,4,6,Maryland A,Harvard A,Science,Physics,part3,parallel transport,h,0
-403,4,7,Harvard A,Maryland A,Thought,Social Science,part1,Yerkes–Dodson law,m,0
-403,4,7,Harvard A,Maryland A,Thought,Social Science,part2,J. A. Easterbrook,h,0
-403,4,7,Harvard A,Maryland A,Thought,Social Science,part3,flow state,e,10
-403,4,8,Maryland A,Harvard A,Literature,American Literature,part1,Master Class,h,10
-403,4,8,Maryland A,Harvard A,Literature,American Literature,part2,Terrence McNally,m,10
-403,4,8,Maryland A,Harvard A,Literature,American Literature,part3,AIDS,e,0
-403,4,9,Harvard A,Maryland A,Beliefs and Other,Geography,part1,rượu đế,h,10
-403,4,9,Harvard A,Maryland A,Beliefs and Other,Geography,part2,Mekong River,e,0
-403,4,9,Harvard A,Maryland A,Beliefs and Other,Geography,part3,Taipei,m,10
-404,7,1,Harvard A,Minnesota A,Beliefs and Other,Mythology,part1,giants,e,0
-404,7,1,Harvard A,Minnesota A,Beliefs and Other,Mythology,part2,Aloadae,m,0
-404,7,1,Harvard A,Minnesota A,Beliefs and Other,Mythology,part3,Sámi,h,10
-404,7,2,Minnesota A,Harvard A,Literature,British Literature,part1,Fanny Burney,m,0
-404,7,2,Minnesota A,Harvard A,Literature,British Literature,part2,Fanny Kemble,h,10
-404,7,2,Minnesota A,Harvard A,Literature,British Literature,part3,Trollope,e,10
-404,7,3,Minnesota A,Harvard A,Thought,Philosophy,part1,Timaeus,m,0
-404,7,3,Minnesota A,Harvard A,Thought,Philosophy,part2,Plato,e,10
-404,7,3,Minnesota A,Harvard A,Thought,Philosophy,part3,world-soul,h,10
-404,7,4,Harvard A,Minnesota A,Arts,Other Fine Arts,part1,clogs,e,0
-404,7,4,Harvard A,Minnesota A,Arts,Other Fine Arts,part2,Morris dance,m,0
-404,7,4,Harvard A,Minnesota A,Arts,Other Fine Arts,part3,sean-nós,h,10
-404,7,5,Minnesota A,Harvard A,History,World History,part1,Israeli Air Force,h,0
-404,7,5,Minnesota A,Harvard A,History,World History,part2,Six-Day War,e,0
-404,7,5,Minnesota A,Harvard A,History,World History,part3,Osirak reactor,m,10
-404,7,6,Harvard A,Minnesota A,Literature,World Literature,part1,epic poetry,e,10
-404,7,6,Harvard A,Minnesota A,Literature,World Literature,part2,Parry–Lord hypothesis,m,10
-404,7,6,Harvard A,Minnesota A,Literature,World Literature,part3,utenzi,h,0
-404,7,7,Harvard A,Minnesota A,Science,Biology,part1,tumbling,m,0
-404,7,7,Harvard A,Minnesota A,Science,Biology,part2,CheY,h,10
-404,7,7,Harvard A,Minnesota A,Science,Biology,part3,random walk,e,0
-404,7,8,Harvard A,Minnesota A,Arts,Painting/Sculpture,part1,Vladimir Tretchikoff,h,0
-404,7,8,Harvard A,Minnesota A,Arts,Painting/Sculpture,part2,South Africa,m,10
-404,7,8,Harvard A,Minnesota A,Arts,Painting/Sculpture,part3,rain,e,0
-404,7,9,Harvard A,Minnesota A,Science,Physics,part1,recombination,m,0
-404,7,9,Harvard A,Minnesota A,Science,Physics,part2,LEDs,e,0
-404,7,9,Harvard A,Minnesota A,Science,Physics,part3,deep traps,h,0
-404,7,10,Harvard A,Minnesota A,History,Other History,part1,Thrace,m,0
-404,7,10,Harvard A,Minnesota A,History,Other History,part2,Iphicrates,h,0
-404,7,10,Harvard A,Minnesota A,History,Other History,part3,Philip II of Macedon,e,10
+403,9,1,Harvard A,Maryland A,Literature,World Literature,part1,The Time Regulation Institute,h,0
+403,9,1,Harvard A,Maryland A,Literature,World Literature,part2,Ismail Kadare,m,10
+403,9,1,Harvard A,Maryland A,Literature,World Literature,part3,Ottoman Empire,e,0
+403,9,2,Maryland A,Harvard A,Thought,Philosophy,part1,Marilyn McCord Adams,h,0
+403,9,2,Maryland A,Harvard A,Thought,Philosophy,part2,William of Ockham,e,10
+403,9,2,Maryland A,Harvard A,Thought,Philosophy,part3,divine command theory,m,0
+403,9,3,Maryland A,Harvard A,Arts,Classical Music,part1,John Dowland,m,0
+403,9,3,Maryland A,Harvard A,Arts,Classical Music,part2,Georg Philipp Telemann,e,10
+403,9,3,Maryland A,Harvard A,Arts,Classical Music,part3,Michael Praetorius,h,0
+403,9,4,Maryland A,Harvard A,Science,Chemistry,part1,moiré  superlattice,h,0
+403,9,4,Maryland A,Harvard A,Science,Chemistry,part2,hexagonal boron nitride,m,10
+403,9,4,Maryland A,Harvard A,Science,Chemistry,part3,Raman spectroscopy,e,10
+403,9,5,Harvard A,Maryland A,History,American History,part1,Columbia,e,0
+403,9,5,Harvard A,Maryland A,History,American History,part2,travel guide,h,0
+403,9,5,Harvard A,Maryland A,History,American History,part3,Charles Dana Gibson,m,10
+403,9,6,Maryland A,Harvard A,Beliefs and Other,Geography,part1,Louisiana,m,10
+403,9,6,Maryland A,Harvard A,Beliefs and Other,Geography,part2,parishes,e,0
+403,9,6,Maryland A,Harvard A,Beliefs and Other,Geography,part3,Whitney Plantation,h,0
+403,9,7,Harvard A,Maryland A,Science,Biology,part1,hepatocytes,h,0
+403,9,7,Harvard A,Maryland A,Science,Biology,part2,bile,e,0
+403,9,7,Harvard A,Maryland A,Science,Biology,part3,multidrug resistant proteins,m,10
+403,9,8,Maryland A,Harvard A,History,European History,part1,Tushino,h,10
+403,9,8,Maryland A,Harvard A,History,European History,part2,Time of Troubles,e,10
+403,9,8,Maryland A,Harvard A,History,European History,part3,bells,m,0
+403,9,9,Harvard A,Maryland A,Beliefs and Other,Religion,part1,Israeli settlements in Palestine,m,10
+403,9,9,Harvard A,Maryland A,Beliefs and Other,Religion,part2,Gush Emunim,h,0
+403,9,9,Harvard A,Maryland A,Beliefs and Other,Religion,part3,Kabbalah,e,10
+404,9,1,Harvard A,Minnesota A,Literature,World Literature,part1,The Time Regulation Institute,h,0
+404,9,1,Harvard A,Minnesota A,Literature,World Literature,part2,Ismail Kadare,m,0
+404,9,1,Harvard A,Minnesota A,Literature,World Literature,part3,Ottoman Empire,e,10
+404,9,2,Minnesota A,Harvard A,Thought,Philosophy,part1,Marilyn McCord Adams,h,0
+404,9,2,Minnesota A,Harvard A,Thought,Philosophy,part2,William of Ockham,e,10
+404,9,2,Minnesota A,Harvard A,Thought,Philosophy,part3,divine command theory,m,10
+404,9,3,Minnesota A,Harvard A,Arts,Classical Music,part1,John Dowland,m,0
+404,9,3,Minnesota A,Harvard A,Arts,Classical Music,part2,Georg Philipp Telemann,e,10
+404,9,3,Minnesota A,Harvard A,Arts,Classical Music,part3,Michael Praetorius,h,10
+404,9,4,Harvard A,Minnesota A,Science,Chemistry,part1,moiré  superlattice,h,0
+404,9,4,Harvard A,Minnesota A,Science,Chemistry,part2,hexagonal boron nitride,m,0
+404,9,4,Harvard A,Minnesota A,Science,Chemistry,part3,Raman spectroscopy,e,10
+404,9,5,Minnesota A,Harvard A,History,American History,part1,Columbia,e,0
+404,9,5,Minnesota A,Harvard A,History,American History,part2,travel guide,h,0
+404,9,5,Minnesota A,Harvard A,History,American History,part3,Charles Dana Gibson,m,10
+404,9,6,Harvard A,Minnesota A,Beliefs and Other,Geography,part1,Louisiana,m,10
+404,9,6,Harvard A,Minnesota A,Beliefs and Other,Geography,part2,parishes,e,10
+404,9,6,Harvard A,Minnesota A,Beliefs and Other,Geography,part3,Whitney Plantation,h,0
+404,9,7,Harvard A,Minnesota A,Science,Biology,part1,hepatocytes,h,0
+404,9,7,Harvard A,Minnesota A,Science,Biology,part2,bile,e,10
+404,9,7,Harvard A,Minnesota A,Science,Biology,part3,multidrug resistant proteins,m,0
+404,9,8,Harvard A,Minnesota A,History,European History,part1,Tushino,h,0
+404,9,8,Harvard A,Minnesota A,History,European History,part2,Time of Troubles,e,10
+404,9,8,Harvard A,Minnesota A,History,European History,part3,bells,m,0
+404,9,9,Harvard A,Minnesota A,Beliefs and Other,Religion,part1,Israeli settlements in Palestine,m,0
+404,9,9,Harvard A,Minnesota A,Beliefs and Other,Religion,part2,Gush Emunim,h,0
+404,9,9,Harvard A,Minnesota A,Beliefs and Other,Religion,part3,Kabbalah,e,0
+404,9,10,Harvard A,Minnesota A,Literature,European Literature,part1,A True Story,m,0
+404,9,10,Harvard A,Minnesota A,Literature,European Literature,part2,mimes,h,0
+404,9,10,Harvard A,Minnesota A,Literature,European Literature,part3,Timon,e,10
 405,14,1,Penn A,WUSTL B,Beliefs and Other,Mythology,part1,Westcar Papyrus,h,0
 405,14,1,Penn A,WUSTL B,Beliefs and Other,Mythology,part2,Nile crocodiles,e,10
 405,14,1,Penn A,WUSTL B,Beliefs and Other,Mythology,part3,nets,m,10
@@ -20972,33 +20972,33 @@ game_id,round,bonus,team,opponent,category,subcategory,part,answer,diff,value
 410,1,2,Chicago C,Penn State A,Thought,Philosophy,part1,The Human Condition,m,0
 410,1,2,Chicago C,Penn State A,Thought,Philosophy,part2,Hannah Arendt,e,10
 410,1,2,Chicago C,Penn State A,Thought,Philosophy,part3,Rahel Varnhagen,h,0
-410,1,3,Penn State A,Chicago C,History,World History,part1,Battle of Bubat,h,0
-410,1,3,Penn State A,Chicago C,History,World History,part2,Java,e,0
-410,1,3,Penn State A,Chicago C,History,World History,part3,Gajah Mada,m,0
+410,1,3,Penn State A,Penn State A,History,World History,part1,Battle of Bubat,h,0
+410,1,3,Penn State A,Penn State A,History,World History,part2,Java,e,0
+410,1,3,Penn State A,Penn State A,History,World History,part3,Gajah Mada,m,0
 410,1,4,Chicago C,Penn State A,Literature,American Literature,part1,the white heron,m,0
 410,1,4,Chicago C,Penn State A,Literature,American Literature,part2,Harriet Beecher Stowe,e,10
 410,1,4,Chicago C,Penn State A,Literature,American Literature,part3,Mary Wilkins Freeman,h,0
-410,1,5,Penn State A,Chicago C,Arts,Classical Music,part1,Heinrich Schenker,m,10
-410,1,5,Penn State A,Chicago C,Arts,Classical Music,part2,Bright Sheng,h,0
-410,1,5,Penn State A,Chicago C,Arts,Classical Music,part3,Pulitzer Prize for Music,e,10
-410,1,6,Penn State A,Chicago C,Science,Physics,part1,Madelung  constant,m,0
-410,1,6,Penn State A,Chicago C,Science,Physics,part2,NaCl  structure,h,0
-410,1,6,Penn State A,Chicago C,Science,Physics,part3,diamond,e,10
-410,1,7,Penn State A,Chicago C,History,Other History,part1,The World of Late Antiquity,h,0
-410,1,7,Penn State A,Chicago C,History,Other History,part2,Edward Gibbon,e,10
-410,1,7,Penn State A,Chicago C,History,Other History,part3,Lucius Cassius Dio,m,0
-410,1,8,Penn State A,Chicago C,Science,Other Science,part1,HVAC  systems,e,10
-410,1,8,Penn State A,Chicago C,Science,Other Science,part2,load,h,0
-410,1,8,Penn State A,Chicago C,Science,Other Science,part3,psychrometric charts,m,10
+410,1,5,Penn State A,Penn State A,Arts,Classical Music,part1,Heinrich Schenker,m,10
+410,1,5,Penn State A,Penn State A,Arts,Classical Music,part2,Bright Sheng,h,0
+410,1,5,Penn State A,Penn State A,Arts,Classical Music,part3,Pulitzer Prize for Music,e,10
+410,1,6,Penn State A,Penn State A,Science,Physics,part1,Madelung  constant,m,0
+410,1,6,Penn State A,Penn State A,Science,Physics,part2,NaCl  structure,h,0
+410,1,6,Penn State A,Penn State A,Science,Physics,part3,diamond,e,10
+410,1,7,Penn State A,Penn State A,History,Other History,part1,The World of Late Antiquity,h,0
+410,1,7,Penn State A,Penn State A,History,Other History,part2,Edward Gibbon,e,10
+410,1,7,Penn State A,Penn State A,History,Other History,part3,Lucius Cassius Dio,m,0
+410,1,8,Penn State A,Penn State A,Science,Other Science,part1,HVAC  systems,e,10
+410,1,8,Penn State A,Penn State A,Science,Other Science,part2,load,h,0
+410,1,8,Penn State A,Penn State A,Science,Other Science,part3,psychrometric charts,m,10
 410,1,9,Chicago C,Penn State A,Arts,Other Fine Arts,part1,Jeanne Dielman,m,10
 410,1,9,Chicago C,Penn State A,Arts,Other Fine Arts,part2,Vertigo,e,10
 410,1,9,Chicago C,Penn State A,Arts,Other Fine Arts,part3,home,h,0
-410,1,10,Penn State A,Chicago C,Beliefs and Other,Religion,part1,Carl Jung,e,10
-410,1,10,Penn State A,Chicago C,Beliefs and Other,Religion,part2,Elaine Pagels,m,0
-410,1,10,Penn State A,Chicago C,Beliefs and Other,Religion,part3,Eric Voegelin,h,0
-410,1,11,Penn State A,Chicago C,Beliefs and Other,Current Events,part1,fentanyl,e,10
-410,1,11,Penn State A,Chicago C,Beliefs and Other,Current Events,part2,supervised injection sites,m,10
-410,1,11,Penn State A,Chicago C,Beliefs and Other,Current Events,part3,Milwaukee,h,0
+410,1,10,Penn State A,Penn State A,Beliefs and Other,Religion,part1,Carl Jung,e,10
+410,1,10,Penn State A,Penn State A,Beliefs and Other,Religion,part2,Elaine Pagels,m,0
+410,1,10,Penn State A,Penn State A,Beliefs and Other,Religion,part3,Eric Voegelin,h,0
+410,1,11,Penn State A,Penn State A,Beliefs and Other,Current Events,part1,fentanyl,e,10
+410,1,11,Penn State A,Penn State A,Beliefs and Other,Current Events,part2,supervised injection sites,m,10
+410,1,11,Penn State A,Penn State A,Beliefs and Other,Current Events,part3,Milwaukee,h,0
 410,1,12,Chicago C,Penn State A,Literature,World Literature,part1,Buru Quartet,h,0
 410,1,12,Chicago C,Penn State A,Literature,World Literature,part2,José Rizal,m,0
 410,1,12,Chicago C,Penn State A,Literature,World Literature,part3,execution by firing squad,e,10
@@ -21233,63 +21233,63 @@ game_id,round,bonus,team,opponent,category,subcategory,part,answer,diff,value
 414,4,20,Maryland A,Harvard A,Science,Biology,part1,spatial transcriptomics,h,0
 414,4,20,Maryland A,Harvard A,Science,Biology,part2,fluorescent in situ hybridization,m,0
 414,4,20,Maryland A,Harvard A,Science,Biology,part3,hypothalamus,e,0
-415,9,1,Maryland A,Florida A,Literature,World Literature,part1,The Time Regulation Institute,h,0
-415,9,1,Maryland A,Florida A,Literature,World Literature,part2,Ismail Kadare,m,10
-415,9,1,Maryland A,Florida A,Literature,World Literature,part3,Ottoman Empire,e,10
-415,9,2,Maryland A,Florida A,Thought,Philosophy,part1,Marilyn McCord Adams,h,0
-415,9,2,Maryland A,Florida A,Thought,Philosophy,part2,William of Ockham,e,10
-415,9,2,Maryland A,Florida A,Thought,Philosophy,part3,divine command theory,m,0
-415,9,3,Maryland A,Florida A,Arts,Classical Music,part1,John Dowland,m,0
-415,9,3,Maryland A,Florida A,Arts,Classical Music,part2,Georg Philipp Telemann,e,10
-415,9,3,Maryland A,Florida A,Arts,Classical Music,part3,Michael Praetorius,h,10
-415,9,4,Maryland A,Florida A,Science,Chemistry,part1,moiré  superlattice,h,10
-415,9,4,Maryland A,Florida A,Science,Chemistry,part2,hexagonal boron nitride,m,10
-415,9,4,Maryland A,Florida A,Science,Chemistry,part3,Raman spectroscopy,e,10
-415,9,5,Florida A,Maryland A,History,American History,part1,Columbia,e,0
-415,9,5,Florida A,Maryland A,History,American History,part2,travel guide,h,0
-415,9,5,Florida A,Maryland A,History,American History,part3,Charles Dana Gibson,m,10
-415,9,6,Maryland A,Florida A,Beliefs and Other,Geography,part1,Louisiana,m,0
-415,9,6,Maryland A,Florida A,Beliefs and Other,Geography,part2,parishes,e,0
-415,9,6,Maryland A,Florida A,Beliefs and Other,Geography,part3,Whitney Plantation,h,10
-415,9,7,Florida A,Maryland A,Science,Biology,part1,hepatocytes,h,10
-415,9,7,Florida A,Maryland A,Science,Biology,part2,bile,e,0
-415,9,7,Florida A,Maryland A,Science,Biology,part3,multidrug resistant proteins,m,10
-415,9,8,Florida A,Maryland A,History,European History,part1,Tushino,h,0
-415,9,8,Florida A,Maryland A,History,European History,part2,Time of Troubles,e,10
-415,9,8,Florida A,Maryland A,History,European History,part3,bells,m,0
-415,9,9,Maryland A,Florida A,Beliefs and Other,Religion,part1,Israeli settlements in Palestine,m,0
-415,9,9,Maryland A,Florida A,Beliefs and Other,Religion,part2,Gush Emunim,h,10
-415,9,9,Maryland A,Florida A,Beliefs and Other,Religion,part3,Kabbalah,e,0
-415,9,10,Florida A,Maryland A,Literature,European Literature,part1,A True Story,m,0
-415,9,10,Florida A,Maryland A,Literature,European Literature,part2,mimes,h,10
-415,9,10,Florida A,Maryland A,Literature,European Literature,part3,Timon,e,0
-415,9,11,Florida A,Maryland A,Arts,Other Fine Arts,part1,Doric order,e,10
-415,9,11,Florida A,Maryland A,Arts,Other Fine Arts,part2,metopes,m,0
-415,9,11,Florida A,Maryland A,Arts,Other Fine Arts,part3,entablature,h,10
-415,9,12,Florida A,Maryland A,Science,Physics,part1,Enrico Fermi,h,0
-415,9,12,Florida A,Maryland A,Science,Physics,part2,Coulomb  force,e,0
-415,9,12,Florida A,Maryland A,Science,Physics,part3,transition rate,m,0
-415,9,13,Maryland A,Florida A,Literature,American Literature,part1,King Hedley II,m,10
-415,9,13,Maryland A,Florida A,Literature,American Literature,part2,August Wilson,e,10
-415,9,13,Maryland A,Florida A,Literature,American Literature,part3,Ed Bullins,h,0
-415,9,14,Maryland A,Florida A,History,Other History,part1,the Industrious Revolution,h,0
-415,9,14,Maryland A,Florida A,History,Other History,part2,Dutch Republic,e,10
-415,9,14,Maryland A,Florida A,History,Other History,part3,peat moss,m,10
-415,9,15,Florida A,Maryland A,Literature,British Literature,part1,Ian McEwan,h,10
-415,9,15,Florida A,Maryland A,Literature,British Literature,part2,W. Somerset Maugham,m,0
-415,9,15,Florida A,Maryland A,Literature,British Literature,part3,spy fiction,e,10
-415,9,16,Maryland A,Florida A,Arts,Painting/Sculpture,part1,Queen Victoria,e,0
-415,9,16,Maryland A,Florida A,Arts,Painting/Sculpture,part2,pearl necklace,h,0
-415,9,16,Maryland A,Florida A,Arts,Painting/Sculpture,part3,Napoleon III,m,0
-415,9,17,Maryland A,Florida A,Science,Other Science,part1,LASSO,h,10
-415,9,17,Maryland A,Florida A,Science,Other Science,part2,regularization methods,m,0
-415,9,17,Maryland A,Florida A,Science,Other Science,part3,zero,e,0
-415,9,18,Maryland A,Florida A,Thought,Social Science,part1,learning,e,0
-415,9,18,Maryland A,Florida A,Thought,Social Science,part2,James C. Scott,m,0
-415,9,18,Maryland A,Florida A,Thought,Social Science,part3,Karl Weick,h,10
-415,9,19,Maryland A,Florida A,Beliefs and Other,Mythology,part1,bronze,e,0
-415,9,19,Maryland A,Florida A,Beliefs and Other,Mythology,part2,four perils,h,0
-415,9,19,Maryland A,Florida A,Beliefs and Other,Mythology,part3,fènghuáng,m,10
+415,13,1,Maryland A,Florida A,Arts,Painting/Sculpture,part1,Saint Barbara,h,0
+415,13,1,Maryland A,Florida A,Arts,Painting/Sculpture,part2,Ghent,e,10
+415,13,1,Maryland A,Florida A,Arts,Painting/Sculpture,part3,Chancellor Rolin,m,10
+415,13,2,Maryland A,Florida A,Science,Chemistry,part1,time-of-flight mass analyzers,m,0
+415,13,2,Maryland A,Florida A,Science,Chemistry,part2,charge,e,10
+415,13,2,Maryland A,Florida A,Science,Chemistry,part3,atom probe tomography,h,0
+415,13,3,Maryland A,Florida A,Literature,British Literature,part1,Forsyte family,h,0
+415,13,3,Maryland A,Florida A,Literature,British Literature,part2,John Galsworthy,m,10
+415,13,3,Maryland A,Florida A,Literature,British Literature,part3,Joseph Conrad,e,10
+415,13,4,Maryland A,Florida A,Thought,Social Science,part1,Bullshit Jobs,h,10
+415,13,4,Maryland A,Florida A,Thought,Social Science,part2,David Graeber,m,10
+415,13,4,Maryland A,Florida A,Thought,Social Science,part3,anarchism,e,10
+415,13,5,Florida A,Maryland A,Science,Biology,part1,ecological restoration,m,0
+415,13,5,Florida A,Maryland A,Science,Biology,part2,priority effects,h,0
+415,13,5,Florida A,Maryland A,Science,Biology,part3,Lotka–Volterra competition model,e,10
+415,13,6,Maryland A,Florida A,History,Other History,part1,carnyx,h,0
+415,13,6,Maryland A,Florida A,History,Other History,part2,La Tène  culture,m,0
+415,13,6,Maryland A,Florida A,History,Other History,part3,bulls,e,10
+415,13,7,Florida A,Maryland A,Literature,European Literature,part1,Polish,m,10
+415,13,7,Florida A,Maryland A,Literature,European Literature,part2,Adam Zagajewski,h,0
+415,13,7,Florida A,Maryland A,Literature,European Literature,part3,Elizabeth Bishop,e,10
+415,13,8,Florida A,Maryland A,Beliefs and Other,Other Academic,part1,Reid technique,h,0
+415,13,8,Florida A,Maryland A,Beliefs and Other,Other Academic,part2,Central Park Five,e,10
+415,13,8,Florida A,Maryland A,Beliefs and Other,Other Academic,part3,August Vollmer,m,0
+415,13,9,Maryland A,Florida A,History,World History,part1,Mughal emperor,e,0
+415,13,9,Maryland A,Florida A,History,World History,part2,Rajputs,m,10
+415,13,9,Maryland A,Florida A,History,World History,part3,Rani Padmini,h,0
+415,13,10,Florida A,Maryland A,Beliefs and Other,Geography,part1,The Ukraine,h,0
+415,13,10,Florida A,Maryland A,Beliefs and Other,Geography,part2,lakes,e,10
+415,13,10,Florida A,Maryland A,Beliefs and Other,Geography,part3,Bashkirs,m,0
+415,13,11,Florida A,Maryland A,History,American History,part1,saloons,e,10
+415,13,11,Florida A,Maryland A,History,American History,part2,faro,h,0
+415,13,11,Florida A,Maryland A,History,American History,part3,John Bozeman,m,10
+415,13,12,Florida A,Maryland A,Science,Other Science,part1,HEPA  filter,e,0
+415,13,12,Florida A,Maryland A,Science,Other Science,part2,Corsi–Rosenthal box,h,0
+415,13,12,Florida A,Maryland A,Science,Other Science,part3,Irving Langmuir,m,0
+415,13,13,Maryland A,Florida A,Thought,Philosophy,part1,Fredric Jameson,m,10
+415,13,13,Maryland A,Florida A,Thought,Philosophy,part2,postmodernism,e,10
+415,13,13,Maryland A,Florida A,Thought,Philosophy,part3,Always historicize!,h,0
+415,13,14,Maryland A,Florida A,Arts,Other Fine Arts,part1,Issey Miyake,h,0
+415,13,14,Maryland A,Florida A,Arts,Other Fine Arts,part2,Grace Jones,m,10
+415,13,14,Maryland A,Florida A,Arts,Other Fine Arts,part3,kimono,e,10
+415,13,15,Florida A,Maryland A,Science,Physics,part1,incompressible fluids,m,10
+415,13,15,Florida A,Maryland A,Science,Physics,part2,control volumes,h,0
+415,13,15,Florida A,Maryland A,Science,Physics,part3,mass density,e,10
+415,13,16,Maryland A,Florida A,Literature,World Literature,part1,the bush,e,0
+415,13,16,Maryland A,Florida A,Literature,World Literature,part2,Northrop Frye,m,0
+415,13,16,Maryland A,Florida A,Literature,World Literature,part3,Susanna Moodie,h,0
+415,13,17,Maryland A,Florida A,History,European History,part1,the Caribbean,e,10
+415,13,17,Maryland A,Florida A,History,European History,part2,Hugh Gaitskell,h,0
+415,13,17,Maryland A,Florida A,History,European History,part3,Notting Hill,m,0
+415,13,18,Maryland A,Florida A,Beliefs and Other,Religion,part1,ar-Rahman and ar-Rahim,m,0
+415,13,18,Maryland A,Florida A,Beliefs and Other,Religion,part2,Ibn ʿArabī,h,0
+415,13,18,Maryland A,Florida A,Beliefs and Other,Religion,part3,queer,e,10
+415,13,19,Maryland A,Florida A,Arts,Classical Music,part1,Alfred Schnittke,h,0
+415,13,19,Maryland A,Florida A,Arts,Classical Music,part2,Joseph Haydn AND Wolfgang Amadeus Mozart,e,0
+415,13,19,Maryland A,Florida A,Arts,Classical Music,part3,"Sergei Prokofiev’s Symphony no. 1 in D major, op. 25",m,10
 416,8,1,UC Berkeley B,McGill A,Literature,American Literature,part1,Egypt,m,0
 416,8,1,UC Berkeley B,McGill A,Literature,American Literature,part2,Edna St. Vincent Millay,e,10
 416,8,1,UC Berkeley B,McGill A,Literature,American Literature,part3,The Book of the Dead,h,0
