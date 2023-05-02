@@ -455,25 +455,25 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 403,1,19,Georgia Tech A,Hari Parameswaran,Florida B,Beliefs and Other,Geography,Mauritius,146,10
 403,1,20,Georgia Tech A,Arya Karthik,Florida B,Science,Other Science,cardinal numbers,64,-5
 403,1,20,Florida B,Jeya Iyadurai,Georgia Tech A,Science,Other Science,cardinal numbers,141,10
-411,1,1,Chicago C,Henry Cafaro,Penn State A,History,European History,German university students,134,10
-411,1,2,Chicago C,Robert Condron,Penn State A,Science,Physics,gravitational lensing,126,10
-411,1,3,Penn State A,Ani Perumalla,Chicago C,Arts,Painting/Sculpture,Kara Walker,121,-5
-411,1,4,Penn State A,Alex Schmidt,Chicago C,History,American History,George Crook,82,10
-411,1,5,Chicago C,Robert Condron,Penn State A,Thought,Social Science,communication,133,10
-411,1,6,Penn State A,Alex Schmidt,Chicago C,Beliefs and Other,Mythology,having a strong scent,127,10
-411,1,7,Penn State A,Ani Perumalla,Chicago C,Literature,World Literature,Argentina,135,10
-411,1,8,Penn State A,Ted Gan,Chicago C,Science,Chemistry,carbon AND oxygen,129,10
-411,1,9,Penn State A,Ani Perumalla,Chicago C,Beliefs and Other,Religion,Parsis,126,10
-411,1,10,Chicago C,Robert Condron,Penn State A,Literature,European Literature,The School for Wives,158,10
-411,1,11,Penn State A,Ani Perumalla,Chicago C,History,Other History,Thessalonica,82,-5
-411,1,12,Penn State A,Alex Schmidt,Chicago C,Arts,Other Fine Arts,the Major-General,85,10
-411,1,13,Penn State A,Alex Schmidt,Chicago C,History,World History,Angola,102,10
-411,1,14,Chicago C,Robert Condron,Penn State A,Thought,Philosophy,Parmenides of Elea,145,10
-411,1,15,Penn State A,Ani Perumalla,Chicago C,Literature,American Literature,Suzan-Lori Parks,135,-5
-411,1,16,Chicago C,Robert Condron,Penn State A,Arts,Classical Music,Manfred Symphony,154,10
-411,1,17,Chicago C,Robert Condron,Penn State A,Science,Biology,psoriasis,128,10
-411,1,19,Chicago C,Dennis Reppen,Penn State A,Beliefs and Other,Geography,Mauritius,79,10
-411,1,20,Chicago C,Henry Cafaro,Penn State A,Science,Other Science,cardinal numbers,53,10
+412,1,1,Chicago C,Henry Cafaro,Penn State A,History,European History,German university students,134,10
+412,1,2,Chicago C,Robert Condron,Penn State A,Science,Physics,gravitational lensing,126,10
+412,1,3,Penn State A,Ani Perumalla,Chicago C,Arts,Painting/Sculpture,Kara Walker,121,-5
+412,1,4,Penn State A,Alex Schmidt,Chicago C,History,American History,George Crook,82,10
+412,1,5,Chicago C,Robert Condron,Penn State A,Thought,Social Science,communication,133,10
+412,1,6,Penn State A,Alex Schmidt,Chicago C,Beliefs and Other,Mythology,having a strong scent,127,10
+412,1,7,Penn State A,Ani Perumalla,Chicago C,Literature,World Literature,Argentina,135,10
+412,1,8,Penn State A,Ted Gan,Chicago C,Science,Chemistry,carbon AND oxygen,129,10
+412,1,9,Penn State A,Ani Perumalla,Chicago C,Beliefs and Other,Religion,Parsis,126,10
+412,1,10,Chicago C,Robert Condron,Penn State A,Literature,European Literature,The School for Wives,158,10
+412,1,11,Penn State A,Ani Perumalla,Chicago C,History,Other History,Thessalonica,82,-5
+412,1,12,Penn State A,Alex Schmidt,Chicago C,Arts,Other Fine Arts,the Major-General,85,10
+412,1,13,Penn State A,Alex Schmidt,Chicago C,History,World History,Angola,102,10
+412,1,14,Chicago C,Robert Condron,Penn State A,Thought,Philosophy,Parmenides of Elea,145,10
+412,1,15,Penn State A,Ani Perumalla,Chicago C,Literature,American Literature,Suzan-Lori Parks,135,-5
+412,1,16,Chicago C,Robert Condron,Penn State A,Arts,Classical Music,Manfred Symphony,154,10
+412,1,17,Chicago C,Robert Condron,Penn State A,Science,Biology,psoriasis,128,10
+412,1,19,Chicago C,Dennis Reppen,Penn State A,Beliefs and Other,Geography,Mauritius,79,10
+412,1,20,Chicago C,Henry Cafaro,Penn State A,Science,Other Science,cardinal numbers,53,10
 7,10,1,Chicago C,Robert Condron,Minnesota A,Thought,Philosophy,Georg Wilhelm Friedrich Hegel,119,10
 7,10,2,Minnesota A,Maxwell Ye,Chicago C,Literature,American Literature,Sula Peace,94,10
 7,10,3,Chicago C,Connor Blake,Minnesota A,Science,Other Science,aquifers,105,10
@@ -994,81 +994,81 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 401,10,19,Georgia Tech A,Hari Parameswaran,Cornell A,History,Other History,al-Andalus,85,10
 401,10,20,Georgia Tech A,Matt Bollinger,Cornell A,Literature,European Literature,Pindar,83,-5
 401,10,20,Cornell A,Nathan Zhang,Georgia Tech A,Literature,European Literature,Pindar,151,10
-409,10,1,WUSTL B,Vedul Palavajjhala,Yale B,Thought,Philosophy,Georg Wilhelm Friedrich Hegel,120,10
-409,10,2,Yale B,Karsten Rynearson,WUSTL B,Literature,American Literature,Sula Peace,78,10
-409,10,3,WUSTL B,June Yin,Yale B,Science,Other Science,aquifers,79,-5
-409,10,3,Yale B,Matthew Siff,WUSTL B,Science,Other Science,aquifers,136,10
-409,10,4,Yale B,Matthew Siff,WUSTL B,Arts,Painting/Sculpture,Tower of Babel,148,10
-409,10,5,WUSTL B,Vedul Palavajjhala,Yale B,Beliefs and Other,Mythology,Rostam,136,10
-409,10,6,Yale B,Karsten Rynearson,WUSTL B,Science,Biology,skin color change,119,-5
-409,10,6,WUSTL B,Vedul Palavajjhala,Yale B,Science,Biology,skin color change,136,10
-409,10,7,Yale B,Matthew Siff,WUSTL B,History,American History,Title IX,123,10
-409,10,8,WUSTL B,Vedul Palavajjhala,Yale B,Arts,Other Fine Arts,Marcel Duchamp,98,-5
-409,10,8,Yale B,Karsten Rynearson,WUSTL B,Arts,Other Fine Arts,Marcel Duchamp,142,10
-409,10,9,WUSTL B,Vedul Palavajjhala,Yale B,Literature,British Literature,debtors’ prisons,126,-5
-409,10,9,Yale B,Karsten Rynearson,WUSTL B,Literature,British Literature,debtors’ prisons,152,0
-409,10,10,Yale B,Frederick Rivas-Giorgi,WUSTL B,History,World History,Guatemala,53,10
-409,10,11,WUSTL B,Vedul Palavajjhala,Yale B,Thought,Social Science,accusative case,100,10
-409,10,12,Yale B,Frederick Rivas-Giorgi,WUSTL B,Science,Chemistry,oxidations,108,10
-409,10,13,WUSTL B,Vedul Palavajjhala,Yale B,Arts,Classical Music,Jean Sibelius,143,10
-409,10,14,Yale B,Matthew Siff,WUSTL B,Science,Physics,spin–statistics theorem,75,10
-409,10,15,Yale B,Karsten Rynearson,WUSTL B,History,European History,Joséphine Bonaparte,128,-5
-409,10,15,WUSTL B,Neal Joshi,Yale B,History,European History,Joséphine Bonaparte,147,10
-409,10,16,WUSTL B,Vedul Palavajjhala,Yale B,Literature,World Literature,Urdu,116,-5
-409,10,16,Yale B,Frederick Rivas-Giorgi,WUSTL B,Literature,World Literature,Urdu,151,10
-409,10,17,Yale B,Matthew Siff,WUSTL B,Beliefs and Other,Religion,Book of Joel,150,10
-409,10,18,Yale B,Alan Xie,WUSTL B,Beliefs and Other,Current Events,Russia,86,10
-409,10,19,Yale B,Frederick Rivas-Giorgi,WUSTL B,History,Other History,al-Andalus,107,10
-409,10,20,WUSTL B,Vedul Palavajjhala,Yale B,Literature,European Literature,Pindar,134,10
-410,10,1,Brown A,Anson Berns,Chicago B,Thought,Philosophy,Georg Wilhelm Friedrich Hegel,103,10
-410,10,2,Chicago B,Amogh Kulkarni,Brown A,Literature,American Literature,Sula Peace,124,10
-410,10,3,Brown A,Jason Hong,Chicago B,Science,Other Science,aquifers,109,10
-410,10,4,Chicago B,John Marvin,Brown A,Arts,Painting/Sculpture,Tower of Babel,116,10
-410,10,5,Chicago B,Amogh Kulkarni,Brown A,Beliefs and Other,Mythology,Rostam,70,10
-410,10,6,Chicago B,John Marvin,Brown A,Science,Biology,skin color change,113,10
-410,10,7,Chicago B,Vivek Sasse,Brown A,History,American History,Title IX,87,10
-410,10,8,Chicago B,John Marvin,Brown A,Arts,Other Fine Arts,Marcel Duchamp,137,10
-410,10,9,Brown A,Anson Berns,Chicago B,Literature,British Literature,debtors’ prisons,122,10
-410,10,10,Brown A,Jason Hong,Chicago B,History,World History,Guatemala,108,-5
-410,10,10,Chicago B,Amogh Kulkarni,Brown A,History,World History,Guatemala,141,10
-410,10,11,Chicago B,John Marvin,Brown A,Thought,Social Science,accusative case,72,10
-410,10,12,Brown A,Jason Hong,Chicago B,Science,Chemistry,oxidations,82,10
-410,10,13,Brown A,Jason Hong,Chicago B,Arts,Classical Music,Jean Sibelius,83,10
-410,10,14,Chicago B,Vivek Sasse,Brown A,Science,Physics,spin–statistics theorem,64,10
-410,10,15,Brown A,Jason Hong,Chicago B,History,European History,Joséphine Bonaparte,133,10
-410,10,16,Brown A,Jason Hong,Chicago B,Literature,World Literature,Urdu,137,10
-410,10,17,Chicago B,Amogh Kulkarni,Brown A,Beliefs and Other,Religion,Book of Joel,150,0
-410,10,17,Brown A,Anson Berns,Chicago B,Beliefs and Other,Religion,Book of Joel,150,0
-410,10,18,Brown A,Anson Berns,Chicago B,Beliefs and Other,Current Events,Russia,100,-5
-410,10,18,Chicago B,Vivek Sasse,Brown A,Beliefs and Other,Current Events,Russia,128,10
-410,10,19,Brown A,Jason Hong,Chicago B,History,Other History,al-Andalus,64,-5
-410,10,19,Chicago B,John Marvin,Brown A,History,Other History,al-Andalus,146,0
-410,10,20,Chicago B,Amogh Kulkarni,Brown A,Literature,European Literature,Pindar,142,10
-414,10,1,Maryland A,Caleb Kendrick,Duke A,Thought,Philosophy,Georg Wilhelm Friedrich Hegel,108,10
-414,10,2,Maryland A,Caleb Kendrick,Duke A,Literature,American Literature,Sula Peace,92,-5
-414,10,2,Duke A,Jerry Lin,Maryland A,Literature,American Literature,Sula Peace,147,10
-414,10,3,Duke A,Jerry Lin,Maryland A,Science,Other Science,aquifers,108,10
-414,10,4,Maryland A,Stevie Miller,Duke A,Arts,Painting/Sculpture,Tower of Babel,129,10
-414,10,5,Duke A,Ashish Subramanian,Maryland A,Beliefs and Other,Mythology,Rostam,116,10
-414,10,6,Duke A,Simon Gorbaty,Maryland A,Science,Biology,skin color change,117,-5
-414,10,6,Maryland A,Connor Mayers,Duke A,Science,Biology,skin color change,136,10
-414,10,7,Maryland A,Stevie Miller,Duke A,History,American History,Title IX,65,-5
-414,10,7,Duke A,Jacob Egol,Maryland A,History,American History,Title IX,137,10
-414,10,8,Maryland A,Isaac Mammel,Duke A,Arts,Other Fine Arts,Marcel Duchamp,102,10
-414,10,9,Duke A,Ashish Subramanian,Maryland A,Literature,British Literature,debtors’ prisons,124,10
-414,10,10,Duke A,Ashish Subramanian,Maryland A,History,World History,Guatemala,102,-5
-414,10,10,Maryland A,Stevie Miller,Duke A,History,World History,Guatemala,141,10
-414,10,11,Duke A,Ashish Subramanian,Maryland A,Thought,Social Science,accusative case,61,10
-414,10,12,Duke A,Jacob Egol,Maryland A,Science,Chemistry,oxidations,108,-5
-414,10,12,Maryland A,Caleb Kendrick,Duke A,Science,Chemistry,oxidations,120,10
-414,10,13,Duke A,Jacob Egol,Maryland A,Arts,Classical Music,Jean Sibelius,106,10
-414,10,14,Duke A,Simon Gorbaty,Maryland A,Science,Physics,spin–statistics theorem,150,10
-414,10,15,Maryland A,Stevie Miller,Duke A,History,European History,Joséphine Bonaparte,75,10
-414,10,16,Duke A,Ashish Subramanian,Maryland A,Literature,World Literature,Urdu,107,10
-414,10,17,Maryland A,Connor Mayers,Duke A,Beliefs and Other,Religion,Book of Joel,150,0
-414,10,17,Duke A,Ashish Subramanian,Maryland A,Beliefs and Other,Religion,Book of Joel,150,0
-414,10,18,Duke A,Jerry Lin,Maryland A,Beliefs and Other,Current Events,Russia,115,10
-414,10,20,Maryland A,Caleb Kendrick,Duke A,Literature,European Literature,Pindar,125,10
+410,10,1,WUSTL B,Vedul Palavajjhala,Yale B,Thought,Philosophy,Georg Wilhelm Friedrich Hegel,120,10
+410,10,2,Yale B,Karsten Rynearson,WUSTL B,Literature,American Literature,Sula Peace,78,10
+410,10,3,WUSTL B,June Yin,Yale B,Science,Other Science,aquifers,79,-5
+410,10,3,Yale B,Matthew Siff,WUSTL B,Science,Other Science,aquifers,136,10
+410,10,4,Yale B,Matthew Siff,WUSTL B,Arts,Painting/Sculpture,Tower of Babel,148,10
+410,10,5,WUSTL B,Vedul Palavajjhala,Yale B,Beliefs and Other,Mythology,Rostam,136,10
+410,10,6,Yale B,Karsten Rynearson,WUSTL B,Science,Biology,skin color change,119,-5
+410,10,6,WUSTL B,Vedul Palavajjhala,Yale B,Science,Biology,skin color change,136,10
+410,10,7,Yale B,Matthew Siff,WUSTL B,History,American History,Title IX,123,10
+410,10,8,WUSTL B,Vedul Palavajjhala,Yale B,Arts,Other Fine Arts,Marcel Duchamp,98,-5
+410,10,8,Yale B,Karsten Rynearson,WUSTL B,Arts,Other Fine Arts,Marcel Duchamp,142,10
+410,10,9,WUSTL B,Vedul Palavajjhala,Yale B,Literature,British Literature,debtors’ prisons,126,-5
+410,10,9,Yale B,Karsten Rynearson,WUSTL B,Literature,British Literature,debtors’ prisons,152,0
+410,10,10,Yale B,Frederick Rivas-Giorgi,WUSTL B,History,World History,Guatemala,53,10
+410,10,11,WUSTL B,Vedul Palavajjhala,Yale B,Thought,Social Science,accusative case,100,10
+410,10,12,Yale B,Frederick Rivas-Giorgi,WUSTL B,Science,Chemistry,oxidations,108,10
+410,10,13,WUSTL B,Vedul Palavajjhala,Yale B,Arts,Classical Music,Jean Sibelius,143,10
+410,10,14,Yale B,Matthew Siff,WUSTL B,Science,Physics,spin–statistics theorem,75,10
+410,10,15,Yale B,Karsten Rynearson,WUSTL B,History,European History,Joséphine Bonaparte,128,-5
+410,10,15,WUSTL B,Neal Joshi,Yale B,History,European History,Joséphine Bonaparte,147,10
+410,10,16,WUSTL B,Vedul Palavajjhala,Yale B,Literature,World Literature,Urdu,116,-5
+410,10,16,Yale B,Frederick Rivas-Giorgi,WUSTL B,Literature,World Literature,Urdu,151,10
+410,10,17,Yale B,Matthew Siff,WUSTL B,Beliefs and Other,Religion,Book of Joel,150,10
+410,10,18,Yale B,Alan Xie,WUSTL B,Beliefs and Other,Current Events,Russia,86,10
+410,10,19,Yale B,Frederick Rivas-Giorgi,WUSTL B,History,Other History,al-Andalus,107,10
+410,10,20,WUSTL B,Vedul Palavajjhala,Yale B,Literature,European Literature,Pindar,134,10
+411,10,1,Brown A,Anson Berns,Chicago B,Thought,Philosophy,Georg Wilhelm Friedrich Hegel,103,10
+411,10,2,Chicago B,Amogh Kulkarni,Brown A,Literature,American Literature,Sula Peace,124,10
+411,10,3,Brown A,Jason Hong,Chicago B,Science,Other Science,aquifers,109,10
+411,10,4,Chicago B,John Marvin,Brown A,Arts,Painting/Sculpture,Tower of Babel,116,10
+411,10,5,Chicago B,Amogh Kulkarni,Brown A,Beliefs and Other,Mythology,Rostam,70,10
+411,10,6,Chicago B,John Marvin,Brown A,Science,Biology,skin color change,113,10
+411,10,7,Chicago B,Vivek Sasse,Brown A,History,American History,Title IX,87,10
+411,10,8,Chicago B,John Marvin,Brown A,Arts,Other Fine Arts,Marcel Duchamp,137,10
+411,10,9,Brown A,Anson Berns,Chicago B,Literature,British Literature,debtors’ prisons,122,10
+411,10,10,Brown A,Jason Hong,Chicago B,History,World History,Guatemala,108,-5
+411,10,10,Chicago B,Amogh Kulkarni,Brown A,History,World History,Guatemala,141,10
+411,10,11,Chicago B,John Marvin,Brown A,Thought,Social Science,accusative case,72,10
+411,10,12,Brown A,Jason Hong,Chicago B,Science,Chemistry,oxidations,82,10
+411,10,13,Brown A,Jason Hong,Chicago B,Arts,Classical Music,Jean Sibelius,83,10
+411,10,14,Chicago B,Vivek Sasse,Brown A,Science,Physics,spin–statistics theorem,64,10
+411,10,15,Brown A,Jason Hong,Chicago B,History,European History,Joséphine Bonaparte,133,10
+411,10,16,Brown A,Jason Hong,Chicago B,Literature,World Literature,Urdu,137,10
+411,10,17,Chicago B,Amogh Kulkarni,Brown A,Beliefs and Other,Religion,Book of Joel,150,0
+411,10,17,Brown A,Anson Berns,Chicago B,Beliefs and Other,Religion,Book of Joel,150,0
+411,10,18,Brown A,Anson Berns,Chicago B,Beliefs and Other,Current Events,Russia,100,-5
+411,10,18,Chicago B,Vivek Sasse,Brown A,Beliefs and Other,Current Events,Russia,128,10
+411,10,19,Brown A,Jason Hong,Chicago B,History,Other History,al-Andalus,64,-5
+411,10,19,Chicago B,John Marvin,Brown A,History,Other History,al-Andalus,146,0
+411,10,20,Chicago B,Amogh Kulkarni,Brown A,Literature,European Literature,Pindar,142,10
+415,10,1,Maryland A,Caleb Kendrick,Duke A,Thought,Philosophy,Georg Wilhelm Friedrich Hegel,108,10
+415,10,2,Maryland A,Caleb Kendrick,Duke A,Literature,American Literature,Sula Peace,92,-5
+415,10,2,Duke A,Jerry Lin,Maryland A,Literature,American Literature,Sula Peace,147,10
+415,10,3,Duke A,Jerry Lin,Maryland A,Science,Other Science,aquifers,108,10
+415,10,4,Maryland A,Stevie Miller,Duke A,Arts,Painting/Sculpture,Tower of Babel,129,10
+415,10,5,Duke A,Ashish Subramanian,Maryland A,Beliefs and Other,Mythology,Rostam,116,10
+415,10,6,Duke A,Simon Gorbaty,Maryland A,Science,Biology,skin color change,117,-5
+415,10,6,Maryland A,Connor Mayers,Duke A,Science,Biology,skin color change,136,10
+415,10,7,Maryland A,Stevie Miller,Duke A,History,American History,Title IX,65,-5
+415,10,7,Duke A,Jacob Egol,Maryland A,History,American History,Title IX,137,10
+415,10,8,Maryland A,Isaac Mammel,Duke A,Arts,Other Fine Arts,Marcel Duchamp,102,10
+415,10,9,Duke A,Ashish Subramanian,Maryland A,Literature,British Literature,debtors’ prisons,124,10
+415,10,10,Duke A,Ashish Subramanian,Maryland A,History,World History,Guatemala,102,-5
+415,10,10,Maryland A,Stevie Miller,Duke A,History,World History,Guatemala,141,10
+415,10,11,Duke A,Ashish Subramanian,Maryland A,Thought,Social Science,accusative case,61,10
+415,10,12,Duke A,Jacob Egol,Maryland A,Science,Chemistry,oxidations,108,-5
+415,10,12,Maryland A,Caleb Kendrick,Duke A,Science,Chemistry,oxidations,120,10
+415,10,13,Duke A,Jacob Egol,Maryland A,Arts,Classical Music,Jean Sibelius,106,10
+415,10,14,Duke A,Simon Gorbaty,Maryland A,Science,Physics,spin–statistics theorem,150,10
+415,10,15,Maryland A,Stevie Miller,Duke A,History,European History,Joséphine Bonaparte,75,10
+415,10,16,Duke A,Ashish Subramanian,Maryland A,Literature,World Literature,Urdu,107,10
+415,10,17,Maryland A,Connor Mayers,Duke A,Beliefs and Other,Religion,Book of Joel,150,0
+415,10,17,Duke A,Ashish Subramanian,Maryland A,Beliefs and Other,Religion,Book of Joel,150,0
+415,10,18,Duke A,Jerry Lin,Maryland A,Beliefs and Other,Current Events,Russia,115,10
+415,10,20,Maryland A,Caleb Kendrick,Duke A,Literature,European Literature,Pindar,125,10
 4,11,1,Florida A,Tracy Mirkin,Chicago B,Literature,British Literature,Dylan Thomas,142,10
 4,11,2,Chicago B,Vivek Sasse,Florida A,Science,Biology,phosphofructokinase,85,10
 4,11,3,Florida A,Tracy Mirkin,Chicago B,History,European History,Pakistan,120,-5
@@ -1593,47 +1593,47 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 70,11,19,UC Berkeley B,Vinu Harihar,NYU A,Science,Other Science,concurrent systems,128,10
 70,11,20,NYU A,Halle Friedman,UC Berkeley B,Arts,Painting/Sculpture,The Hunt in the Forest,147,0
 70,11,20,UC Berkeley B,Steven Yuan,NYU A,Arts,Painting/Sculpture,The Hunt in the Forest,147,0
-413,11,1,Chicago A,Matt Jackson,Duke A,Literature,British Literature,Dylan Thomas,118,10
-413,11,2,Duke A,Jacob Egol,Chicago A,Science,Biology,phosphofructokinase,82,-5
-413,11,3,Chicago A,Matt Jackson,Duke A,History,European History,Pakistan,131,10
-413,11,4,Chicago A,Adam Fine,Duke A,Science,Physics,nonlocality,73,-5
-413,11,5,Duke A,Ashish Subramanian,Chicago A,Beliefs and Other,Geography,Río de la Plata,79,-5
-413,11,5,Chicago A,Matt Jackson,Duke A,Beliefs and Other,Geography,Río de la Plata,149,10
-413,11,6,Chicago A,Claire Jones,Duke A,Literature,American Literature,Her Body and Other Parties,123,10
-413,11,7,Duke A,Jacob Egol,Chicago A,Arts,Classical Music,Concerto for Orchestra,80,10
-413,11,9,Chicago A,Matt Jackson,Duke A,Thought,Philosophy,Peter,118,10
-413,11,10,Chicago A,Matt Jackson,Duke A,Beliefs and Other,Religion,five,73,-5
-413,11,10,Duke A,Jerry Lin,Chicago A,Beliefs and Other,Religion,five,134,10
-413,11,11,Duke A,Simon Gorbaty,Chicago A,Science,Chemistry,heat exchangers,71,-5
-413,11,12,Chicago A,Matt Jackson,Duke A,History,American History,Patrick Henry,108,10
-413,11,13,Chicago A,Matt Jackson,Duke A,Arts,Other Fine Arts,“My Favorite Things”,136,10
-413,11,14,Chicago A,Matt Jackson,Duke A,Beliefs and Other,Other Academic,Davy Jones,40,10
-413,11,15,Chicago A,Matt Jackson,Duke A,History,Other History,bison hunting,94,10
-413,11,16,Chicago A,Matt Jackson,Duke A,Literature,World Literature,butterflies,130,10
-413,11,17,Chicago A,Matt Jackson,Duke A,Thought,Social Science,violence,127,10
-413,11,18,Chicago A,Matt Jackson,Duke A,Literature,European Literature,Héloïse,100,10
-413,11,19,Duke A,Jerry Lin,Chicago A,Science,Other Science,concurrent systems,89,10
-413,11,20,Chicago A,Claire Jones,Duke A,Arts,Painting/Sculpture,The Hunt in the Forest,119,10
-418,11,1,Michigan A,James Stevenson,Minnesota B,Literature,British Literature,Dylan Thomas,60,-5
-418,11,1,Minnesota B,Morgan Bozeman,Michigan A,Literature,British Literature,Dylan Thomas,158,10
-418,11,2,Minnesota B,Benjamin Weiner,Michigan A,Science,Biology,phosphofructokinase,125,10
-418,11,3,Michigan A,Subhamitra Banerjee Roychoudhury,Minnesota B,History,European History,Pakistan,133,10
-418,11,5,Michigan A,Subhamitra Banerjee Roychoudhury,Minnesota B,Beliefs and Other,Geography,Río de la Plata,116,10
-418,11,7,Minnesota B,Morgan Bozeman,Michigan A,Arts,Classical Music,Concerto for Orchestra,149,0
-418,11,7,Michigan A,Todd Maslyk,Minnesota B,Arts,Classical Music,Concerto for Orchestra,149,10
-418,11,8,Michigan A,Subhamitra Banerjee Roychoudhury,Minnesota B,History,World History,Gwangju Uprising,138,10
-418,11,9,Michigan A,James Stevenson,Minnesota B,Thought,Philosophy,Peter,98,10
-418,11,10,Michigan A,Todd Maslyk,Minnesota B,Beliefs and Other,Religion,five,113,10
-418,11,11,Michigan A,Todd Maslyk,Minnesota B,Science,Chemistry,heat exchangers,125,10
-418,11,12,Michigan A,James Stevenson,Minnesota B,History,American History,Patrick Henry,115,-5
-418,11,12,Minnesota B,Benjamin Weiner,Michigan A,History,American History,Patrick Henry,142,10
-418,11,13,Michigan A,James Stevenson,Minnesota B,Arts,Other Fine Arts,“My Favorite Things”,143,10
-418,11,14,Michigan A,Todd Maslyk,Minnesota B,Beliefs and Other,Other Academic,Davy Jones,105,10
-418,11,15,Michigan A,Todd Maslyk,Minnesota B,History,Other History,bison hunting,132,10
-418,11,16,Minnesota B,Puna Ekka,Michigan A,Literature,World Literature,butterflies,104,10
-418,11,17,Michigan A,Todd Maslyk,Minnesota B,Thought,Social Science,violence,134,10
-418,11,18,Michigan A,Todd Maslyk,Minnesota B,Literature,European Literature,Héloïse,100,10
-418,11,19,Michigan A,Todd Maslyk,Minnesota B,Science,Other Science,concurrent systems,128,10
+414,11,1,Chicago A,Matt Jackson,Duke A,Literature,British Literature,Dylan Thomas,118,10
+414,11,2,Duke A,Jacob Egol,Chicago A,Science,Biology,phosphofructokinase,82,-5
+414,11,3,Chicago A,Matt Jackson,Duke A,History,European History,Pakistan,131,10
+414,11,4,Chicago A,Adam Fine,Duke A,Science,Physics,nonlocality,73,-5
+414,11,5,Duke A,Ashish Subramanian,Chicago A,Beliefs and Other,Geography,Río de la Plata,79,-5
+414,11,5,Chicago A,Matt Jackson,Duke A,Beliefs and Other,Geography,Río de la Plata,149,10
+414,11,6,Chicago A,Claire Jones,Duke A,Literature,American Literature,Her Body and Other Parties,123,10
+414,11,7,Duke A,Jacob Egol,Chicago A,Arts,Classical Music,Concerto for Orchestra,80,10
+414,11,9,Chicago A,Matt Jackson,Duke A,Thought,Philosophy,Peter,118,10
+414,11,10,Chicago A,Matt Jackson,Duke A,Beliefs and Other,Religion,five,73,-5
+414,11,10,Duke A,Jerry Lin,Chicago A,Beliefs and Other,Religion,five,134,10
+414,11,11,Duke A,Simon Gorbaty,Chicago A,Science,Chemistry,heat exchangers,71,-5
+414,11,12,Chicago A,Matt Jackson,Duke A,History,American History,Patrick Henry,108,10
+414,11,13,Chicago A,Matt Jackson,Duke A,Arts,Other Fine Arts,“My Favorite Things”,136,10
+414,11,14,Chicago A,Matt Jackson,Duke A,Beliefs and Other,Other Academic,Davy Jones,40,10
+414,11,15,Chicago A,Matt Jackson,Duke A,History,Other History,bison hunting,94,10
+414,11,16,Chicago A,Matt Jackson,Duke A,Literature,World Literature,butterflies,130,10
+414,11,17,Chicago A,Matt Jackson,Duke A,Thought,Social Science,violence,127,10
+414,11,18,Chicago A,Matt Jackson,Duke A,Literature,European Literature,Héloïse,100,10
+414,11,19,Duke A,Jerry Lin,Chicago A,Science,Other Science,concurrent systems,89,10
+414,11,20,Chicago A,Claire Jones,Duke A,Arts,Painting/Sculpture,The Hunt in the Forest,119,10
+419,11,1,Michigan A,James Stevenson,Minnesota B,Literature,British Literature,Dylan Thomas,60,-5
+419,11,1,Minnesota B,Morgan Bozeman,Michigan A,Literature,British Literature,Dylan Thomas,158,10
+419,11,2,Minnesota B,Benjamin Weiner,Michigan A,Science,Biology,phosphofructokinase,125,10
+419,11,3,Michigan A,Subhamitra Banerjee Roychoudhury,Minnesota B,History,European History,Pakistan,133,10
+419,11,5,Michigan A,Subhamitra Banerjee Roychoudhury,Minnesota B,Beliefs and Other,Geography,Río de la Plata,116,10
+419,11,7,Minnesota B,Morgan Bozeman,Michigan A,Arts,Classical Music,Concerto for Orchestra,149,0
+419,11,7,Michigan A,Todd Maslyk,Minnesota B,Arts,Classical Music,Concerto for Orchestra,149,10
+419,11,8,Michigan A,Subhamitra Banerjee Roychoudhury,Minnesota B,History,World History,Gwangju Uprising,138,10
+419,11,9,Michigan A,James Stevenson,Minnesota B,Thought,Philosophy,Peter,98,10
+419,11,10,Michigan A,Todd Maslyk,Minnesota B,Beliefs and Other,Religion,five,113,10
+419,11,11,Michigan A,Todd Maslyk,Minnesota B,Science,Chemistry,heat exchangers,125,10
+419,11,12,Michigan A,James Stevenson,Minnesota B,History,American History,Patrick Henry,115,-5
+419,11,12,Minnesota B,Benjamin Weiner,Michigan A,History,American History,Patrick Henry,142,10
+419,11,13,Michigan A,James Stevenson,Minnesota B,Arts,Other Fine Arts,“My Favorite Things”,143,10
+419,11,14,Michigan A,Todd Maslyk,Minnesota B,Beliefs and Other,Other Academic,Davy Jones,105,10
+419,11,15,Michigan A,Todd Maslyk,Minnesota B,History,Other History,bison hunting,132,10
+419,11,16,Minnesota B,Puna Ekka,Michigan A,Literature,World Literature,butterflies,104,10
+419,11,17,Michigan A,Todd Maslyk,Minnesota B,Thought,Social Science,violence,134,10
+419,11,18,Michigan A,Todd Maslyk,Minnesota B,Literature,European Literature,Héloïse,100,10
+419,11,19,Michigan A,Todd Maslyk,Minnesota B,Science,Other Science,concurrent systems,128,10
 26,12,1,Toronto A,Wenying Wu,Harvard A,Beliefs and Other,Other Academic,pigs,103,10
 26,12,2,Harvard A,Arjun Nageswaran,Toronto A,History,American History,logging industry,65,-5
 26,12,2,Toronto A,Ian Chow,Harvard A,History,American History,logging industry,136,10
@@ -2746,30 +2746,30 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 138,13,19,Michigan A,James Stevenson,UC Berkeley B,Science,Other Science,homotopies,175,0
 138,13,20,UC Berkeley B,Vinu Harihar,Michigan A,History,American History,Pentagon Papers,87,-5
 138,13,20,Michigan A,James Stevenson,UC Berkeley B,History,American History,Pentagon Papers,151,10
-416,13,1,Florida A,Tracy Mirkin,Maryland A,Science,Biology,vaginal microbiome,81,-5
-416,13,1,Maryland A,Stevie Miller,Florida A,Science,Biology,vaginal microbiome,125,10
-416,13,2,Florida A,Tracy Mirkin,Maryland A,Arts,Painting/Sculpture,Lee Krasner,81,-5
-416,13,2,Maryland A,Caleb Kendrick,Florida A,Arts,Painting/Sculpture,Lee Krasner,147,10
-416,13,3,Maryland A,Isaac Mammel,Florida A,Literature,World Literature,Latin America,126,10
-416,13,4,Maryland A,Caleb Kendrick,Florida A,Beliefs and Other,Religion,tooth of the Buddha,90,10
-416,13,5,Florida A,Tracy Mirkin,Maryland A,Arts,Other Fine Arts,Ennio Morricone,118,10
-416,13,6,Maryland A,Stevie Miller,Florida A,History,World History,expulsion of Asians from Uganda,107,10
-416,13,7,Florida A,Leah Honsinger,Maryland A,Beliefs and Other,Mythology,helmets,74,10
-416,13,8,Florida A,Tracy Mirkin,Maryland A,Literature,European Literature,The Chairs,119,10
-416,13,9,Maryland A,Caleb Kendrick,Florida A,Thought,Philosophy,knowledge,98,10
-416,13,10,Maryland A,Stevie Miller,Florida A,History,Other History,Acadians,13,-5
-416,13,10,Florida A,Tracy Mirkin,Maryland A,History,Other History,Acadians,150,10
-416,13,11,Florida A,Tracy Mirkin,Maryland A,Literature,British Literature,Jesus Christ,136,10
-416,13,12,Florida A,Tracy Mirkin,Maryland A,Science,Chemistry,metal-ligand bond length,101,10
-416,13,13,Florida A,Tracy Mirkin,Maryland A,History,European History,Wittenberg,110,-5
-416,13,13,Maryland A,Caleb Kendrick,Florida A,History,European History,Wittenberg,146,10
-416,13,14,Maryland A,Caleb Kendrick,Florida A,Thought,Social Science,social structure,95,10
-416,13,15,Florida A,Tracy Mirkin,Maryland A,Arts,Classical Music,William Walton,80,10
-416,13,16,Maryland A,Stevie Miller,Florida A,Beliefs and Other,Current Events,South Africa,109,10
-416,13,18,Florida A,Tracy Mirkin,Maryland A,Literature,American Literature,Hickey,125,-5
-416,13,18,Maryland A,Caleb Kendrick,Florida A,Literature,American Literature,Hickey,165,10
-416,13,19,Maryland A,Isaac Mammel,Florida A,Science,Other Science,homotopies,54,10
-416,13,20,Maryland A,Caleb Kendrick,Florida A,History,American History,Pentagon Papers,84,10
+417,13,1,Florida A,Tracy Mirkin,Maryland A,Science,Biology,vaginal microbiome,81,-5
+417,13,1,Maryland A,Stevie Miller,Florida A,Science,Biology,vaginal microbiome,125,10
+417,13,2,Florida A,Tracy Mirkin,Maryland A,Arts,Painting/Sculpture,Lee Krasner,81,-5
+417,13,2,Maryland A,Caleb Kendrick,Florida A,Arts,Painting/Sculpture,Lee Krasner,147,10
+417,13,3,Maryland A,Isaac Mammel,Florida A,Literature,World Literature,Latin America,126,10
+417,13,4,Maryland A,Caleb Kendrick,Florida A,Beliefs and Other,Religion,tooth of the Buddha,90,10
+417,13,5,Florida A,Tracy Mirkin,Maryland A,Arts,Other Fine Arts,Ennio Morricone,118,10
+417,13,6,Maryland A,Stevie Miller,Florida A,History,World History,expulsion of Asians from Uganda,107,10
+417,13,7,Florida A,Leah Honsinger,Maryland A,Beliefs and Other,Mythology,helmets,74,10
+417,13,8,Florida A,Tracy Mirkin,Maryland A,Literature,European Literature,The Chairs,119,10
+417,13,9,Maryland A,Caleb Kendrick,Florida A,Thought,Philosophy,knowledge,98,10
+417,13,10,Maryland A,Stevie Miller,Florida A,History,Other History,Acadians,13,-5
+417,13,10,Florida A,Tracy Mirkin,Maryland A,History,Other History,Acadians,150,10
+417,13,11,Florida A,Tracy Mirkin,Maryland A,Literature,British Literature,Jesus Christ,136,10
+417,13,12,Florida A,Tracy Mirkin,Maryland A,Science,Chemistry,metal-ligand bond length,101,10
+417,13,13,Florida A,Tracy Mirkin,Maryland A,History,European History,Wittenberg,110,-5
+417,13,13,Maryland A,Caleb Kendrick,Florida A,History,European History,Wittenberg,146,10
+417,13,14,Maryland A,Caleb Kendrick,Florida A,Thought,Social Science,social structure,95,10
+417,13,15,Florida A,Tracy Mirkin,Maryland A,Arts,Classical Music,William Walton,80,10
+417,13,16,Maryland A,Stevie Miller,Florida A,Beliefs and Other,Current Events,South Africa,109,10
+417,13,18,Florida A,Tracy Mirkin,Maryland A,Literature,American Literature,Hickey,125,-5
+417,13,18,Maryland A,Caleb Kendrick,Florida A,Literature,American Literature,Hickey,165,10
+417,13,19,Maryland A,Isaac Mammel,Florida A,Science,Other Science,homotopies,54,10
+417,13,20,Maryland A,Caleb Kendrick,Florida A,History,American History,Pentagon Papers,84,10
 75,14,1,WUSTL A,Charles Hang,Chicago B,Science,Biology,hyaluronic acid,85,-5
 75,14,1,Chicago B,Daniel Yang,WUSTL A,Science,Biology,hyaluronic acid,124,10
 75,14,2,WUSTL A,Annabelle Yang,Chicago B,Literature,American Literature,Russian,121,10
@@ -3341,29 +3341,29 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 406,14,18,WUSTL B,Neal Joshi,Penn A,Literature,European Literature,Ludovico Ariosto,163,10
 406,14,19,WUSTL B,Vedul Palavajjhala,Penn A,History,Other History,Piraeus,135,10
 406,14,20,WUSTL B,Neal Joshi,Penn A,Science,Chemistry,optical rotation,98,10
-421,14,1,UC Berkeley A,Shahar Schwartz,Cornell B,Science,Biology,hyaluronic acid,119,-5
-421,14,1,Cornell B,Dan Ni,UC Berkeley A,Science,Biology,hyaluronic acid,124,10
-421,14,2,UC Berkeley A,Eve Fleisig,Cornell B,Literature,American Literature,Russian,27,10
-421,14,3,UC Berkeley A,Eve Fleisig,Cornell B,Arts,Other Fine Arts,Bayreuth Festival,81,10
-421,14,4,UC Berkeley A,Swapnil Garg,Cornell B,History,American History,South Carolina,111,10
-421,14,5,UC Berkeley A,Ryan Sun,Cornell B,Literature,British Literature,Crash,129,10
-421,14,6,UC Berkeley A,Shahar Schwartz,Cornell B,Thought,Social Science,Erikson,94,10
-421,14,7,UC Berkeley A,Ryan Sun,Cornell B,History,European History,Carolingian dynasty,120,10
-421,14,8,UC Berkeley A,Shahar Schwartz,Cornell B,Beliefs and Other,Religion,Anointing of the Sick,135,10
-421,14,9,UC Berkeley A,Swapnil Garg,Cornell B,Beliefs and Other,Geography,Pernambuco,133,10
-421,14,10,UC Berkeley A,Eve Fleisig,Cornell B,Arts,Classical Music,clarinet,96,10
-421,14,11,UC Berkeley A,Eve Fleisig,Cornell B,Science,Other Science,device drivers,117,-5
-421,14,11,Cornell B,Dan Ni,UC Berkeley A,Science,Other Science,device drivers,140,10
-421,14,12,UC Berkeley A,Shahar Schwartz,Cornell B,Literature,World Literature,human corpses,154,10
-421,14,13,UC Berkeley A,Swapnil Garg,Cornell B,Science,Physics,Zeeman effect,145,10
-421,14,14,UC Berkeley A,Eve Fleisig,Cornell B,Arts,Painting/Sculpture,pastels,109,10
-421,14,15,UC Berkeley A,Shahar Schwartz,Cornell B,Thought,Philosophy,motion,125,10
-421,14,16,UC Berkeley A,Ryan Sun,Cornell B,Beliefs and Other,Other Academic,blankets,127,10
-421,14,17,UC Berkeley A,Shahar Schwartz,Cornell B,History,World History,Azande,115,-5
-421,14,17,Cornell B,Yared Tadesse,UC Berkeley A,History,World History,Azande,139,0
-421,14,18,UC Berkeley A,Eve Fleisig,Cornell B,Literature,European Literature,Ludovico Ariosto,154,10
-421,14,19,Cornell B,Sarod Nori,UC Berkeley A,History,Other History,Piraeus,138,10
-421,14,20,UC Berkeley A,Shahar Schwartz,Cornell B,Science,Chemistry,optical rotation,84,10
+422,14,1,UC Berkeley A,Shahar Schwartz,Cornell B,Science,Biology,hyaluronic acid,119,-5
+422,14,1,Cornell B,Dan Ni,UC Berkeley A,Science,Biology,hyaluronic acid,124,10
+422,14,2,UC Berkeley A,Eve Fleisig,Cornell B,Literature,American Literature,Russian,27,10
+422,14,3,UC Berkeley A,Eve Fleisig,Cornell B,Arts,Other Fine Arts,Bayreuth Festival,81,10
+422,14,4,UC Berkeley A,Swapnil Garg,Cornell B,History,American History,South Carolina,111,10
+422,14,5,UC Berkeley A,Ryan Sun,Cornell B,Literature,British Literature,Crash,129,10
+422,14,6,UC Berkeley A,Shahar Schwartz,Cornell B,Thought,Social Science,Erikson,94,10
+422,14,7,UC Berkeley A,Ryan Sun,Cornell B,History,European History,Carolingian dynasty,120,10
+422,14,8,UC Berkeley A,Shahar Schwartz,Cornell B,Beliefs and Other,Religion,Anointing of the Sick,135,10
+422,14,9,UC Berkeley A,Swapnil Garg,Cornell B,Beliefs and Other,Geography,Pernambuco,133,10
+422,14,10,UC Berkeley A,Eve Fleisig,Cornell B,Arts,Classical Music,clarinet,96,10
+422,14,11,UC Berkeley A,Eve Fleisig,Cornell B,Science,Other Science,device drivers,117,-5
+422,14,11,Cornell B,Dan Ni,UC Berkeley A,Science,Other Science,device drivers,140,10
+422,14,12,UC Berkeley A,Shahar Schwartz,Cornell B,Literature,World Literature,human corpses,154,10
+422,14,13,UC Berkeley A,Swapnil Garg,Cornell B,Science,Physics,Zeeman effect,145,10
+422,14,14,UC Berkeley A,Eve Fleisig,Cornell B,Arts,Painting/Sculpture,pastels,109,10
+422,14,15,UC Berkeley A,Shahar Schwartz,Cornell B,Thought,Philosophy,motion,125,10
+422,14,16,UC Berkeley A,Ryan Sun,Cornell B,Beliefs and Other,Other Academic,blankets,127,10
+422,14,17,UC Berkeley A,Shahar Schwartz,Cornell B,History,World History,Azande,115,-5
+422,14,17,Cornell B,Yared Tadesse,UC Berkeley A,History,World History,Azande,139,0
+422,14,18,UC Berkeley A,Eve Fleisig,Cornell B,Literature,European Literature,Ludovico Ariosto,154,10
+422,14,19,Cornell B,Sarod Nori,UC Berkeley A,History,Other History,Piraeus,138,10
+422,14,20,UC Berkeley A,Shahar Schwartz,Cornell B,Science,Chemistry,optical rotation,84,10
 100,15,1,Chicago B,Amogh Kulkarni,Stanford A,Literature,European Literature,Prometheus Bound,109,10
 100,15,2,Stanford A,Eric Wolfsberg,Chicago B,Science,Chemistry,organic synthesis,76,10
 100,15,3,Stanford A,Tim Morrison,Chicago B,Literature,World Literature,Ocampo,128,10
@@ -3685,7 +3685,7 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 129,15,19,North Carolina A,Vittal Bhat,Northwestern A,Arts,Other Fine Arts,schools,168,0
 129,15,20,North Carolina A,Vincent Du,Northwestern A,Arts,Classical Music,Charles Ives,40,-5
 129,15,20,Northwestern A,Christopher Sims,North Carolina A,Arts,Classical Music,Charles Ives,138,10
-129,15,21,North Carolina A,Jim Fan,Northwestern A,NA,NA,NA,94,10
+129,15,21,North Carolina A,Jim Fan,Northwestern A,History,American History,Japanese-Americans,94,10
 135,15,1,Texas A,Jisoo Yoo,Minnesota A,Literature,European Literature,Prometheus Bound,153,10
 135,15,2,Minnesota A,Ethan Ashbrook,Texas A,Science,Chemistry,organic synthesis,58,10
 135,15,3,Minnesota A,Ethan Ashbrook,Texas A,Literature,World Literature,Ocampo,128,10
@@ -4278,7 +4278,7 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 153,16,19,North Carolina A,Jonathan Shauf,Harvard A,History,European History,Béla IV of Hungary,157,0
 153,16,19,Harvard A,Cole Timmerwilke,North Carolina A,History,European History,Béla IV of Hungary,157,0
 153,16,20,North Carolina A,Vittal Bhat,Harvard A,Science,Chemistry,fluorine,66,10
-153,16,21,Harvard A,Mazin Omer,North Carolina A,NA,NA,NA,140,10
+153,16,21,Harvard A,Mazin Omer,North Carolina A,Science,Biology,zebrafish,140,10
 156,16,1,Chicago C,Dennis Reppen,Texas A,Arts,Painting/Sculpture,wood,124,10
 156,16,2,Texas A,Jisoo Yoo,Chicago C,Literature,European Literature,Lisbon,128,10
 156,16,3,Chicago C,Connor Blake,Texas A,Science,Biology,ammonia,89,10
@@ -5050,29 +5050,29 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 226,17,19,Yale A,Daniel Ma,Cornell A,Thought,Social Science,political parties,90,10
 226,17,20,Cornell A,Raymond Wang,Yale A,Literature,European Literature,Karl Ove Knausgård,121,-5
 226,17,20,Yale A,Arthur Delot-Vilain,Cornell A,Literature,European Literature,Karl Ove Knausgård,149,10
-420,17,1,Rutgers A,Aiden Dartley,South Carolina A,Science,Physics,pressure,146,10
-420,17,2,Rutgers A,Aum Mundhe,South Carolina A,History,American History,Los Angeles,97,10
-420,17,3,Rutgers A,Aiden Dartley,South Carolina A,Thought,Philosophy,Christianity,154,10
-420,17,4,Rutgers A,Aiden Dartley,South Carolina A,History,Other History,Liú Bāng,125,-5
-420,17,5,Rutgers A,Aum Mundhe,South Carolina A,Arts,Classical Music,Franz Schubert’s Symphony no. 9 in C major,142,10
-420,17,6,Rutgers A,Darren Petrosino,South Carolina A,Literature,World Literature,skin,112,10
-420,17,7,Rutgers A,Aum Mundhe,South Carolina A,Arts,Painting/Sculpture,Heracles,137,10
-420,17,8,Rutgers A,Darren Petrosino,South Carolina A,Beliefs and Other,Mythology,Indonesia,107,-5
-420,17,8,South Carolina A,Isak Jatoi,Rutgers A,Beliefs and Other,Mythology,Indonesia,161,10
-420,17,9,South Carolina A,Isak Jatoi,Rutgers A,Science,Chemistry,basis sets,97,10
-420,17,10,South Carolina A,Jack Oberman,Rutgers A,Literature,British Literature,King Lear,97,10
-420,17,11,Rutgers A,Aum Mundhe,South Carolina A,Arts,Other Fine Arts,calypso,126,10
-420,17,12,Rutgers A,Joelle Smart,South Carolina A,Beliefs and Other,Religion,Ayurveda,92,10
-420,17,13,South Carolina A,Isak Jatoi,Rutgers A,Science,Biology,phosphatases,122,10
-420,17,14,South Carolina A,Isak Jatoi,Rutgers A,History,European History,Novgorod Republic,63,-5
-420,17,14,Rutgers A,Aiden Dartley,South Carolina A,History,European History,Novgorod Republic,148,10
-420,17,15,South Carolina A,Isak Jatoi,Rutgers A,Literature,American Literature,Paris,84,-5
-420,17,15,Rutgers A,Darren Petrosino,South Carolina A,Literature,American Literature,Paris,144,10
-420,17,16,Rutgers A,Joelle Smart,South Carolina A,Science,Other Science,jet streams,142,10
-420,17,17,Rutgers A,Aiden Dartley,South Carolina A,History,World History,Cristero War,96,10
-420,17,18,Rutgers A,Joelle Smart,South Carolina A,Beliefs and Other,Current Events,assisted suicide,122,10
-420,17,19,Rutgers A,Aum Mundhe,South Carolina A,Thought,Social Science,political parties,101,10
-420,17,20,Rutgers A,Darren Petrosino,South Carolina A,Literature,European Literature,Karl Ove Knausgård,121,10
+421,17,1,Rutgers A,Aiden Dartley,South Carolina A,Science,Physics,pressure,146,10
+421,17,2,Rutgers A,Aum Mundhe,South Carolina A,History,American History,Los Angeles,97,10
+421,17,3,Rutgers A,Aiden Dartley,South Carolina A,Thought,Philosophy,Christianity,154,10
+421,17,4,Rutgers A,Aiden Dartley,South Carolina A,History,Other History,Liú Bāng,125,-5
+421,17,5,Rutgers A,Aum Mundhe,South Carolina A,Arts,Classical Music,Franz Schubert’s Symphony no. 9 in C major,142,10
+421,17,6,Rutgers A,Darren Petrosino,South Carolina A,Literature,World Literature,skin,112,10
+421,17,7,Rutgers A,Aum Mundhe,South Carolina A,Arts,Painting/Sculpture,Heracles,137,10
+421,17,8,Rutgers A,Darren Petrosino,South Carolina A,Beliefs and Other,Mythology,Indonesia,107,-5
+421,17,8,South Carolina A,Isak Jatoi,Rutgers A,Beliefs and Other,Mythology,Indonesia,161,10
+421,17,9,South Carolina A,Isak Jatoi,Rutgers A,Science,Chemistry,basis sets,97,10
+421,17,10,South Carolina A,Jack Oberman,Rutgers A,Literature,British Literature,King Lear,97,10
+421,17,11,Rutgers A,Aum Mundhe,South Carolina A,Arts,Other Fine Arts,calypso,126,10
+421,17,12,Rutgers A,Joelle Smart,South Carolina A,Beliefs and Other,Religion,Ayurveda,92,10
+421,17,13,South Carolina A,Isak Jatoi,Rutgers A,Science,Biology,phosphatases,122,10
+421,17,14,South Carolina A,Isak Jatoi,Rutgers A,History,European History,Novgorod Republic,63,-5
+421,17,14,Rutgers A,Aiden Dartley,South Carolina A,History,European History,Novgorod Republic,148,10
+421,17,15,South Carolina A,Isak Jatoi,Rutgers A,Literature,American Literature,Paris,84,-5
+421,17,15,Rutgers A,Darren Petrosino,South Carolina A,Literature,American Literature,Paris,144,10
+421,17,16,Rutgers A,Joelle Smart,South Carolina A,Science,Other Science,jet streams,142,10
+421,17,17,Rutgers A,Aiden Dartley,South Carolina A,History,World History,Cristero War,96,10
+421,17,18,Rutgers A,Joelle Smart,South Carolina A,Beliefs and Other,Current Events,assisted suicide,122,10
+421,17,19,Rutgers A,Aum Mundhe,South Carolina A,Thought,Social Science,political parties,101,10
+421,17,20,Rutgers A,Darren Petrosino,South Carolina A,Literature,European Literature,Karl Ove Knausgård,121,10
 162,18,1,Georgia Tech A,Matt Bollinger,Chicago A,Literature,British Literature,Battle of Maldon,104,10
 162,18,2,Georgia Tech A,Alex Li,Chicago A,Science,Other Science,estimators,95,10
 162,18,3,Georgia Tech A,Matt Bollinger,Chicago A,Thought,Philosophy,Hubert Dreyfus,54,10
@@ -6207,52 +6207,52 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 229,19,18,Chicago A,Adam Fine,Ohio State A,Science,Other Science,graphs,69,10
 229,19,19,Ohio State A,Clark Smith,Chicago A,Arts,Classical Music,Johann Christian Bach,64,10
 229,19,20,Ohio State A,Chris Ray,Chicago A,History,European History,Crete,125,10
-412,19,1,Columbia A,Geoffrey Wu,Harvard A,Science,Chemistry,quantum tunneling,98,10
-412,19,2,Columbia A,Elijah Scheinson,Harvard A,History,Other History,Uruk,37,-5
-412,19,2,Harvard A,Cole Timmerwilke,Columbia A,History,Other History,Uruk,148,10
-412,19,3,Harvard A,Mazin Omer,Columbia A,Literature,American Literature,Frederick Douglass’s fight with Edward Covey,161,10
-412,19,5,Columbia A,Geoffrey Wu,Harvard A,Science,Physics,shear stress,142,10
-412,19,6,Harvard A,Mazin Omer,Columbia A,Arts,Painting/Sculpture,Hermitage Museum,123,10
-412,19,7,Harvard A,Mazin Omer,Columbia A,Literature,European Literature,China,124,10
-412,19,8,Harvard A,Arjun Nageswaran,Columbia A,Beliefs and Other,Religion,harvests,106,-5
-412,19,8,Columbia A,John John Groger,Harvard A,Beliefs and Other,Religion,harvests,146,10
-412,19,9,Columbia A,Elijah Scheinson,Harvard A,Beliefs and Other,Geography,Maasai,108,10
-412,19,10,Columbia A,John John Groger,Harvard A,History,World History,Yǒnglè,126,10
-412,19,11,Harvard A,Arjun Nageswaran,Columbia A,Literature,World Literature,Antigone,113,10
-412,19,12,Harvard A,Cole Timmerwilke,Columbia A,Beliefs and Other,Mythology,The White Goddess,145,10
-412,19,13,Harvard A,Mazin Omer,Columbia A,Science,Biology,mollusk shells,101,-5
-412,19,13,Columbia A,John John Groger,Harvard A,Science,Biology,mollusk shells,134,10
-412,19,14,Harvard A,Mazin Omer,Columbia A,Literature,British Literature,The Golden Bowl,131,10
-412,19,15,Harvard A,Mazin Omer,Columbia A,Arts,Other Fine Arts,Annie Get Your Gun,120,10
-412,19,16,Harvard A,Cole Timmerwilke,Columbia A,Thought,Philosophy,Stanford University,110,10
-412,19,17,Harvard A,Arjun Nageswaran,Columbia A,History,American History,Margaret Chase Smith,129,10
-412,19,18,Harvard A,Arjun Nageswaran,Columbia A,Science,Other Science,graphs,87,-5
-412,19,18,Columbia A,Geoffrey Wu,Harvard A,Science,Other Science,graphs,138,10
-412,19,19,Harvard A,Arjun Nageswaran,Columbia A,Arts,Classical Music,Johann Christian Bach,97,10
-412,19,20,Columbia A,Elijah Scheinson,Harvard A,History,European History,Crete,141,10
-419,19,1,Penn A,Danny Han,Illinois A,Science,Chemistry,quantum tunneling,109,10
-419,19,2,Illinois A,Justin Wytmar,Penn A,History,Other History,Uruk,34,10
-419,19,3,Penn A,Benjamin McAvoy-Bickford,Illinois A,Literature,American Literature,Frederick Douglass’s fight with Edward Covey,160,10
-419,19,4,Penn A,Danny Han,Illinois A,Thought,Social Science,visual cortex,91,10
-419,19,5,Penn A,Danny Han,Illinois A,Science,Physics,shear stress,135,-5
-419,19,5,Illinois A,Yash Mandavia,Penn A,Science,Physics,shear stress,152,10
-419,19,6,Illinois A,Justin Wytmar,Penn A,Arts,Painting/Sculpture,Hermitage Museum,133,10
-419,19,7,Illinois A,Mitch McCullar,Penn A,Literature,European Literature,China,84,10
-419,19,8,Penn A,Benjamin McAvoy-Bickford,Illinois A,Beliefs and Other,Religion,harvests,138,-5
-419,19,9,Penn A,Zachary Wang,Illinois A,Beliefs and Other,Geography,Maasai,67,-5
-419,19,9,Illinois A,Justin Wytmar,Penn A,Beliefs and Other,Geography,Maasai,144,10
-419,19,10,Penn A,Danny Han,Illinois A,History,World History,Yǒnglè,134,10
-419,19,11,Illinois A,Mitch McCullar,Penn A,Literature,World Literature,Antigone,101,10
-419,19,12,Illinois A,Mitch McCullar,Penn A,Beliefs and Other,Mythology,The White Goddess,136,10
-419,19,13,Penn A,Benjamin McAvoy-Bickford,Illinois A,Science,Biology,mollusk shells,123,10
-419,19,14,Illinois A,Mitch McCullar,Penn A,Literature,British Literature,The Golden Bowl,78,10
-419,19,15,Illinois A,Justin Wytmar,Penn A,Arts,Other Fine Arts,Annie Get Your Gun,92,10
-419,19,16,Penn A,Benjamin McAvoy-Bickford,Illinois A,Thought,Philosophy,Stanford University,113,10
-419,19,17,Illinois A,Justin Wytmar,Penn A,History,American History,Margaret Chase Smith,130,10
-419,19,18,Penn A,Danny Han,Illinois A,Science,Other Science,graphs,98,10
-419,19,19,Illinois A,Max Brodsky,Penn A,Arts,Classical Music,Johann Christian Bach,62,-5
-419,19,20,Illinois A,Justin Wytmar,Penn A,History,European History,Crete,95,-5
-419,19,20,Penn A,Zachary Wang,Illinois A,History,European History,Crete,154,10
+413,19,1,Columbia A,Geoffrey Wu,Harvard A,Science,Chemistry,quantum tunneling,98,10
+413,19,2,Columbia A,Elijah Scheinson,Harvard A,History,Other History,Uruk,37,-5
+413,19,2,Harvard A,Cole Timmerwilke,Columbia A,History,Other History,Uruk,148,10
+413,19,3,Harvard A,Mazin Omer,Columbia A,Literature,American Literature,Frederick Douglass’s fight with Edward Covey,161,10
+413,19,5,Columbia A,Geoffrey Wu,Harvard A,Science,Physics,shear stress,142,10
+413,19,6,Harvard A,Mazin Omer,Columbia A,Arts,Painting/Sculpture,Hermitage Museum,123,10
+413,19,7,Harvard A,Mazin Omer,Columbia A,Literature,European Literature,China,124,10
+413,19,8,Harvard A,Arjun Nageswaran,Columbia A,Beliefs and Other,Religion,harvests,106,-5
+413,19,8,Columbia A,John John Groger,Harvard A,Beliefs and Other,Religion,harvests,146,10
+413,19,9,Columbia A,Elijah Scheinson,Harvard A,Beliefs and Other,Geography,Maasai,108,10
+413,19,10,Columbia A,John John Groger,Harvard A,History,World History,Yǒnglè,126,10
+413,19,11,Harvard A,Arjun Nageswaran,Columbia A,Literature,World Literature,Antigone,113,10
+413,19,12,Harvard A,Cole Timmerwilke,Columbia A,Beliefs and Other,Mythology,The White Goddess,145,10
+413,19,13,Harvard A,Mazin Omer,Columbia A,Science,Biology,mollusk shells,101,-5
+413,19,13,Columbia A,John John Groger,Harvard A,Science,Biology,mollusk shells,134,10
+413,19,14,Harvard A,Mazin Omer,Columbia A,Literature,British Literature,The Golden Bowl,131,10
+413,19,15,Harvard A,Mazin Omer,Columbia A,Arts,Other Fine Arts,Annie Get Your Gun,120,10
+413,19,16,Harvard A,Cole Timmerwilke,Columbia A,Thought,Philosophy,Stanford University,110,10
+413,19,17,Harvard A,Arjun Nageswaran,Columbia A,History,American History,Margaret Chase Smith,129,10
+413,19,18,Harvard A,Arjun Nageswaran,Columbia A,Science,Other Science,graphs,87,-5
+413,19,18,Columbia A,Geoffrey Wu,Harvard A,Science,Other Science,graphs,138,10
+413,19,19,Harvard A,Arjun Nageswaran,Columbia A,Arts,Classical Music,Johann Christian Bach,97,10
+413,19,20,Columbia A,Elijah Scheinson,Harvard A,History,European History,Crete,141,10
+420,19,1,Penn A,Danny Han,Illinois A,Science,Chemistry,quantum tunneling,109,10
+420,19,2,Illinois A,Justin Wytmar,Penn A,History,Other History,Uruk,34,10
+420,19,3,Penn A,Benjamin McAvoy-Bickford,Illinois A,Literature,American Literature,Frederick Douglass’s fight with Edward Covey,160,10
+420,19,4,Penn A,Danny Han,Illinois A,Thought,Social Science,visual cortex,91,10
+420,19,5,Penn A,Danny Han,Illinois A,Science,Physics,shear stress,135,-5
+420,19,5,Illinois A,Yash Mandavia,Penn A,Science,Physics,shear stress,152,10
+420,19,6,Illinois A,Justin Wytmar,Penn A,Arts,Painting/Sculpture,Hermitage Museum,133,10
+420,19,7,Illinois A,Mitch McCullar,Penn A,Literature,European Literature,China,84,10
+420,19,8,Penn A,Benjamin McAvoy-Bickford,Illinois A,Beliefs and Other,Religion,harvests,138,-5
+420,19,9,Penn A,Zachary Wang,Illinois A,Beliefs and Other,Geography,Maasai,67,-5
+420,19,9,Illinois A,Justin Wytmar,Penn A,Beliefs and Other,Geography,Maasai,144,10
+420,19,10,Penn A,Danny Han,Illinois A,History,World History,Yǒnglè,134,10
+420,19,11,Illinois A,Mitch McCullar,Penn A,Literature,World Literature,Antigone,101,10
+420,19,12,Illinois A,Mitch McCullar,Penn A,Beliefs and Other,Mythology,The White Goddess,136,10
+420,19,13,Penn A,Benjamin McAvoy-Bickford,Illinois A,Science,Biology,mollusk shells,123,10
+420,19,14,Illinois A,Mitch McCullar,Penn A,Literature,British Literature,The Golden Bowl,78,10
+420,19,15,Illinois A,Justin Wytmar,Penn A,Arts,Other Fine Arts,Annie Get Your Gun,92,10
+420,19,16,Penn A,Benjamin McAvoy-Bickford,Illinois A,Thought,Philosophy,Stanford University,113,10
+420,19,17,Illinois A,Justin Wytmar,Penn A,History,American History,Margaret Chase Smith,130,10
+420,19,18,Penn A,Danny Han,Illinois A,Science,Other Science,graphs,98,10
+420,19,19,Illinois A,Max Brodsky,Penn A,Arts,Classical Music,Johann Christian Bach,62,-5
+420,19,20,Illinois A,Justin Wytmar,Penn A,History,European History,Crete,95,-5
+420,19,20,Penn A,Zachary Wang,Illinois A,History,European History,Crete,154,10
 251,2,1,Claremont A,Kevin Park,Brown A,Science,Other Science,geomagnetic storms,90,-5
 251,2,1,Brown A,Jason Hong,Claremont A,Science,Other Science,geomagnetic storms,132,10
 251,2,2,Claremont A,Tomás Aguilar-Fraga,Brown A,Beliefs and Other,Current Events,Meta,28,-5
@@ -7378,30 +7378,30 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 342,3,18,Harvard A,Arjun Nageswaran,Houston A,Thought,Philosophy,France,113,10
 342,3,19,Houston A,John Broussard,Harvard A,Literature,American Literature,rain,102,10
 342,3,20,Harvard A,Arjun Nageswaran,Houston A,Science,Other Science,abelian,135,10
-422,3,1,North Carolina A,Jonathan Shauf,Virginia A,Literature,European Literature,the library from The Name of the Rose,134,-5
-422,3,1,Virginia A,Gio Mazzeo,North Carolina A,Literature,European Literature,the library from The Name of the Rose,168,10
-422,3,2,Virginia A,Alana Dickey,North Carolina A,History,Other History,Montreal,96,10
-422,3,3,Virginia A,Joseph Chambers,North Carolina A,Thought,Social Science,loanwords,108,-5
-422,3,3,North Carolina A,Vittal Bhat,Virginia A,Thought,Social Science,loanwords,134,10
-422,3,4,North Carolina A,Vincent Du,Virginia A,Beliefs and Other,Geography,pearl fishing,114,10
-422,3,5,Virginia A,David Bass,North Carolina A,Science,Biology,beta-galactosidase,103,10
-422,3,6,North Carolina A,Jonathan Shauf,Virginia A,Beliefs and Other,Religion,mourning of Muharram,137,-5
-422,3,6,Virginia A,Alana Dickey,North Carolina A,Beliefs and Other,Religion,mourning of Muharram,138,0
-422,3,7,North Carolina A,Jim Fan,Virginia A,Arts,Other Fine Arts,Soviet Union,108,10
-422,3,9,Virginia A,David Bass,North Carolina A,History,World History,Mapuche,107,-5
-422,3,9,North Carolina A,Vittal Bhat,Virginia A,History,World History,Mapuche,122,10
-422,3,10,North Carolina A,Vincent Du,Virginia A,Science,Chemistry,liquid droplets,102,10
-422,3,12,Virginia A,Alana Dickey,North Carolina A,Beliefs and Other,Other Academic,wombs,121,10
-422,3,13,North Carolina A,Vincent Du,Virginia A,Literature,World Literature,Tsitsi Dangarembga,142,10
-422,3,14,North Carolina A,Vincent Du,Virginia A,Arts,Classical Music,Le tombeau de Couperin,96,10
-422,3,15,North Carolina A,Vittal Bhat,Virginia A,History,American History,orange industry,74,10
-422,3,16,North Carolina A,Vincent Du,Virginia A,Science,Physics,cross section,120,10
-422,3,17,North Carolina A,Vincent Du,Virginia A,Arts,Painting/Sculpture,love letters,158,10
-422,3,18,North Carolina A,Vincent Du,Virginia A,Thought,Philosophy,France,67,-5
-422,3,18,Virginia A,Gio Mazzeo,North Carolina A,Thought,Philosophy,France,131,10
-422,3,19,North Carolina A,Vittal Bhat,Virginia A,Literature,American Literature,rain,71,10
-422,3,20,Virginia A,Gio Mazzeo,North Carolina A,Science,Other Science,abelian,85,-5
-422,3,20,North Carolina A,Vincent Du,Virginia A,Science,Other Science,abelian,135,10
+423,3,1,North Carolina A,Jonathan Shauf,Virginia A,Literature,European Literature,the library from The Name of the Rose,134,-5
+423,3,1,Virginia A,Gio Mazzeo,North Carolina A,Literature,European Literature,the library from The Name of the Rose,168,10
+423,3,2,Virginia A,Alana Dickey,North Carolina A,History,Other History,Montreal,96,10
+423,3,3,Virginia A,Joseph Chambers,North Carolina A,Thought,Social Science,loanwords,108,-5
+423,3,3,North Carolina A,Vittal Bhat,Virginia A,Thought,Social Science,loanwords,134,10
+423,3,4,North Carolina A,Vincent Du,Virginia A,Beliefs and Other,Geography,pearl fishing,114,10
+423,3,5,Virginia A,David Bass,North Carolina A,Science,Biology,beta-galactosidase,103,10
+423,3,6,North Carolina A,Jonathan Shauf,Virginia A,Beliefs and Other,Religion,mourning of Muharram,137,-5
+423,3,6,Virginia A,Alana Dickey,North Carolina A,Beliefs and Other,Religion,mourning of Muharram,138,0
+423,3,7,North Carolina A,Jim Fan,Virginia A,Arts,Other Fine Arts,Soviet Union,108,10
+423,3,9,Virginia A,David Bass,North Carolina A,History,World History,Mapuche,107,-5
+423,3,9,North Carolina A,Vittal Bhat,Virginia A,History,World History,Mapuche,122,10
+423,3,10,North Carolina A,Vincent Du,Virginia A,Science,Chemistry,liquid droplets,102,10
+423,3,12,Virginia A,Alana Dickey,North Carolina A,Beliefs and Other,Other Academic,wombs,121,10
+423,3,13,North Carolina A,Vincent Du,Virginia A,Literature,World Literature,Tsitsi Dangarembga,142,10
+423,3,14,North Carolina A,Vincent Du,Virginia A,Arts,Classical Music,Le tombeau de Couperin,96,10
+423,3,15,North Carolina A,Vittal Bhat,Virginia A,History,American History,orange industry,74,10
+423,3,16,North Carolina A,Vincent Du,Virginia A,Science,Physics,cross section,120,10
+423,3,17,North Carolina A,Vincent Du,Virginia A,Arts,Painting/Sculpture,love letters,158,10
+423,3,18,North Carolina A,Vincent Du,Virginia A,Thought,Philosophy,France,67,-5
+423,3,18,Virginia A,Gio Mazzeo,North Carolina A,Thought,Philosophy,France,131,10
+423,3,19,North Carolina A,Vittal Bhat,Virginia A,Literature,American Literature,rain,71,10
+423,3,20,Virginia A,Gio Mazzeo,North Carolina A,Science,Other Science,abelian,85,-5
+423,3,20,North Carolina A,Vincent Du,Virginia A,Science,Other Science,abelian,135,10
 279,4,1,UC Berkeley B,Vinu Harihar,Columbia A,Beliefs and Other,Current Events,Ulster loyalism,108,10
 279,4,2,UC Berkeley B,Vinu Harihar,Columbia A,Science,Physics,electric field,135,10
 279,4,3,Columbia A,John John Groger,UC Berkeley B,History,European History,Bedchamber crisis,132,10
@@ -7876,27 +7876,27 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 337,4,18,Northwestern A,Christopher Sims,Brown A,History,Other History,Jacob Burckhardt,142,10
 337,4,19,Brown A,Jason Hong,Northwestern A,Science,Other Science,astrophysical jets,121,10
 337,4,20,Brown A,Anson Berns,Northwestern A,Literature,British Literature,Bulwer-Lytton,148,10
-415,4,1,Maryland A,Caleb Kendrick,Harvard A,Beliefs and Other,Current Events,Ulster loyalism,78,10
-415,4,2,Harvard A,Arjun Nageswaran,Maryland A,Science,Physics,electric field,151,10
-415,4,3,Maryland A,Caleb Kendrick,Harvard A,History,European History,Bedchamber crisis,110,10
-415,4,4,Maryland A,Caleb Kendrick,Harvard A,Literature,European Literature,Alexandria,111,10
-415,4,5,Harvard A,Mazin Omer,Maryland A,Arts,Painting/Sculpture,George Bellows,138,-5
-415,4,5,Maryland A,Caleb Kendrick,Harvard A,Arts,Painting/Sculpture,George Bellows,145,10
-415,4,6,Maryland A,Stevie Miller,Harvard A,Beliefs and Other,Religion,Myanmar,122,10
-415,4,7,Harvard A,Justin Duffy,Maryland A,Science,Biology,axolotl,96,10
-415,4,8,Harvard A,Cole Timmerwilke,Maryland A,History,American History,Woodrow Wilson,115,10
-415,4,9,Maryland A,Caleb Kendrick,Harvard A,Literature,American Literature,nautilus,138,10
-415,4,10,Maryland A,Caleb Kendrick,Harvard A,Thought,Philosophy,Kyōto University,90,10
-415,4,11,Maryland A,Stevie Miller,Harvard A,History,World History,Malacca,87,10
-415,4,12,Maryland A,Connor Mayers,Harvard A,Arts,Other Fine Arts,Duke Ellington,96,10
-415,4,13,Harvard A,Arjun Nageswaran,Maryland A,Literature,World Literature,Dalits,119,10
-415,4,14,Maryland A,Caleb Kendrick,Harvard A,Arts,Classical Music,Anton Webern,134,10
-415,4,15,Maryland A,Stevie Miller,Harvard A,Thought,Social Science,barriers to entry,107,10
-415,4,16,Harvard A,Mazin Omer,Maryland A,Science,Chemistry,cyclobutane,79,10
-415,4,17,Harvard A,Justin Duffy,Maryland A,Beliefs and Other,Mythology,Pomona,151,10
-415,4,18,Harvard A,Cole Timmerwilke,Maryland A,History,Other History,Jacob Burckhardt,127,10
-415,4,19,Harvard A,Justin Duffy,Maryland A,Science,Other Science,astrophysical jets,131,10
-415,4,20,Maryland A,Stevie Miller,Harvard A,Literature,British Literature,Bulwer-Lytton,135,10
+416,4,1,Maryland A,Caleb Kendrick,Harvard A,Beliefs and Other,Current Events,Ulster loyalism,78,10
+416,4,2,Harvard A,Arjun Nageswaran,Maryland A,Science,Physics,electric field,151,10
+416,4,3,Maryland A,Caleb Kendrick,Harvard A,History,European History,Bedchamber crisis,110,10
+416,4,4,Maryland A,Caleb Kendrick,Harvard A,Literature,European Literature,Alexandria,111,10
+416,4,5,Harvard A,Mazin Omer,Maryland A,Arts,Painting/Sculpture,George Bellows,138,-5
+416,4,5,Maryland A,Caleb Kendrick,Harvard A,Arts,Painting/Sculpture,George Bellows,145,10
+416,4,6,Maryland A,Stevie Miller,Harvard A,Beliefs and Other,Religion,Myanmar,122,10
+416,4,7,Harvard A,Justin Duffy,Maryland A,Science,Biology,axolotl,96,10
+416,4,8,Harvard A,Cole Timmerwilke,Maryland A,History,American History,Woodrow Wilson,115,10
+416,4,9,Maryland A,Caleb Kendrick,Harvard A,Literature,American Literature,nautilus,138,10
+416,4,10,Maryland A,Caleb Kendrick,Harvard A,Thought,Philosophy,Kyōto University,90,10
+416,4,11,Maryland A,Stevie Miller,Harvard A,History,World History,Malacca,87,10
+416,4,12,Maryland A,Connor Mayers,Harvard A,Arts,Other Fine Arts,Duke Ellington,96,10
+416,4,13,Harvard A,Arjun Nageswaran,Maryland A,Literature,World Literature,Dalits,119,10
+416,4,14,Maryland A,Caleb Kendrick,Harvard A,Arts,Classical Music,Anton Webern,134,10
+416,4,15,Maryland A,Stevie Miller,Harvard A,Thought,Social Science,barriers to entry,107,10
+416,4,16,Harvard A,Mazin Omer,Maryland A,Science,Chemistry,cyclobutane,79,10
+416,4,17,Harvard A,Justin Duffy,Maryland A,Beliefs and Other,Mythology,Pomona,151,10
+416,4,18,Harvard A,Cole Timmerwilke,Maryland A,History,Other History,Jacob Burckhardt,127,10
+416,4,19,Harvard A,Justin Duffy,Maryland A,Science,Other Science,astrophysical jets,131,10
+416,4,20,Maryland A,Stevie Miller,Harvard A,Literature,British Literature,Bulwer-Lytton,135,10
 5,5,1,Chicago C,Robert Condron,Florida B,Science,Other Science,air quality,84,10
 5,5,2,Chicago C,Henry Cafaro,Florida B,Literature,American Literature,“Pale Fire”,116,10
 5,5,3,Florida B,Qingyu Zhang,Chicago C,History,Other History,Latins,137,-5
@@ -8411,30 +8411,30 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 375,5,19,UC Berkeley A,Eve Fleisig,Chicago B,Arts,Classical Music,humoresque,43,10
 375,5,20,UC Berkeley A,Shahar Schwartz,Chicago B,Literature,World Literature,Robinson Crusoe,118,-5
 375,5,20,Chicago B,Amogh Kulkarni,UC Berkeley A,Literature,World Literature,Robinson Crusoe,160,10
-408,5,1,Virginia A,Joseph Chambers,Iowa State A,Science,Other Science,air quality,130,10
-408,5,2,Virginia A,Alana Dickey,Iowa State A,Literature,American Literature,“Pale Fire”,27,10
-408,5,3,Iowa State A,JD Kroth,Virginia A,History,Other History,Latins,117,-5
-408,5,3,Virginia A,Gio Mazzeo,Iowa State A,History,Other History,Latins,147,10
-408,5,4,Virginia A,Alana Dickey,Iowa State A,Beliefs and Other,Religion,Digambaras,101,10
-408,5,5,Iowa State A,Guy Indorante,Virginia A,Literature,British Literature,Rebecca,99,10
-408,5,6,Iowa State A,Conor Thompson,Virginia A,Thought,Social Science,Java,126,-5
-408,5,7,Iowa State A,JD Kroth,Virginia A,Science,Physics,virial coefficients,90,-5
-408,5,7,Virginia A,David Bass,Iowa State A,Science,Physics,virial coefficients,136,10
-408,5,8,Iowa State A,Conor Thompson,Virginia A,Arts,Painting/Sculpture,Jean Dubuffet,135,-5
-408,5,8,Virginia A,David Bass,Iowa State A,Arts,Painting/Sculpture,Jean Dubuffet,146,10
-408,5,9,Virginia A,Joseph Chambers,Iowa State A,History,American History,Virginia,84,10
-408,5,10,Iowa State A,Conor Thompson,Virginia A,Beliefs and Other,Geography,India,144,10
-408,5,11,Virginia A,David Bass,Iowa State A,Science,Biology,body size,100,10
-408,5,12,Virginia A,Gio Mazzeo,Iowa State A,Thought,Philosophy,Jacques Lacan,85,10
-408,5,13,Iowa State A,Conor Thompson,Virginia A,Beliefs and Other,Other Academic,chop suey,96,10
-408,5,14,Virginia A,David Bass,Iowa State A,Science,Chemistry,glass transition temperature,119,10
-408,5,15,Iowa State A,JD Kroth,Virginia A,Arts,Other Fine Arts,Hearst family,99,10
-408,5,16,Virginia A,Gio Mazzeo,Iowa State A,History,European History,ETA,116,-5
-408,5,16,Iowa State A,Conor Thompson,Virginia A,History,European History,ETA,130,10
-408,5,17,Virginia A,David Bass,Iowa State A,Literature,European Literature,shipwrecks,128,10
-408,5,18,Iowa State A,JD Kroth,Virginia A,History,World History,Mamluk Sultanate,163,10
-408,5,19,Virginia A,David Bass,Iowa State A,Arts,Classical Music,humoresque,147,0
-408,5,20,Iowa State A,Guy Indorante,Virginia A,Literature,World Literature,Robinson Crusoe,148,10
+409,5,1,Virginia A,Joseph Chambers,Iowa State A,Science,Other Science,air quality,130,10
+409,5,2,Virginia A,Alana Dickey,Iowa State A,Literature,American Literature,“Pale Fire”,27,10
+409,5,3,Iowa State A,JD Kroth,Virginia A,History,Other History,Latins,117,-5
+409,5,3,Virginia A,Gio Mazzeo,Iowa State A,History,Other History,Latins,147,10
+409,5,4,Virginia A,Alana Dickey,Iowa State A,Beliefs and Other,Religion,Digambaras,101,10
+409,5,5,Iowa State A,Guy Indorante,Virginia A,Literature,British Literature,Rebecca,99,10
+409,5,6,Iowa State A,Conor Thompson,Virginia A,Thought,Social Science,Java,126,-5
+409,5,7,Iowa State A,JD Kroth,Virginia A,Science,Physics,virial coefficients,90,-5
+409,5,7,Virginia A,David Bass,Iowa State A,Science,Physics,virial coefficients,136,10
+409,5,8,Iowa State A,Conor Thompson,Virginia A,Arts,Painting/Sculpture,Jean Dubuffet,135,-5
+409,5,8,Virginia A,David Bass,Iowa State A,Arts,Painting/Sculpture,Jean Dubuffet,146,10
+409,5,9,Virginia A,Joseph Chambers,Iowa State A,History,American History,Virginia,84,10
+409,5,10,Iowa State A,Conor Thompson,Virginia A,Beliefs and Other,Geography,India,144,10
+409,5,11,Virginia A,David Bass,Iowa State A,Science,Biology,body size,100,10
+409,5,12,Virginia A,Gio Mazzeo,Iowa State A,Thought,Philosophy,Jacques Lacan,85,10
+409,5,13,Iowa State A,Conor Thompson,Virginia A,Beliefs and Other,Other Academic,chop suey,96,10
+409,5,14,Virginia A,David Bass,Iowa State A,Science,Chemistry,glass transition temperature,119,10
+409,5,15,Iowa State A,JD Kroth,Virginia A,Arts,Other Fine Arts,Hearst family,99,10
+409,5,16,Virginia A,Gio Mazzeo,Iowa State A,History,European History,ETA,116,-5
+409,5,16,Iowa State A,Conor Thompson,Virginia A,History,European History,ETA,130,10
+409,5,17,Virginia A,David Bass,Iowa State A,Literature,European Literature,shipwrecks,128,10
+409,5,18,Iowa State A,JD Kroth,Virginia A,History,World History,Mamluk Sultanate,163,10
+409,5,19,Virginia A,David Bass,Iowa State A,Arts,Classical Music,humoresque,147,0
+409,5,20,Iowa State A,Guy Indorante,Virginia A,Literature,World Literature,Robinson Crusoe,148,10
 14,6,1,Johns Hopkins A,Jonathan Lau,Iowa State A,Arts,Other Fine Arts,two,129,10
 14,6,2,Iowa State A,JD Kroth,Johns Hopkins A,Science,Other Science,neutrino detectors,86,10
 14,6,3,Iowa State A,Guy Indorante,Johns Hopkins A,Literature,American Literature,soldiers,152,0
@@ -9301,7 +9301,7 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 369,7,18,North Carolina A,Jonathan Shauf,Chicago B,History,American History,Underground Railroad,70,10
 369,7,19,Chicago B,John Marvin,North Carolina A,Literature,European Literature,Hungary,134,10
 369,7,20,Chicago B,Vivek Sasse,North Carolina A,History,Other History,Arabia,107,10
-369,7,21,Chicago B,John Marvin,North Carolina A,NA,NA,NA,115,10
+369,7,21,Chicago B,John Marvin,North Carolina A,Arts,Painting/Sculpture,van Ruisdael family,115,10
 370,7,1,Stanford A,Eric Wolfsberg,Northwestern A,Beliefs and Other,Current Events,hijab,99,10
 370,7,2,Stanford A,Tim Morrison,Northwestern A,Literature,World Literature,US–Mexico border,23,10
 370,7,3,Stanford A,Eric Wolfsberg,Northwestern A,Science,Biology,Fallopian tubes,101,10
@@ -9930,25 +9930,25 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 398,8,18,Indiana A,Drake Eshleman,Toronto A,Beliefs and Other,Religion,date palm trees,163,10
 398,8,19,Indiana A,Zane Kierzyk,Toronto A,Beliefs and Other,Current Events,Colorado,70,10
 398,8,20,Toronto A,Ian Chow,Indiana A,History,European History,Leopold I of Belgium,142,10
-417,8,2,UC Berkeley B,Anuttam Ramji,McGill A,Arts,Other Fine Arts,Elsa,107,10
-417,8,3,McGill A,Kevin Fan,UC Berkeley B,History,American History,Superfund,128,10
-417,8,4,McGill A,Jacob Van Oorschot,UC Berkeley B,Arts,Classical Music,Gioachino,66,10
-417,8,5,UC Berkeley B,Vinu Harihar,McGill A,Science,Biology,heritability,129,-5
-417,8,6,McGill A,Cormac Beirne,UC Berkeley B,Literature,European Literature,hotels,94,-5
-417,8,6,UC Berkeley B,Anuttam Ramji,McGill A,Literature,European Literature,hotels,165,10
-417,8,7,UC Berkeley B,Vinu Harihar,McGill A,Science,Chemistry,solvation,121,10
-417,8,8,McGill A,Kevin Fan,UC Berkeley B,Literature,World Literature,Israel,150,10
-417,8,9,McGill A,Kevin Fan,UC Berkeley B,History,World History,Muhammad Ali Pasha,106,10
-417,8,10,McGill A,Kevin Fan,UC Berkeley B,Thought,Social Science,justice,123,10
-417,8,11,McGill A,Cormac Beirne,UC Berkeley B,Literature,American Literature,camp,129,10
-417,8,12,McGill A,Cormac Beirne,UC Berkeley B,Arts,Painting/Sculpture,Peter Paul Rubens,124,10
-417,8,13,UC Berkeley B,Vinu Harihar,McGill A,Beliefs and Other,Mythology,iron,152,10
-417,8,14,McGill A,Kevin Fan,UC Berkeley B,History,Other History,Gallipoli peninsula,128,10
-417,8,15,UC Berkeley B,Kevin Ye,McGill A,Science,Physics,Henri Poincaré,89,10
-417,8,16,UC Berkeley B,Anuttam Ramji,McGill A,Literature,British Literature,Arcadia,99,10
-417,8,18,UC Berkeley B,Anuttam Ramji,McGill A,Beliefs and Other,Religion,date palm trees,69,10
-417,8,19,UC Berkeley B,Vinu Harihar,McGill A,Beliefs and Other,Current Events,Colorado,70,10
-417,8,20,McGill A,Kevin Fan,UC Berkeley B,History,European History,Leopold I of Belgium,165,10
+418,8,2,UC Berkeley B,Anuttam Ramji,McGill A,Arts,Other Fine Arts,Elsa,107,10
+418,8,3,McGill A,Kevin Fan,UC Berkeley B,History,American History,Superfund,128,10
+418,8,4,McGill A,Jacob Van Oorschot,UC Berkeley B,Arts,Classical Music,Gioachino,66,10
+418,8,5,UC Berkeley B,Vinu Harihar,McGill A,Science,Biology,heritability,129,-5
+418,8,6,McGill A,Cormac Beirne,UC Berkeley B,Literature,European Literature,hotels,94,-5
+418,8,6,UC Berkeley B,Anuttam Ramji,McGill A,Literature,European Literature,hotels,165,10
+418,8,7,UC Berkeley B,Vinu Harihar,McGill A,Science,Chemistry,solvation,121,10
+418,8,8,McGill A,Kevin Fan,UC Berkeley B,Literature,World Literature,Israel,150,10
+418,8,9,McGill A,Kevin Fan,UC Berkeley B,History,World History,Muhammad Ali Pasha,106,10
+418,8,10,McGill A,Kevin Fan,UC Berkeley B,Thought,Social Science,justice,123,10
+418,8,11,McGill A,Cormac Beirne,UC Berkeley B,Literature,American Literature,camp,129,10
+418,8,12,McGill A,Cormac Beirne,UC Berkeley B,Arts,Painting/Sculpture,Peter Paul Rubens,124,10
+418,8,13,UC Berkeley B,Vinu Harihar,McGill A,Beliefs and Other,Mythology,iron,152,10
+418,8,14,McGill A,Kevin Fan,UC Berkeley B,History,Other History,Gallipoli peninsula,128,10
+418,8,15,UC Berkeley B,Kevin Ye,McGill A,Science,Physics,Henri Poincaré,89,10
+418,8,16,UC Berkeley B,Anuttam Ramji,McGill A,Literature,British Literature,Arcadia,99,10
+418,8,18,UC Berkeley B,Anuttam Ramji,McGill A,Beliefs and Other,Religion,date palm trees,69,10
+418,8,19,UC Berkeley B,Vinu Harihar,McGill A,Beliefs and Other,Current Events,Colorado,70,10
+418,8,20,McGill A,Kevin Fan,UC Berkeley B,History,European History,Leopold I of Belgium,165,10
 2,9,1,Cornell A,Geoffrey Chen,North Carolina A,Thought,Philosophy,progress,104,-5
 2,9,1,North Carolina A,Vittal Bhat,Cornell A,Thought,Philosophy,progress,160,10
 2,9,2,Cornell A,Geoffrey Chen,North Carolina A,Science,Physics,dipoles,106,10
