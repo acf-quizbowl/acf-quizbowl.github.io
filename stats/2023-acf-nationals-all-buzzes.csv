@@ -7876,6 +7876,29 @@ game_id,round,tossup,team,player,opponent,category,subcategory,answer,buzz_posit
 337,4,18,Northwestern A,Christopher Sims,Brown A,History,Other History,Jacob Burckhardt,142,10
 337,4,19,Brown A,Jason Hong,Northwestern A,Science,Other Science,astrophysical jets,121,10
 337,4,20,Brown A,Anson Berns,Northwestern A,Literature,British Literature,Bulwer-Lytton,148,10
+408,4,1,Virginia A,Gio Mazzeo,Cornell A,Beliefs and Other,Current Events,Ulster loyalism,78,10
+408,4,2,Cornell A,Geoffrey Chen,Virginia A,Science,Physics,electric field,125,10
+408,4,3,Cornell A,Jonathan Tran,Virginia A,History,European History,Bedchamber crisis,107,10
+408,4,4,Cornell A,Raymond Wang,Virginia A,Literature,European Literature,Alexandria,57,10
+408,4,5,Cornell A,Nathan Zhang,Virginia A,Arts,Painting/Sculpture,George Bellows,100,10
+408,4,6,Cornell A,Raymond Wang,Virginia A,Beliefs and Other,Religion,Myanmar,99,-5
+408,4,6,Virginia A,Alana Dickey,Cornell A,Beliefs and Other,Religion,Myanmar,143,10
+408,4,7,Virginia A,David Bass,Cornell A,Science,Biology,axolotl,106,-5
+408,4,7,Cornell A,Geoffrey Chen,Virginia A,Science,Biology,axolotl,115,10
+408,4,8,Virginia A,David Bass,Cornell A,History,American History,Woodrow Wilson,121,10
+408,4,9,Cornell A,Raymond Wang,Virginia A,Literature,American Literature,nautilus,137,10
+408,4,10,Cornell A,Nathan Zhang,Virginia A,Thought,Philosophy,Kyōto University,102,10
+408,4,11,Cornell A,Jonathan Tran,Virginia A,History,World History,Malacca,127,10
+408,4,12,Virginia A,Joseph Chambers,Cornell A,Arts,Other Fine Arts,Duke Ellington,104,10
+408,4,13,Cornell A,Nathan Zhang,Virginia A,Literature,World Literature,Dalits,95,10
+408,4,14,Cornell A,Raymond Wang,Virginia A,Arts,Classical Music,Anton Webern,69,10
+408,4,15,Virginia A,Joseph Chambers,Cornell A,Thought,Social Science,barriers to entry,90,10
+408,4,16,Cornell A,Geoffrey Chen,Virginia A,Science,Chemistry,cyclobutane,99,-5
+408,4,17,Virginia A,David Bass,Cornell A,Beliefs and Other,Mythology,Pomona,143,-5
+408,4,17,Cornell A,Raymond Wang,Virginia A,Beliefs and Other,Mythology,Pomona,152,10
+408,4,18,Cornell A,Geoffrey Chen,Virginia A,History,Other History,Jacob Burckhardt,105,-5
+408,4,19,Cornell A,Geoffrey Chen,Virginia A,Science,Other Science,astrophysical jets,65,10
+408,4,20,Cornell A,Raymond Wang,Virginia A,Literature,British Literature,Bulwer-Lytton,148,10
 416,4,1,Maryland A,Caleb Kendrick,Harvard A,Beliefs and Other,Current Events,Ulster loyalism,78,10
 416,4,2,Harvard A,Arjun Nageswaran,Maryland A,Science,Physics,electric field,151,10
 416,4,3,Maryland A,Caleb Kendrick,Harvard A,History,European History,Bedchamber crisis,110,10

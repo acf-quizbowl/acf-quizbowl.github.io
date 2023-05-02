@@ -20915,6 +20915,60 @@ game_id,round,tossup,bonus,team,opponent,category,subcategory,part,answer,diff,v
 407,7,20,15,Texas A,Rutgers B,Thought,Social Science,part1,Modern Standard Arabic,m,0
 407,7,20,15,Texas A,Rutgers B,Thought,Social Science,part2,code-switching,e,10
 407,7,20,15,Texas A,Rutgers B,Thought,Social Science,part3,Dārija,h,0
+408,4,1,1,Virginia A,Cornell A,Literature,World Literature,part1,panthers,h,10
+408,4,1,1,Virginia A,Cornell A,Literature,World Literature,part2,Mexico,e,10
+408,4,1,1,Virginia A,Cornell A,Literature,World Literature,part3,Juan Rulfo,m,10
+408,4,2,2,Cornell A,Virginia A,Arts,Painting/Sculpture,part1,Alfred Barr’s diagram,h,0
+408,4,2,2,Cornell A,Virginia A,Arts,Painting/Sculpture,part2,Orphism,m,10
+408,4,2,2,Cornell A,Virginia A,Arts,Painting/Sculpture,part3,Russia,e,10
+408,4,3,3,Cornell A,Virginia A,Science,Chemistry,part1,aqua regia,e,10
+408,4,3,3,Cornell A,Virginia A,Science,Chemistry,part2,frits,h,0
+408,4,3,3,Cornell A,Virginia A,Science,Chemistry,part3,Birch reduction,m,0
+408,4,4,4,Cornell A,Virginia A,Beliefs and Other,Religion,part1,Abū Hurayra,h,0
+408,4,4,4,Cornell A,Virginia A,Beliefs and Other,Religion,part2,Ā’isha,e,0
+408,4,4,4,Cornell A,Virginia A,Beliefs and Other,Religion,part3,prostration to their husbands,m,10
+408,4,5,5,Cornell A,Virginia A,History,American History,part1,Puerto Rican,m,10
+408,4,5,5,Cornell A,Virginia A,History,American History,part2,Garbage Offensive,h,0
+408,4,5,5,Cornell A,Virginia A,History,American History,part3,Black Panther Party,e,10
+408,4,6,6,Virginia A,Cornell A,Science,Physics,part1,Foucault,m,10
+408,4,6,6,Virginia A,Cornell A,Science,Physics,part2,Coriolis force,e,10
+408,4,6,6,Virginia A,Cornell A,Science,Physics,part3,parallel transport,h,0
+408,4,7,7,Cornell A,Virginia A,Thought,Social Science,part1,Yerkes–Dodson law,m,10
+408,4,7,7,Cornell A,Virginia A,Thought,Social Science,part2,J. A. Easterbrook,h,0
+408,4,7,7,Cornell A,Virginia A,Thought,Social Science,part3,flow state,e,10
+408,4,8,8,Virginia A,Cornell A,Literature,American Literature,part1,Master Class,h,0
+408,4,8,8,Virginia A,Cornell A,Literature,American Literature,part2,Terrence McNally,m,0
+408,4,8,8,Virginia A,Cornell A,Literature,American Literature,part3,AIDS,e,10
+408,4,9,9,Cornell A,Virginia A,Beliefs and Other,Geography,part1,rượu đế,h,0
+408,4,9,9,Cornell A,Virginia A,Beliefs and Other,Geography,part2,Mekong River,e,10
+408,4,9,9,Cornell A,Virginia A,Beliefs and Other,Geography,part3,Taipei,m,10
+408,4,10,10,Cornell A,Virginia A,History,Other History,part1,Falklands War,e,10
+408,4,10,10,Cornell A,Virginia A,History,Other History,part2,“rejoice”,h,0
+408,4,10,10,Cornell A,Virginia A,History,Other History,part3,Goose Green,m,10
+408,4,11,11,Cornell A,Virginia A,Science,Other Science,part1,general circulation models,m,10
+408,4,11,11,Cornell A,Virginia A,Science,Other Science,part2,equilibrium climate sensitivity,h,10
+408,4,11,11,Cornell A,Virginia A,Science,Other Science,part3,radiation,e,10
+408,4,12,12,Virginia A,Cornell A,History,European History,part1,Harald,e,10
+408,4,12,12,Virginia A,Cornell A,History,European History,part2,birchbark,h,10
+408,4,12,12,Virginia A,Cornell A,History,European History,part3,jarls,m,10
+408,4,13,13,Cornell A,Virginia A,Arts,Classical Music,part1,String Quartet No. 13 in B-flat major,h,0
+408,4,13,13,Cornell A,Virginia A,Arts,Classical Music,part2,Grosse Fuge,m,10
+408,4,13,13,Cornell A,Virginia A,Arts,Classical Music,part3,Alexander Borodin,e,10
+408,4,14,14,Cornell A,Virginia A,Literature,European Literature,part1,Lehman Brothers,h,0
+408,4,14,14,Cornell A,Virginia A,Literature,European Literature,part2,Yiddish,e,10
+408,4,14,14,Cornell A,Virginia A,Literature,European Literature,part3,Elfriede Jelinek,m,0
+408,4,15,15,Virginia A,Cornell A,Thought,Philosophy,part1,signs,e,10
+408,4,15,15,Virginia A,Cornell A,Thought,Philosophy,part2,induction AND abduction,m,10
+408,4,15,15,Virginia A,Cornell A,Thought,Philosophy,part3,tychasm,h,0
+408,4,17,16,Cornell A,Virginia A,Beliefs and Other,Other Academic,part1,zoot suits,e,10
+408,4,17,16,Cornell A,Virginia A,Beliefs and Other,Other Academic,part2,Lalo Guerrero,h,0
+408,4,17,16,Cornell A,Virginia A,Beliefs and Other,Other Academic,part3,pachucos,m,0
+408,4,19,17,Cornell A,Virginia A,History,World History,part1,imperialism,m,10
+408,4,19,17,Cornell A,Virginia A,History,World History,part2,Columbian Exchange,e,10
+408,4,19,17,Cornell A,Virginia A,History,World History,part3,McNeill,h,0
+408,4,20,18,Cornell A,Virginia A,Arts,Other Fine Arts,part1,paper,m,0
+408,4,20,18,Cornell A,Virginia A,Arts,Other Fine Arts,part2,flowers,e,10
+408,4,20,18,Cornell A,Virginia A,Arts,Other Fine Arts,part3,Akira Yoshizawa,h,0
 409,5,1,1,Virginia A,Iowa State A,Science,Biology,part1,T cell exhaustion,m,0
 409,5,1,1,Virginia A,Iowa State A,Science,Biology,part2,viral load,e,10
 409,5,1,1,Virginia A,Iowa State A,Science,Biology,part3,CAR-T therapy,h,0
