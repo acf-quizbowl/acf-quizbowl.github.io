@@ -7,10 +7,16 @@ layout: home
 <h1 id="updates-heading">Recent updates</h1>
 
 #### January 31, 2023
-[2023 ACF Regionals A-values](https://hsquizbowl.org/forums/viewtopic.php?p=393225#p393225)
-: A-values from Regionals and teams who qualified for 2023 ACF Nationals have been posted.
+[Subject editor applications now open](https://hsquizbowl.org/forums/viewtopic.php?t=27051)
+: Editor applications for Fall, Winter, and Regionals will be open until 11:59 ET on June 25, 2023.
+
+[2023-24 officers, head editors, and member changes announced](https://hsquizbowl.org/forums/viewtopic.php?p=395399#p395399)
 
 {% comment %}
+
+#### January 31, 2023
+[2023 ACF Regionals A-values](https://hsquizbowl.org/forums/viewtopic.php?p=393225#p393225)
+: A-values from Regionals and teams who qualified for 2023 ACF Nationals have been posted.
 
 #### August 4, 2022
 [2022 ACF Fall announced](/fall)
