@@ -31,7 +31,7 @@ ACF’s officers also serve as ACF’s board of directors.
 <td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Matthew Bollinger</td>
+<td>Matt Bollinger</td>
 <td>Editor-in-Chief</td>
 <td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
 </tr>
