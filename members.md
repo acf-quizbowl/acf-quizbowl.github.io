@@ -71,22 +71,22 @@ ACF’s officers also serve as ACF’s board of directors.
 <tbody>
 <tr>
 <td>Sean Farrell</td>
-<td>2022 ACF Fall</td>
+<td>2023 ACF Fall</td>
 <td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Ethan Ashbrook</td>
-<td>2022 ACF Winter</td>
+<td>2023 ACF Winter</td>
 <td><a href="mailto:winter@acf-quizbowl.com">winter@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Eve Fleisig</td>
-<td>2023 ACF Regionals</td>
+<td>2024 ACF Regionals</td>
 <td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Nick Jensen</td>
-<td>2023 ACF Nationals</td>
+<td>2024 ACF Nationals</td>
 <td><a href="mailto:nationals@acf-quizbowl.com">nationals@acf-quizbowl.com</a></td>
 </tr>
 </tbody>
@@ -136,6 +136,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Editor-in-Chief, 2023-24</li>
 <li>2021 ACF Nationals co-Head Editor</li>
 <li>Editor-in-Chief, 2020-21</li>
 <li>Communications Officer, 2019-20</li>
@@ -164,23 +165,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
-<tr>
-<td>Billy Busse</td>
-<td>
-<ul>
-<li>Alumnus, University of Illinois, Urbana-Champaign</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>President, 2019-20</li>
-<li>2020 ACF Regionals Science Oversight</li>
-<li>Meeting Chair, 2018-19</li>
-<li>2016 ACF Nationals Editor</li>
-<li>2015 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Rob Carson</td>
 <td>
@@ -262,6 +247,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>President, 2023-24</li>
 <li>2023 ACF Nationals Editor</li>
 <li>Treasurer, 2021-23</li>
 <li>2022 ACF Regionals Editor</li>
@@ -271,22 +257,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
-<tr>
-<td>Andrew Feist</td>
-<td>
-<ul>
-<li>A.M. and PhD, Duke University</li>
-<li>Alumnus, University of Central Missouri</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Treasurer, 2019-19</li>
-<li>2019 ACF Nationals Stats Director</li>
-<li>2018 ACF Nationals Stats Director</li>
-</ul>
-</td>
-</tr>
+
 <tr>
 <td>Andrew Hart</td>
 <td>
@@ -321,6 +292,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Head Editor</li>
+<li>2023 ACF Regionals Head Editor</li>
 <li>Editor-in-Chief, 2022-23</li>
 <li>2023 ACF Regionals Head Editor</li>
 <li>2022 ACF Regionals Editor</li>
@@ -339,6 +312,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Tournament Director</li>
 <li>2023 ACF Nationals Editor</li>
 <li>President, 2022-23</li>
 <li>2022 ACF Nationals Tournament Director</li>
@@ -432,22 +406,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tr>
 
 <tr>
-<td>Evan Lynch</td>
-<td>
-<ul>
-<li>PhD Student, University of Southampton</li>
-<li>Alumnus, University of Cambridge</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Regionals Logistics Support</li>
-<li>2019 ACF Fall Logistics Support</li>
-<li>2017 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Caroline Mao</td>
 <td>
 <ul>
@@ -457,7 +415,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>2023 ACF Nationals Editor</li>
-<li>Webmaster, 2022-23</li>
+<li>Webmaster, 2022-24</li>
 <li>2021-23 ACF Nationals Program Designer</li>
 <li>Communications Officer, 2020-21</li>
 <li>2019 ACF Fall Editor</li>
@@ -842,6 +800,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2023 ACF Winter Head Editor</li>
 <li>2022 ACF Winter Editor</li>
 <li>2021 ACF Winter Editor</li>
 </ul>
@@ -920,6 +879,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Treasurer, 2023-24</li>
 <li>Site Coordinator, 2022-23</li>
 <li>2022 ACF Regionals Tournament Director</li>
 <li>2021 ACF Winter Tournament Director</li>
@@ -1001,6 +961,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Communications Officer, 2023-24</li>
 <li>2023 ACF Nationals Liveblogging/On-site Communications Coordinator</li>
 <li>2022 ACF Nationals Assistant Tournament Director</li>
 </ul>
@@ -1024,19 +985,6 @@ Provisional members are community members who have ably assisted ACF in the past
 </thead>
 
 <tbody>
-<tr>
-<td>Geoffrey Chen</td>
-<td>
-<ul>
-<li>Cornell University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
 
 <tr>
 <td>Halle Friedman</td>
@@ -1073,20 +1021,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2021 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Wonyoung Jang</td>
-<td>
-<ul>
-<li>University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
@@ -1157,20 +1091,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2021 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Tracy Mirkin</td>
-<td>
-<ul>
-<li>University of Florida</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -1283,6 +1203,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
+<li>2024 ACF Regionals Head Editor</li>
 <li>2022 ACF Winter Editor</li>
 </ul>
 </td>
@@ -1325,6 +1246,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
+<li>2023 ACF Fall Head Editor</li>
 <li>2022 ACF Fall Editor</li>
 </ul>
 </td>
@@ -1353,6 +1275,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
+<li>Site Coordinator, 2023-24</li>
 <li>2023 ACF Regionals Tournament Director</li>
 <li>2022 ACF Fall Tournament Director</li>
 </ul>
@@ -1432,6 +1355,58 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </thead>
 
 <tbody>
+
+<tr>
+<td>Evan Lynch</td>
+<td>
+<ul>
+<li>PhD Student, University of Southampton</li>
+<li>Alumnus, University of Cambridge</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Regionals Logistics Support</li>
+<li>2019 ACF Fall Logistics Support</li>
+<li>2017 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Andrew Feist</td>
+<td>
+<ul>
+<li>A.M. and PhD, Duke University</li>
+<li>Alumnus, University of Central Missouri</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Treasurer, 2019-19</li>
+<li>2019 ACF Nationals Stats Director</li>
+<li>2018 ACF Nationals Stats Director</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Billy Busse</td>
+<td>
+<ul>
+<li>Alumnus, University of Illinois, Urbana-Champaign</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>President, 2019-20</li>
+<li>2020 ACF Regionals Science Oversight</li>
+<li>Meeting Chair, 2018-19</li>
+<li>2016 ACF Nationals Editor</li>
+<li>2015 ACF Nationals Editor</li>
+</ul>
+</td>
+</tr>
 
 <tr>
 <td>Jonathan Pinyan</td>
