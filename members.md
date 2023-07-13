@@ -286,7 +286,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Nick Jensen</td>
 <td>
 <ul>
-<li>PhD Student, University of California, Davis</li>
+<li>M.S., University of California, Davis</li>
 <li>Alumnus, Dartmouth College</li>
 </ul>
 </td>
@@ -381,6 +381,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2023 ACF Nationals Logistics</li>
+<li>2022 ACF Fall Proofreading</li>
 <li>2021 ACF Fall Head Editor</li>
 <li>2019 ACF Fall Editor</li>
 </ul>
@@ -456,7 +458,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Nitin Rao</td>
 <td>
 <ul>
-<li>University of Pennsylvania</li>
+<li>J.D., Harvard Law School</li>
+<li>Alumnus, University of Pennsylvania</li>
 </ul>
 </td>
 <td>
@@ -506,7 +509,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Bernadette Spencer</td>
 <td>
 <ul>
-<li>Minnesota</li>
+<li>Alumna, University of Minnesota</li>
 </ul>
 </td>
 <td>
@@ -605,10 +608,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tr>
 
 <tr>
-<td>Alex Hardwick</td>
+<td>Alexandra Hardwick</td>
 <td>
 <ul>
-<li>Oxford University</li>
+<li>Alumna, Oxford University</li>
 </ul>
 </td>
 <td>
@@ -673,7 +676,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>M.Ed., Vanderbilt University</li>
-<li>Alumnus, Auburn University</li>
+<li>Alum, Auburn University</li>
 </ul>
 </td>
 <td>
@@ -720,7 +723,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Steven Liu</td>
 <td>
 <ul>
-<li>MIT</li>
+<li>Alumnus, MIT</li>
 </ul>
 </td>
 <td>
@@ -812,12 +815,14 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>University of Oklahoma</li>
+<li>Formerly The Ohio State University</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>2021 ACF Winter Tournament Director</li>
 <li>2023 ACF Nationals Assistant Tournament Director</li>
+<li>2022 ACF Fall Tournament Director</li>
+<li>2021 ACF Winter Tournament Director</li>
 </ul>
 </td>
 </tr>
@@ -841,6 +846,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Hasna Karim</td>
 <td>
 <ul>
+<li>M.D. Candidate, Medical University of South Carolina</li>
 <li>Alumna, Yale University</li>
 </ul>
 </td>
@@ -1128,7 +1134,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Jacob Egol</td>
 <td>
 <ul>
-<li>Duke University</li>
+<li>Alumnus, Duke University</li>
 </ul>
 </td>
 <td>
@@ -1270,7 +1276,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Tomás Aguilar-Fraga</td>
 <td>
 <ul>
-<li> </li>
+<li>Alumnus, Claremont Colleges</li>
 </ul>
 </td>
 <td>
@@ -1394,6 +1400,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <td>Billy Busse</td>
 <td>
 <ul>
+<li>M.D. Candidate, Rosalind Franklin University</li>
 <li>Alumnus, University of Illinois, Urbana-Champaign</li>
 </ul>
 </td>
@@ -1654,11 +1661,13 @@ Alumnus, Washington University in St. Louis
 <td>Matt Jackson</td>
 <td>
 <ul>
+<li>University of Chicago</li>
 <li>Alumnus, Yale University</li>
 </ul>
 </td>
 <td>
 <ul>
+<li>2022 ACF Nationals High-Volume Writer</li>
 <li>Lead writer, August 2016 ACF rules revision</li>
 <li>2015 ACF Nationals Assistant Tournament Director</li>
 <li>2015 ACF Regionals Head Editor</li>
@@ -1917,7 +1926,8 @@ Alumnus, Washington University in St. Louis
 <td>Mike Sorice</td>
 <td>
 <ul>
-<li>PhD Candidate, Nuclear, Plasma, and Radiological Engineering, University of Illinois</li>
+<li>Alumnus, University of Illinois</li>
+<li>Alumnus, Eastern Illinois University</li>
 </ul>
 </td>
 <td>
