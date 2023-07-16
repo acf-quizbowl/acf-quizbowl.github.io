@@ -1180,6 +1180,10 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2022 ACF Winter Editor</li>
+<li>2022 ACF Nationals Editor</li>
+<li>2021 ACF Nationals Editor</li>
+<li>2010 ACF Winter Editor</li>
+<li>2009 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
