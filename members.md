@@ -831,7 +831,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>William Golden</td>
 <td>
 <ul>
-<li>University of Texas at Austin</li>
+<li>Alumnus, University of Texas at Austin</li>
 </ul>
 </td>
 <td>
@@ -897,7 +897,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Grant Peet</td>
 <td>
 <ul>
-<li>University of North Carolina, Chapel Hill</li>
+<li>Alumnus, University of North Carolina, Chapel Hill</li>
 </ul>
 </td>
 <td>
