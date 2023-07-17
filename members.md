@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: June 7, 2023
+last_updated: July 17, 2023
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
