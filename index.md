@@ -6,6 +6,10 @@ layout: home
 
 <h1 id="updates-heading">Recent updates</h1>
 
+#### July 9, 2023
+[2023-24 subject editors announced](https://hsquizbowl.org/forums/viewtopic.php?p=395751#p395751)
+: Editor applications are now closed. Thank you to everyone who applied!
+
 #### June 7, 2023
 [Subject editor applications now open](https://hsquizbowl.org/forums/viewtopic.php?t=27051)
 : Editor applications for Fall, Winter, and Regionals will be open until 11:59 ET on June 25, 2023.
