@@ -3,7 +3,7 @@ layout: page
 title: ACF Nationals
 permalink: /nationals/
 nav_order: 4
-last_updated: September 26, 2023
+last_updated: September 8, 2022
 ---
 
 **ACF Nationals** is the premier collegiate quizbowl national championship. For over 25 years, ACF Nationals has been the ultimate test of collegiate quizbowl teams' skill on the hardest and biggest question set of the season.
