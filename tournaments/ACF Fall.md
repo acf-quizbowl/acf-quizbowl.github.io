@@ -128,7 +128,7 @@ Overflow/Online                        | [Iowa](https://hsquizbowl.org/forums/vi
 High-school-only, online | [Nationwide](https://hsquizbowl.org/forums/viewtopic.php?t=27302), California
 
 ## High school teams and high-school-only mirrors
-ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2022 ACF Fall, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). However, we do not plan to offer mixed mirrors that include high school and college teams.
+ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2023 ACF Fall, email [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com). However, we do not plan to offer mixed mirrors that include high school and college teams.
 
 If you have any questions, email [fall@acf-quizbowl.com](fall@acf-quizbowl.com).
 
