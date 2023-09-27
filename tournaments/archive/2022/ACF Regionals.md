@@ -3,7 +3,7 @@ layout: page
 title: ACF Regionals
 permalink: /regionals/
 nav_order: 3
-last_updated: September 26, 2023
+last_updated: October 6, 2022
 ---
 
 **ACF Regionals** is a difficult tournament that serves as a qualifier for ACF Nationals. ACF Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience. Many players will find ACF Regionals to be a significant but rewarding challenge.
