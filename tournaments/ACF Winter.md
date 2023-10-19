@@ -3,7 +3,7 @@ layout: page
 title: ACF Winter
 permalink: /winter/
 nav_order: 2.5
-last_updated: September 26, 2023
+last_updated: October 19, 2023
 ---
 
 **ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
@@ -14,7 +14,7 @@ last_updated: September 26, 2023
 {:toc}
 
 # 2023 ACF Winter
-[2023 ACF Winter](https://hsquizbowl.org/forums/viewtopic.php?t=26240) will be held on November 11, 2023.
+[2023 ACF Winter](https://hsquizbowl.org/forums/viewtopic.php?t=27189) will be held on November 11, 2023.
 
 ## Editors
 2023 ACF Winter is head-edited by Ethan Ashbrook.
@@ -42,10 +42,10 @@ Evan Knox | Religion, Geography, Current Events, Other Academic, Pop Culture
 We hope that ACF Winter can be held in person. However, we acknowledge that some schools remain uncertain about the possibility of allowing large events due to the COVID-19 pandemic. Thus, it is possible that some mirrors of ACF Winter will be held online, and we will work to create the most authentic and engaging quizbowl experience possible under these circumstances. We will continue to post updates as we learn more.
 
 ## Registration
-The team registration form is available [here](https://docs.google.com/forms/d/e/1FAIpQLSckJO9ujN0bWYQtdIdujodzkifOV-HIoRfkeZ-rfaw43CfeAQ/viewform). The staff registration form is available [here](https://docs.google.com/forms/d/e/1FAIpQLSeyoPWAKdHxBoc7UeBaW3pQUotjx0Om_0WeGd-CJxN_rvb0pQ/viewform). The fields for each site is available [here](https://docs.google.com/spreadsheets/d/1pLDH50gLkJ6f0FvFSJp9mCoHi51QWnQBZxiWnKPt1aQ/edit?fbclid=IwAR1IURy7ABtBCkqS3GFx8PcfLsvOSKb0sGa8atEZ7bSnBvgesHkiklVKj10#gid=583264051).
+The team registration form is available [here](https://docs.google.com/forms/d/e/1FAIpQLSckJO9ujN0bWYQtdIdujodzkifOV-HIoRfkeZ-rfaw43CfeAQ/viewform). The staff registration form is available [here](https://docs.google.com/forms/d/e/1FAIpQLSeyoPWAKdHxBoc7UeBaW3pQUotjx0Om_0WeGd-CJxN_rvb0pQ/viewform).
 
 ## Field
-The field for each site can be found [here](https://docs.google.com/spreadsheets/d/1uzLkkq1pOyFuIDccI_uWrJPrAdHfbC9cnR9Hd2yaWEo/edit).
+The fields for each site are available [here](https://docs.google.com/spreadsheets/d/1pLDH50gLkJ6f0FvFSJp9mCoHi51QWnQBZxiWnKPt1aQ/edit?fbclid=IwAR1IURy7ABtBCkqS3GFx8PcfLsvOSKb0sGa8atEZ7bSnBvgesHkiklVKj10#gid=583264051).
 
 ## Fees
 
@@ -120,15 +120,15 @@ Upstate NY                | [Binghamton](https://hsquizbowl.org/forums/viewtopic
 Upper Mid-Atlantic        | [Columbia](https://hsquizbowl.org/forums/viewtopic.php?t=27322)
 Lower Mid-Atlantic        | [Virginia](https://hsquizbowl.org/forums/viewtopic.php?t=27321)
 Southeast                 | [Georgia Tech](https://hsquizbowl.org/forums/viewtopic.php?t=27340)
-Florida                   |
+Florida                   | University of Central Florida
 Great Lakes               |
 Midwest                   | [Northwestern](https://hsquizbowl.org/forums/viewtopic.php?t=27325)
 North                     | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?t=27335)
-South Central             | Kansas State
+South Central             | [Kansas State](https://hsquizbowl.org/forums/viewtopic.php?p=396913])
 California                | [Berkeley](https://hsquizbowl.org/forums/viewtopic.php?t=27355)
 Northwest                 | [British Columbia](https://hsquizbowl.org/forums/viewtopic.php?t=27330)
 Eastern Canada            | [Toronto](https://hsquizbowl.org/forums/viewtopic.php?t=27354)
-United Kingdom            | Oxford
+United Kingdom            | [Oxford](https://hsquizbowl.org/forums/viewtopic.php?t=27417)
 Online Overflow | [Purdue](https://hsquizbowl.org/forums/viewtopic.php?t=27336)
 
 ## Past tournaments
