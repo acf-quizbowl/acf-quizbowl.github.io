@@ -14,7 +14,7 @@ last_updated: September 26, 2023
 {:toc}
 
 # 2024 ACF Regionals
-[2024 ACF Regionals](https://hsquizbowl.org/forums/viewtopic.php?t=26374) will be held on January 27, 2024.
+[2024 ACF Regionals](https://hsquizbowl.org/forums/viewtopic.php?t=27226) will be held on January 27, 2024.
 
 ## Editors
 2024 ACF Regionals is head-edited by Eve Fleisig.
