@@ -54,7 +54,7 @@ Submission deadline | Packet discount
 October 25, 2023  | −$75
 November 10, 2023 | −$50
 November 25, 2023 | −$25
-December 10, 2023 | −$0 (no penalty)
+December 13, 2023 | −$0 (no penalty)
 January 27, 2023 | +$25
 January 3, 2024 | +$50
 
@@ -102,22 +102,23 @@ If your school would like to host a mirror of ACF Regionals, please submit a bid
 ## Sites
 Mirrors will by default be regional. If any sites end up being online, ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2024 ACF Regionals in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
-Region              | Site | Type
--                   | -    | -
-Northeast           | |
-Upstate NY          | |
-Upper Mid-Atlantic  | |
-Lower Mid-Atlantic  | |
-Southeast           | |
-Florida             | |
-Great Lakes         | |
-Midwest             | |
-North               | |
-South Central       | |
-California          | |
-Northwest           | |
-Eastern Canada      | |
-UK                  | |
+Region              | Site
+-                   | -   
+Northeast           | MIT 
+Upstate NY          | Cornell 
+Upper Mid-Atlantic  | Rutgers 
+Lower Mid-Atlantic  | James Madison 
+Southeast           | Vanderbilt 
+Florida             | 
+Great Lakes         | Ohio State 
+Midwest             | Purdue 
+North               | Minnesota 
+South Central       | 
+California          | Berkeley 
+Northwest           | 
+Eastern Canada      | Ottawa 
+UK                  | 
+Online              | Nebraska-Lincoln 
 
 If you have any questions, email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 
