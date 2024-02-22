@@ -4,7 +4,7 @@ layout: home
 
 <!-- Set title and description in config.yml -->
 
-<h1 id="updates-heading">Recent updates</h1>
+<h1>Recent updates</h1>
 
 #### July 9, 2023
 [2023-24 subject editors announced](https://hsquizbowl.org/forums/viewtopic.php?p=395751#p395751)

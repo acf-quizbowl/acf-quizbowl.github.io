@@ -42,7 +42,7 @@
   }
 }
 
-#tournaments {
+.tournaments {
   display:flex;
   justify-content:space-evenly;
   flex-wrap:wrap;
@@ -109,7 +109,7 @@
     }
 }
 
-#updates-heading {
+body.home h1 {
   color:$blue-dark;
   padding-top:15px;
   text-align:center;
