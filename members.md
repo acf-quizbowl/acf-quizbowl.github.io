@@ -70,8 +70,8 @@ ACF’s officers also serve as ACF’s board of directors.
 </thead>
 <tbody>
 <tr>
-<td>Sean Farrell</td>
-<td>2023 ACF Fall</td>
+<td>Alexandra Hardwick</td>
+<td>2024 ACF Fall</td>
 <td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
 </tr>
 <tr>
@@ -333,6 +333,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Fall Head Editor</li>
 <li>2023 ACF Regionals Editor</li>
 <li>2022 ACF Regionals Editor</li>
 <li>2020 ACF Fall Editor</li>
