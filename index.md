@@ -4,6 +4,8 @@ layout: home
 
 <!-- Set title and description in config.yml -->
 
+{% comment %}
+
 <h1>Recent updates</h1>
 
 #### July 9, 2023
@@ -17,8 +19,6 @@ layout: home
 #### June 7, 2023
 [2023-24 officers, head editors, and member changes announced](https://hsquizbowl.org/forums/viewtopic.php?p=395399#p395399)
 : 
-
-{% comment %}
 
 #### January 31, 2023
 [2023 ACF Regionals A-values](https://hsquizbowl.org/forums/viewtopic.php?p=393225#p393225)
