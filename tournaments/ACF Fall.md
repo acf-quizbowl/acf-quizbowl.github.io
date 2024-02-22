@@ -90,9 +90,9 @@ ACF Fall uses the [standard ACF distribution](/distribution).
 
 ## Eligibility
 To make this tournament more accessible to new teams and players, ACF is enforcing eligibility guidelines for ACF Fall. Players are not eligible to compete at 2023 ACF Fall if, _at any point_, they met any of the following exclusion criteria:
-- Scored more than 50 PPG in the prelims of a college mirror of ACF Fall
+- Scored more than 60 PPG in the prelims of a college mirror of ACF Fall
 - Were the top scorer (highest overall PPG) on a team that finished in the top 15% of the field, rounded up, at ACF Fall
-- Scored more than 40 PP20TUH in the prelims of HSNCT or 60 PPG in the prelims of PACE NSC
+- Scored more than 60 PP20TUH in the prelims of HSNCT or 60 PPG in the prelims of PACE NSC
 - Were the top scorer (highest overall PPG) on a team that finished in the top 30 at HSNCT or top 10 at PACE NSC
 - Finished in the top 12 in IPNCT
 - Scored more than 20 PPG in the prelims of ACF Nationals

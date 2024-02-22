@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: July 17, 2023
+last_updated: February 21, 2024
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -70,8 +70,8 @@ ACF’s officers also serve as ACF’s board of directors.
 </thead>
 <tbody>
 <tr>
-<td>Sean Farrell</td>
-<td>2023 ACF Fall</td>
+<td>Alexandra Hardwick</td>
+<td>2024 ACF Fall</td>
 <td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
 </tr>
 <tr>
@@ -333,6 +333,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Fall Head Editor</li>
 <li>2023 ACF Regionals Editor</li>
 <li>2022 ACF Regionals Editor</li>
 <li>2020 ACF Fall Editor</li>
@@ -986,6 +987,71 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 </tr>
 
+<tr>
+<td>Eric Mukherjee</td>
+<td>
+<ul>
+<li>MD/PhD, University of Pennsylvania</li>
+<li>Alumnus, Brown University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+<li>2022 ACF Winter Editor</li>
+<li>2022 ACF Nationals Editor</li>
+<li>2021 ACF Nationals Editor</li>
+<li>2010 ACF Winter Editor</li>
+<li>2009 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Raymond Chen</td>
+<td>
+<ul>
+<li>University of Toronto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+<li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Jacob Egol</td>
+<td>
+<ul>
+<li>Alumnus, Duke University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+<li>2021 ACF Fall Logistics</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Allan Lee</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+<li>2023 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -1045,34 +1111,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2023 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Raymond Chen</td>
-<td>
-<ul>
-<li>University of Toronto</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Jacob Egol</td>
-<td>
-<ul>
-<li>Alumnus, Duke University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Fall Logistics</li>
 </ul>
 </td>
 </tr>
@@ -1191,20 +1229,6 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
-<td>Allan Lee</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
 <td>Matthew Lehmann</td>
 <td>
 <ul>
@@ -1267,25 +1291,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2021 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Eric Mukherjee</td>
-<td>
-<ul>
-<li>MD/PhD, University of Pennsylvania</li>
-<li>Alumnus, Brown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Winter Editor</li>
-<li>2022 ACF Nationals Editor</li>
-<li>2021 ACF Nationals Editor</li>
-<li>2010 ACF Winter Editor</li>
-<li>2009 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
@@ -1356,6 +1361,132 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Eric Chang</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Jeffrey Fung</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Shourjo Ganguli</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Kevin Jiang</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Munir Siddiqui</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Joel Miles</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Richard Niu</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Maxwell Ye</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Rachel Ezrielev</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
 </ul>
 </td>
 </tr>
