@@ -15,7 +15,7 @@
   margin-bottom:0px;
 
   .header-title {
-    font-size:4em;
+    font-size:3em;
     font-family:'Merriweather', sans-serif;
     line-height:120%;
     margin:0;
@@ -57,10 +57,6 @@
   border-radius:4px;
   width:calc(25% - 15px);
   box-sizing: border-box;
-  display:flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: flex-start;
 
   @media only screen and (max-width: $medium-screen) {
     width:calc(50% - 10px);
