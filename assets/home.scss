@@ -57,6 +57,10 @@
   border-radius:4px;
   width:calc(25% - 15px);
   box-sizing: border-box;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
 
   @media only screen and (max-width: $medium-screen) {
     width:calc(50% - 10px);

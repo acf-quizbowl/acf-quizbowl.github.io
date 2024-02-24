@@ -22,6 +22,6 @@ Individual players must use (1) their legal name, (2) a preferred name that they
 Individual players may not use pseudonyms to obscure their identity or impersonate others.
 
 # High-school editors
-High schoolers are welcome to apply to edit ACF sets. Just like other editors, ACF’s membership will vote to offer provisional membership to the editor based on their merits (such as quality of work, responsiveness to feedback, and communication). The vote will occur with the other editors at the first ACF meeting immediately following the tournament they produced. If offered provisional membership, it will be offered to the high-school-age editor immediately.
+High schoolers are welcome to apply to edit ACF sets. Like other editors, ACF’s membership will vote to offer provisional membership to the editor based on their merits (such as quality of work, responsiveness to feedback, and communication). The vote will occur with the other editors at the first ACF meeting immediately following the tournament they produced. If offered provisional membership, it will be offered to the high-school-age editor immediately.
 
 High schoolers may not become full members of ACF while still in high school. If a high-school-aged editor produces work that the membership extends an offer of full membership for, the full membership will be offered and begin immediately after the high schooler’s graduation.
