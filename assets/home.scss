@@ -15,7 +15,7 @@
   margin-bottom:0px;
 
   .header-title {
-    font-size:4em;
+    font-size:3em;
     font-family:'Merriweather', sans-serif;
     line-height:120%;
     margin:0;
@@ -42,31 +42,32 @@
   }
 }
 
-#tournaments {
+.tournaments {
   display:flex;
-  justify-content:space-evenly;
+  justify-content:flex-start;
   flex-wrap:wrap;
-  width:100vw;
+  padding: 0 20px 10px;
+  gap: 20px;
+  width: 100%;
 }
 
 .tournament-card {
   background:#d9eaff;
   padding:1em 1.5em;
   border-radius:4px;
-  width:calc(25% - 20px);
+  width:calc(25% - 15px);
   box-sizing: border-box;
-  margin-bottom:10px;
   display:flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
 
   @media only screen and (max-width: $medium-screen) {
-    width:48vw;
+    width:calc(50% - 10px);
   }
 
   @media only screen and (max-width: $small-screen) {
-    width:100vw;
+    width:100%;
   }
 
   .date {
@@ -109,7 +110,7 @@
     }
 }
 
-#updates-heading {
+body.home h1 {
   color:$blue-dark;
   padding-top:15px;
   text-align:center;
