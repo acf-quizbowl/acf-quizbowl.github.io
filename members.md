@@ -756,7 +756,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tr>
 
 <tr>
-<td>Jonathen Settle</td>
+<td>Eleanor Settle</td>
 <td>
 <ul>
 <li>Alumnus, University of Florida</li>

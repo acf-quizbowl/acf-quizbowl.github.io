@@ -26,7 +26,7 @@ Grant Peet               | American and World History
 Michael Kearney          | European and Other History
 Hasna Karim              | Biology, Religion
 Adam Silverman           | Chemistry
-Jonathen Settle          | Physics, Other Science
+Eleanor Settle           | Physics, Other Science
 Sameer Apte              | Music
 Taylor Harvey            | Religion, Mythology, Painting and Sculpture
 Ganon Evans              | Other

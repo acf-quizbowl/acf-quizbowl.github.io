@@ -16,7 +16,7 @@ last_updated: March 22, 2022
 [2022 ACF Regionals](https://hsquizbowl.org/forums/viewtopic.php?f=8&t=25467) was held on January 29, 2022.
 
 ## Editors
-2022 ACF Regionals is head-edited by Taylor Harvey and edited by Jaimie Carlson, Ganon Evans, Alex Hardwick, Nick Jensen, Arjun Nageswaran, Grant Peet, Graham Reid, Jonathen Settle, Chandler West, and Annabelle Yang.
+2022 ACF Regionals is head-edited by Taylor Harvey and edited by Jaimie Carlson, Ganon Evans, Alex Hardwick, Nick Jensen, Arjun Nageswaran, Grant Peet, Graham Reid, Eleanor Settle, Chandler West, and Annabelle Yang.
 
 Editor | Subjects
 - | -
@@ -28,7 +28,7 @@ Nick Jensen | World History, Biology, and Social Science (excluding Linguistics)
 Arjun Nageswaran | American History
 Grant Peet | British/Commonwealth History, European History, Other History
 Graham Reid | Chemistry
-Jonathen Settle | Physics, Other Science, Current Events
+Eleanor Settle | Physics, Other Science, Current Events
 Chandler West | American Literature, Painting/Sculpture
 Annabelle Yang | Mythology
 
