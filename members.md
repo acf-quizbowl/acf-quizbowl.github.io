@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: February 21, 2024
+last_updated: June 16, 2024
 ---
 
 For information on how to become an ACF member, see the [About page](/about#how-to-become-an-acf-member).
@@ -21,27 +21,27 @@ ACF’s officers also serve as ACF’s board of directors.
 </thead>
 <tbody>
 <tr>
-<td>Ganon Evans</td>
+<td>JinAh Kim</td>
 <td>President</td>
 <td><a href="mailto:president@acf-quizbowl.com">president@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Jordan Davidsen</td>
+<td>Sophie Torres</td>
 <td>Communications</td>
 <td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Matt Bollinger</td>
+<td>Eric Mukherjee</td>
 <td>Editor-in-Chief</td>
 <td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Tomás Aguilar-Fraga</td>
+<td>Kevin Jiang</td>
 <td>Site Coordinator</td>
 <td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Michael Kearney</td>
+<td>Zac Bennett</td>
 <td>ACF Nationals Tournament Director</td>
 <td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
 </tr>
@@ -51,7 +51,7 @@ ACF’s officers also serve as ACF’s board of directors.
 <td><a href="mailto:treasurer@acf-quizbowl.com">treasurer@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Caroline Mao</td>
+<td>Rahul Keyal</td>
 <td>Webmaster</td>
 <td><a href="mailto:webmaster@acf-quizbowl.com">webmaster@acf-quizbowl.com</a></td>
 </tr>
@@ -75,18 +75,18 @@ ACF’s officers also serve as ACF’s board of directors.
 <td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Ethan Ashbrook</td>
-<td>2023 ACF Winter</td>
+<td>Christopher Sims</td>
+<td>2024 ACF Winter</td>
 <td><a href="mailto:winter@acf-quizbowl.com">winter@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Eve Fleisig</td>
-<td>2024 ACF Regionals</td>
+<td>Ani Perumalla and Jeremy Cummings</td>
+<td>2025 ACF Regionals</td>
 <td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
 </tr>
 <tr>
-<td>Nick Jensen</td>
-<td>2024 ACF Nationals</td>
+<td>John Lawrence</td>
+<td>2025 ACF Nationals</td>
 <td><a href="mailto:nationals@acf-quizbowl.com">nationals@acf-quizbowl.com</a></td>
 </tr>
 </tbody>
@@ -153,6 +153,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2025 ACF Nationals Tournament Director</li>
 <li>2023 ACF Nationals Assistant Tournament Director</li>
 <li>2022 ACF Fall Tournament Director</li>
 <li>2021 ACF Winter Tournament Director</li>
@@ -405,6 +406,21 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tr>
 
 <tr>
+<td>Kevin Jiang</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Site Coordinator, 2024-25</li>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
 <td>Hasna Karim</td>
 <td>
 <ul>
@@ -448,6 +464,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Webmaster, 2024-25</li>
 <li>2023 ACF Regionals Editor</li>
 <li>2019 ACF Fall Head Editor</li>
 <li>2018 ACF Fall Editor</li>
@@ -463,6 +480,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>President, 2024-25</li>
 <li>Treasurer, 2020-21</li>
 <li>2020 ACF Regionals Head Editor</li>
 <li>2019 ACF Nationals Editor</li>
@@ -573,20 +591,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
-<tr>
-<td>Ben Miller</td>
-<td>
-<ul>
-<li>Alumnus, University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Fall Head Editor</li>
-<li>2019 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
 
 <tr>
 <td>Tim Morrison</td>
@@ -647,7 +651,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
-<li>Treasurer, 2023-24</li>
+<li>Treasurer, 2023-25</li>
 <li>Site Coordinator, 2022-23</li>
 <li>2022 ACF Regionals Tournament Director</li>
 <li>2021 ACF Winter Tournament Director</li>
@@ -854,20 +858,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tr>
 
 <tr>
-<td>Margaret Tebbe</td>
-<td>
-<ul>
-<li>Alumna, University of Pennsylvania</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Site Coordinator, 2020-21</li>
-<li>2019 ACF Nationals Host Logistics Contact</li>
-</ul>
-</td>
-</tr>
-<tr>
 <td>Cody Voight</td>
 <td>
 <ul>
@@ -885,22 +875,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
-<tr>
-<td>Andrew Wang</td>
-<td>
-<ul>
-<li>Alumnus, University of Illinois, Urbana-Champaign</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Winter Science Oversight</li>
-<li>2019 ACF Nationals Editor</li>
-<li>2018 ACF Nationals Editor</li>
-<li>2015 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
 
 <tr>
 <td>Chandler West</td>
@@ -914,28 +888,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <ul>
 <li>2022 ACF Regionals Editor</li>
 <li>2020 ACF Winter Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Ryan Westbrook</td>
-<td>
-<ul>
-<li>J.D., Wayne State University Law School</li>
-<li>Alumnus, University of Michigan</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Nationals co-Head Editor</li>
-<li>2018 ACF Nationals Editor</li>
-<li>2016 ACF Nationals Editor</li>
-<li>2015 ACF Nationals Head Editor</li>
-<li>2014 ACF Nationals Editor</li>
-<li>2010 ACF Nationals Editor</li>
-<li>2008 ACF Nationals Editor</li>
-<li>2007 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
@@ -972,22 +924,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tr>
 
 <tr>
-<td>Jennie Yang</td>
-<td>
-<ul>
-<li>Alumna, Stanford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Nationals Editor</li>
-<li>2019 ACF Regionals Editor</li>
-<li>2017 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
 <td>Eric Mukherjee</td>
 <td>
 <ul>
@@ -997,6 +933,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>Editor-in-Chief, 2024-25</li>
 <li>2023 ACF Winter Editor</li>
 <li>2022 ACF Winter Editor</li>
 <li>2022 ACF Nationals Editor</li>
@@ -1176,6 +1113,20 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
+<td>Jason Golfinos</td>
+<td>
+<ul>
+<li></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Nationals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
 <td>Karan Gurazada</td>
 <td>
 <ul>
@@ -1209,6 +1160,20 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2021 ACF Nationals Host Logistics Contact</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Aseem Keyal</td>
+<td>
+<ul>
+<li>Alumnus, University of California, Berkeley</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Nationals Editor</li>
 </ul>
 </td>
 </tr>
@@ -1352,6 +1317,62 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
+<td>Sophie Torres</td>
+<td>
+<ul>
+<li>Alumna, University of Florida</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Communications, 2024-25</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Eva Wang</td>
+<td>
+<ul>
+<li></li>
+</ul>
+</td>
+<td>
+<ul>
+<li></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Kevin Wang</td>
+<td>
+<ul>
+<li>Alumnus, Amherst College</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Nationals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Ben Weiner</td>
+<td>
+<ul>
+<li>Alumnus, University of Minnesota</li>
+</ul>
+</td>
+<td>
+<ul>
+<li></li>
+</ul>
+</td>
+</tr>
+
+<tr>
 <td>Walter Zhang</td>
 <td>
 <ul>
@@ -1395,20 +1416,6 @@ Provisional members are community members who have ably assisted ACF in the past
 
 <tr>
 <td>Shourjo Ganguli</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Kevin Jiang</td>
 <td>
 <ul>
 <li> </li>
@@ -2000,6 +2007,22 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Ben Miller</td>
+<td>
+<ul>
+<li>Alumnus, University of Chicago</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Fall Head Editor</li>
+<li>2019 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Jason Paik</td>
 <td>
@@ -2105,6 +2128,22 @@ Alumnus, Washington University in St. Louis
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Margaret Tebbe</td>
+<td>
+<ul>
+<li>Alumna, University of Pennsylvania</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Site Coordinator, 2020-21</li>
+<li>2019 ACF Nationals Host Logistics Contact</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Seth Teitler</td>
 <td>
@@ -2142,6 +2181,24 @@ Alumnus, Washington University in St. Louis
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Andrew Wang</td>
+<td>
+<ul>
+<li>Alumnus, University of Illinois, Urbana-Champaign</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2020 ACF Winter Science Oversight</li>
+<li>2019 ACF Nationals Editor</li>
+<li>2018 ACF Nationals Editor</li>
+<li>2015 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Nathan Weiser</td>
 <td>
@@ -2157,6 +2214,29 @@ Alumnus, Washington University in St. Louis
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Ryan Westbrook</td>
+<td>
+<ul>
+<li>J.D., Wayne State University Law School</li>
+<li>Alumnus, University of Michigan</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Nationals co-Head Editor</li>
+<li>2018 ACF Nationals Editor</li>
+<li>2016 ACF Nationals Editor</li>
+<li>2015 ACF Nationals Head Editor</li>
+<li>2014 ACF Nationals Editor</li>
+<li>2010 ACF Nationals Editor</li>
+<li>2008 ACF Nationals Editor</li>
+<li>2007 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Dwight Wynne</td>
 <td>
@@ -2195,6 +2275,23 @@ Alumnus, Washington University in St. Louis
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Jennie Yang</td>
+<td>
+<ul>
+<li>Alumna, Stanford University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2021 ACF Nationals Editor</li>
+<li>2019 ACF Regionals Editor</li>
+<li>2017 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Richard Yu</td>
 <td>
