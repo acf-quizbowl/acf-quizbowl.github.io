@@ -154,6 +154,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>
 <ul>
 <li>2025 ACF Nationals Tournament Director</li>
+<li>2024 ACF Nationals Assistant Tournament Director</li>
 <li>2023 ACF Nationals Assistant Tournament Director</li>
 <li>2022 ACF Fall Tournament Director</li>
 <li>2021 ACF Winter Tournament Director</li>
@@ -972,6 +973,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Assistant Tournament Director</li>
 <li>2023 ACF Winter Editor</li>
 <li>2021 ACF Fall Logistics</li>
 </ul>
