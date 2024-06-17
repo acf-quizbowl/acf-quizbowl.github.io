@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ACF Fall
-permalink: /fall/
 nav_order: 2
 last_updated: September 26, 2023
 ---
