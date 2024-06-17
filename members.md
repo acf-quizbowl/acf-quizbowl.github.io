@@ -191,6 +191,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Editor</li>
 <li>2021 ACF Nationals Editor</li>
 <li>2021 ACF Regionals Editor</li>
 <li>2020 ACF Regionals Editor</li>
@@ -497,6 +498,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Editor</li>
 <li>2022 ACF Winter Head Editor</li>
 <li>2021 ACF Winter Editor</li>
 </ul>
@@ -699,6 +701,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Editor</li>
 <li>2023 ACF Nationals Editor</li>
 <li>2023 ACF Regionals Editor</li>
 <li>2022 ACF Regionals Editor</li>
@@ -768,6 +771,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Editor</li>
 <li>2023 ACF Nationals Editor</li>
 <li>2022 ACF Regionals Editor</li>
 </ul>
@@ -1838,6 +1842,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Editor</li>
 <li>2016 ACF Fall Editor</li>
 <li>2015 ACF Fall Editor</li>
 </ul>
@@ -1882,6 +1887,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Editor</li>
 <li>2022 ACF Nationals Editor</li>
 <li>2018 ACF Nationals Editor</li>
 <li>2017 ACF Regionals Editor</li>
