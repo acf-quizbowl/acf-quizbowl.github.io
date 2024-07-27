@@ -4,7 +4,7 @@ title: ACF Gameplay Rules
 permalink: /gameplay-rules/
 redirect-from: 
   - /official-acf-gameplay-rules/
-last_updated: September 3, 2021
+last_updated: July 26, 2024
 ---
 [Rules in PDF format](/official-gameplay-rules.pdf)
 
