@@ -6,7 +6,7 @@ redirect-from:
   - /official-acf-gameplay-rules/
 last_updated: July 26, 2024
 ---
-[Rules in PDF format](/official-gameplay-rules.pdf)
+<!-- [Rules in PDF format](/official-gameplay-rules.pdf) -->
 
 # Table of Contents
 {: .no_toc}
