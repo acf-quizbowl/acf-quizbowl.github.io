@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ACF Winter
-permalink: /winter/
 nav_order: 2.5
 last_updated: October 19, 2023
 ---

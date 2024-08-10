@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ACF Regionals
-permalink: /regionals/
 nav_order: 3
 last_updated: September 26, 2023
 ---
