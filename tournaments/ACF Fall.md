@@ -35,9 +35,9 @@ Ganon Evans          | Other History, Myth, Religion, Pop Culture
 Sam Foo             | European Literature, World History
 Kevin Jiang           | Social Science, Geography, Current Events
 Aum Mundhe          | Other Fine Arts, Philosophy
-Andrew Rout           | Physics
+Andrew Rout           | Physics, Other Science (Math)
 James Wang | Biology
-Steven Yuan | Auditory Fine Arts, Other Science (Math)
+Steven Yuan | Auditory Fine Arts
 
 ## Rules
 This tournament will follow [ACF’s official gameplay rules](/gameplay-rules). Rules specifically pertaining to online tournaments are in blue.
