@@ -111,7 +111,7 @@ Region                          | Site
 Northeast | MIT
 Upper Mid-Atlantic | [Rutgers](https://hsquizbowl.org/forums/viewtopic.php?t=28271)
 Upstate NY | [Cornell](https://hsquizbowl.org/forums/viewtopic.php?t=28286)
-Lower Mid-Atlantic | [UNC Chapel Hill] (https://hsquizbowl.org/forums/viewtopic.php?t=28279)
+Lower Mid-Atlantic | [UNC Chapel Hill](https://hsquizbowl.org/forums/viewtopic.php?t=28279)
 Southeast | [Georgia](https://hsquizbowl.org/forums/viewtopic.php?t=28288)
 Florida | [University of Central Florida](https://hsquizbowl.org/forums/viewtopic.php?t=28281)
 Great Lakes | [Ohio State](https://hsquizbowl.org/forums/viewtopic.php?t=28252)
@@ -127,11 +127,9 @@ Southern United Kingdom | Southampton
 
 ## High-school-only sites:
 
-Site
--                              
-[Auburn High School](https://hsquizbowl.org/forums/viewtopic.php?t=28274)
-[Nationwide Online](https://hsquizbowl.org/forums/viewtopic.php?t=28272)
-[Georgia Tech (10/20)](https://hsquizbowl.org/forums/viewtopic.php?t=28251)
+* [Auburn High School](https://hsquizbowl.org/forums/viewtopic.php?t=28274)
+* [Nationwide (Online)](https://hsquizbowl.org/forums/viewtopic.php?t=28272)
+* [Georgia Tech (10/20)](https://hsquizbowl.org/forums/viewtopic.php?t=28251)
 
 As in previous years, ACF is willing to provide the ACF Fall set for high-school-only tournaments. If you are interested in hosting a high-school-only mirror of 2024 ACF Fall, email hosting@acf-quizbowl.com and cc fall@acf-quizbowl.com. However, we do not plan to offer mixed mirrors that include high school and college teams.
 
