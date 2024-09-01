@@ -35,7 +35,7 @@ Ganon Evans          | Other History, Myth, Religion, Pop Culture
 Sam Foo             | European Literature, World History
 Kevin Jiang           | Social Science, Geography, Current Events
 Aum Mundhe          | Other Fine Arts, Philosophy
-Andrew Rout           | Physics, Other Science (Math)
+Andrew Rout           | Other Science (Math), Physics
 James Wang | Biology
 Steven Yuan | Auditory Fine Arts
 
