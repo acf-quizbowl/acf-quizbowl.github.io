@@ -97,7 +97,7 @@ ACF’s officers also serve as ACF’s board of directors.
 <table class="member-list">
 <thead>
 <tr>
-<th class="name">Position</th>
+<th class="affiliations">Position</th>
 <th class="affiliations">Member(s)</th>
 <th class="contributions">Contact</th>
 </tr>
