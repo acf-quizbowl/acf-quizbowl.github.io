@@ -97,18 +97,26 @@ ACF’s officers also serve as ACF’s board of directors.
 <table class="member-list">
 <thead>
 <tr>
-<th width="50%">Position</th>
+<th class="name">Position</th>
+<th class="affiliations">Member(s)</th>
 <th class="contributions">Contact</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>ACF Nationals Staffing</td>
+<td>ACF Nationals TD</td>
 <td><a href="mailto:staffing@acf-quizbowl.com">staffing@acf-quizbowl.com</a></td>
 </tr>
 <tr>
 <td>Eligibility Committee</td>
+<td>Editor-in-Chief, ACF Head editors</td>
 <td><a href="mailto:eligibility@acf-quizbowl.com">eligibility@acf-quizbowl.com</a></td>
+</tr>
+<tr>
+<td>Misconduct Representatives</td>
+<td>Ganon Evans, Caroline Mao</td>
+<td><a href="mailto:misconduct@acf-quizbowl.com">misconduct@acf-quizbowl.com</a></td>
 </tr>
 </tbody>
 </table>
