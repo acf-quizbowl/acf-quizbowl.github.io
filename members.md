@@ -14,7 +14,7 @@ ACF’s officers also serve as ACF’s board of directors.
 <table class="member-list">
 <thead>
 <tr>
-<th class="name">Officer</th>
+<th class="name-wide">Officer</th>
 <th class="affiliations">Position</th>
 <th class="contributions">Contact</th>
 </tr>
@@ -63,7 +63,7 @@ ACF’s officers also serve as ACF’s board of directors.
 <table class="member-list">
 <thead>
 <tr>
-<th class="name">Head editor</th>
+<th class="name-wide">Head editor</th>
 <th class="affiliations">Tournament</th>
 <th class="contributions">Contact</th>
 </tr>
@@ -97,7 +97,7 @@ ACF’s officers also serve as ACF’s board of directors.
 <table class="member-list">
 <thead>
 <tr>
-<th class="affiliations">Position</th>
+<th class="name-wide">Position</th>
 <th class="affiliations">Member(s)</th>
 <th class="contributions">Contact</th>
 </tr>
