@@ -3,7 +3,7 @@ layout: page
 title: ACF Winter
 permalink: /winter/
 nav_order: 2.5
-last_updated: June 16, 2024
+last_updated: October 6, 2024
 ---
 
 **ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
@@ -116,31 +116,26 @@ More information can be found in [ACF’s packet submission guidelines](/packet-
 ## Eligibility
 For information on who is eligible to play ACF tournaments, see [ACF’s official Eligibility Rules](/eligibility-rules).
 
-## Hosting
-We are looking for hosts in the regions listed in the “Hosting” section below. The host bid form is [here](https://docs.google.com/forms/d/e/1FAIpQLSf-Uwkx7ait1W0WR-2QeRiJmyymIy9ywvZqTp82IHfbzb-9Dw/viewform). Please submit bids by Sunday, September 3rd at 11:59 PM PT. If you have any questions about hosting or about the form, email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com) and CC [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com). Online sites are optional. Hosts must abide by [ACF’s Hosting Guidelines](/hosting-guidelines).
-
 ## Mirrors
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2024 ACF Winter in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region                    | Site
--                         | -
-Northeast                 |
-Upper Mid-Atlantic        |
-Upstate NY                |
-Lower Mid-Atlantic        |
-Southeast                 |
-Florida                   |
-Great Lakes               |
-Midwest                   |
-North                     |
-South Central             |
-Pacific Northwest/Mountain West:    | 
-Northern California       |
-Southern California       |
-Northwest                 |
-Eastern Canada            |
-United Kingdom            |
-Overflow (online)         |
+-                         | - 
+Northeast                 | Brandeis
+Upper Mid-Atlantic        | [Lehigh](https://hsquizbowl.org/forums/viewtopic.php?t=28375)
+Upstate NY                | [University of Rochester](https://hsquizbowl.org/forums/viewtopic.php?t=28393)
+Lower Mid-Atlantic        | University of Virginia
+Southeast                 | [Clemson](https://hsquizbowl.org/forums/viewtopic.php?p=402337#p402337)
+Florida                   | [UCF](https://hsquizbowl.org/forums/viewtopic.php?p=402352#p402352)
+Great Lakes               | The Ohio State University
+Midwest                   | [Northwestern](https://hsquizbowl.org/forums/viewtopic.php?t=28389)
+North                     | University of Minnesota
+South Central             | [UT Austin](https://hsquizbowl.org/forums/viewtopic.php?p=402359#p402359)
+Pacific Northwest/Mountain West:    | University of British Columbia
+Northern California       | UC Berkeley
+Eastern Canada            | [University of Toronto](https://hsquizbowl.org/forums/viewtopic.php?p=402393#p402393)
+United Kingdom            | Oxford University
+Overflow (online)         | TBD
 
 ## Past tournaments
 Sample questions from previous iterations of ACF Winter are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Winter&col=1&season=&archived=y).

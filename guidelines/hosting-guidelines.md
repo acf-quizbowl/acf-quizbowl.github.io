@@ -201,9 +201,8 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 # Details about finances
 ## Financial breakdown between hosts and ACF
 This section is subject to change.
-In-person mirrors of 2021 ACF Fall will use the Base fee, New to quizbowl discount, and Shorthanded discount listed for online tournaments instead.
 
-### For in-person tournaments
+### ACF Winter, Regionals
 
 <table>
 <thead>
@@ -254,14 +253,14 @@ In-person mirrors of 2021 ACF Fall will use the Base fee, New to quizbowl discou
 </tr>
 <tr>
 <td>Staffers<sup style="font-size:65%;">3</sup></td>
-<td>−$15 per staffer</td>
-<td>−$15 per staffer</td>
+<td>−$25 per staffer</td>
+<td>−$25 per staffer</td>
 <td>n/a</td>
 </tr>
 </tbody>
 </table>
 
-### For online tournaments
+### ACF Fall
 
 <table>
 <thead>
@@ -297,6 +296,18 @@ In-person mirrors of 2021 ACF Fall will use the Base fee, New to quizbowl discou
 <td>± amount as applicable</td>
 <td>n/a</td>
 <td>± amount as applicable</td>
+</tr>
+<tr>
+<td>Travel discount<sup style="font-size:65%;">1</sup></td>
+<td>−$10 per 200 miles traveled one-way</td>
+<td>−$10 per 200 miles traveled one-way</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Buzzers<sup style="font-size:65%;">2</sup></td>
+<td>−$10 per buzzer</td>
+<td>−$10 per buzzer</td>
+<td>n/a</td>
 </tr>
 <tr>
 <td>Staffers<sup style="font-size:65%;">3</sup></td>
