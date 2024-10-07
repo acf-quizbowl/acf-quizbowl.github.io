@@ -102,28 +102,27 @@ Your assigned half-packet or quarter-packet may ask for questions from more spec
 ACF Fall uses the [standard ACF distribution](/distribution).
 
 ## Hosting
-If you are interested in hosting a mirror of ACF Fall, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfFTYPxmESIxJLLDi8G37ImpOfgaggTdoLo2-kabgm6tGOWJQ/viewform?usp=sf_link) before 11:59 p.m. Pacific Time on Saturday, August 17, 2024. Mirrors of this tournament may be held in-person or online. If you have any questions about hosting, please email ACF’s Site Coordinator at hosting@acf-quizbowl.com. Hosts must abide by ACF’s Hosting Guidelines.
 
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2024 ACF Fall in the following [regions](/hosting-guidelines#regions-according-to-acf):
 
 Region                          | Site
 -                               | -
-Northeast | MIT
+Northeast | [MIT](https://hsquizbowl.org/forums/viewtopic.php?t=28304)
 Upper Mid-Atlantic | [Rutgers](https://hsquizbowl.org/forums/viewtopic.php?t=28271)
 Upstate NY | [Cornell](https://hsquizbowl.org/forums/viewtopic.php?t=28286)
 Lower Mid-Atlantic | [UNC Chapel Hill](https://hsquizbowl.org/forums/viewtopic.php?t=28279)
 Southeast | [Georgia](https://hsquizbowl.org/forums/viewtopic.php?t=28288)
 Florida | [University of Central Florida](https://hsquizbowl.org/forums/viewtopic.php?t=28281)
 Great Lakes | [Ohio State](https://hsquizbowl.org/forums/viewtopic.php?t=28252)
-Midwest | UIUC
-North | Minnesota
+Midwest | [UIUC](https://hsquizbowl.org/forums/viewtopic.php?t=28329)
+North | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?t=28309)
 South Central | [Murray State College](https://hsquizbowl.org/forums/viewtopic.php?t=28257)
 Pacific Northwest/Mountain West | [Washington](https://hsquizbowl.org/forums/viewtopic.php?t=28256)
 Northern California | [UC Berkeley](https://hsquizbowl.org/forums/viewtopic.php?t=28295)
 Southern California | [Claremont Colleges](https://hsquizbowl.org/forums/viewtopic.php?t=28267)
 Eastern Canada | [Ottawa](https://hsquizbowl.org/forums/viewtopic.php?t=28282)
-Northern United Kingdom | Durham
-Southern United Kingdom | Southampton 
+Northern United Kingdom | [Durham](https://hsquizbowl.org/forums/viewtopic.php?t=28308)
+Southern United Kingdom | [Southampton](https://hsquizbowl.org/forums/viewtopic.php?t=28307) 
 
 ## High-school-only sites:
 
