@@ -831,6 +831,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 <td>
 <ul>
+<li>2024 ACF Winter Head Editor</li>
 <li>2023 ACF Regionals Editor</li>
 <li>2021 ACF Winter Editor</li>
 <li>2020 ACF Winter Editor</li>
@@ -1067,6 +1068,78 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
+<td>Henry Atkins</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Eric Chang</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Benjamin Chapman</td>
+<td>
+<ul>
+<li>University of Toronto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Fall Editor</li>
+<li>2024 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td>Ophelia Cherry-Pulay</td>
+<td>
+<ul>
+<li>USN Quizbowl</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Rachel Ezrielev</td>
+<td>
+<ul>
+<li>Georgetown University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
 <td>Sean Farrell</td>
 <td>
 <ul>
@@ -1108,6 +1181,34 @@ Provisional members are community members who have ably assisted ACF in the past
 <ul>
 <li>2020 ACF Fall Editor</li>
 <li>2019 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Jeffrey Fung</td>
+<td>
+<ul>
+<li>Harvard University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Shourjo Ganguli</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -1222,6 +1323,21 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
+<td>Sky Li</td>
+<td>
+<ul>
+<li>Alumnus, University of Toronto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
 <td>Angela Lin</td>
 <td>
 <ul>
@@ -1275,15 +1391,57 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
+<td>Joel Miles</td>
+<td>
+<ul>
+<li></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Aum Mundhe</td>
+<td>
+<ul>
+<li>Rutgers University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
 <td>Kevin Park</td>
 <td>
 <ul>
-<li> </li>
+<li>Claremont College</li>
 </ul>
 </td>
 <td>
 <ul>
 <li>2023 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Richard Niu</td>
+<td>
+<ul>
+<li>Cornell University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -1303,6 +1461,20 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
+<td>Andrew Rout</td>
+<td>
+<ul>
+<li>University of Warwick</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
 <td>Ryan Ritter</td>
 <td>
 <ul>
@@ -1312,6 +1484,20 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2023 ACF Nationals Assistant Tournament Director</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Munir Siddiqui</td>
+<td>
+<ul>
+<li>University of Maryland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
@@ -1359,6 +1545,20 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
+<td>James Wang</td>
+<td>
+<ul>
+<li>University of Ottawa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
 <td>Kevin Wang</td>
 <td>
 <ul>
@@ -1387,104 +1587,6 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
-<td>Walter Zhang</td>
-<td>
-<ul>
-<li>Brown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Eric Chang</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Jeffrey Fung</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Shourjo Ganguli</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Munir Siddiqui</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Joel Miles</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Winter Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Richard Niu</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
 <td>Maxwell Ye</td>
 <td>
 <ul>
@@ -1499,15 +1601,15 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
-<td>Rachel Ezrielev</td>
+<td>Walter Zhang</td>
 <td>
 <ul>
-<li> </li>
+<li>Brown University</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>2023 ACF Winter Editor</li>
+<li>2022 ACF Fall Editor</li>
 </ul>
 </td>
 </tr>
