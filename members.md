@@ -1007,37 +1007,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </td>
 </tr>
 
-<tr>
-<td>Jacob Egol</td>
-<td>
-<ul>
-<li>Alumnus, Duke University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Assistant Tournament Director</li>
-<li>2023 ACF Winter Editor</li>
-<li>2021 ACF Fall Logistics</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Jacob Egol</td>
-<td>
-<ul>
-<li>Alumnus, Duke University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Assistant Tournament Director</li>
-<li>2023 ACF Winter Editor</li>
-<li>2021 ACF Fall Logistics</li>
-</ul>
-</td>
-</tr>
-
 </tbody>
 </table>
 
