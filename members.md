@@ -232,6 +232,22 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Raymond Chen</td>
+<td>
+<ul>
+<li>University of Toronto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+<li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Alex Damisch</td>
 <td>
@@ -282,6 +298,23 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Jacob Egol</td>
+<td>
+<ul>
+<li>Alumnus, Duke University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Nationals Assistant Tournament Director</li>
+<li>2023 ACF Winter Editor</li>
+<li>2021 ACF Fall Logistics</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Stephen Eltinge</td>
 <td>
@@ -534,6 +567,22 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
+
+<tr>
+<td>Allan Lee</td>
+<td>
+<ul>
+<li> </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
+<li>2023 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
 <tr>
 <td>Katherine Lei</td>
 <td>
@@ -615,6 +664,27 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <li>2023 ACF Regionals Editor</li>
 <li>2021 ACF Winter Head Editor</li>
 <li>2021 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Eric Mukherjee</td>
+<td>
+<ul>
+<li>MD/PhD, University of Pennsylvania</li>
+<li>Alumnus, Brown University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Editor-in-Chief, 2024-25</li>
+<li>2023 ACF Winter Editor</li>
+<li>2022 ACF Winter Editor</li>
+<li>2022 ACF Nationals Editor</li>
+<li>2021 ACF Nationals Editor</li>
+<li>2010 ACF Winter Editor</li>
+<li>2009 ACF Regionals Editor</li>
 </ul>
 </td>
 </tr>
@@ -938,42 +1008,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tr>
 
 <tr>
-<td>Eric Mukherjee</td>
-<td>
-<ul>
-<li>MD/PhD, University of Pennsylvania</li>
-<li>Alumnus, Brown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Editor-in-Chief, 2024-25</li>
-<li>2023 ACF Winter Editor</li>
-<li>2022 ACF Winter Editor</li>
-<li>2022 ACF Nationals Editor</li>
-<li>2021 ACF Nationals Editor</li>
-<li>2010 ACF Winter Editor</li>
-<li>2009 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Raymond Chen</td>
-<td>
-<ul>
-<li>University of Toronto</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Winter Editor</li>
-<li>2022 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
 <td>Jacob Egol</td>
 <td>
 <ul>
@@ -988,18 +1022,18 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </ul>
 </td>
 </tr>
-
 <tr>
-<td>Allan Lee</td>
+<td>Jacob Egol</td>
 <td>
 <ul>
-<li> </li>
+<li>Alumnus, Duke University</li>
 </ul>
 </td>
 <td>
 <ul>
+<li>2024 ACF Nationals Assistant Tournament Director</li>
 <li>2023 ACF Winter Editor</li>
-<li>2023 ACF Regionals Editor</li>
+<li>2021 ACF Fall Logistics</li>
 </ul>
 </td>
 </tr>
