@@ -1467,7 +1467,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Andrew Rout</td>
 <td>
 <ul>
-<li>University of Warwick</li>
+<li>PhD, University of Warwick</li>
 </ul>
 </td>
 <td>
