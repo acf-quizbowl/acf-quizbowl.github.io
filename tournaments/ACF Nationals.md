@@ -13,14 +13,25 @@ last_updated: February 1, 2025
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-## 2025 ACF Nationals
-[2025 ACF Nationals](https://hsquizbowl.org/forums/viewtopic.php?t=28313) will be held on April 19-20, 2025 at University of Maryland.
+# 2025 ACF Nationals
 
-2024 ACF Nationals is head edited by John Lawrence. The subject editors are Ganon Evans, Halle Friedman, Matt Jackson, Rahul Keyal, Dan Ni, Hari Parameswaran, Andrew Rout, and Shahar Schwartz.
+[2025 ACF Nationals](https://hsquizbowl.org/forums/viewtopic.php?t=28313) will be held on April 19-20, 2025 at University of Maryland. The tournament director will be Zac Bennett. Logan Mathis and Kuleen Sasse will be assistant tournament directors.
 
-The tournament director will be Zac Bennett. Logan Mathis and Kuleen Sasse will be assistant tournament directors.
+## Editors
 
-If you have any questions, email [nationals@acf-quizbowl.com](mailto:nationals@acf-quizbowl.com).
+2025 ACF Nationals is head edited by John Lawrence. The subject breakdown by editor is as follows:
+
+Editor | Subjects
+- | -
+Ganon Evans | Religion, Mythology
+Halle Friedman | Visual Fine Arts
+Matt Jackson | Social Science, Geography/Current Events, Other Academic
+Rahul Keyal | European Literature, World Literature
+John Lawrence | American Literature, British Literature, Auditory Fine Arts, Philosophy
+Dan Ni | Other Misc. Science
+Hari Parameswaran | History
+Andrew Rout | Physics, Math
+Shahar Schwartz | Biology, Chemistry
 
 ## Eligibility
 Information on who is eligible to play ACF tournaments can be found [here](https://acf-quizbowl.com/eligibility-rules/).
@@ -29,8 +40,9 @@ Information on who is eligible to play ACF tournaments can be found [here](https
 Information on qualifying for ACF Nationals can be found [here](https://acf-quizbowl.com/eligibility-rules/).
 
 ## Fees
+
 Team entry fee or discount         |
-- | -
+-                                  | -
 Base fee per team                  | $370
 Buzzer discount                    | -$20 per functioning buzzer system (with eight functioning buzzers). Please note that the buzzer discount will be revoked, and a further penalty of $10 assessed, for buzzers that are non-functional upon arriving to ACF Nationals.
 Staffer discount                   | -$100 for each staffer capable of reading a round in roughly 40 minutes.
@@ -44,8 +56,9 @@ Packet submission for 2025 ACF Nationals will be mandatory. Teams will only be r
 This year, the editors of ACF Nationals are planning to write 13 editors’ packets and produce 10 packets from team submissions.
 
 The submission deadlines are:
-Discount         | Submission Date
-- | -
+
+Discount                              | Submission Date
+-                                     | -
 -$75 discount (-$150 for full packet) | Sunday, December 8th
 -$50 discount (-$100 for full packet) | Sunday, December 29th
 -$25 discount (-$50 for full packet) | Sunday, January 19th
