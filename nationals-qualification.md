@@ -2,15 +2,13 @@
 layout: page
 title: Qualifying for ACF Nationals
 permalink: /nationals-qualification/
-last_updated: March 22, 2022
+last_updated: February 1, 2025
 ---
 
 # Table of Contents
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
-
-*A-values for 2022 ACF Nationals qualification are [here](/a-values).*
 
 ## Qualification methods
 1. Clubs who are hosting ACF Regionals: Each host may apply for one host bid, which will be evaluated by an ACF committee after the fall semester of tournaments has concluded. In their bid, teams must specify a roster of up to four players. The task of the committee will be to determine if this roster would be likely to qualify for Nationals based on the below criteria, using its performance at fall tournaments as the primary factor. If the team’s host bid is denied, then the club must play a house team to qualify. Clubs are responsible for making necessary arrangements to properly staff their ACF Regionals events in the event that they play house teams for any reason, including but not limited to host bids being denied or seeking to qualify a second team. Playing or qualifying additional teams at Regionals has no impact on the host bid decision or status. However, the team members listed in the bid roster may not play Regionals; experienced players should be used as tournament staffers.
@@ -34,7 +32,7 @@ This is designed to be reflective of a team's performance in an average game, co
 Initial qualifying teams and teams on the waitlist will then be invited to join the ACF Nationals field in descending order of A-value until the field is full.
 
 ## Bid acceptance
-1. All teams that qualify by one of the above procedures must inform ACF of the acceptance of their bid by February 15, 2022. Note that “bid acceptance” is a completely separate process from actually submitting your optional packet—you may submit a packet before you have been officially offered a spot in the field in order to secure a larger discount, but you will only enter the field once you have accepted your bid. Furthermore, if you submit a packet before registering for the tournament and subsequently do not attend ACF Nationals, whether because you do not qualify or because you choose not to attend, that packet will be treated as a freelance submission; you may not use those questions for another future packet-submission tournament.
+1. All teams that qualify by one of the above procedures must inform ACF of the acceptance of their bid by February 19, 2025. Note that “bid acceptance” is a completely separate process from actually submitting your optional packet—you may submit a packet before you have been officially offered a spot in the field in order to secure a larger discount, but you will only enter the field once you have accepted your bid. Furthermore, if you submit a packet before registering for the tournament and subsequently do not attend ACF Nationals, whether because you do not qualify or because you choose not to attend, that packet will be treated as a freelance submission; you may not use those questions for another future packet-submission tournament.
 
 2. If the field does not fill once the bid acceptance deadline is reached, then all available bids will be awarded in order of descending A-value.
 
