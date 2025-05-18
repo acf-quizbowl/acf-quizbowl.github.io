@@ -354,6 +354,23 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tr>
 
 <tr>
+<td>Eve Fleisig</td>
+<td>
+<ul>
+<li>PhD, University of California, Berkeley</li>
+<li>Alumna, Princeton University</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Regionals Head Editor</li>
+<li>2022 ACF Winter Editor</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
 <td>William Golden</td>
 <td>
 <ul>
@@ -1129,6 +1146,21 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
+<td>Erik Christensen</td>
+<td>
+<ul>
+<li>Alumnus, University of Waterloo</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Regionals Editor</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
 <td>Rachel Ezrielev</td>
 <td>
 <ul>
@@ -1153,22 +1185,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <ul>
 <li>2023 ACF Fall Head Editor</li>
 <li>2022 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Eve Fleisig</td>
-<td>
-<ul>
-<li>PhD, University of California, Berkeley</li>
-<li>Alumna, Princeton University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Regionals Head Editor</li>
-<li>2022 ACF Winter Editor</li>
 </ul>
 </td>
 </tr>
@@ -1307,6 +1323,21 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>2022 ACF Fall Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Amogh Kulkarni</td>
+<td>
+<ul>
+<li>Georgia State</li>
+<li></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2023 ACF Winter Editor</li>
 </ul>
 </td>
 </tr>
