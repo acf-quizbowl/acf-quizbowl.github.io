@@ -744,7 +744,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>John Nienajadlo</td>
 <td>
 <ul>
-<li>University of Florida</li>
+<li>Alumnus, University of Florida</li>
 </ul>
 </td>
 <td>
