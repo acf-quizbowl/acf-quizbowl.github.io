@@ -1313,21 +1313,6 @@ Provisional members are community members who have ably assisted ACF in the past
 </tr>
 
 <tr>
-<td>Evan Knox</td>
-<td>
-<ul>
-<li>M.S., Duke University</li>
-<li>Alumnus, University of Georgia</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-
-<tr>
 <td>Amogh Kulkarni</td>
 <td>
 <ul>
