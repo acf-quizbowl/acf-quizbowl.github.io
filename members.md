@@ -136,10 +136,26 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <tbody>
 
 <tr>
+<td>Will Alston</td>
+<td>
+<ul>
+<li>M.B.A., Columbia University</li>
+<li>Alumnus, Dartmouth College</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>2024 ACF Regionals Editor</li>
+<li>2022 ACF Nationals Editor</li>
+</ul>
+</td>
+</tr>
+
+<tr>
 <td>Ethan Ashbrook</td>
 <td>
 <ul>
-<li>University of Minnesota</li>
+<li>Alumnus, University of Minnesota</li>
 </ul>
 </td>
 <td>
@@ -982,7 +998,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Munir Siddiqui</td>
 <td>
 <ul>
-<li>University of Maryland</li>
+<li>Alumnus, University of Maryland</li>
 </ul>
 </td>
 <td>
@@ -1156,21 +1172,6 @@ Provisional members are community members who have ably assisted ACF in the past
 <li>Site Coordinator, 2023-24</li>
 <li>2023 ACF Regionals Tournament Director</li>
 <li>2022 ACF Fall Tournament Director</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Will Alston</td>
-<td>
-<ul>
-<li>M.B.A., Columbia University</li>
-<li>Alumnus, Dartmouth College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Nationals Editor</li>
 </ul>
 </td>
 </tr>
