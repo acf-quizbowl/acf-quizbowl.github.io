@@ -12,7 +12,7 @@ post_date: July 12, 2019
 
 **OL: Tell me a little bit about your time in high school quizbowl. What was that like?**
 
-VS: I started playing my junior year [at Downingtown STEM Academy]. That year, we ended up at HSNCT and went 5-5. Then that summer, me and my teammates Anish and Rohan decided to study a ton, and we went on to finish t-8 at HSNCT. It was a really fun journey.
+VS: I started playing my junior year at Downingtown STEM Academy. That year, we ended up at HSNCT and went 5-5. Then that summer, me and my teammates Anish and Rohan decided to study a ton, and we went on to finish t-8 at HSNCT. It was a really fun journey.
 
 **OL: Despite that experience, was there anything that surprised you about the transition to collegiate quizbowl?**
 
@@ -24,7 +24,7 @@ VS: I’m definitely more willing to read random things. You read whatever you c
 
 **OL: How does textbook study work for you? Any specific recommendations?**
 
-VS: You can’t go wrong with Campbell’s for biology, or anything else [in Jacob Reed’s [doc](https://docs.google.com/document/d/1T4b8g_qTGsO_8ExU8Z_C4nzjDsw7jXr21lDOn2SBS3g/edit)]. A lot of textbook study for me is opening up the table of contents and deciding I want to learn about a topic and flipping to that page. I don’t go cover to cover. It’s often just a roadmap of topics I should look at.
+VS: You can’t go wrong with Campbell’s for biology, or anything else [in Jacob Reed’s doc](https://docs.google.com/document/d/1T4b8g_qTGsO_8ExU8Z_C4nzjDsw7jXr21lDOn2SBS3g/edit). A lot of textbook study for me is opening up the table of contents and deciding I want to learn about a topic and flipping to that page. I don’t go cover to cover. It’s often just a roadmap of topics I should look at.
 
 **OL: Outside of studying, were there differences in the college quizbowl social sphere?**
 
@@ -36,11 +36,11 @@ VS: We definitely had our patches where we were figuring out how to play with ea
 
 **OL: Do you have any role models on Maryland you’re especially thankful to play with?**
 
-VS: The person I’m closest to is Graham [Reid], because he’s also a science player with humanities generalism. We spend a lot of time talking about cool science things. Playing with Graham, it’s very clear he knows what’s going on with fundamental science topics, which has inspired me to try and understand higher level topics myself.
+VS: The person I’m closest to is Graham Reid, because he’s also a science player with humanities generalism. We spend a lot of time talking about cool science things. Playing with Graham, it’s very clear he knows what’s going on with fundamental science topics, which has inspired me to try and understand higher level topics myself.
 
 **OL: Do you have any favorite team memories?**
 
-VS: [My teammate] Jack [Lewis] has some very eccentric food tastes. His go to meal is a nice plate of rice with some mayonnaise on the side. And our games against Maryland A were all really fun. We would always trash talk during the game. Everyone on A this year was just really great.
+VS: My teammate Jack Lewis has some very eccentric food tastes. His go to meal is a nice plate of rice with some mayonnaise on the side. And our games against Maryland A were all really fun. We would always trash talk during the game. Everyone on A this year was just really great.
 
 
 

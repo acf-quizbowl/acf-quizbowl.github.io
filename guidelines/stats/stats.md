@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistics Guide for ACF Tournaments
-permalink: /stats-guide/
+permalink: /guidelines/stats/
 ---
 
 ## Quizbowl Resource Center Database

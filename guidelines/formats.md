@@ -1506,6 +1506,6 @@ If the top two teams have the same record, they play a single game to determine 
 
 If two teams are tied for second place, with records that put them one game behind a team in first place, the tied teams play a single game (a "play-in" game). The winner of the play-in game then plays a disadvantaged final against the top team, in a standard final series of up to two games.
 
-If three teams are tied for first place, they are seeded statistically by points per game by common games. This may include both carried-over preliminary games and playoff games, see the [Statistics guidelines](/stats-guide). The second- and third-seeded teams play a play-in game, the winner of which plays a single-game final against the first-seeded team.
+If three teams are tied for first place, they are seeded statistically by points per game by common games. This may include both carried-over preliminary games and playoff games, see the [Statistics guidelines](/guidelines/stats). The second- and third-seeded teams play a play-in game, the winner of which plays a single-game final against the first-seeded team.
 
 If four teams are tied for first place, they are seeded statistically by points per game by common games. The first- and fourth-seeded teams and the second- and third-seeded teams play a semi-finals game. The winners of those two games play a single-game final.

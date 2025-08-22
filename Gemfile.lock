@@ -53,6 +53,7 @@ GEM
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
     ffi (1.17.2)
+    ffi (1.17.2-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (228)
@@ -242,6 +243,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.18.9-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.18.9-x64-mingw-ucrt)
+      racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -285,6 +288,7 @@ GEM
 PLATFORMS
   arm64-darwin-22
   arm64-darwin-23
+  x64-mingw-ucrt
   x64-mingw32
 
 DEPENDENCIES
