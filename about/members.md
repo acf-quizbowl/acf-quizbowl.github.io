@@ -19,56 +19,56 @@ See the [About page](/about#how-can-i-become-an-acf-member) for information on t
 
 ACF’s officers also serve as ACF’s board of directors.
 
-<table class="member-list">
-<thead>
-<tr>
-<th class="name-wide">Officer</th>
-<th class="affiliations">Position</th>
-<th class="contributions">Contact</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Zac Bennett</td>
-<td>President</td>
-<td><a href="mailto:president@acf-quizbowl.com">president@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Michael Kearney</td>
-<td>Communications</td>
-<td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Alexandra Hardwick</td>
-<td>Editor-in-Chief</td>
-<td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Jacob Egol</td>
-<td>Site Coordinator</td>
-<td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Kevin Jiang</td>
-<td>ACF Nationals Tournament Director</td>
-<td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Tomás Aguilar-Fraga</td>
-<td>Treasurer</td>
-<td><a href="mailto:treasurer@acf-quizbowl.com">treasurer@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Ani Perumalla</td>
-<td>Webmaster</td>
-<td><a href="mailto:webmaster@acf-quizbowl.com">webmaster@acf-quizbowl.com</a></td>
-</tr>
-</tbody>
+<table class="member-list" id="officer-table">
+    <thead>
+    <tr>
+        <th class="name-wide">Officer</th>
+        <th class="affiliations">Position</th>
+        <th class="contributions">Contact</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Zac Bennett</td>
+        <td>President</td>
+        <td><a href="mailto:president@acf-quizbowl.com">president@acf-quizbowl.com</a></td>
+    </tr>
+    <tr>
+        <td>Michael Kearney</td>
+        <td>Communications</td>
+        <td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
+    </tr>
+    <tr>
+        <td>Alexandra Hardwick</td>
+        <td>Editor-in-Chief</td>
+        <td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
+    </tr>
+    <tr>
+        <td>Jacob Egol</td>
+        <td>Site Coordinator</td>
+        <td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
+    </tr>
+    <tr>
+        <td>Kevin Jiang</td>
+        <td>ACF Nationals Tournament Director</td>
+        <td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
+    </tr>
+    <tr>
+        <td>Tomás Aguilar-Fraga</td>
+        <td>Treasurer</td>
+        <td><a href="mailto:treasurer@acf-quizbowl.com">treasurer@acf-quizbowl.com</a></td>
+    </tr>
+    <tr>
+        <td>Ani Perumalla</td>
+        <td>Webmaster</td>
+        <td><a href="mailto:webmaster@acf-quizbowl.com">webmaster@acf-quizbowl.com</a></td>
+    </tr>
+    </tbody>
 </table>
 
 ## Head Editors
 
-<table class="member-list">
+<table class="member-list" id="head-editor-table">
 <thead>
 <tr>
 <th class="name-wide">Head Editor</th>
@@ -102,7 +102,7 @@ ACF’s officers also serve as ACF’s board of directors.
 
 ## Other Contacts
 
-<table class="member-list">
+<table class="member-list" id="other-contacts-table">
 <thead>
 <tr>
 <th class="name-wide">Position</th>
@@ -133,32 +133,30 @@ ACF’s officers also serve as ACF’s board of directors.
 
 Full members can vote in all ACF elections and on all constitutional amendments.
 
-<table class="table-ruled member-list">
-<thead>
-<tr>
-<th class="name">Name</th>
-<th class="affiliations">Affiliation</th>
-<th class="contributions">Contributions</th>
-</tr>
-</thead>
+<table class="table-ruled member-list" id="full-member-table">
+    <thead>
+    <tr>
+        <th class="name">Name</th>
+        <th class="affiliations">Affiliation</th>
+        <th class="contributions">Contributions</th>
+    </tr>
+    </thead>
 <tbody>
-
 <tr>
-<td>Will Alston</td>
-<td>
-<ul>
-<li>M.B.A., Columbia University</li>
-<li>Alumnus, Dartmouth College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Regionals Editor</li>
-<li>2022 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>Will Alston</td>
+    <td>
+        <ul>
+        <li>M.B.A., Columbia University</li>
+        <li>Alumnus, Dartmouth College</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+        <li>2024 ACF Regionals Editor</li>
+        <li>2022 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
-
 <tr>
 <td>Ethan Ashbrook</td>
 <td>
@@ -1157,7 +1155,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 
 Provisional members are community members who have ably assisted ACF in the past and, if they do so again in the future, may be invited to apply for full membership.
 
-<table class="table-ruled member-list">
+<table class="table-ruled member-list" id="provisional-member-table">
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -1586,7 +1584,7 @@ Provisional members are community members who have ably assisted ACF in the past
 
 Emeritus members are former ACF full members who have decided to take a step back from active involvement in ACF.
 
-<table class="table-ruled member-list">
+<table class="table-ruled member-list" id="emeritus-member-table">
 <thead>
 <tr>
 <th class="name">Name</th>
@@ -2488,3 +2486,17 @@ Alumnus, Washington University in St. Louis
 </tbody>
 </table>
 <!--gt table end-->
+
+<script>
+$(document).ready( function () {
+    $('#full-member-table').DataTable();
+} );
+
+$(document).ready( function () {
+    $('#provisional-member-table').DataTable();
+} );
+
+$(document).ready( function () {
+    $('#emeritus-member-table').DataTable();
+} );
+</script>

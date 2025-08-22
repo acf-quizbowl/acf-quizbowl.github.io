@@ -75,3 +75,46 @@
 .pagination-sm {
   @include pagination-size($pagination-padding-y-sm, $pagination-padding-x-sm, $font-size-sm, $line-height-sm, $border-radius-sm);
 }
+
+/* https://github.com/acf-quizbowl/acf-quizbowl.github.io/pull/67 */
+
+.paginate_button {
+  padding: .5em 1em .25em 1em !important;
+  color: black !important;
+}
+
+.paginate_button.current {
+  border: 0px !important;
+  border-bottom: 2px solid $blue-dark !important;
+  background: white !important;
+}
+
+.paginate_button:hover {
+  border: 0px !important;
+  border-bottom: 2px solid $blue-light !important;
+  background: white !important;
+  color: black !important;
+}
+
+.paginate_button, .paginate_button.current, .paginate_button:hover, .paginate_button.current:hover, .paginate_button.disabled, .paginate_button.disabled:hover {
+  box-shadow:none;
+  outline:none;
+  transition:all 0.2s ease;
+}
+
+.paginate_button.current, .paginate_button.current:hover {
+  // border: 0px !important;
+  border: 1px solid $blue-dark !important;
+  background:white !important;
+}
+
+.paginate_button:hover {
+  border: 1px solid $blue-dark !important;
+  background: $blue-dark !important;
+  color:white !important;
+}
+
+.paginate_button.disabled, .paginate_button.disabled:hover {
+  background:white !important;
+  border:0px !important;
+}
