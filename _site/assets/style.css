@@ -8,7 +8,7 @@ input, select, textarea, button { font-family: inherit; font-size: inherit; line
 /** Basic styling */
 body { margin: 0; font-family: "Inter", sans-serif; font-size: 1.0625em; line-height: 1.5; color: #111; background-color: #fff; }
 
-h1, h2, h3, h4, h5, h6 { margin-top: 1.25em; margin-bottom: 0.5em; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0.5em; margin-bottom: 0.5em; }
 
 h1, .h1 { font-size: 1.5em; }
 
@@ -61,6 +61,13 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose table.distribution tr.category td { font-weight: bold; background-color: #dbdcde; border-top: 1px solid #023B7F; }
 .prose table.distribution tr.subcategory td:first-child { padding-left: 2em; }
 .prose table.distribution thead th:nth-child(n+2), .prose table.distribution thead td:nth-child(n+2), .prose table.distribution tbody th:nth-child(n+2), .prose table.distribution tbody td:nth-child(n+2) { text-align: center; }
+
+.toc { background-color: blue-light; padding: 30px; position: fixed; box-sizing: border-box; top: 0px; height: 100%; width: 300px; left: 0px; }
+.toc li { list-style-type: none; margin-bottom: 6px; }
+.toc li:first-child { margin-top: 20px; }
+.toc a { color: #023B7F; }
+
+.toc:before { content: "Table of Contents"; color: #023B7F; font-weight: bold; font-size: 1.3em; }
 
 nav { width: 100%; height: 60px; margin: 0 auto; position: sticky; }
 
@@ -427,7 +434,7 @@ th.packet { width: 25%; }
 .dropdown-toggle::after { display: inline-block; width: 0; height: 0; margin-left: 0.255em; vertical-align: 0.255em; content: ""; border-top: 0.3em solid; border-right: 0.3em solid transparent; border-bottom: 0; border-left: 0.3em solid transparent; }
 .dropdown-toggle:empty::after { margin-left: 0; }
 
-.dropdown-menu { position: absolute; top: 100%; left: 0; z-index: 1000; display: none; float: left; min-width: 10rem; padding: 0.5rem 0; margin: 0.125rem 0 0; font-size: 1rem; color: #212529; text-align: left; list-style: none; background-color: #ffffff; background-clip: padding-box; border: 2px solid #023B7F; border-radius: 0.25rem; }
+.dropdown-menu { position: absolute; top: 100%; left: 0; z-index: 1000; display: none; float: left; min-width: 10rem; padding: 0.5rem 0; margin: 0.125rem 0 0; font-size: 1rem; color: #212529; text-align: left; list-style: none; background-color: #ffffff; background-clip: padding-box; border: 2px solid #023B7F; border-radius: 5px; }
 
 .dropup .dropdown-menu { margin-top: 0; margin-bottom: 0.125rem; }
 .dropup .dropdown-toggle::after { display: inline-block; width: 0; height: 0; margin-left: 0.255em; vertical-align: 0.255em; content: ""; border-top: 0; border-right: 0.3em solid transparent; border-bottom: 0.3em solid; border-left: 0.3em solid transparent; }
@@ -464,13 +471,13 @@ th.packet { width: 25%; }
 
 .nav-tabs { border-bottom: 1px solid #dee2e6; }
 .nav-tabs .nav-item { margin-bottom: -1px; }
-.nav-tabs .nav-link { border: 1px solid transparent; border-top-left-radius: 0.25rem; border-top-right-radius: 0.25rem; }
+.nav-tabs .nav-link { border: 1px solid transparent; border-top-left-radius: 5px; border-top-right-radius: 5px; }
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus { border-color: #e9ecef #e9ecef #dee2e6; }
 .nav-tabs .nav-link.disabled { color: #6c757d; background-color: transparent; border-color: transparent; }
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link { color: #495057; background-color: #fff; border-color: #dee2e6 #dee2e6 #fff; }
 .nav-tabs .dropdown-menu { margin-top: -1px; border-top-left-radius: 0; border-top-right-radius: 0; }
 
-.nav-pills .nav-link { border-radius: 0.25rem; }
+.nav-pills .nav-link { border-radius: 5px; }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link { color: #fff; background-color: #4279C1; }
 
 .nav-fill .nav-item { flex: 1 1 auto; text-align: center; }
@@ -494,7 +501,7 @@ th.packet { width: 25%; }
 
 .navbar-collapse { flex-basis: 100%; flex-grow: 1; align-items: center; }
 
-.navbar-toggler { padding: 0.25rem 0.75rem; font-size: 1.25rem; line-height: 1; background-color: transparent; border: 1px solid transparent; border-radius: 0.25rem; }
+.navbar-toggler { padding: 0.25rem 0.75rem; font-size: 1.25rem; line-height: 1; background-color: transparent; border: 1px solid transparent; border-radius: 5px; }
 .navbar-toggler:hover, .navbar-toggler:focus { text-decoration: none; }
 .navbar-toggler:not(:disabled):not(.disabled) { cursor: pointer; }
 

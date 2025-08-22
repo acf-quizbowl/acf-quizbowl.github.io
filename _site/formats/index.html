@@ -132,14 +132,74 @@
 
 
     <div>
-      <article class="container mx-auto px-2">
+      <style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+
+    @media screen and (prefers-reduced-motion: reduce) {
+      scroll-behavior: auto;
+    }
+  }
+
+  .navbar-brand {
+    margin-left: 300px;
+  }
+
+  /* @media only screen and (max-width: 1200px) {
+        header {
+        width:calc(100vw - 400px);
+        left:350px;
+        }
+    } */
+
+  .toc-article {
+    width: 700px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+
+    header,
+    .toc-article {
+      width: calc(100vw - 400px);
+      left: 350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display: none;
+    }
+
+    header,
+    .toc-article {
+      width: 80vw;
+      left: 10vw;
+      margin: auto;
+    }
+
+    .navbar-brand {
+      margin-left: 0.5rem;
+      /* TODO not quite accurate and has spacing variable - fix */
+    }
+  }
+</style>
+
+<article class="container mx-auto px-2">
   <header>
     <h1 class="h0 py-1 mt-3">Formats for ACF Tournaments</h1>
     
     <p class="last-updated">Last updated: August 21, 2025</p>
     
   </header>
-  <div class="prose mb-4 py-1">
+  <div class="prose mb-4">
     <h1 class="no_toc" id="table-of-contents">Table of Contents</h1>
 <ul id="markdown-toc">
   <li><a href="#table-of-formats" id="markdown-toc-table-of-formats">Table of Formats</a></li>
@@ -1642,6 +1702,20 @@
 
   </div>
 </article>
+
+<script>
+  $(document).ready(function () {
+    $('#full-member-table').DataTable();
+    $('#provisional-member-table').DataTable();
+    $('#emeritus-member-table').DataTable();
+  });
+  $(".menu").click(function () {
+    $(".toc").toggle("slow", function () {
+      // Animation complete.
+    });
+  });
+</script>
+
 
     </div>
   </body>

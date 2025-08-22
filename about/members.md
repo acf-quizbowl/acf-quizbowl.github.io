@@ -2486,17 +2486,3 @@ Alumnus, Washington University in St. Louis
 </tbody>
 </table>
 <!--gt table end-->
-
-<script>
-$(document).ready( function () {
-    $('#full-member-table').DataTable();
-} );
-
-$(document).ready( function () {
-    $('#provisional-member-table').DataTable();
-} );
-
-$(document).ready( function () {
-    $('#emeritus-member-table').DataTable();
-} );
-</script>
