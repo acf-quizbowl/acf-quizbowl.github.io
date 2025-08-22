@@ -12,4 +12,3 @@ These pages were migrated from the old ACF WordPress website in summer 2019.
     {% include post_block.html %}
   {% endfor %}
 </div>
-
