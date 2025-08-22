@@ -131,6 +131,7 @@ ol ol ol { list-style-type: lower-roman; }
 .text-accent { color: #4279C1; }
 
 a.active { color: #4279C1; }
+a.active:hover { text-decoration: underline; }
 
 /* Layout utilities */
 .container { max-width: 57em; }
@@ -398,6 +399,8 @@ th.g-records { width: 5%; }
 th.app-records { width: 5%; }
 
 th.name { width: 20%; }
+
+th.name-wide { width: 30%; }
 
 th.affiliations { width: 30%; }
 

@@ -1,1 +1,1 @@
-{"/official-acf-eligibility-rules":"http://localhost:4000/eligibility-rules/","/stats/teams":"http://localhost:4000/stats/","/stats/players":"http://localhost:4000/stats/","/stats/years":"http://localhost:4000/stats/","/stats/standings":"http://localhost:4000/stats/","/stats/individuals":"http://localhost:4000/stats/"}
+{"/eligibility-rules/":"http://localhost:4000/rules/eligibility/","/official-acf-rules/eligibility":"http://localhost:4000/rules/eligibility/"}
