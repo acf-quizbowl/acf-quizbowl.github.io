@@ -19,7 +19,7 @@ description: We produce four high-quality collegiate quizbowl tournaments each y
 logo: /logo.png
 thumbnail: /thumbnail_logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "acf-quizbowl.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://acf-quizbowl.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: acf-quizbowl.github.io # the GitHub repo name for your project
 github_username: acf-quizbowl
 repository: acf-quizbowl/acf-quizbowl.github.io
@@ -31,7 +31,7 @@ plugins:
 
 whitelist:
   - jekyll-redirect-from
-  
+
 remote_theme: broccolini/swiss
 
 # Optional social link, you can choose from the following options:
@@ -45,3 +45,6 @@ theme_color: acf
 
 # Build settings
 markdown: kramdown
+
+redirect_from:
+  json: false

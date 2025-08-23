@@ -3,7 +3,7 @@ layout: page
 title: Moderator Training
 permalink: /training/moderating/
 redirect_from:
-  - /online-moderator-training/
+  - /online-moderator-training
 last_updated: August 22, 2025
 ---
 
