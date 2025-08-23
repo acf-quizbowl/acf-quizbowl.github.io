@@ -4,7 +4,7 @@ title: ACF Eligibility Rules
 permalink: /rules/eligibility/
 redirect_from:
   - /eligibility-rules/
-  - /official-acf-rules/eligibility
+  - /official-acf-rules/eligibility/
 last_updated: October 31, 2021
 ---
 

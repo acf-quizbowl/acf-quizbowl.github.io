@@ -2,8 +2,8 @@
 layout: page
 title: ACF Gameplay Rules
 permalink: /rules/gameplay/
-redirect-from:
-  - /rules/gameplay/
+redirect_from:
+  - /gameplay-rules/
   - /official-acf-rules/gameplay/
 last_updated: July 26, 2024
 ---

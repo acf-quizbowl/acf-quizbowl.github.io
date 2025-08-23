@@ -2,7 +2,7 @@
 layout: page
 title: Hosting Guidelines
 permalink: /guidelines/hosting/
-redirects:
+redirect_from:
   - /hosting-guidelines/
 last_updated: September 18, 2021
 ---
