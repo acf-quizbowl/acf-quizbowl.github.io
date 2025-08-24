@@ -1,8 +1,10 @@
 ---
 layout: page
 title: ACF Winter
-permalink: winter
+permalink: /tournaments/winter
 nav_order: 2.5
+redirect_from:
+  - /winter
 last_updated: August 21, 2025
 ---
 
@@ -12,7 +14,7 @@ last_updated: August 21, 2025
 
 ## Past Tournaments
 
-Sample questions from previous iterations of ACF Winter are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Winter&col=1&season=&archived=y).
+Sample questions from previous iterations of ACF Winter are on the [Collegiate Quizbowl Packet Archive](https://hsquizbowl.org/db/questionsets/search/?name=ACF+Winter&col=1&season=&archived=y).
 
 Announcements and information about previous iterations of ACF Winter are archived below:
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2025 ACF Nationals
-permalink: /nationals/2025/
+permalink: tournaments/nationals/2025/
 nav_order: 4
 last_updated: February 1, 2025
 ---
@@ -77,10 +77,10 @@ The preliminary field cap for 2025 Nationals is 48 teams. More details about fie
 
 ## Past tournaments
 
-Sample questions from previous iterations of ACF Nationals are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Nationals&col=1&season=&archived=y).
+Sample questions from previous iterations of ACF Nationals are on the [Collegiate Quizbowl Packet Archive](https://hsquizbowl.org/db/questionsets/search/?name=ACF+Nationals&col=1&season=&archived=y).
 
 Announcements and information about previous iterations of ACF Nationals are archived below:
 
-* [2024 ACF Nationals announcement](/tournaments/archive/2023/ACF%20Nationals)
-* [2023 ACF Nationals announcement](/tournaments/archive/2022/ACF%20Nationals)
-* [2022 ACF Nationals announcement](/tournaments/archive/2021/ACF%20Nationals)
+* [2024 ACF Nationals](/tournaments/archive/2023/ACF%20Nationals)
+* [2023 ACF Nationals](/tournaments/archive/2022/ACF%20Nationals)
+* [2022 ACF Nationals](/tournaments/archive/2021/ACF%20Nationals)

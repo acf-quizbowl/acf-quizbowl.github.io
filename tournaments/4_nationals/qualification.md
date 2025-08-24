@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qualifying for ACF Nationals
-permalink: /nationals/qualification/
+permalink: tournaments/nationals/qualification/
 last_updated: February 1, 2025
 ---
 

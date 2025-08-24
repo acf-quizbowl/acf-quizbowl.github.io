@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACF Nationals A-values
-permalink: /nationals/a-values/
+permalink: tournaments/nationals/a-values/
 last_updated: March 22, 2022
 ---
 
@@ -13,7 +13,7 @@ last_updated: March 22, 2022
 
 ## A-values
 
-*For an explanation of how A-values and qualifications are determined, see [here](/nationals/qualification).*
+*For an explanation of how A-values and qualifications are determined, see [here](tournaments/nationals/qualification).*
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMX61yMsz8Zg5HVKySWrAhZAliMtKxbmlRvdBlLqGiwRzEfEmHa6hKYkANuGJp-tDftBIhrsiqreu3/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" class="a-values"></iframe>
 

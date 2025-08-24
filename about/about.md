@@ -3,6 +3,9 @@ layout: page
 title: About ACF
 permalink: /about/
 nav_order: 1
+redirect_from:
+  - /aboutus
+  - /documents
 last_updated: August 22, 2025
 ---
 
@@ -10,13 +13,10 @@ The **Academic Competition Federation** (ACF) is a non-profit organization dedic
 
 We offer four tournaments throughout the academic year, roughly corresponding to a [four-point difficulty scale](https://collegequizbowlcalendar.com/difficulty-scale/):
 
-- **[ACF Fall](/fall)** is a novice tournament held in mid-October. It is for players who are new to collegiate quizbowl who do not have significant experience with high-school quizbowl.
-
-- **[ACF Winter](/winter)** is a medium-difficulty tournament held in mid-November. It is for both new and experienced players alike.
-
-- **[ACF Regionals](/regionals)** is a regional championship tournament held in January or February. It serves as a qualifier for ACF Nationals.
-
-- **[ACF Nationals](/nationals)** is the premier collegiate national championship held in April. To participate in ACF Nationals, teams must qualify by performing well at ACF Regionals, or may apply for wildcard bids.
+- **[ACF Fall](/tournaments/fall)** is a novice tournament held in mid-October. It is for players who are new to collegiate quizbowl who do not have significant experience with high-school quizbowl.
+- **[ACF Winter](/tournaments/winter/)** is a medium-difficulty tournament held in mid-November. It is for both new and experienced players alike.
+- **[ACF Regionals](/tournaments/regionals/)** is a regional championship tournament held in January or February. It serves as a qualifier for ACF Nationals.
+- **[ACF Nationals](/tournaments/nationals/)** is the premier collegiate national championship held in April. To participate in ACF Nationals, teams must qualify by performing well at ACF Regionals, or may apply for wildcard bids.
 
 ## Who can play in ACF tournaments?
 

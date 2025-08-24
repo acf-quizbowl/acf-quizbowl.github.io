@@ -4,21 +4,21 @@ title: Hosting Guidelines
 permalink: /guidelines/hosting/
 redirect_from:
   - /hosting-guidelines/
-last_updated: September 18, 2021
+last_updated: August 23, 2025
 ---
+
 <!-- need to rewrite so "host team" is not ambiguous with club vs. competing house team -->
 
 # Table of Contents
-
 {: .no_toc}
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-# Bidding to host ACF tournaments
+## Bidding to host ACF tournaments
 
 If you would like to host an ACF tournament in your region, email the [Site Coordinator](mailto:hosting@acf-quizbowl.com).
 
-For details about the bidding process and policy specifically for ACF Nationals, see [Details about bidding for ACF Nationals](#details-about-bidding-for-acf-nationals).
+For details about the bidding process and policy specifically for ACF Nationals, see the section of this article about [details about bidding for ACF Nationals](#details-about-bidding-for-acf-nationals).
 
 ## Regions according to ACF
 
@@ -165,15 +165,25 @@ See [Payment from Hosts to ACF](#payment-from-hosts-to-acf).
 
 ## Mirror announcements
 
-ACF will endeavor to finalize hosts 10 weeks before a tournament, at which time hosts should publish their announcements. Hosts must announce their tournament on the [Quizbowl Resource Center Forums](http://www.hsquizbowl.org/forums/viewforum.php?f=8), add their tournament to the [Quizbowl Resource Center Database](http://hsquizbowl.org/db/tournaments/), and contact local teams in a timely fashion. Hosts are also encouraged to advertise their tournament via social media.
+ACF will endeavor to finalize hosts 10 weeks before a tournament, at which time hosts should publish their announcements. Hosts must:
 
-ACF will provide an announcement template to hosts. The title of announcement should be in the form of “[Year] ACF [Tournament] at [Site].” The announcement should explicitly state, at a minimum, the date and day of the week of the tournament (which will normally be Saturday, but can be Sunday in some cases); instructions on how to register; and the link to [official ACF information on packet submission](/guidelines/packet-sub).
+* Announce their tournament on the [Quizbowl Resource Center Forums](https://www.hsquizbowl.org/forums/viewforum.php?f=8)
+* Add their tournament to the [Quizbowl Resource Center Database](https://hsquizbowl.org/db/tournaments/), **AND**
+* Contact local teams in a timely fashion.
+
+Hosts are also encouraged to advertise their tournament via social media.
+
+ACF will provide an announcement template to hosts. The title of the announcement should be in the form of `[Year] ACF [Tournament] at [Site].` The announcement should explicitly state, at a minimum:
+
+* The date and day of the week of the tournament (which will normally be Saturday, but can be Sunday in some cases)
+* Instructions on how to register, **AND**
+* The link to [official ACF information on packet submission](/guidelines/packet-sub)
 
 ## Tournament format and rules
 
 ### Minimum guaranteed games
 
-All teams must be offered at least 9 meaningful games for Fall, and 10 meaningful games for Winter and Regionals. For online tournaments, all teams must be offered at least 7 games. (Exceptions must be approved by the Site Coordinator.) ACF recommends offering at least 11 games for in-person tournaments. See [ACF’s suggested formats and tiebreaking procedures](/formats). Hosts should expect that at least 15 packets will be available for Fall, Winter, and Regionals (13 for online tournaments). All tournament formats must be approved by the Site Coordinator one week before the tournament.
+All teams must be offered at least 9 meaningful games for Fall, and 10 meaningful games for Winter and Regionals. For online tournaments, all teams must be offered at least 7 games. (Exceptions must be approved by the Site Coordinator.) ACF recommends offering at least 11 games for in-person tournaments. See [ACF’s suggested formats and tiebreaking procedures](/guidelines/formats). Hosts should expect that at least 15 packets will be available for Fall, Winter, and Regionals (13 for online tournaments). All tournament formats must be approved by the Site Coordinator one week before the tournament.
 
 ### Rules
 
@@ -183,7 +193,7 @@ Hosts must use the [official ACF rules](/rules/gameplay) for gameplay.
 
 ### Statistics
 
- Hosts must keep statistics for the entire tournament, fully and accurately entering all team, individual, and packet statistics that the program uses (in SQBS, enable “round reports”). Within 24 hours of the conclusion of the tournament, hosts must publicly post all statistics reports to the [Quizbowl Resource Center Database](https://hsquizbowl.org/db/). They must also post a link to the statistics report and a brief summary of the results and top scorers on their announcement thread on the Quizbowl Resource Center Forums. If a tournament uses multiple phases, hosts must post reports for the preliminary phase, the playoff phase, and both phases combined. Host should make every effort to make any corrections to and re-upload the statistics report within 24 hours of receiving corrections. Hosts may use any statistics program during the tournament itself, as long as they upload results to the Quizbowl Resource Center Database afterwards. [SQBS](http://ai.stanford.edu/~csewell/sqbs/) can be used to keep game statistics, and is available for free. See [ACF’s best practices for submitting SQBS reports](/guidelines/stats). Failing to keep, post, or correct statistics in a timely manner, or follow ACF’s best practices, may result in a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
+ Hosts must keep statistics for the entire tournament, fully and accurately entering all team, individual, and packet statistics that the program uses (in SQBS, enable “round reports”). Within 24 hours of the conclusion of the tournament, hosts must publicly post all statistics reports to the [Quizbowl Resource Center Database](https://hsquizbowl.org/db/). They must also post a link to the statistics report and a brief summary of the results and top scorers on their announcement thread on the Quizbowl Resource Center Forums. If a tournament uses multiple phases, hosts must post reports for the preliminary phase, the playoff phase, and both phases combined. Host should make every effort to make any corrections to and re-upload the statistics report within 24 hours of receiving corrections. Hosts may use any statistics program during the tournament itself, as long as they upload results to the Quizbowl Resource Center Database afterwards. [SQBS](https://ai.stanford.edu/~csewell/sqbs/) can be used to keep game statistics, and is available for free. See [ACF’s best practices for submitting SQBS reports](/guidelines/stats). Failing to keep, post, or correct statistics in a timely manner, or follow ACF’s best practices, may result in a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
 
 ### Detailed statistics
 
@@ -197,7 +207,7 @@ The top two overall teams will receive trophies in all cases.
 
 The top two Undergraduate and Division II teams will receive trophies if the field includes at least four Undergraduate teams and/or four Division II teams, respectively. If, 2 weeks before the tournament, the host reasonably expects fewer than four Undergraduate and/or four Division II teams will play the tournament, then the host must inform ACF that it will opt out of Undergraduate and/or Division II trophies. The host may also opt out of Undergraduate and/or Division II trophies if they reasonably expect that the _entire_ field will consist of Undergraduate and/or Division II teams. If the host opts out of Undergraduate and/or Division II trophies, but it turns out that the field merited awarding either or both of those titles, the host must make reasonable efforts to award prizes to the winners.
 
-Failing to properly award titles and trophies according to ACF's [finals procedures](/formats#finals-procedures), including Undergraduate and/or Division II, will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
+Failing to properly award titles and trophies according to ACF's [finals procedures](/guidelines/formats#finals-procedures), including Undergraduate and/or Division II, will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)).
 
 Hosts of online tournaments are not required to award trophies due to the costly expenses of shipping.
 
@@ -209,7 +219,7 @@ In addition to awarding individual book prizes as specified, hosts of tournament
 
 ### Qualifying for ACF Nationals
 
-ACF Regionals serves as a qualifying tournament for ACF Nationals (see [ACF’s procedures for determining which teams qualify for ACF Nationals](/nationals/qualification)). As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
+ACF Regionals serves as a qualifying tournament for ACF Nationals (see [ACF’s procedures for determining which teams qualify for ACF Nationals](tournaments/nationals/qualification)). As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
 
 ## Miscellaneous
 

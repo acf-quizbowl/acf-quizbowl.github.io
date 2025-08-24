@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2025 ACF Winter
-permalink: /winter/2025/
+permalink: tournaments/winter/2025/
 nav_order: 2.5
 last_updated: August 21, 2025
 ---
@@ -146,11 +146,11 @@ Mirrors will by default be regional. ACF reserves the right to move teams and st
 
 ## Past Tournaments
 
-Sample questions from previous iterations of ACF Winter are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Winter&col=1&season=&archived=y).
+Sample questions from previous iterations of ACF Winter are on the [Collegiate Quizbowl Packet Archive](https://hsquizbowl.org/db/questionsets/search/?name=ACF+Winter&col=1&season=&archived=y).
 
 Announcements and information about previous iterations of ACF Winter are archived below:
 
-* [2024 ACF Winter](/winter/2024/)
-* [2023 ACF Winter](/winter/2023/)
-* [2022 ACF Winter](/winter/2022/)
-* [2021 ACF Winter](/winter/2021/)
+* [2024 ACF Winter](tournaments/winter/2024/)
+* [2023 ACF Winter](tournaments/winter/2023/)
+* [2022 ACF Winter](tournaments/winter/2022/)
+* [2021 ACF Winter](tournaments/winter/2021/)

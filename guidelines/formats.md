@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Formats for ACF Tournaments
-permalink: /formats/
+permalink: /guidelines/formats
+redirect_from:
+  - /formats
 last_updated: August 21, 2025
 ---
 

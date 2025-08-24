@@ -1,8 +1,10 @@
 ---
 layout: page
 title: ACF Regionals
-permalink: regionals
+permalink: /tournaments/regionals
 nav_order: 2.5
+redirect_from:
+  - /regionals
 last_updated: August 21, 2025
 ---
 
@@ -12,7 +14,7 @@ last_updated: August 21, 2025
 
 ## Past Tournaments
 
-Sample questions from previous iterations of ACF Regionals are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Regionals&col=1&season=&archived=y).
+Sample questions from previous iterations of ACF Regionals are on the [Collegiate Quizbowl Packet Archive](https://hsquizbowl.org/db/questionsets/search/?name=ACF+Regionals&col=1&season=&archived=y).
 
 Announcements and information about previous iterations of ACF Regionals are archived below:
 

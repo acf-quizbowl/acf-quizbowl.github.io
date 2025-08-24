@@ -1,8 +1,11 @@
 ---
 layout: page
 title: ACF Nationals
-permalink: nationals
+permalink: /tournaments/nationals
 nav_order: 2.5
+redirect_from:
+  - /nationals
+  - /nationals-schedule
 last_updated: August 21, 2025
 ---
 
@@ -12,7 +15,7 @@ last_updated: August 21, 2025
 
 ## Past Tournaments
 
-Sample questions from previous iterations of ACF Nationals are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Nationals&col=1&season=&archived=y).
+Sample questions from previous iterations of ACF Nationals are on the [Collegiate Quizbowl Packet Archive](https://hsquizbowl.org/db/questionsets/search/?name=ACF+Nationals&col=1&season=&archived=y).
 
 Announcements and information about previous iterations of ACF Nationals are archived below:
 

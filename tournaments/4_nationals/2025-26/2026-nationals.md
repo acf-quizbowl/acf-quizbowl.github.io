@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2026 ACF Nationals
-permalink: /nationals/2026/
+permalink: tournaments/nationals/2026/
 nav_order: 4
 last_updated: August 21, 2025
 ---
@@ -66,12 +66,12 @@ For information on who is eligible to play non-Fall ACF tournaments, see [ACF’
 
 ## Past Tournaments
 
-Sample questions from previous iterations of ACF Nationals are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Nationals&col=1&season=&archived=y).
+Sample questions from previous iterations of ACF Nationals are on the [Collegiate Quizbowl Packet Archive](https://hsquizbowl.org/db/questionsets/search/?name=ACF+Nationals&col=1&season=&archived=y).
 
 Announcements and information about previous iterations of ACF Nationals are archived below:
 
-* [2025 ACF Nationals](/nationals/2025)
-* [2024 ACF Nationals](/nationals/2024)
-* [2023 ACF Nationals](/nationals/2023)
-* [2022 ACF Nationals](/nationals/2022)
-* [2021 ACF Nationals](/nationals/2021)
+* [2025 ACF Nationals](tournaments/nationals/2025)
+* [2024 ACF Nationals](tournaments/nationals/2024)
+* [2023 ACF Nationals](tournaments/nationals/2023)
+* [2022 ACF Nationals](tournaments/nationals/2022)
+* [2021 ACF Nationals](tournaments/nationals/2021)

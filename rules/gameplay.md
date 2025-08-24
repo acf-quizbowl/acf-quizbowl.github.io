@@ -23,7 +23,7 @@ Within these rules, all plain text has the effective force of a rule governing a
 
 <p class="online-rule">Rules specifically pertaining to online tournaments have been rendered in blue.</p>
 
-These rules were ratified as a full replacement of the hitherto-existing rule set on August 27, 2016. Some portions of these rules were, with permission, based on the [official gameplay rules](http://www.pace-nsc.org/official-pace-ruleset/) of the [Partnership for Academic Competition Excellence](http://www.pace-nsc.org) (PACE), and on the previous copyrighted rule sets of PACE and ACF.
+These rules were ratified as a full replacement of the hitherto-existing rule set on August 27, 2016. Some portions of these rules were, with permission, based on the [official gameplay rules](https://www.pace-nsc.org/official-pace-ruleset/) of the [Partnership for Academic Competition Excellence](https://www.pace-nsc.org) (PACE), and on the previous copyrighted rule sets of PACE and ACF.
 
 Any tournament may use these rules free of charge without prior permission from ACF. However, tournament directors are expected to announce in advance any adjustments, choices, or modifications they might make to alter these rules at their own events, and to apply any such modifications consistently across all matches in a given tournament, without attributing authorship of any such modifications to ACF.
 
@@ -152,7 +152,7 @@ Any tournament may use these rules free of charge without prior permission from 
     3. During any score check, players may ask the moderator to reveal the location of the power mark*(s)* in any tossup the player has heard during the match thus far, so as to ensure that score was kept accurately during the match.
 3. The lack of a power mark within the question text of a tossup is not protestable. *(If a tossup has no power mark, it has the same point value at all points where a player could buzz in. The moderator cannot “make up” a point where the power mark “would” be.)*
 
-## DY. Optional addendum: Incorrectness Penalties *(“Negs”)*
+## DY. Optional addendum: Incorrectness Penalties (“Negs”)
 
 *(Official ACF tournaments use negs.)*
 

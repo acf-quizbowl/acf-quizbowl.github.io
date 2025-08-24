@@ -3,6 +3,8 @@ layout: page
 title: Writing
 permalink: /writing/
 nav_order: 1.2
+redirect_from:
+  - /writer-feedback
 last_updated: August 22, 2025
 ---
 

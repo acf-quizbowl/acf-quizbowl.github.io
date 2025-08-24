@@ -1,29 +1,81 @@
 ---
 layout: page
-title: Statistics Guide for ACF Tournaments
+title: Statkeeping Guide for ACF Tournaments
 permalink: /guidelines/stats/
+redirect_from:
+  - /stats
+  - /stats-guide
+last_updated: August 23, 2025
 ---
 
-## Quizbowl Resource Center Database
-- The tournament listing should be formatted like "[Year] ACF [Tournament] at [School]" *(e.g. “2019 ACF Regionals at Toronto”)*
-- To upload statistics for an existing database entry on the [Quizbowl Resource Center Database](http://hsquizbowl.org/db/), `Upload SQBS Reports → Select tournament → Add stat report`
-    - Only the owner of a database entry may post statistics for it. The owner of a database entry can change the owner (From the database entry page, `Edit Tournament Listing → Change Owner`)
+# Table of Contents
+{: .no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
-## Team and Player Names
-- Always use players’ full first and last names
-- After both player and school names, indicate "(DII)" or "(UG)" as applicable, even if there are not enough Division II and/or Undergraduate schools to award trophies (e.g. “Jane Doe (DII)” or “Michigan State (UG)”)
-    - For Division II players, it is not necessary to indicate both DII and UG
+## Keeping Stats
 
-## SQBS
+### Software
 
-SQBS can be used to keep game statistics, and is available for free [here](http://ai.stanford.edu/~csewell/sqbs/).
+#### MODAQ
 
-### Multi-Phase Tournaments
-- If the tournament uses multiple preliminary pools, label them separately as divisions (File → New Tournament → Use Divisions)
-- If tournament uses multiple phases like preliminary rounds and playoff games, statistics should be posted for each phase separately, as well as a combined file for all phases. `Settings → General → Rounds Included In Reports`, then generate separate reports.
-- When breaking ties, it may be necessary to seed teams by points per game, only including games against opponents that both teams played (see ACF’s [Formats](/formats) guidelines). After saving a safe copy of the tournament results, delete non-common games for the teams involved in the tiebreaker.
-    - Deleting a game cannot be undone, so exercise care!
+[MODAQ](https://github.com/alopezlago/MODAQ), developed by Alejandro Lopez-Lago, is a free web application for assisting moderators with reading and scorekeeping quiz bowl matches. It automatically calculates scores while simultaneously tracking buzzpoint data.
+
+To use MODAQ, visit either of the following URLs:
+
+* [https://www.quizbowlreader.com/demo.html](https://www.quizbowlreader.com/demo.html)
+* [https://modaq.github.io/](https://modaq.github.io/)
+
+For a guide to using MODAQ, see the [MODAQ Wiki](https://github.com/alopezlago/MODAQ/wiki).
+
+#### YellowFruit
+
+[YellowFruit](https://github.com/anadig/YellowFruit/) is a free statkeeping application developed by Andrew Nadig. It works well in tandem with MODAQ, as QBJ files exported by [MODAQ](#modaq) can be imported into YellowFruit easily. For more information and discussion, see the thread about YellowFruit on the HSQB forums.
+
+To use YellowFruit, download [the latest release](https://github.com/ANadig/YellowFruit/releases/latest) from [its GitHub page](https://github.com/ANadig/YellowFruit).
+
+#### SQBS
+
+[SQBS](https://ai.stanford.edu/~csewell/sqbs/) is a free statkeeping application developed by Stanford University quizbowlers.
+
+### Best Practices
+
+#### Team and Player Names
+
+* Always use players’ full first and last names.
+* After both player and school names, indicate "(DII)" or "(UG)" as applicable, even if there are not enough Division II and/or Undergraduate schools to award trophies (e.g. “Jane Doe (DII)” or “Michigan State (UG)”).
+  * For Division II players, it is not necessary to indicate both DII and UG.
 
 ### Miscellaneous
-Enter the packet names exactly as they appear in the file name (`Settings → Packet Names`)
-Enable round reports (`Settings → General → Include Round Reports`)
+
+* Enter the packet names exactly as they appear in the file name (`Settings → Packet Names`).
+* Enable round reports (`Settings → General → Include Round Reports`).
+
+## Managing Stats
+
+### [Quizbowl Resource Center Database](https://hsquizbowl.org/db)
+
+* The tournament listing on the [Collegiate Announcements subforum](https://www.hsquizbowl.org/forums/viewforum.php?f=8) should be formatted as `[Year] ACF [Tournament] at [School]`, e.g. `2019 ACF Regionals at Toronto`.
+* To create a database entry on the [Quizbowl Resource Center Database](https://hsquizbowl.org/db/) for a tournament:
+  * Sign in to your forums account.
+  * Click `Add a tournament` at the top right corner.
+  * Fill out all entries in the form and link the tournament listing as the `Forum post URL`.
+* To upload statistics for an existing database entry:
+  * Sign in to your forums account.
+  * Click your username at the top right hand corner.
+  * Select the tournament.
+  * Click `Edit tournament listing`.
+  * Click `Manage stat reports`.
+  * Click `Add stat report`.
+  * Follow the directions and upload the HTML files generated by YellowFruit or SQBS.
+* Note that only the owner of a database entry may post statistics for it. To transfer the ownership of a tournament to someone else:
+  * Go to the database entry for the tournament.
+  * Click `Edit tournament listing`.
+  * Click `Change owner`.
+
+### Multi-Phase Tournaments
+
+* If the tournament uses multiple preliminary pools, label them separately as divisions (File → New Tournament → Use Divisions)
+* If tournament uses multiple phases like preliminary rounds and playoff games, statistics should be posted for each phase separately, as well as a combined file for all phases. `Settings → General → Rounds Included In Reports`, then generate separate reports.
+* When breaking ties, it may be necessary to seed teams by points per game, only including games against opponents that both teams played (see ACF’s [Formats](/guidelines/formats) guidelines). After saving a safe copy of the tournament results, delete non-common games for the teams involved in the tiebreaker.
+  * Deleting a game cannot be undone, so exercise care!

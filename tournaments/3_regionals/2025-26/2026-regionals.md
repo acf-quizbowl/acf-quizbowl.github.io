@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2026 ACF Regionals
-permalink: /regionals/2026/
+permalink: tournaments/regionals/2026/
 nav_order: 2.5
 last_updated: August 21, 2025
 ---
@@ -123,11 +123,11 @@ Mirrors will by default be regional. ACF reserves the right to move teams and st
 
 ## Past Tournaments
 
-Sample questions from previous iterations of ACF Regionals are on the [Collegiate Quizbowl Packet Archive](http://hsquizbowl.org/db/questionsets/search/?name=ACF+Regionals&col=1&season=&archived=y).
+Sample questions from previous iterations of ACF Regionals are on the [Collegiate Quizbowl Packet Archive](https://hsquizbowl.org/db/questionsets/search/?name=ACF+Regionals&col=1&season=&archived=y).
 
 Announcements and information about previous iterations of ACF Regionals are archived below:
 
-* [2024 ACF Regionals](/regionals/2024/)
-* [2023 ACF Regionals](/regionals/2023/)
-* [2022 ACF Regionals](/regionals/2022/)
-* [2021 ACF Regionals](/regionals/2021/)
+* [2024 ACF Regionals](tournaments/regionals/2024/)
+* [2023 ACF Regionals](tournaments/regionals/2023/)
+* [2022 ACF Regionals](tournaments/regionals/2022/)
+* [2021 ACF Regionals](tournaments/regionals/2021/)

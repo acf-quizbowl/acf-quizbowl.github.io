@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2022 ACF Nationals Schedule
-permalink: /nationals/2022/schedule/
+permalink: tournaments/nationals/2022/schedule/
 ---
 
 # Brackets O, P, and Q
