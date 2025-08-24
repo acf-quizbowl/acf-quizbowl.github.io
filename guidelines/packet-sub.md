@@ -22,7 +22,8 @@ Any team with at least two people on it who played a mainstream, collegiate, aca
 
 Schools with multiple such teams must submit separate packets, and the teams cannot discuss the contents of their packets with each other.
 
-<!-- need to add expectation do not discuss submission with anyone until after the tournament is clear/published; or without permission from ACF -->
+> [!CAUTION]
+> Do not discuss your team's submission with anyone, even your own club-mates, until after the tournament is clear/published, or without permission from ACF.
 
 ### For Fall
 

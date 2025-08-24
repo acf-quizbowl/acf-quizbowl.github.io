@@ -77,7 +77,8 @@ Any team with at least two people on it who played a regular, collegiate, academ
 
 Please email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional half-packet by September 29, 2024 for a $50 discount.
 
-<small>\*For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as regular collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not.</small>
+> [!NOTE]
+> For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as regular collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not.
 
 Here is the submission schedule:
 

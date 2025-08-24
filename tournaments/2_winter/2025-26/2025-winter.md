@@ -60,7 +60,7 @@ ACF Winter uses the [standard ACF distribution](/writing/distribution), which is
 | Travel discount                           | −$10 per 200 miles traveled one-way                  |
 | Buzzers                                   | −$10 per functional buzzer system                    |
 | Staffers                                  | −$25 per pre-registered staffer w/ functional laptop |
-| Submission discount(s) / opt-out fee | As noted below                                       |
+| Submission discount(s) / opt-out fee      | As noted below                                       |
 
 The new-to-quizbowl discount is for schools that have not sent a team to any regular collegiate academic tournament since September 1, 2024, and have no one on the team(s) claiming this discount who played those tournaments for another school. Exclusively novice tournaments do not count as regular collegiate academic tournaments.
 
@@ -72,11 +72,13 @@ The minimum fee is $0 per team.
 
 Any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament* (either as a college student or high school student) prior to September 1st, 2024, is required to either (a) submit a half-packet, or (b) pay an opt-out fee. ACF is using an opt-out fee to reduce the number of late submissions received. High school teams attending a high school-only mirror are exempt from this requirement.
 
-<small>\*For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as regular collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not.</small>
+> [!NOTE]
+> For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as regular collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not.
 
 Please email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional half-packet by the ±0 deadline for a $50 discount.
 
-If a team wishes to outsource part of its packet to a player not expected to play on that team (e.g., a student who has graduated), it must first receive approval from the head editors. Non-playing students are welcome and encouraged to help their newer club members write, but it's useful to know the contributors for both credit and logistical reasons.
+> [!WARNING]
+> If a team wishes to outsource part of its packet to a player not expected to play on that team (e.g., a student who has graduated), it must first receive approval from the head editors. Non-playing students are welcome and encouraged to help their newer club members write, but it's useful to know the contributors for both credit and logistical reasons.
 
 ### Submission Schedule
 

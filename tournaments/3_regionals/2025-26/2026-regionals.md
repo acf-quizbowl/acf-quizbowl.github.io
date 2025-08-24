@@ -51,7 +51,8 @@ The minimum fee is $0 per team.
 
 Any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament* (either as a college student or high school student) prior to September 1st, 2024, is required to either (a) submit a half-packet, or (b) pay an opt-out fee. ACF is using an opt-out fee to reduce the number of late submissions received. High school teams attending a high school-only mirror are exempt from this requirement.
 
-<small>\*For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as regular collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not.</small>
+> [!NOTE]
+> For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as regular collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not.
 
 Please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional half-packet by the ±0 deadline for a $50 discount.
 
