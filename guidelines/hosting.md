@@ -231,13 +231,13 @@ Teams registering for ACF tournaments will be asked to sign a media waiver. Host
 
 ACF encourages all hosts to run their tournaments digitally in order to be environmentally responsible and save on the time and cost of copying paper packets and scoresheets.
 
-# Details about finances
+## Details about finances
 
-## Financial breakdown between hosts and ACF
+### Financial breakdown between hosts and ACF
 
 This section is subject to change.
 
-### ACF Winter, Regionals
+#### ACF Winter, Regionals
 
 <table>
 <thead>
@@ -295,7 +295,7 @@ This section is subject to change.
 </tbody>
 </table>
 
-### ACF Fall
+#### ACF Fall
 
 <table>
 <thead>
@@ -366,19 +366,19 @@ Host teams (also called “house teams”) do not owe ACF anything and are not r
 
 ACF does not expect hosts to lose money by allowing a team into their tournament. In the unlikely event that a strict reading of these guidelines implies that the hosts owe ACF more money for a particular team than that team actually is supposed to pay the hosts, then the amount the hosts owe ACF will be adjusted downwards.
 
-## Financial viability
+### Financial viability
 
 Based on past tournaments, hosts can expect the average ACF event to attract 8 to 12 teams and bring in a gross amount of $1500. Hosts should expect to spend about $200 on prizes and other logistical costs.
 Of the remaining $1300, hosts should expect to pay $650 to ACF, and keep about $650 in profit. Obviously, these numbers can vary significantly in any direction depending on the circumstances of the host’s particular tournament, but generally hosts have found hosting ACF events to be a positive contribution to quizbowl as well as a good way to raise money for their own tournament-attendance schedule.
 
-## Payment from Hosts to ACF
+### Payment from Hosts to ACF
 
 ACF uses a system in which hosts collect payment from teams, and then ACF collects payment from the hosts.
 After host sites are confirmed, the treasurer will contact each host to provide ACF’s payment information, and to identify any possible stumbling blocks in the payment process (such as vendor or other tax forms that must be filled out).
 Hosts are responsible for invoicing teams attending their site promptly after they register (see [Fees](#fees)).
 ACF will make every effort to bill hosts for the cost of their tournament within 1 week of the event. Hosts should remit payment to ACF within 8 weeks after the tournament. If payment is not remitted within 8 weeks, ACF may assess a $50 penalty fee (see [Penalties](#penalties-for-egregious-hosting-violations)).
 
-# Details about bidding for ACF Nationals
+## Details about bidding for ACF Nationals
 
 The bidding process for ACF Nationals occurs over the summer immediately following the previous ACF Nationals. ACF’s goal is to announce a site no later than September 15, so that teams may have the entire academic year to plan their trips before Nationals occurs in April. The primary factors in choosing a Nationals site include the need to rotate the tournament to different areas of the country over time, and the need to staff a tournament of 40 or more teams.
 
@@ -388,7 +388,7 @@ If ACF Nationals is officially designated as being “co-hosted” by multiple t
 
 The rest of the entry fees for ACF Nationals goes to ACF. ACF will provide staff meals, and cover other normal tournament expenses such as printing.
 
-# Penalties for egregious hosting violations
+## Penalties for egregious hosting violations
 
 <table>
 <thead>
@@ -434,7 +434,7 @@ The rest of the entry fees for ACF Nationals goes to ACF. ACF will provide staff
 At the treasurer or head editor’s discretion, first-time violations may result in a warning instead of a monetary penalty.
 Hosts should talk to the head editor of the tournament, or the ACF treasurer, to bring up any potential issues with the above penalties before they arise. The editor/treasurer may exempt hosts from requirements if it benefits the site.
 
-# Safety and misconduct
+## Safety & Misconduct
 
 ACF’s mission is to provide the best possible experience for players, coaches, and staff. Therefore, issues of safety and misconduct must be dealt with fairly and promptly.
 

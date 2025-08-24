@@ -24,10 +24,14 @@ github_repo: acf-quizbowl.github.io # the GitHub repo name for your project
 github_username: acf-quizbowl
 repository: acf-quizbowl/acf-quizbowl.github.io
 
+# Build settings
+markdown: kramdown
+
 plugins:
   - jekyll-remote-theme
   - jekyll-swiss
   - jekyll-redirect-from
+  - jekyll-gfm-admonitions # https://helveg.github.io/jekyll-gfm-admonitions/
 
 whitelist:
   - jekyll-redirect-from
@@ -42,9 +46,6 @@ social_username: acfqb
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: acf
-
-# Build settings
-markdown: kramdown
 
 redirect_from:
   json: false

@@ -25,6 +25,6 @@ Sample questions from previous iterations of ACF Regionals are on the [Collegiat
 
 Announcements and information about previous iterations of ACF Regionals are archived below:
 
-* [2024 ACF Regionals](2024)
-* [2023 ACF Regionals](2023)
-* [2022 ACF Regionals](2022)
+* [2024 ACF Regionals](/tournaments/regionals/2024)
+* [2023 ACF Regionals](/tournaments/regionals/2023)
+* [2022 ACF Regionals](/tournaments/regionals/2022)

@@ -70,7 +70,9 @@ The minimum fee is $0 per team.
 
 ## Packet submission
 
-<i>Note: Please read this section carefully as packet submission guidelines have changed for 2024 ACF Winter.</i>
+> [!NOTE]
+> Please read this section carefully as packet submission guidelines have changed for 2024 ACF Winter.
+
 Any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament* (either as a college student or high school student) prior to September 1st, 2023, is required to either (a) submit a half-packet, or (b) pay an opt-out fee. ACF is introducing an opt-out fee this year to reduce the number of late submissions received. High school teams attending a high school-only mirror are exempt from this requirement.
 
 Please email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional half-packet by September 29, 2024 for a $50 discount.
@@ -104,6 +106,7 @@ If a team wishes to outsource part of its packet to a player not expected to pla
 If multiple teams from one school are submitting packets, they should NOT be aware of each others’ questions. Any roster changes that entail an author for one packet playing for another (e.g., if a player on Team B moves to Team A) should be flagged to the TD and to [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com).
 
 ### Tips and guidelines
+
 <!-- todo: note that in different years, editors may have different philosophies, subject to change -->
 
 - Please make sure your questions are harder than questions in ACF Fall and easier than at ACF Regionals. 2019 EFT and 2020 ACF Winter are good difficulty targets. A majority of your tossup answers should conceivably be a tossup answer at ACF Fall.

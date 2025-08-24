@@ -4,7 +4,8 @@ title: Subash Maddipoti’s Tips on Question Writing
 permalink: /writing/guides/maddipoti/
 ---
 
-*Editor’s note: Quizbowl luminary and ACF member emeritus Subash Maddipoti  wrote this guideline in the early 2000s as a quick guideline for writers. Most of it remains excellent advice, but ACF has given it a modern gloss to reflect developments since its writing. Where the substance of content was changed, editor’s remarks are indicated in [brackets].*
+> [!NOTE]
+> Quizbowl luminary and ACF member emeritus Subash Maddipoti  wrote this guideline in the early 2000s as a quick guideline for writers. Most of it remains excellent advice, but ACF has given it a modern gloss to reflect developments since its writing. Where the substance of content was changed, editor’s remarks are indicated in \[brackets\].
 
 I’d like to just point to some recurring problems I’ve seen in questions – problems that I hope to help teams address before they submit their packets.
 

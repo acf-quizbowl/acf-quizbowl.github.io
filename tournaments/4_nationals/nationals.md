@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACF Nationals
-permalink: /tournaments/nationals
+permalink: /tournaments/nationals/
 nav_order: 2.5
 redirect_from:
   - /nationals

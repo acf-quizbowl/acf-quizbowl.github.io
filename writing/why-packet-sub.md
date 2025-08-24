@@ -11,7 +11,9 @@ All four tournaments that ACF puts together each year are ***packet-submission**
 There is an exception made for teams made up of new players. Broadly speaking, if all players on a team are in their first or second year of playing college quizbowl, submitting a packet is optional; but if any member of a team is in their third year of college quizbowl or further, submitting a packet is required. For the full explanation, see the [Packet Submission Guidelines](/guidelines/packet-sub).
 
 As of 2019, ACF Fall, Winter, and Regionals allow *half-packet* submission; ACF Nationals requires a full packet submission.
-(Note: this essay was originally written at a time when ACF ran three packet-submission-required tournaments, Fall, Regionals, and Nationals.)
+
+> [!NOTE]
+> This essay was originally written at a time when ACF ran three packet-submission-required tournaments, Fall, Regionals, and Nationals.
 
 ## History
 

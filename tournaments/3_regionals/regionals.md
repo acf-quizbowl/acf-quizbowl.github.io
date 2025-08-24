@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACF Regionals
-permalink: /tournaments/regionals
+permalink: /tournaments/regionals/
 nav_order: 2.5
 redirect_from:
   - /regionals

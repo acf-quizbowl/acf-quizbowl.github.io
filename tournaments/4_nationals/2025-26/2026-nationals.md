@@ -70,8 +70,8 @@ Sample questions from previous iterations of ACF Nationals are on the [Collegiat
 
 Announcements and information about previous iterations of ACF Nationals are archived below:
 
-* [2025 ACF Nationals](tournaments/nationals/2025)
-* [2024 ACF Nationals](tournaments/nationals/2024)
-* [2023 ACF Nationals](tournaments/nationals/2023)
-* [2022 ACF Nationals](tournaments/nationals/2022)
-* [2021 ACF Nationals](tournaments/nationals/2021)
+* [2025 ACF Nationals](/tournaments/nationals/2025)
+* [2024 ACF Nationals](/tournaments/nationals/2024)
+* [2023 ACF Nationals](/tournaments/nationals/2023)
+* [2022 ACF Nationals](/tournaments/nationals/2022)
+* [2021 ACF Nationals](/tournaments/nationals/2021)

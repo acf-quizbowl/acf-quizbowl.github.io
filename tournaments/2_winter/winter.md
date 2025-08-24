@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACF Winter
-permalink: /tournaments/winter
+permalink: /tournaments/winter/
 nav_order: 2.5
 redirect_from:
   - /winter

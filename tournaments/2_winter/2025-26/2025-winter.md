@@ -150,7 +150,7 @@ Sample questions from previous iterations of ACF Winter are on the [Collegiate Q
 
 Announcements and information about previous iterations of ACF Winter are archived below:
 
-* [2024 ACF Winter](tournaments/winter/2024/)
-* [2023 ACF Winter](tournaments/winter/2023/)
-* [2022 ACF Winter](tournaments/winter/2022/)
-* [2021 ACF Winter](tournaments/winter/2021/)
+* [2024 ACF Winter](/tournaments/winter/2024/)
+* [2023 ACF Winter](/tournaments/winter/2023/)
+* [2022 ACF Winter](/tournaments/winter/2022/)
+* [2021 ACF Winter](/tournaments/winter/2021/)
