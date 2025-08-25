@@ -4,7 +4,7 @@ title: Hosting Guidelines
 permalink: /guidelines/hosting/
 redirect_from:
   - /hosting-guidelines/
-last_updated: August 23, 2025
+last_updated: August 25, 2025
 ---
 
 <!-- need to rewrite so "host team" is not ambiguous with club vs. competing house team -->
@@ -24,68 +24,21 @@ For details about the bidding process and policy specifically for ACF Nationals,
 
 For the purposes of selecting ACF tournament sites only, ACF generally considers North America to contain these regions:
 
-<table>
-<thead>
-<tr>
-<th>Region Name</th>
-<th>Areas</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Northeast</td>
-<td>Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut</td>
-</tr>
-<tr>
-<td>Upper Mid-Atlantic</td>
-<td>New York, New Jersey, Eastern Pennsylvania, Delaware</td>
-</tr>
-<tr>
-<td>Lower Mid-Atlantic</td>
-<td>Maryland, District of Columbia, Virginia, North Carolina</td>
-</tr>
-<tr>
-<td>Southeast</td>
-<td>Tennessee, Kentucky, Georgia, Alabama, South Carolina</td>
-</tr>
-<tr>
-<td>Florida</td>
-<td>Florida</td>
-</tr>
-<tr>
-<td>Great Lakes</td>
-<td>Michigan, Ohio, Western Pennsylvania, West Virginia</td>
-</tr>
-<tr>
-<td>Midwest</td>
-<td>Illinois, Missouri, Indiana</td>
-</tr>
-<tr>
-<td>North</td>
-<td>Minnesota, Iowa, Wisconsin</td>
-</tr>
-<tr>
-<td>South Central</td>
-<td>Texas, Louisiana, Oklahoma, Kansas</td>
-</tr>
-<tr>
-<td>Mountain West</td>
-<td>Colorado, Utah, Wyoming</td>
-</tr>
-<tr>
-<td>California</td>
-<td>California</td>
-</tr>
-<tr>
-<td>Northwest</td>
-<td>Washington, Oregon, British Columbia, Idaho</td>
-</tr>
-<tr>
-<td>Eastern Canada</td>
-<td>Ontario, Quebec</td>
-</tr>
-</tbody>
-</table>
+| Region Name        | Areas                                                                   |
+|--------------------|-------------------------------------------------------------------------|
+| Northeast          | Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut |
+| Upper Mid-Atlantic | New York, New Jersey, Eastern Pennsylvania, Delaware                    |
+| Lower Mid-Atlantic | Maryland, District of Columbia, Virginia, North Carolina                |
+| Southeast          | Tennessee, Kentucky, Georgia, Alabama, South Carolina                   |
+| Florida            | Florida                                                                 |
+| Great Lakes        | Michigan, Ohio, Western Pennsylvania, West Virginia                     |
+| Midwest            | Illinois, Missouri, Indiana                                             |
+| North              | Minnesota, Iowa, Wisconsin                                              |
+| South Central      | Texas, Louisiana, Oklahoma, Kansas                                      |
+| Mountain West      | Colorado, Utah, Wyoming                                                 |
+| California         | California                                                              |
+| Northwest          | Washington, Oregon, British Columbia, Idaho                             |
+| Eastern Canada     | Ontario, Quebec                                                         |
 
 Ideally, every tournament will have at least one site in each region. However, actual sites may differ slightly, based on increased or decreased interest, or if the best hosts are at opposite ends of adjacent regions. ACF recognizes that state and provincial borders do not capture the full complexity of regional circuits, and may place tournament sites slightly differently than the regions above. Teams are permitted to attend whichever site is most convenient for them.
 
@@ -93,58 +46,24 @@ When there is more than one bid in a region, the Site Coordinator will choose th
 
 ## Timeline
 
-<table>
-<thead>
-  <tr>
-  <th width="28%">Approximate time</th>
-  <th>Task</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td>12 weeks before tournament</td>
-  <td>Bids received for tournament</td>
-  </tr>
-  <tr>
-  <td>10 weeks before tournament<sup style="font-size:65%;">1</sup></td>
-  <td>ACF announces sites for tournament<br/>
-  Hosts publish announcements on Forums and Database</td>
-  </tr>
-  <tr>
-  <td>8 weeks before tournament</td>
-  <td>First packet submission deadline</td>
-  </tr>
-  <tr>
-  <td>2 weeks before tournament</td>
-  <td>Deadline to contact Site Coordinator to provide trophies for site<br/>
-  Deadline to contact Site Coordinator to opt out of Undergraduate or Division II trophies<br/>
-  ACF notifies hosts of which schools’ packets used in set</td>
-  </tr>
-  <tr>
-  <td>1 week before tournament</td>
-  <td>Deadline for Site Coordinator to approve tournament format</td>
-  </tr>
-  <tr>
-  <td>24 hours after tournament</td>
-  <td>Hosts publish statistics</td>
-  </tr>
-  <tr>
-  <td>24 hours after last tournament</td>
-  <td>Hosts may publish recordings of games</td>
-  </tr>
-  <tr>
-  <td>1 week after tournament</td>
-  <td>ACF Treasurer bills hosts</td>
-  </tr>
-  <tr>
-  <td>8 weeks after tournament</td>
-  <td>Deadline for hosts to pay ACF</td>
-  </tr>
-</tbody>
-</table>
+{: .table-multi}
+| Approximate time               | Task                                                                                          |
+|--------------------------------|-----------------------------------------------------------------------------------------------|
+| 12 weeks before tournament     | Bids received for tournament                                                                  |
+| 10 weeks before tournament\*   |    * ACF announces sites for tournament Database                                              |
+| ^^                             | ^^ * Hosts publish announcements on Forums and Database                                       |
+| 8 weeks before tournament      | First packet submission deadline                                                              |
+| 2 weeks before tournament      |    * Deadline to contact Site Coordinator to provide trophies for site                        |
+| ^^                             | ^^ * Deadline to contact Site Coordinator to opt out of Undergraduate or Division II trophies |
+| ^^                             | ^^ * ACF notifies hosts of which schools’ packets used in set                                 |
+| 1 week before tournament       | Deadline for Site Coordinator to approve tournament format                                    |
+| 24 hours after tournament      | Hosts publish statistics                                                                      |
+| 24 hours after last tournament | Hosts may publish recordings of games                                                         |
+| 1 week after tournament        | ACF Treasurer bills hosts                                                                     |
+| 8 weeks after tournament       | Deadline for hosts to pay ACF                                                                 |
 
 > [!NOTE]
-> If no viable bids are received for a region, it may take longer to decide sites for that region. Site announcements may be staggered.
+> \* If no viable bids are received for a region, it may take longer to decide sites for that region. Site announcements may be staggered.
 
 ## Host Requirements
 
@@ -180,6 +99,7 @@ ACF will provide an announcement template to hosts.
 > The title of the announcement should be in the form of: `[Year] ACF [Tournament] at [Site]`
 > <br>
 > The announcement should explicitly state, at a minimum:
+>
 > * The date and day of the week of the tournament (which will normally be Saturday, but can be Sunday in some cases)
 > * Instructions on how to register, **AND**
 > * The link to [official ACF information on packet submission](/guidelines/packet-sub)
@@ -240,125 +160,37 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 
 #### Financial breakdown between hosts and ACF
 
-This section is subject to change.
+> [!NOTE]
+> This section is subject to change.
 
-##### ACF Winter, Regionals
+##### ACF Winter & ACF Regionals
 
-<table>
-<thead>
-<tr>
-<th>Fee type</th>
-<th width="200">Team fee</th>
-<th width="200">Host share</th>
-<th width="200">ACF share</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Base fee</td>
-<td>$150</td>
-<td>$80</td>
-<td>$70</td>
-</tr>
-<tr>
-<td>New to quizbowl discount</td>
-<td>−$100</td>
-<td>−$30</td>
-<td>−$70</td>
-</tr>
-<tr>
-<td>Shorthanded discount
-(1–2 players)</td>
-<td>−$75</td>
-<td>−$45</td>
-<td>−$30</td>
-</tr>
-<tr>
-<td>Packet submission discounts/penalties</td>
-<td>± amount as applicable</td>
-<td>n/a</td>
-<td>± amount as applicable</td>
-</tr>
-<tr>
-<td>Travel discount<sup style="font-size:65%;">1</sup></td>
-<td>−$10 per 200 miles traveled one-way</td>
-<td>−$10 per 200 miles traveled one-way</td>
-<td>n/a</td>
-</tr>
-<tr>
-<td>Buzzers<sup style="font-size:65%;">2</sup></td>
-<td>−$10 per buzzer</td>
-<td>−$10 per buzzer</td>
-<td>n/a</td>
-</tr>
-<tr>
-<td>Staffers<sup style="font-size:65%;">3</sup></td>
-<td>−$25 per staffer</td>
-<td>−$25 per staffer</td>
-<td>n/a</td>
-</tr>
-</tbody>
-</table>
+{: .table-multi}
+|                    | Type                         | Team Amount                         | Host Share                          | ACF Share              |
+|:------------------:|------------------------------|-------------------------------------|-------------------------------------|------------------------|
+| **Fee**            | Base                         | $150                                | $80                                 | $70                    |
+|                    | New to quizbowl              | −$100                               | −$30                                | −$70                   |
+| ^^                 | Shorthanded<br>(1–2 players) | −$75                                | −$45                                | −$30                   |
+| ^^ **Discounts**   | Travel                       | −$10 per 200 miles traveled one-way | −$10 per 200 miles traveled one-way | N/A                    |
+| ^^                 | Buzzer(s)                    | −$10 per buzzer                     | −$10 per buzzer                     | N/A                    |
+| ^^                 | Staffer(s)                   | −$25 per staffer                    | −$25 per staffer                    | N/A                    |
+| **Fee / Discount** | Packet submission            | ± amount as applicable              | N/A                                 | ± amount as applicable |
 
 ##### ACF Fall
 
-<table>
-<thead>
-<tr>
-<th>Fee type</th>
-<th width="200">Team fee</th>
-<th width="200">Host share</th>
-<th width="200">ACF share</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Base fee</td>
-<td>$120</td>
-<td>$60</td>
-<td>$60</td>
-</tr>
-<tr>
-<td>New to quizbowl discount</td>
-<td>−$80</td>
-<td>−$20</td>
-<td>−$60</td>
-</tr>
-<tr>
-<td>Shorthanded discount
-(1–2 players)</td>
-<td>−$60</td>
-<td>−$40</td>
-<td>−$20</td>
-</tr>
-<tr>
-<td>Packet submission discounts/penalties</td>
-<td>± amount as applicable</td>
-<td>n/a</td>
-<td>± amount as applicable</td>
-</tr>
-<tr>
-<td>Travel discount<sup style="font-size:65%;">1</sup></td>
-<td>−$10 per 200 miles traveled one-way</td>
-<td>−$10 per 200 miles traveled one-way</td>
-<td>n/a</td>
-</tr>
-<tr>
-<td>Buzzers<sup style="font-size:65%;">2</sup></td>
-<td>−$10 per buzzer</td>
-<td>−$10 per buzzer</td>
-<td>n/a</td>
-</tr>
-<tr>
-<td>Staffers<sup style="font-size:65%;">3</sup></td>
-<td>−$25 per staffer</td>
-<td>−$25 per staffer</td>
-<td>n/a</td>
-</tr>
-</tbody>
-</table>
+{: .table-multi}
+|                    | Type                         | Team Amount                         | Host Share                          | ACF Share              |
+|:------------------:|------------------------------|-------------------------------------|-------------------------------------|------------------------|
+| **Fee**            | Base                         | $120                                | $60                                 | $60                    |
+|                    | New to quizbowl              | −$80                                | −$20                                | −$60                   |
+| ^^                 | Shorthanded<br>(1–2 players) | −$60                                | −$40                                | −$20                   |
+| ^^ **Discounts**   | Travel                       | −$10 per 200 miles traveled one-way | −$10 per 200 miles traveled one-way | N/A                    |
+| ^^                 | Buzzer(s)                    | −$10 per buzzer                     | −$10 per buzzer                     | N/A                    |
+| ^^                 | Staffer(s)                   | −$25 per staffer                    | −$25 per staffer                    | N/A                    |
+| **Fee / Discount** | Packet submission            | ± amount as applicable              | N/A                                 | ± amount as applicable |
 
 > [!NOTE]
+>
 > 1. Travel discount applies to at most one team per school.
 > 2. Buzzers must be functional.
 > 3. Staffers must have functional laptop and internet connection.
@@ -396,47 +228,19 @@ The rest of the entry fees for ACF Nationals goes to ACF. ACF will provide staff
 
 ### Penalties for egregious hosting violations
 
-<table>
-<thead>
-<tr>
-<th>Violation</th>
-<th>Penalty</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Fewer than 10 meaningful games offered<sup style="font-size:65%;">1</sup> to each team (or fewer than 9 for Fall, or fewer than 7 for online tournaments)</td>
-<td>$10 per team affected</td>
-</tr>
-<tr>
-<td>Host has delay in paperwork causing egregious payment delay</td>
-<td>$50</td>
-</tr>
-<tr>
-<td>Host fails to play off or award titles and trophies (including Undergraduate and Division II), despite having enough teams to award any of those titles</td>
-<td>$50 for each title not awarded</td>
-</tr>
-<tr>
-<td>Host incorrectly plays off or awards titles and trophies (including Undergraduate and Division II)</td>
-<td>$50 for each title not awarded</td>
-</tr>
-<tr>
-<td>Host fails to keep or post statistics</td>
-<td>$20</td>
-</tr>
-<tr>
-<td>Ineligible team plays tournament without prior permission</td>
-<td>$100, or ineligible team’s entire registration fee, whichever is larger</td>
-</tr>
-<tr>
-<td>Site is run in egregious violation of or ignoring the official ACF rules or hosting guidelines</td>
-<td>$50, and possible ban from hosting</td>
-</tr>
-</tbody>
-</table>
+| Violation                                                                                                                                               | Penalty                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Fewer than 10 meaningful games offered to each team\* (or fewer than 9 for Fall, or fewer than 7 for online tournaments)                                | $10 per team affected                                                   |
+| Host has delay in paperwork causing egregious payment delay                                                                                             | $50                                                                     |
+| Host fails to play off or award titles and trophies (including Undergraduate and Division II), despite having enough teams to award any of those titles | $50 for each title not awarded                                          |
+| Host incorrectly plays off or awards titles and trophies (including Undergraduate and Division II)                                                      | $50 for each title not awarded                                          |
+| Host fails to keep or post statistics                                                                                                                   | $20                                                                     |
+| Ineligible team plays tournament without prior permission                                                                                               | $100, or ineligible team’s entire registration fee, whichever is larger |
+| Site is run in egregious violation of or ignoring the official ACF rules or hosting guidelines                                                          | $50, and possible ban from hosting                                      |
 
 > [!NOTE]
-> 1. No penalties will be levied if teams elect to leave early on their own volition, causing schedules to drop below the minimum number of games. Hosts may not, however, encourage teams to leave early.
+>
+> \* No penalties will be levied if teams elect to leave early on their own volition, causing schedules to drop below the minimum number of games. Hosts may not, however, encourage teams to leave early.
 
 At the treasurer or head editor’s discretion, first-time violations may result in a warning instead of a monetary penalty.
 Hosts should talk to the head editor of the tournament, or the ACF treasurer, to bring up any potential issues with the above penalties before they arise. The editor/treasurer may exempt hosts from requirements if it benefits the site.

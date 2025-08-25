@@ -47,12 +47,13 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose dd { margin-bottom: 0.5em; }
 .prose table { border-collapse: collapse; margin-bottom: .5em; overflow: auto; word-break: normal; word-break: keep-all; }
 .prose table th { font-weight: bold; text-align: left; color: #023B7F; }
-.prose table th, .prose table td { padding: 3px 6px; vertical-align: top; }
+.prose table th, .prose table td { padding: 6px 8px; vertical-align: middle; }
+.prose table thead tr th { background-color: white; position: sticky; z-index: 100; top: 0; }
 .prose table tr th { border-top: 1px solid #023B7F; border-bottom: 1px solid #023B7F; }
-.prose table.table-striped tbody tr:nth-child(odd) { background-color: #f2f2f2; }
-.prose table.table-ruled tbody tr td { border-bottom: 1px solid #ddd; }
+.prose table tbody tr:nth-child(even) { background-color: #f2f2f2; border-bottom: 1px solid #ddd; }
+.prose table.table-multi tbody td { background-color: white; border-bottom: 1px solid #023B7F; }
 .prose table thead tr:first-child th { border-top: 2px solid #023B7F; }
-.prose table tbody tr:last-child td { border-bottom: 2px solid #023B7F; }
+.prose table tbody tr:last-child { border-bottom: 2px solid #023B7F; }
 .prose table.member-list { width: 100%; }
 .prose table.member-list tr td ul { font-size: 0.9em; margin: 0; list-style: none; padding-left: 1em; text-indent: -1em; }
 .prose table.schedule th, .prose table.schedule td { text-align: center; width: 5em; }
@@ -299,7 +300,11 @@ a.active:hover { text-decoration: underline; }
 
 .record-graph { grid-column-start: 2; grid-column-end: 3; grid-row-start: 1; grid-row-end: 2; }
 
+.prose h1 a, .prose h2 a, .prose h3 a, .prose h4 a, .prose h5 a, .prose h6 a { text-decoration: none; color: #7EB7FD; }
+
 a[href="#top"] { text-decoration: none; color: #7EB7FD; }
+
+.prose a[href^="mailto:"] { background: url('data:image/svg+xml,%3Csvg width="20" height="14" viewBox="0 0 10 7" xmlns="http://www.w3.org/2000/svg" stroke="%23033b80" stroke-linejoin="round" stroke-width=".69"%3E%3Cpath d="M1 1H9V6H1Z" fill="%237eb7fdab"/%3E%3Cpath d="M1 1L5 4.20L9 1Z" fill="%23427ac069"/%3E%3C/svg%3E') no-repeat left center; padding-left: 24px; }
 
 p a[href^="mailto:"] { background: url('data:image/svg+xml,%3Csvg width="20" height="14" viewBox="0 0 10 7" xmlns="http://www.w3.org/2000/svg" stroke="%23033b80" stroke-linejoin="round" stroke-width=".69"%3E%3Cpath d="M1 1H9V6H1Z" fill="%237eb7fdab"/%3E%3Cpath d="M1 1L5 4.20L9 1Z" fill="%23427ac069"/%3E%3C/svg%3E') no-repeat left center; padding-left: 24px; }
 

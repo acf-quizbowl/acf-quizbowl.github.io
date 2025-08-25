@@ -32,6 +32,7 @@ plugins:
   - jekyll-swiss
   - jekyll-redirect-from
   - jekyll-gfm-admonitions # https://helveg.github.io/jekyll-gfm-admonitions/
+  - jekyll-spaceship # https://github.com/jeffreytse/jekyll-spaceship
 
 whitelist:
   - jekyll-redirect-from
@@ -49,3 +50,11 @@ theme_color: acf
 
 redirect_from:
   json: false
+
+jekyll-spaceship:
+  mathjax-processor:
+    config:
+      tex:
+        inlineMath:
+          - ['\(','\)']
+        processEscapes: true

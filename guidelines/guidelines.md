@@ -3,9 +3,8 @@ layout: page
 title: Guidelines
 permalink: /guidelines/
 nav_order: 6
+last_updated: August 25, 2025
 ---
-
-# Guidelines
 
 This page contains a list of all guidelines used by ACF for running its tournaments.
 

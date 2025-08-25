@@ -19,115 +19,32 @@ See the [About page](/about#how-can-i-become-an-acf-member) for information on t
 
 ACF’s officers also serve as ACF’s board of directors.
 
-<table class="member-list" id="officer-table">
-    <thead>
-    <tr>
-        <th class="name-wide">Officer</th>
-        <th class="affiliations">Position</th>
-        <th class="contributions">Contact</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>Zac Bennett</td>
-        <td>President</td>
-        <td><a href="mailto:president@acf-quizbowl.com">president@acf-quizbowl.com</a></td>
-    </tr>
-    <tr>
-        <td>Michael Kearney</td>
-        <td>Communications</td>
-        <td><a href="mailto:communications@acf-quizbowl.com">communications@acf-quizbowl.com</a></td>
-    </tr>
-    <tr>
-        <td>Alexandra Hardwick</td>
-        <td>Editor-in-Chief</td>
-        <td><a href="mailto:editing@acf-quizbowl.com">editing@acf-quizbowl.com</a></td>
-    </tr>
-    <tr>
-        <td>Jacob Egol</td>
-        <td>Site Coordinator</td>
-        <td><a href="mailto:hosting@acf-quizbowl.com">hosting@acf-quizbowl.com</a></td>
-    </tr>
-    <tr>
-        <td>Kevin Jiang</td>
-        <td>ACF Nationals Tournament Director</td>
-        <td><a href="mailto:td@acf-quizbowl.com">td@acf-quizbowl.com</a></td>
-    </tr>
-    <tr>
-        <td>Tomás Aguilar-Fraga</td>
-        <td>Treasurer</td>
-        <td><a href="mailto:treasurer@acf-quizbowl.com">treasurer@acf-quizbowl.com</a></td>
-    </tr>
-    <tr>
-        <td>Ani Perumalla</td>
-        <td>Webmaster</td>
-        <td><a href="mailto:webmaster@acf-quizbowl.com">webmaster@acf-quizbowl.com</a></td>
-    </tr>
-    </tbody>
-</table>
+| Officer             | Position                          | Contact                           |
+|---------------------|-----------------------------------|-----------------------------------|
+| Zac Bennett         | President                         | <president@acf-quizbowl.com>      |
+| Michael Kearney     | Communications                    | <communications@acf-quizbowl.com> |
+| Alexandra Hardwick  | Editor-in-Chief                   | <editing@acf-quizbowl.com>        |
+| Jacob Egol          | Site Coordinator                  | <hosting@acf-quizbowl.com>        |
+| Kevin Jiang         | ACF Nationals Tournament Director | <td@acf-quizbowl.com>             |
+| Tomás Aguilar-Fraga | Treasurer                         | <treasurer@acf-quizbowl.com>      |
+| Ani Perumalla       | Webmaster                         | <webmaster@acf-quizbowl.com>      |
 
 ## Head Editors
 
-<table class="member-list" id="head-editor-table">
-<thead>
-<tr>
-<th class="name-wide">Head Editor</th>
-<th class="affiliations">Tournament</th>
-<th class="contributions">Contact</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Eva Wang</td>
-<td>2025 ACF Fall</td>
-<td><a href="mailto:fall@acf-quizbowl.com">fall@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Rachel Ezrielev</td>
-<td>2025 ACF Winter</td>
-<td><a href="mailto:winter@acf-quizbowl.com">winter@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Erik Christensen</td>
-<td>2026 ACF Regionals</td>
-<td><a href="mailto:regionals@acf-quizbowl.com">regionals@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Henry Atkins</td>
-<td>2026 ACF Nationals</td>
-<td><a href="mailto:nationals@acf-quizbowl.com">nationals@acf-quizbowl.com</a></td>
-</tr>
-</tbody>
-</table>
+| Head Editor      | Tournament         | Contact                      |
+|------------------|--------------------|------------------------------|
+| Eva Wang         | 2025 ACF Fall      | <fall@acf-quizbowl.com>      |
+| Rachel Ezrielev  | 2025 ACF Winter    | <winter@acf-quizbowl.com>    |
+| Erik Christensen | 2026 ACF Regionals | <regionals@acf-quizbowl.com> |
+| Henry Atkins     | 2026 ACF Nationals | <nationals@acf-quizbowl.com> |
 
 ## Other Contacts
 
-<table class="member-list" id="other-contacts-table">
-<thead>
-<tr>
-<th class="name-wide">Position</th>
-<th class="affiliations">Member(s)</th>
-<th class="contributions">Contact</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ACF Nationals Staffing</td>
-<td>ACF Nationals TD</td>
-<td><a href="mailto:staffing@acf-quizbowl.com">staffing@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Eligibility Committee</td>
-<td>Editor-in-Chief, ACF Head editors</td>
-<td><a href="mailto:eligibility@acf-quizbowl.com">eligibility@acf-quizbowl.com</a></td>
-</tr>
-<tr>
-<td>Misconduct Representatives</td>
-<td>Ganon Evans, Caroline Mao</td>
-<td><a href="mailto:misconduct@acf-quizbowl.com">misconduct@acf-quizbowl.com</a></td>
-</tr>
-</tbody>
-</table>
+| Position                   | Member(s)                         | Contact                        |
+|----------------------------|-----------------------------------|--------------------------------|
+| ACF Nationals Staffing     | ACF Nationals TD                  | <staffing@acf-quizbowl.com>    |
+| Eligibility Committee      | Editor-in-Chief, Head Editors     | <eligibility@acf-quizbowl.com> |
+| Misconduct Representatives | Ganon Evans, Caroline Mao         | <misconduct@acf-quizbowl.com>  |
 
 ## Full Members
 

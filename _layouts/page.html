@@ -54,7 +54,7 @@ layout: default
     {% endif %}
   </header>
   <div class="prose mb-4">
-    {{ content }}
+    {% include anchor_headings.html html=content anchorBody="¶" %}
   </div>
 </article>
 

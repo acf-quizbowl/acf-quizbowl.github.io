@@ -4,6 +4,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-redirect-from", group: :jekyll_plugins
 gem "jekyll-remote-theme", group: :jekyll_plugins
 gem "jekyll-gfm-admonitions", "~> 1.2", group: :jekyll_plugins
+gem "jekyll-spaceship", group: :jekyll_plugins
 
 gem "csv", "~> 3.3"
 

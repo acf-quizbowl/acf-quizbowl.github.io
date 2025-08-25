@@ -271,93 +271,107 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
 
 ## Category Guidelines
 
-### Literature [↑](#top)
+### Literature
 
 Vary your literature questions across time periods, genre, (novels, poetry, drama, short stories, etc.), and type of answer (authors, individual works, characters, common links, etc.).
 
-#### World Literature [↑](#top)
+#### World Literature
 
 This includes all geographic regions not listed above.
 
-#### Any Literature [↑](#top)
+#### Any Literature
 
 This includes ancient European literature, more of any of the geographic regions above, or questions that don’t neatly fit into a single geographic region.
 
-### History [↑](#top)
+### History
 
 Vary your history questions across time periods and type of history (political, social, military, cultural, etc.). In particular, do not write more than 4 total questions on military history.
 
-#### European History [↑](#top)
+#### European History
 
 One question should be on British/Irish/Canadian/Australian/New Zealand history, the other two should be on continental Europe.
 
-#### World History [↑](#top)
+#### World History
 
 This includes all geographic regions not listed above. Do not write your two questions on history from the same region/continent.
 
-#### Any History [↑](#top)
+#### Any History
 
 This includes more of any of the areas of the world covered above, historiography, and questions that don’t neatly fit into a single area listed here.
 
-### Science [↑](#top)
+### Science
 
-#### Math, Computer Science, Astronomy, Earth Science [↑](#top)
+#### Math, Computer Science, Astronomy, Earth Science
 
 Write questions on two different areas of study.
 
-#### Any Science [↑](#top)
+#### Any Science
 
 This includes engineering and technology questions that don’t fit into any of the fields above, and questions that mix clues/concepts from multiple fields.
 
 You may also write additional questions from one of the “major” fields (biology/chemistry/physics), or you may write a question on a “minor” field (math/computer science/astronomy/earth science) that you didn’t already write on above.
 
-### Fine Arts [↑](#top)
+### Fine Arts
 
-#### Painting and Sculpture [↑](#top)
+#### Painting and Sculpture
 
 You may either write one painting and one sculpture question, or two painting questions.
 
-#### Other Fine Arts [↑](#top)
+#### Other Fine Arts
 
 This includes opera, jazz, architecture, photography, film, dance, etc. Do not write more of the categories above.
 
 Write on one “visual” category (architecture, photography, film, etc.) and one “auditory” (opera, jazz, dance, etc.) category.
 
-### Religion and Mythology [↑](#top)
+### Religion and Mythology
 
 Write at least one and no more than two questions on non-Western topics.
 
-#### Religion [↑](#top)
+#### Religion
 
 > [!WARNING]
 > Do not write two questions on the same religion.
 
-#### Mythology [↑](#top)
+#### Mythology
 
 > [!WARNING]
 > Do not write two questions on the same mythological system.
 
-### Social Science and Philosophy [↑](#top)
+### Social Science and Philosophy
 
-#### Social Science [↑](#top)
+#### Social Science
 
-Topics for this category include economics, psychology, sociology, anthropology, linguistics, political science, social criticism, and law (although questions on individual Supreme Court cases go in history).
+Topics for this category include:
+
+* Economics
+* Psychology
+* Sociology
+* Anthropology
+* Linguistics
+* Political science
+* Social criticism
+* Law (although questions on individual Supreme Court cases go in [History](#history-))
 
 > [!IMPORTANT]
 > Write questions on two different fields of study.
 
-#### Philosophy [↑](#top)
+#### Philosophy
 
 Write questions on two different movements/time periods in philosophical history.
 
-### Other [↑](#top)
+### Other
 
 **For Fall, Winter, and Regionals:** Write one question in each of Geography, Current Events, Other Academic, and Popular Culture.
 
 **For Nationals:** Write at least one question in each of Geography, Current Events, and Other Academic.
 
-#### Other Academic [↑](#top)
+#### Other Academic
 
-“Other Academic” comprises questions that don’t neatly fit into any of the above categories, such as interdisciplinary common links, miscellaneous thought, science history, etc.
+“Other Academic” comprises questions that don’t neatly fit into any of the above categories, such as:
+
+* Interdisciplinary common links
+* Miscellaneous thought
+* Science history
+* etc.
 
 You may also choose to write an additional question in any category here instead.

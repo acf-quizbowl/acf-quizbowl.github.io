@@ -106,26 +106,34 @@ code {
     }
 
     th, td {
-      padding: 3px 6px;
-      vertical-align: top;
+      padding: 6px 8px;
+      vertical-align: middle;
+    }
+
+    // https://stackoverflow.com/a/54513957
+    thead tr th {
+      background-color: white;
+      position: sticky;
+      z-index: 100;
+      top: 0;
     }
 
     tr th {
       border-top: 1px solid $color-title;
       border-bottom: 1px solid $color-title;
     }
-
-    &.table-striped tbody tr:nth-child(odd) {
+    tbody tr:nth-child(even) {
       background-color: #f2f2f2;
-    }
-    &.table-ruled   tbody tr td {
       border-bottom: 1px solid $color-border;
     }
-
+    &.table-multi tbody td {
+      background-color: white;
+      border-bottom: 1px solid $color-title;
+    }
     thead tr:first-child th {
       border-top: 2px solid $color-title;
     }
-    tbody tr:last-child td {
+    tbody tr:last-child {
       border-bottom: 2px solid $color-title;
     }
 
