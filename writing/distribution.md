@@ -2,6 +2,8 @@
 layout: page
 title: ACF Packet Distribution
 permalink: /writing/distribution/
+redirect_from:
+  - /distribution
 last_updated: April 4, 2021
 ---
 
