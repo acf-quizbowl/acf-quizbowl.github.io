@@ -6,6 +6,10 @@ nav_order: 1.2
 redirect_from:
   - /program
   - /programs
+  - /nationals-program
+  - /nationals-programs
+  - /nationals/program
+  - /nationals/programs
 last_updated: August 22, 2025
 ---
 

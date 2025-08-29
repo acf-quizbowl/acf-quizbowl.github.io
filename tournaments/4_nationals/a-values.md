@@ -2,6 +2,10 @@
 layout: page
 title: ACF Nationals A-values
 permalink: tournaments/nationals/a-values/
+redirect_from:
+  - /a-values
+  - /nationals-a-values
+  - /nationals/a-values
 last_updated: March 22, 2022
 ---
 

@@ -430,7 +430,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <td>Kevin Jiang</td>
 <td>
 <ul>
-<li></li>
+<li> </li>
 </ul>
 </td>
 <td>
@@ -1117,7 +1117,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Henry Atkins</td>
 <td>
 <ul>
-<li></li>
+<li> </li>
 </ul>
 </td>
 <td>
@@ -1131,7 +1131,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Emily Bussa</td>
 <td>
 <ul>
-<li></li>
+<li> </li>
 </ul>
 </td>
 <td>
@@ -1247,7 +1247,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Jason Golfinos</td>
 <td>
 <ul>
-<li></li>
+<li> </li>
 </ul>
 </td>
 <td>
@@ -1276,7 +1276,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>
 <ul>
 <li>Georgia State</li>
-<li></li>
+<li> </li>
 </ul>
 </td>
 <td>
@@ -1330,7 +1330,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Joel Miles</td>
 <td>
 <ul>
-<li></li>
+<li> </li>
 </ul>
 </td>
 <td>
@@ -1428,7 +1428,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <td>Eva Wang</td>
 <td>
 <ul>
-<li></li>
+<li> </li>
 </ul>
 </td>
 <td>
@@ -1475,7 +1475,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </td>
 <td>
 <ul>
-<li></li>
+<li> </li>
 </ul>
 </td>
 </tr>

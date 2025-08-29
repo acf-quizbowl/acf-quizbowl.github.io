@@ -3,7 +3,10 @@ layout: page
 title: Packet Submission Guidelines
 permalink: /guidelines/packet-sub/
 redirect_from:
+  - /packet-sub
+  - /packet-submission
   - /packet-submission-guidelines
+  - /packet-sub-guidelines
 last_updated: August 22, 2025
 ---
 
