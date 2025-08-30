@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>ACF Packet Distribution</title>
+  <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. &lt;a href='/tournaments'&gt;Our tournaments&lt;/a&gt; reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
+
+  
+  
+  <link rel="stylesheet" href="/assets/style.css">
+
+  <link rel="canonical" href="/writing/distribution/">
+  <link rel="alternate" type="application/rss+xml" title="Academic Competition Federation" href="http://localhost:4000%20/feed.xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&amp;display=swap" rel="stylesheet">
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145833236-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145833236-1');
+</script>
+
+<style>.markdown-alert{padding:.5rem 1rem;margin-bottom:1rem;color:inherit;border-left:.25em solid #30363d}.markdown-alert>:first-child{margin-top:0}.markdown-alert>:last-child{margin-bottom:0}.markdown-alert .markdown-alert-title{display:flex;font-weight:500;align-items:center;line-height:1}.markdown-alert svg{margin-right:.5rem!important}.markdown-alert svg path{fill:currentColor}.markdown-alert.markdown-alert-note{border-left-color:#4493f8}.markdown-alert.markdown-alert-note .markdown-alert-title{color:#4493f8}.markdown-alert.markdown-alert-important{border-left-color:#ab7df8}.markdown-alert.markdown-alert-important .markdown-alert-title{color:#ab7df8}.markdown-alert.markdown-alert-warning{border-left-color:#9e6a03}.markdown-alert.markdown-alert-warning .markdown-alert-title{color:#d29922}.markdown-alert.markdown-alert-tip{border-left-color:#238636}.markdown-alert.markdown-alert-tip .markdown-alert-title{color:#3fb950}.markdown-alert.markdown-alert-caution{border-left-color:#da3633}.markdown-alert.markdown-alert-caution .markdown-alert-title{color:#f85149}</style></head>
+
+
+  <body>
+
+    <div class="clearfix border-bottom-thick header-border py-1 mt-1 mt-lg-0">
+  <nav class="navbar navbar-expand-sm navbar-light bg-light">
+    <a class="navbar-brand" href="/" aria-label="Homepage">
+      <img src="/logo.png" alt="ACF logo" class="img-fluid ml-2" height="44" width="44">
+    </a>
+     
+    <a class="navbar-title" href="/" aria-label="Homepage" style="font-family:Merriweather">Academic Competition Federation</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownAbout" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About ACF
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownAbout">
+            <a class="dropdown-item" href="/about">About ACF</a>
+            <a class="dropdown-item" href="/members">Members</a>
+            <a class="dropdown-item" href="/constitution">Constitution</a>
+            <a class="dropdown-item" href="/carper">Carper Award</a>
+            <a class="dropdown-item" href="/blog">Blog</a>
+            <!-- <a class="dropdown-item" href="/donate">Donate</a> -->
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTournaments" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tournaments
+          </a>
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownTournaments">
+            <h6 class="dropdown-header"><a href="/tournaments/fall">ACF Fall</a></h6>
+              <a class="dropdown-item" href="/tournaments/fall/2025">2025 Announcement</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/tournaments/winter/">ACF Winter</a></h6>
+              <a class="dropdown-item" href="/tournaments/winter/2025">2025 Announcement</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/tournaments/regionals/">ACF Regionals</a></h6>
+              <a class="dropdown-item" href="/tournaments/regionals/2026">2026 Announcement</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/tournaments/nationals/">ACF Nationals</a></h6>
+              <a class="dropdown-item" href="/tournaments/nationals/2026">2026 Announcement</a>
+              <a class="dropdown-item" href="/tournaments/nationals/qualification">Qualification</a>
+              <a class="dropdown-item" href="/tournaments/nationals/program">Program</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownResources" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Resources
+          </a>
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownResources">
+            <h6 class="dropdown-header"><a href="/writing">Writing</a></h6>
+              <a class="dropdown-item" href="/writing/distribution">Packet Distribution</a>
+              <a class="dropdown-item" href="/writing/guides">Guides to Writing</a>
+            <h6 class="dropdown-header"><a href="/rules">Rules &amp; Policies</a></h6>
+              <a class="dropdown-item" href="/rules/eligibility">Eligibility Rules</a>
+              <a class="dropdown-item" href="/rules/gameplay">Gameplay Rules</a>
+              <a class="dropdown-item" href="/rules/misconduct">Misconduct Policies</a>
+              <a class="dropdown-item" href="/rules/policies">Miscellaneous Policies</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/guidelines">Guidelines</a></h6>
+              <a class="dropdown-item" href="/guidelines/hosting">Hosting</a>
+              <a class="dropdown-item" href="/guidelines/packet-sub">Packet Submission</a>
+              <a class="dropdown-item" href="/guidelines/formats">Tournament Formats</a>
+              <a class="dropdown-item" href="/guidelines/stats">Statkeeping</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/training">Training</a></h6>
+              <a class="dropdown-item" href="/training/moderating">Moderating</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="https://docs.google.com/spreadsheets/d/15wbthPYr4wgTVrsivOn7VFty8JsCc6zgM6z6lg268ow/edit?usp=sharing">Collegiate Contact List</a></h6>
+            
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+
+
+    <div>
+      <style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+
+    @media screen and (prefers-reduced-motion: reduce) {
+      scroll-behavior: auto;
+    }
+  }
+
+  .toc-article {
+    width: 700px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+
+    header,
+    .toc-article {
+      width: calc(100vw - 400px);
+      left: 350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display: none;
+    }
+
+    header,
+    .toc-article {
+      width: 80vw;
+      left: 10vw;
+      margin: auto;
+    }
+  }
+</style>
+
+<article class="container mx-auto px-2">
+  <header>
+    <h1 class="h0 py-1 mt-3">ACF Packet Distribution</h1>
+    
+    <p class="last-updated">Last updated: April 4, 2021</p>
+    
+  </header>
+  <div class="prose mb-4">
+    <p>This page lists full-packet distributions for each ACF tournament. Teams submitting full packets to ACF tournaments should follow the prescribed distribution for the tournament they are submitting a packet to.</p>
+
+<p>For tournaments with half-packet submissions, teams will only submit a half-packet of 12/12. Teams that request to submit a half-packet will be given a half-packet submission template containing a list of pre-assigned categories.</p>
+
+<div class="markdown-alert markdown-alert-note">
+<p class="markdown-alert-title"><svg class="octicon octicon-info" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg> Note</p>
+<p>The notation “X/Y” refers to X tossups and Y bonuses (per packet).</p>
+</div>
+
+<table id="top" class="table table-striped table-hover table-responsive table-condensed distribution">
+ <thead>
+  <tr>
+   <th>Category</th>
+   <th>Fall</th>
+   <th>Winter</th>
+   <th>Regionals</th>
+   <th>Nationals</th>
+  </tr>
+ </thead>
+<tbody>
+  <tr class="category">
+   <td>
+<a href="#literature-">Literature</a> (total*)</td>
+   <td>5/5</td>
+   <td>5/5</td>
+   <td>5/5</td>
+   <td>5/5</td>
+  </tr>
+  <tr class="subcategory">
+   <td>American Literature</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td>British Literature</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td>European Literature after 500 CE</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#world-literature-">World Literature</a></td>
+   <td>1/0 or 0/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#any-literature-">Any Literature</a></td>
+   <td>2/1 or 1/2</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="category">
+   <td>
+<a href="#history-">History</a> (total*)</td>
+   <td>5/5</td>
+   <td>5/5</td>
+   <td>5/5</td>
+   <td>5/5</td>
+  </tr>
+  <tr class="subcategory">
+   <td>American History</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#european-history-">European History</a></td>
+   <td>2/1 or 1/2</td>
+   <td>2/1 or 1/2</td>
+   <td>2/1 or 1/2</td>
+   <td>2/1 or 1/2</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#world-history-">World History</a></td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#any-history-">Any History</a></td>
+   <td>2/1 or 1/2</td>
+   <td>2/1 or 1/2</td>
+   <td>2/1 or 1/2</td>
+   <td>2/1 or 1/2</td>
+  </tr>
+  <tr class="category">
+   <td>
+<a href="#science-">Science</a> (total*)</td>
+   <td>5/5</td>
+   <td>5/5</td>
+   <td>5/5</td>
+   <td>5/5</td>
+  </tr>
+  <tr class="subcategory">
+   <td>Biology</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td>Chemistry</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td>Physics</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#math-computer-science-astronomy-earth-science-">Math, Computer Science, Astronomy, Earth Science</a></td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#any-science-">Any Science</a></td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="category">
+   <td>
+<a href="#fine-arts-">Fine Arts</a> (total)</td>
+   <td>3/3</td>
+   <td>3/3</td>
+   <td>3/3</td>
+   <td>3/3</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#painting-and-sculpture-">Painting and Sculpture</a></td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td>Classical Music</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#other-fine-arts-">Other Fine Arts</a></td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="category">
+   <td>
+<a href="#religion-and-mythology-">Religion and Mythology</a> (total)</td>
+   <td>2/2</td>
+   <td>2/2</td>
+   <td>2/2</td>
+   <td>2/1 or 1/2</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#religion-">Religion</a></td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>at least 1/0 or 0/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#mythology-">Mythology</a></td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>at least 1/0 or 0/1</td>
+  </tr>
+  <tr class="category">
+   <td>
+<a href="#social-science-and-philosophy-">Social Science and Philosophy</a> (total)</td>
+   <td>2/1 or 1/2</td>
+   <td>2/2</td>
+   <td>2/2</td>
+   <td>2/2</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#social-science-">Social Science</a></td>
+   <td>1/0, 0/1, or 1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#philosophy-">Philosophy</a></td>
+   <td>1/0, 0/1, or 1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+   <td>1/1</td>
+  </tr>
+  <tr class="category">
+   <td>
+<a href="#other-">Other</a> (total*)</td>
+   <td>3/2 or 2/3</td>
+   <td>2/2</td>
+   <td>2/2</td>
+   <td>3/2 or 2/3</td>
+  </tr>
+  <tr class="subcategory">
+   <td>Geography</td>
+   <td>1/0, 0/1, or 1/1</td>
+   <td>1/0 or 0/1</td>
+   <td>1/0 or 0/1</td>
+   <td>at least 1/0 or 0/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td>Current Events</td>
+   <td>1/0, 0/1, or 1/1</td>
+   <td>1/0 or 0/1</td>
+   <td>1/0 or 0/1</td>
+   <td>at least 1/0 or 0/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td><a href="#other-academic-">Other Academic</a></td>
+   <td>1/0, 0/1, or 1/1</td>
+   <td>1/0 or 0/1</td>
+   <td>1/0 or 0/1</td>
+   <td>at least 1/0 or 0/1</td>
+  </tr>
+  <tr class="subcategory">
+   <td>Popular Culture</td>
+   <td>1/0, 0/1, or 1/1</td>
+   <td>1/0 or 0/1</td>
+   <td>1/0 or 0/1</td>
+   <td>0/0</td>
+  </tr>
+  <tr class="category">
+   <td>Submitted packet</td>
+   <td>24/24*</td>
+   <td>24/24*</td>
+   <td>24/24*</td>
+   <td>24/24*</td>
+  </tr>
+  <tr class="category">
+   <td>Final packet</td>
+   <td>20/20</td>
+   <td>20/20</td>
+   <td>20/20</td>
+   <td>20/20</td>
+  </tr>
+</tbody>
+</table>
+
+<div class="markdown-alert markdown-alert-note">
+<p class="markdown-alert-title"><svg class="octicon octicon-info" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg> Note</p>
+<p>The submitted full-packet distribution adds up to 24/24 in total. To produce final packets of 20/20, the editors will remove 1/1 Literature, 1/1 History, 1/1 Science, and 1/1 Other.</p>
+</div>
+                <h2 id="category-guidelines">   Category Guidelines <a href="#category-guidelines" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h2>
+                    
+                <h3 id="literature">   Literature <a href="#literature" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+
+<p>Vary your literature questions across time periods, genre, (novels, poetry, drama, short stories, etc.), and type of answer (authors, individual works, characters, common links, etc.).</p>
+                <h4 id="world-literature">   World Literature <a href="#world-literature" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>This includes all geographic regions not listed above.</p>
+                <h4 id="any-literature">   Any Literature <a href="#any-literature" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>This includes ancient European literature, more of any of the geographic regions above, or questions that don’t neatly fit into a single geographic region.</p>
+                <h3 id="history">   History <a href="#history" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+
+<p>Vary your history questions across time periods and type of history (political, social, military, cultural, etc.). In particular, do not write more than 4 total questions on military history.</p>
+                <h4 id="european-history">   European History <a href="#european-history" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>One question should be on British/Irish/Canadian/Australian/New Zealand history, the other two should be on continental Europe.</p>
+                <h4 id="world-history">   World History <a href="#world-history" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>This includes all geographic regions not listed above. Do not write your two questions on history from the same region/continent.</p>
+                <h4 id="any-history">   Any History <a href="#any-history" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>This includes more of any of the areas of the world covered above, historiography, and questions that don’t neatly fit into a single area listed here.</p>
+                <h3 id="science">   Science <a href="#science" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+                <h4 id="math-computer-science-astronomy-earth-science">   Math, Computer Science, Astronomy, Earth Science <a href="#math-computer-science-astronomy-earth-science" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>Write questions on two different areas of study.</p>
+                <h4 id="any-science">   Any Science <a href="#any-science" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>This includes engineering and technology questions that don’t fit into any of the fields above, and questions that mix clues/concepts from multiple fields.</p>
+
+<p>You may also write additional questions from one of the “major” fields (biology/chemistry/physics), or you may write a question on a “minor” field (math/computer science/astronomy/earth science) that you didn’t already write on above.</p>
+                <h3 id="fine-arts">   Fine Arts <a href="#fine-arts" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+                <h4 id="painting-and-sculpture">   Painting and Sculpture <a href="#painting-and-sculpture" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>You may either write one painting and one sculpture question, or two painting questions.</p>
+                <h4 id="other-fine-arts">   Other Fine Arts <a href="#other-fine-arts" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>This includes opera, jazz, architecture, photography, film, dance, etc. Do not write more of the categories above.</p>
+
+<p>Write on one “visual” category (architecture, photography, film, etc.) and one “auditory” (opera, jazz, dance, etc.) category.</p>
+                <h3 id="religion-and-mythology">   Religion and Mythology <a href="#religion-and-mythology" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+
+<p>Write at least one and no more than two questions on non-Western topics.</p>
+                <h4 id="religion">   Religion <a href="#religion" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<div class="markdown-alert markdown-alert-warning">
+<p class="markdown-alert-title"><svg class="octicon octicon-alert" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg> Warning</p>
+<p>Do not write two questions on the same religion.</p>
+</div>
+                <h4 id="mythology">   Mythology <a href="#mythology" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<div class="markdown-alert markdown-alert-warning">
+<p class="markdown-alert-title"><svg class="octicon octicon-alert" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg> Warning</p>
+<p>Do not write two questions on the same mythological system.</p>
+</div>
+                <h3 id="social-science-and-philosophy">   Social Science and Philosophy <a href="#social-science-and-philosophy" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+                <h4 id="social-science">   Social Science <a href="#social-science" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>Topics for this category include:</p>
+
+<ul>
+  <li>Economics</li>
+  <li>Psychology</li>
+  <li>Sociology</li>
+  <li>Anthropology</li>
+  <li>Linguistics</li>
+  <li>Political science</li>
+  <li>Social criticism</li>
+  <li>Law (although questions on individual Supreme Court cases go in <a href="#history-">History</a>)</li>
+</ul>
+
+<div class="markdown-alert markdown-alert-important">
+<p class="markdown-alert-title"><svg class="octicon octicon-report" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg> Important</p>
+<p>Write questions on two different fields of study.</p>
+</div>
+                <h4 id="philosophy">   Philosophy <a href="#philosophy" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>Write questions on two different movements/time periods in philosophical history.</p>
+                <h3 id="other">   Other <a href="#other" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+
+<p><strong>For Fall, Winter, and Regionals:</strong> Write one question in each of Geography, Current Events, Other Academic, and Popular Culture.</p>
+
+<p><strong>For Nationals:</strong> Write at least one question in each of Geography, Current Events, and Other Academic.</p>
+                <h4 id="other-academic">   Other Academic <a href="#other-academic" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h4>
+                    
+
+<p>“Other Academic” comprises questions that don’t neatly fit into any of the above categories, such as:</p>
+
+<ul>
+  <li>Interdisciplinary common links</li>
+  <li>Miscellaneous thought</li>
+  <li>Science history</li>
+  <li>etc.</li>
+</ul>
+
+<p>You may also choose to write an additional question in any category here instead.</p>
+
+  </div>
+</article>
+
+<script>
+  $(document).ready(function () {
+    $('#full-member-table').DataTable();
+    $('#provisional-member-table').DataTable();
+    $('#emeritus-member-table').DataTable();
+  });
+  $(".menu").click(function () {
+    $(".toc").toggle("slow", function () {
+      // Animation complete.
+    });
+  });
+</script>
+
+
+    </div>
+  </body>
+
+</html>

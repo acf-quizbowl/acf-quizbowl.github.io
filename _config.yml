@@ -27,6 +27,9 @@ repository: acf-quizbowl/acf-quizbowl.github.io
 # Build settings
 markdown: kramdown
 
+include:
+  - _redirects
+
 plugins:
   - jekyll-remote-theme
   - jekyll-swiss

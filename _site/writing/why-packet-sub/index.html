@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Why Packet Submission?</title>
+  <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. &lt;a href='/tournaments'&gt;Our tournaments&lt;/a&gt; reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
+
+  
+  
+  <link rel="stylesheet" href="/assets/style.css">
+
+  <link rel="canonical" href="/writing/why-packet-sub/">
+  <link rel="alternate" type="application/rss+xml" title="Academic Competition Federation" href="http://localhost:4000%20/feed.xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&amp;display=swap" rel="stylesheet">
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145833236-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145833236-1');
+</script>
+
+<style>.markdown-alert{padding:.5rem 1rem;margin-bottom:1rem;color:inherit;border-left:.25em solid #30363d}.markdown-alert>:first-child{margin-top:0}.markdown-alert>:last-child{margin-bottom:0}.markdown-alert .markdown-alert-title{display:flex;font-weight:500;align-items:center;line-height:1}.markdown-alert svg{margin-right:.5rem!important}.markdown-alert svg path{fill:currentColor}.markdown-alert.markdown-alert-note{border-left-color:#4493f8}.markdown-alert.markdown-alert-note .markdown-alert-title{color:#4493f8}.markdown-alert.markdown-alert-important{border-left-color:#ab7df8}.markdown-alert.markdown-alert-important .markdown-alert-title{color:#ab7df8}.markdown-alert.markdown-alert-warning{border-left-color:#9e6a03}.markdown-alert.markdown-alert-warning .markdown-alert-title{color:#d29922}.markdown-alert.markdown-alert-tip{border-left-color:#238636}.markdown-alert.markdown-alert-tip .markdown-alert-title{color:#3fb950}.markdown-alert.markdown-alert-caution{border-left-color:#da3633}.markdown-alert.markdown-alert-caution .markdown-alert-title{color:#f85149}</style></head>
+
+
+  <body>
+
+    <div class="clearfix border-bottom-thick header-border py-1 mt-1 mt-lg-0">
+  <nav class="navbar navbar-expand-sm navbar-light bg-light">
+    <a class="navbar-brand" href="/" aria-label="Homepage">
+      <img src="/logo.png" alt="ACF logo" class="img-fluid ml-2" height="44" width="44">
+    </a>
+     
+    <a class="navbar-title" href="/" aria-label="Homepage" style="font-family:Merriweather">Academic Competition Federation</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownAbout" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About ACF
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownAbout">
+            <a class="dropdown-item" href="/about">About ACF</a>
+            <a class="dropdown-item" href="/members">Members</a>
+            <a class="dropdown-item" href="/constitution">Constitution</a>
+            <a class="dropdown-item" href="/carper">Carper Award</a>
+            <a class="dropdown-item" href="/blog">Blog</a>
+            <!-- <a class="dropdown-item" href="/donate">Donate</a> -->
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTournaments" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tournaments
+          </a>
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownTournaments">
+            <h6 class="dropdown-header"><a href="/tournaments/fall">ACF Fall</a></h6>
+              <a class="dropdown-item" href="/tournaments/fall/2025">2025 Announcement</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/tournaments/winter/">ACF Winter</a></h6>
+              <a class="dropdown-item" href="/tournaments/winter/2025">2025 Announcement</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/tournaments/regionals/">ACF Regionals</a></h6>
+              <a class="dropdown-item" href="/tournaments/regionals/2026">2026 Announcement</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/tournaments/nationals/">ACF Nationals</a></h6>
+              <a class="dropdown-item" href="/tournaments/nationals/2026">2026 Announcement</a>
+              <a class="dropdown-item" href="/tournaments/nationals/qualification">Qualification</a>
+              <a class="dropdown-item" href="/tournaments/nationals/program">Program</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownResources" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Resources
+          </a>
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownResources">
+            <h6 class="dropdown-header"><a href="/writing">Writing</a></h6>
+              <a class="dropdown-item" href="/writing/distribution">Packet Distribution</a>
+              <a class="dropdown-item" href="/writing/guides">Guides to Writing</a>
+            <h6 class="dropdown-header"><a href="/rules">Rules &amp; Policies</a></h6>
+              <a class="dropdown-item" href="/rules/eligibility">Eligibility Rules</a>
+              <a class="dropdown-item" href="/rules/gameplay">Gameplay Rules</a>
+              <a class="dropdown-item" href="/rules/misconduct">Misconduct Policies</a>
+              <a class="dropdown-item" href="/rules/policies">Miscellaneous Policies</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/guidelines">Guidelines</a></h6>
+              <a class="dropdown-item" href="/guidelines/hosting">Hosting</a>
+              <a class="dropdown-item" href="/guidelines/packet-sub">Packet Submission</a>
+              <a class="dropdown-item" href="/guidelines/formats">Tournament Formats</a>
+              <a class="dropdown-item" href="/guidelines/stats">Statkeeping</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="/training">Training</a></h6>
+              <a class="dropdown-item" href="/training/moderating">Moderating</a>
+            <div class="dropdown-divider"></div>
+            <h6 class="dropdown-header"><a href="https://docs.google.com/spreadsheets/d/15wbthPYr4wgTVrsivOn7VFty8JsCc6zgM6z6lg268ow/edit?usp=sharing">Collegiate Contact List</a></h6>
+            
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+
+
+    <div>
+      <style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+
+    @media screen and (prefers-reduced-motion: reduce) {
+      scroll-behavior: auto;
+    }
+  }
+
+  .toc-article {
+    width: 700px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+
+    header,
+    .toc-article {
+      width: calc(100vw - 400px);
+      left: 350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display: none;
+    }
+
+    header,
+    .toc-article {
+      width: 80vw;
+      left: 10vw;
+      margin: auto;
+    }
+  }
+</style>
+
+<article class="container mx-auto px-2">
+  <header>
+    <h1 class="h0 py-1 mt-3">Why Packet Submission?</h1>
+    
+  </header>
+  <div class="prose mb-4">
+    <p><strong>By Matt Jackson</strong></p>
+
+<p>All four tournaments that ACF puts together each year are <strong><em>packet-submission</em></strong> tournaments. This means that, by and large, each team contributes a well-distributed packet (or half-packet) of questions that the editors can use to put together a set for nationwide use. This guide explains what the ACF packet-submission model is, where it came from, and why we use it.</p>
+
+<p>There is an exception made for teams made up of new players. Broadly speaking, if all players on a team are in their first or second year of playing college quizbowl, submitting a packet is optional; but if any member of a team is in their third year of college quizbowl or further, submitting a packet is required. For the full explanation, see the <a href="/guidelines/packet-sub">Packet Submission Guidelines</a>.</p>
+
+<p>As of 2019, ACF Fall, Winter, and Regionals allow <em>half-packet</em> submission; ACF Nationals requires a full packet submission.</p>
+
+<div class="markdown-alert markdown-alert-note">
+<p class="markdown-alert-title"><svg class="octicon octicon-info" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg> Note</p>
+<p>This essay was originally written at a time when ACF ran three packet-submission-required tournaments, Fall, Regionals, and Nationals.</p>
+</div>
+                <h2 id="history">   History <a href="#history" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h2>
+                    
+
+<p>A standard college quizbowl tournament is an all-day event. Teams might play ten, twelve, or fourteen games from morning to early evening. And each of those games makes use of a packet of dozens of questions on a variety of subjects. Assembling a question set for use at quizbowl tournaments is no easy task, and making sure that the subjects asked about conform to what teams know about and are excited to answer questions on isn’t any easier. From the earliest days of quizbowl, the issue of how to have enough fresh questions to play on at each new tournament has been a pressing one. At a time when there were few renowned editors and no unified standards for set production, tournament quality varied wildly.</p>
+
+<p>In the late 1980s and early 1990s, the era in which ACF emerged, some of the early architects of college quizbowl devised a solution. For any given tournament, each attending team would write its own packet of questions and send them into the editor for central editing. (This was typically done by email even then, though in the very early days some teams sent typed-up questions through the post!) In short order, then, the editor of an invitational tournament could have 11 packets ready for use if 11 teams were attending. And upon arriving at the tournament, that meant each team could play every other team in a round-robin or similar schedule, getting a “bye round” while its own packet was read. Sometimes arrangements were a little more complicated – two schools in different geographic areas might ask each team attending their own event to submit a packet, and then do a “packet swap” across locations – but the basics remained pretty similar.</p>
+
+<p>At that time, editing was often a lot less intensive than it is today, if it existed at all. Standards of good quizbowl writing, such as pyramidality, were a thing of the future, and deprecated question types such as speed check tossups and spelling questions were still around. Different teams might write packets of wildly different difficulty, making rounds at the same event quite uneven. Repeats of answers or clues between packets were often numerous and flagrant. From its early days onward, ACF put a major emphasis on central editing and on ensuring consistent question quality and difficulty across all packets submitted to its events. In order to help reduce the risk of repeats, and to allow the editors more selection in shaping the final set, it became standard to ask teams to submit a somewhat larger packet than the final rounds of the tournament required (as of now, it’s 24 tossups and 24 bonuses, somewhat larger than the ACF standard 20/20 distribution). Ad-hoc “packet swap” or “mirror” arrangements were phased out in favor of the option to combine several teams’ submitted packets (typically 2 to 3) into a single finalized packet for play across all sites in all regions. And as the ACF tournament network took off and became a centralized institution in the college quizbowl landscape, our members committed to helping “house-written” tournaments reach the same standards.</p>
+                <h2 id="why-does-acf-use-packet-submission">   Why does ACF use packet submission? <a href="#why-does-acf-use-packet-submission" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h2>
+                    
+
+<p>As time goes on, the use of packet submission across the collegiate circuit is on the decline. While it was once the case a few years ago that the majority of college tournaments were held on a packet-submission model, it is now more common for a single school or unified writing team to put together an entire set without any input from playing teams at all. Nonetheless, ACF stands by its packet-submission tradition for several reasons, foremost among them the reasons listed here.</p>
+                <h3 id="it-encourages-learning">   It encourages learning <a href="#it-encourages-learning" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+
+<p>At its heart, quizbowl is a game about learning. And writing for a packet can be quite an educational activity. The packet submission expectation helps teams accustom themselves to the idea that quizbowl is as much about finding out new facts as it is about showing off the facts one knows already, and that being intellectually curious is the path to success. Assuming for a second that a team of four players attends all of ACF Fall, ACF Regionals, and ACF Nationals each year, and that the team splits its packet-writing obligations evenly, each player has a chance to master 36 topics (6 tossups and 6 bonuses times three packets) as they write, which improves their skill at quizbowl and gives them information they can take with them in the rest of their academic lives.</p>
+
+<p>What’s more, some savvy teams have taken the packet-submission requirement into account for strategic reasons – e.g. writing on topics that their team is <em>weak</em> at, in the hopes that their submission would preclude more questions on that same topic area elsewhere in the tournament. Of course, researching and writing on one’s weaknesses often enough can turn those weaknesses into strengths down the line!</p>
+                <h3 id="it-allows-regular-players-to-influence-the-future-direction-of-the-game">   It allows regular players to influence the future direction of the game <a href="#it-allows-regular-players-to-influence-the-future-direction-of-the-game" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+
+<p>Packet submission allows players from across the country to introduce fresh topics, ideas, clues, and approaches into the mix of topics that come up at quizbowl tournaments. This prevents the “canon” of frequent topics asked by the college game from getting stale with time, and allows for overlooked information to get its due. If there’s an underrepresented topic out there, submitting it in a packet to Fall, Regionals, or Nationals as appropriate can bring it into the world of quizbowl for others to learn about, benefit from, and perhaps begin writing questions on themselves. (Again, this requirement can be used strategically to write on a topic one wants to see come up more often, in the hopes that other teams will learn it and find it important enough to write on in <em>their</em> packets.)</p>
+
+<p>What’s more, it helps the community discover that segment of players who genuinely feel the joy of writing; for such players, submitting packets to tournaments can be the impetus they need to sign up for an independent writing job, or apply to edit for ACF Fall.</p>
+                <h3 id="it-helps-our-editors-produce-the-best-sets-possible">   It helps our editors produce the best sets possible <a href="#it-helps-our-editors-produce-the-best-sets-possible" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+
+<p>Even the most accomplished and prolific editors develop writer’s block, or get stuck on a stale set of ideas from time to time; such is the nature of any creative enterprise. Receiving an infusion of question ideas, clues, and answers from teams across the country helps editors make sure they aren’t overlooking any major subdistributional areas, and can increase the likelihood that a tournament is well-balanced rather than lopsided towards the editors’ own interests.</p>
+                <h3 id="it-helps-preserves-acfs-unique-role-as-an-organization-of-by-and-for-the-players-of-college-quizbowl">   It helps preserves ACF’s unique role as an organization of, by, and for the players of college quizbowl <a href="#it-helps-preserves-acfs-unique-role-as-an-organization-of-by-and-for-the-players-of-college-quizbowl" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h3>
+                    
+
+<p>Unlike many other extracurricular competition organizations, ACF is composed of the very players and community members it aims to serve. Much like college teams, ACF members arise and depart as the years go by; the organization couldn’t survive if there weren’t a thriving community of people surrounding it, and college quizbowl would have trouble surviving if its players didn’t have some skin in the game. More positively, a world where every team writes questions several times a year helps bridge the gap between editors and regular players, and helps demonstrate that writing and editing are something any team can do if they see fit, rather than activities reserved for a distant company or top tier of talented players. The difference between an ACF editor and a player at an ACF tournament is a difference of degree, not a difference of kind – we are all members of the same community, and the use of team-submitted packets preserves the spirit of players writing for and sharing their knowledge with each other that ACF uniquely embodies.</p>
+                <h2 id="we-spent-a-bunch-of-time-working-on-our-packet-and-it-didnt-get-used--barely-got-used-what-can-we-do-to-prevent-that-in-the-future">   We spent a bunch of time working on our packet and it didn’t get used / barely got used. What can we do to prevent that in the future? <a href="#we-spent-a-bunch-of-time-working-on-our-packet-and-it-didnt-get-used--barely-got-used-what-can-we-do-to-prevent-that-in-the-future" title="Link to header">¶</a>    <a href="#top" title="Scroll to top">↑</a>
+</h2>
+                    
+
+<p>In recent years, as ACF tournament fields have grown massively across the country, and Fall and Regionals receive dozens of packet submissions for use in constructing only 16 to 18 finalized packets for play, it has become more likely that any particular submitted packet will need to be combined with other submissions or cut outright (i.e. left largely or wholly unused). Ultimately there are no guarantees – from tournament to tournament, category to category, and packet to packet, different editors might be looking for different things – but here are some suggestions which will in aggregate make it more likely that your work will see use in an ACF tournament:</p>
+
+<p><strong>Submit your packet as early as possible.</strong> More than just about any other factor, submitting your team’s packet early is the best way to increase its chance of being used. It is often the case that the editors can make use of a merely-decent packet submitted at the first deadline, when relatively few packets have come in; it is much less possible to try and fix up a merely-decent packet at the last deadline or beyond, when many finalized packets are done already and time is tight. Additionally, you are likely to net your team a significant discount off entry fees, and the editors will be happy with you for pitching in early, so really everybody wins! (Make sure you get enough of a head start that you aren’t sacrificing question quality, though.)</p>
+
+<p><em>This introduction to the ACF packet submission model was written by an ACF member who would like to remain anonymous.</em></p>
+
+  </div>
+</article>
+
+<script>
+  $(document).ready(function () {
+    $('#full-member-table').DataTable();
+    $('#provisional-member-table').DataTable();
+    $('#emeritus-member-table').DataTable();
+  });
+  $(".menu").click(function () {
+    $(".toc").toggle("slow", function () {
+      // Animation complete.
+    });
+  });
+</script>
+
+
+    </div>
+  </body>
+
+</html>
