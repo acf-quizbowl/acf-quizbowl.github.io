@@ -26,7 +26,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
  </thead>
 <tbody>
   <tr class="category">
-   <td><a href="#literature-">Literature</a> (total*)</td>
+   <td><a href="#literature">Literature</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -54,21 +54,21 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>1/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#world-literature-">World Literature</a></td>
+   <td><a href="#world-literature">World Literature</a></td>
    <td>1/0 or 0/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#any-literature-">Any Literature</a></td>
+   <td><a href="#any-literature">Any Literature</a></td>
    <td>2/1 or 1/2</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#history-">History</a> (total*)</td>
+   <td><a href="#history">History</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -82,28 +82,28 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>1/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#european-history-">European History</a></td>
+   <td><a href="#european-history">European History</a></td>
    <td>2/1 or 1/2</td>
    <td>2/1 or 1/2</td>
    <td>2/1 or 1/2</td>
    <td>2/1 or 1/2</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#world-history-">World History</a></td>
+   <td><a href="#world-history">World History</a></td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#any-history-">Any History</a></td>
+   <td><a href="#any-history">Any History</a></td>
    <td>2/1 or 1/2</td>
    <td>2/1 or 1/2</td>
    <td>2/1 or 1/2</td>
    <td>2/1 or 1/2</td>
   </tr>
   <tr class="category">
-   <td><a href="#science-">Science</a> (total*)</td>
+   <td><a href="#science">Science</a> (total*)</td>
    <td>5/5</td>
    <td>5/5</td>
    <td>5/5</td>
@@ -131,28 +131,28 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>1/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#math-computer-science-astronomy-earth-science-">Math, Computer Science, Astronomy, Earth Science</a></td>
+   <td><a href="#math-computer-science-astronomy-earth-science">Math, Computer Science, Astronomy, Earth Science</a></td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#any-science-">Any Science</a></td>
+   <td><a href="#any-science">Any Science</a></td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#fine-arts-">Fine Arts</a> (total)</td>
+   <td><a href="#fine-arts">Fine Arts</a> (total)</td>
    <td>3/3</td>
    <td>3/3</td>
    <td>3/3</td>
    <td>3/3</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#painting-and-sculpture-">Painting and Sculpture</a></td>
+   <td><a href="#painting-and-sculpture">Painting and Sculpture</a></td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
@@ -166,56 +166,56 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>1/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#other-fine-arts-">Other Fine Arts</a></td>
+   <td><a href="#other-fine-arts">Other Fine Arts</a></td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#religion-and-mythology-">Religion and Mythology</a> (total)</td>
+   <td><a href="#religion-and-mythology">Religion and Mythology</a> (total)</td>
    <td>2/2</td>
    <td>2/2</td>
    <td>2/2</td>
    <td>2/1 or 1/2</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#religion-">Religion</a></td>
+   <td><a href="#religion">Religion</a></td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>at least 1/0 or 0/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#mythology-">Mythology</a></td>
+   <td><a href="#mythology">Mythology</a></td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>at least 1/0 or 0/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#social-science-and-philosophy-">Social Science and Philosophy</a> (total)</td>
+   <td><a href="#social-science-and-philosophy">Social Science and Philosophy</a> (total)</td>
    <td>2/1 or 1/2</td>
    <td>2/2</td>
    <td>2/2</td>
    <td>2/2</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#social-science-">Social Science</a></td>
+   <td><a href="#social-science">Social Science</a></td>
    <td>1/0, 0/1, or 1/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#philosophy-">Philosophy</a></td>
+   <td><a href="#philosophy">Philosophy</a></td>
    <td>1/0, 0/1, or 1/1</td>
    <td>1/1</td>
    <td>1/1</td>
    <td>1/1</td>
   </tr>
   <tr class="category">
-   <td><a href="#other-">Other</a> (total*)</td>
+   <td><a href="#other">Other</a> (total*)</td>
    <td>3/2 or 2/3</td>
    <td>2/2</td>
    <td>2/2</td>
@@ -236,7 +236,7 @@ For tournaments with half-packet submissions, teams will only submit a half-pack
    <td>at least 1/0 or 0/1</td>
   </tr>
   <tr class="subcategory">
-   <td><a href="#other-academic-">Other Academic</a></td>
+   <td><a href="#other-academic">Other Academic</a></td>
    <td>1/0, 0/1, or 1/1</td>
    <td>1/0 or 0/1</td>
    <td>1/0 or 0/1</td>
